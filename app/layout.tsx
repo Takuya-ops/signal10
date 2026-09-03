@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://signal-10.minty-trail-0785.chatgpt.site';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
