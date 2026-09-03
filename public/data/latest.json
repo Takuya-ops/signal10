@@ -1,0 +1,290 @@
+{
+  "edition": "2026-09-03T06:30:00+09:00",
+  "generatedAt": "2026-09-03T19:15:00+09:00",
+  "periodStart": "2026-09-01T00:00:00+09:00",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 43,
+  "freshSources": 41,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 11,
+  "candidateCount": 1086,
+  "editorialNote": "公式発表を軸に43ソースを横断し、社会・開発・事業への影響、新しさ、裏付けの強さから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "stories": [
+    {
+      "id": "google-gemini-3-8-flash-cyber",
+      "rank": 1,
+      "title": "Google、Gemini 3.8 Flashと防御特化のFlash Cyberを発表",
+      "originalTitle": "Introducing Gemini 3.8 Flash and Gemini 3.8 Flash Cyber",
+      "summary": "Googleは、高速モデルGemini 3.8 Flashの推論・コーディング・長時間エージェント性能を強化し、サイバー防御向けのFlash Cyberも公開しました。",
+      "points": [
+        "Gemini 3.8 FlashはGoogle AI StudioとGemini APIで利用でき、長いツール実行やコーディング作業を重点的に改善しました。",
+        "Flash Cyberは、防御担当者向けに脆弱性調査やインシデント対応などを支援する専用モデルです。",
+        "GoogleはHumanity's Last Examで54.9%などの評価値を公表していますが、いずれも提供元による評価です。"
+      ],
+      "whyItMatters": "低遅延モデルの能力向上は、AIエージェントを日常業務へ常時組み込む際の速度と費用を変えます。同時に、サイバー領域で汎用モデルから用途別モデルへの分化が進んだ重要な更新です。",
+      "source": "Google",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-09-02T09:00:00-07:00",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "impactScore": 98,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-claude-fable-mythos-5-1",
+      "rank": 2,
+      "title": "Anthropic、Claude Fable 5.1と高リスク研究向けMythos 5.1を公開",
+      "originalTitle": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "summary": "Anthropicは同じ基盤モデルを、一般提供するFable 5.1と、サイバー・生物分野の審査済み利用者向けMythos 5.1という異なる安全策で提供します。",
+      "points": [
+        "Fable 5.1はコーディングや知識作業向けに一般提供され、既存ワークロードの費用削減をうたっています。",
+        "Mythos 5.1は同じ中核モデルを使いながら、高リスク研究向けに本人確認・利用審査・追加監視を組み合わせます。",
+        "Anthropicは典型的な処理で約25%、エージェント処理で約45%の費用削減などを公表していますが、提供元評価です。"
+      ],
+      "whyItMatters": "単純に能力でモデルを分けるのではなく、同じ能力へ異なる利用資格と安全策を適用する提供方式です。高性能AIへのアクセス管理をどう設計するかという業界全体の先例になります。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "impactScore": 96,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/01/anthropic-releases-new-models-cost-structures-and-safeguards"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+        }
+      ]
+    },
+    {
+      "id": "openai-astra-critical-cyber",
+      "rank": 3,
+      "title": "OpenAI、最高度のサイバー能力を持つAstraの限定提供計画を発表",
+      "originalTitle": "Our path to safely deploying Astra",
+      "summary": "OpenAIは、同社で初めてサイバー能力を「Critical」と分類したAstraを発表し、高度な機能を審査制の限定プログラムで提供する方針を示しました。",
+      "points": [
+        "Astraは未公開の脆弱性発見や複雑な攻撃経路の構築まで可能だとOpenAIは説明しています。",
+        "一般提供より先に、審査済み防御組織向けの限定アルファとDaybreak Blueプログラムで展開します。",
+        "監視、利用制限、異常時の自動停止などを組み合わせ、能力に応じて段階的に提供する計画です。"
+      ],
+      "whyItMatters": "生成AIのサイバー能力が、新しい安全区分と専用配布方式を必要とする水準に達したという発表です。防御利用の価値と悪用リスクを同時に扱う運用基準へ影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://openai.com/index/path-to-astra/",
+      "impactScore": 95,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/01/openai-astras-cyber-critical"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/openais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+        }
+      ]
+    },
+    {
+      "id": "meta-muse-spark-1-3",
+      "rank": 4,
+      "title": "Meta、長時間の開発作業に向けたMuse Spark 1.3を公開",
+      "originalTitle": "Introducing Muse Spark 1.3",
+      "summary": "Metaは、並列ツール実行、曖昧な依頼の処理、取り消しにくい操作の判断を改善したコーディングエージェント向けモデルMuse Spark 1.3を発表しました。",
+      "points": [
+        "長時間のコーディングや複数タスクの並列処理を主な対象にしています。",
+        "Muse CodeとAPIへ順次展開し、最大推論モードは後日提供するとしています。",
+        "Metaはツール呼び出し時のトークンを20%、全体を25%削減したとしていますが、提供元評価です。"
+      ],
+      "whyItMatters": "競争軸がチャットの回答品質から、ツールを安全に使いながら長く仕事を完遂する能力へ移っています。開発チームが常用するエージェントの速度と費用に直結する更新です。",
+      "source": "Meta AI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-09-02T09:00:00-07:00",
+      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+      "impactScore": 91,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues"
+        }
+      ]
+    },
+    {
+      "id": "doj-openai-nyt-fair-use",
+      "rank": 5,
+      "title": "米司法省、NYT対OpenAI訴訟でAI学習の公正利用論を支持",
+      "originalTitle": "Justice Department backs OpenAI's fair use argument in New York Times copyright case",
+      "summary": "米司法省はNew York Timesなどによる著作権訴訟で、公開記事をAI学習に使う行為は公正利用になり得るとするOpenAI側の主張を支持する意見書を提出しました。",
+      "points": [
+        "司法省は裁判所に提出した意見書で、モデル学習の変容的な性質を重視する見解を示しました。",
+        "意見書は裁判所を拘束する判決ではなく、訴訟の最終判断はまだ出ていません。",
+        "出版社側は無断利用が市場を害すると主張しており、学習データの対価を巡る争点は継続します。"
+      ],
+      "whyItMatters": "米国での学習データ利用ルールは、モデル開発費、ライセンス交渉、メディア企業の事業モデルを左右します。政府見解が加わったことで、今後の判例形成への影響が注目されます。",
+      "source": "Associated Press",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-09-02T12:00:00-04:00",
+      "url": "https://apnews.com/article/dbb22e8e02c660ee5a8644915dec39a4",
+      "impactScore": 89,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": []
+    },
+    {
+      "id": "openai-chatgpt-health-epic",
+      "rank": 6,
+      "title": "ChatGPT for Healthcare、Epicの診療記録と公的医療情報に接続",
+      "originalTitle": "ChatGPT connects to health records and healthcare sources",
+      "summary": "OpenAIは医療機関向けChatGPTをEpicの電子診療記録やPubMed、ClinicalTrials.govなど九つの公的データ源へ接続できるようにしました。",
+      "points": [
+        "権限のある臨床担当者が、患者情報を会話へ安全に取り込み、要約や情報探索に使える設計です。",
+        "PubMed、DailyMed、ClinicalTrials.gov、CMSなどの公開情報源も横断できます。",
+        "OpenAIは臨床安全性評価で99.1%と公表していますが、規制当局による承認を意味するものではありません。"
+      ],
+      "whyItMatters": "生成AIが単独のチャットから、業務システムと根拠データをつなぐ実務基盤へ進んでいます。医療では利便性だけでなく、権限管理、出典確認、臨床責任の設計が特に重要です。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+      "impactScore": 86,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+        }
+      ]
+    },
+    {
+      "id": "nyc-school-generative-ai-moratorium",
+      "rank": 7,
+      "title": "ニューヨーク市、幼児教育から中学まで生成AI導入を1年間凍結",
+      "originalTitle": "Mayor Mamdani and Chancellor Samuels put students first with new AI policy",
+      "summary": "ニューヨーク市は2026〜27年度、2-Kから8年生までの教室で新たな生成AIツール導入を原則停止し、高校ではAIリテラシー教育と限定実証を進めます。",
+      "points": [
+        "対象は約60万人の低学年・中学生で、学校による新規生成AI導入を1学年間停止します。",
+        "高校ではAIリテラシー科目を設け、管理された範囲での試行を認めます。",
+        "全年齢で会話型コンパニオンAIを禁止し、子どもの安全と学習効果の検証を優先します。"
+      ],
+      "whyItMatters": "教育現場では導入の速さより、年齢に応じた安全性と学習効果の証拠を求める動きが強まっています。大規模学区の判断は、他地域の調達や学校向け製品設計にも影響します。",
+      "source": "City of New York",
+      "sourceType": "official",
+      "category": "政策・社会",
+      "publishedAt": "2026-09-02T10:00:00-04:00",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "impactScore": 84,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/647f6a968eea0399521b7934418b1aff"
+        }
+      ]
+    },
+    {
+      "id": "world-labs-atlas",
+      "rank": 8,
+      "title": "World Labs、映像から操作可能な3D世界を作るAtlasを発表",
+      "originalTitle": "Introducing Atlas",
+      "summary": "World Labsは、テキスト・画像・動画・3D入力から移動可能な三次元空間を生成するワールドモデルAtlasを発表し、早期アクセスを開始しました。",
+      "points": [
+        "実写映像から新しい視点の動画、点群、Gaussian Splatなどを生成できます。",
+        "ロボットや自動運転向けに、現実の空間をシミュレーションへ移す用途を想定しています。",
+        "最大1分・1440pの生成を掲げていますが、現時点では早期アクセスで提供範囲は限定的です。"
+      ],
+      "whyItMatters": "生成AIの対象が文章や画像から、移動・試行できる空間モデルへ広がっています。映像制作だけでなく、ロボット学習、シミュレーション、ゲーム開発のデータ作成を変える可能性があります。",
+      "source": "World Labs",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001068/"
+        }
+      ]
+    },
+    {
+      "id": "alibaba-qwen3-8-max-0902",
+      "rank": 9,
+      "title": "Alibaba、100万トークン対応のQwen3.8-Max-0902を公開",
+      "originalTitle": "Qwen3.8-Max-0902",
+      "summary": "AlibabaはQwen3.8-Maxの新スナップショットを公開し、長時間の自律開発、複数ツール、文書・表・画像をまたぐ作業を強化しました。",
+      "points": [
+        "最大100万トークンのコンテキストを掲げ、長いコードベースや大量文書の処理を対象にしています。",
+        "開発支援に加え、文書、図表、画像を扱うCowork型の作業も強化しました。",
+        "QwenのサービスとAPIから利用でき、モデル提供の選択肢を広げます。"
+      ],
+      "whyItMatters": "非常に長い入力と複数ツールを一体で扱うモデルは、検索で情報を小分けにする従来の設計を変えます。中国発モデルの企業利用と国際的な価格競争にも影響する更新です。",
+      "source": "Qwen",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-09-02T08:00:00+08:00",
+      "url": "https://www.qwencloud.com/models/qwen3.8-max-0902",
+      "impactScore": 79,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TechNode",
+          "url": "https://technode.com/2026/09/02/alibaba-upgrades-qwen38-max-with-new-0902-snapshot/"
+        }
+      ]
+    },
+    {
+      "id": "crowdstrike-nvidia-safemind",
+      "rank": 10,
+      "title": "CrowdStrikeとNVIDIA、サイバー防御AI「SafeMind」を発表",
+      "originalTitle": "CrowdStrike launches frontier models for cybersecurity with NVIDIA",
+      "summary": "CrowdStrikeはNVIDIA Nemotronを基盤に、攻撃側と防御側のモデルが閉ループで学習するサイバーセキュリティ向けモデル群SafeMindを発表しました。",
+      "points": [
+        "攻撃シミュレーションのRed Tempestと、防御・修復を担うBlue Solanoを組み合わせます。",
+        "Falconプラットフォームへの統合と、審査済み利用者向けアクセスを計画しています。",
+        "検知率29%向上、修復6倍高速化、費用99%削減をうたいますが、いずれも提供元評価です。"
+      ],
+      "whyItMatters": "攻撃と防御を同時に学習させる専用モデルは、脅威の変化に対する更新速度を上げる可能性があります。一方でベンダー評価の再現性とアクセス管理を見極める必要があります。",
+      "source": "CrowdStrike",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-launches-frontier-models-for-cybersecurity-with-nvidia/",
+      "impactScore": 76,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/"
+        }
+      ]
+    }
+  ]
+}
