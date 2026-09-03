@@ -46,6 +46,12 @@ npm run dev
 npm run check
 ```
 
+## iOSアプリ
+
+`ios/Signal10.xcodeproj` に、iOS 17以降向けのネイティブSwiftUIアプリを同梱しています。WebViewではなく、最新Top 10の取得、端末内キャッシュ、カテゴリ絞り込み、記事詳細、共有、毎朝6:35 JSTの通知をiPhone向けUIで実装しています。
+
+Xcodeでの起動・実機署名・テスト方法は [`ios/README.md`](ios/README.md) を参照してください。
+
 ニュースを手動更新する場合:
 
 ```bash
