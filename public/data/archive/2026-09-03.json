@@ -1,7 +1,7 @@
 {
   "edition": "2026-09-03T06:30:00+09:00",
-  "generatedAt": "2026-09-03T11:13:52.532Z",
-  "periodStart": "2026-08-31T23:13:52.532Z",
+  "generatedAt": "2026-09-03T19:15:00+09:00",
+  "periodStart": "2026-09-01T00:00:00+09:00",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 43,
@@ -9,619 +9,281 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 11,
-  "candidateCount": 1111,
-  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "candidateCount": 1086,
+  "editorialNote": "公式発表を軸に43ソースを横断し、社会・開発・事業への影響、新しさ、裏付けの強さから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
-  "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "anthropic-sitemap-https-anthropic-com-claude-fable-and-mythos-5-1",
+      "id": "google-gemini-3-8-flash-cyber",
       "rank": 1,
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "originalTitle": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "summary": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+      "title": "Google、Gemini 3.8 Flashと防御特化のFlash Cyberを発表",
+      "originalTitle": "Introducing Gemini 3.8 Flash and Gemini 3.8 Flash Cyber",
+      "summary": "Googleは、高速モデルGemini 3.8 Flashの推論・コーディング・長時間エージェント性能を強化し、サイバー防御向けのFlash Cyberも公開しました。",
       "points": [
-        "Our most advanced models for coding and knowledge work.",
-        "Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "Gemini 3.8 FlashはGoogle AI StudioとGemini APIで利用でき、長いツール実行やコーディング作業を重点的に改善しました。",
+        "Flash Cyberは、防御担当者向けに脆弱性調査やインシデント対応などを支援する専用モデルです。",
+        "GoogleはHumanity's Last Examで54.9%などの評価値を公表していますが、いずれも提供元による評価です。"
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "whyItMatters": "低遅延モデルの能力向上は、AIエージェントを日常業務へ常時組み込む際の速度と費用を変えます。同時に、サイバー領域で汎用モデルから用途別モデルへの分化が進んだ重要な更新です。",
+      "source": "Google",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-09-02T09:00:00-07:00",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "impactScore": 98,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-claude-fable-mythos-5-1",
+      "rank": 2,
+      "title": "Anthropic、Claude Fable 5.1と高リスク研究向けMythos 5.1を公開",
+      "originalTitle": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "summary": "Anthropicは同じ基盤モデルを、一般提供するFable 5.1と、サイバー・生物分野の審査済み利用者向けMythos 5.1という異なる安全策で提供します。",
+      "points": [
+        "Fable 5.1はコーディングや知識作業向けに一般提供され、既存ワークロードの費用削減をうたっています。",
+        "Mythos 5.1は同じ中核モデルを使いながら、高リスク研究向けに本人確認・利用審査・追加監視を組み合わせます。",
+        "Anthropicは典型的な処理で約25%、エージェント処理で約45%の費用削減などを公表していますが、提供元評価です。"
+      ],
+      "whyItMatters": "単純に能力でモデルを分けるのではなく、同じ能力へ異なる利用資格と安全策を適用する提供方式です。高性能AIへのアクセス管理をどう設計するかという業界全体の先例になります。",
       "source": "Anthropic",
       "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-09-03T11:09:04.067Z",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
-      "impactScore": 100,
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "impactScore": 96,
       "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "株式会社インプレス",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qOXpwMmVLdnlhNTllcTY3dTV0aUV5ZU8tWWI3enlBRWtCbnpEdDB3aDVfMVdfNGltaHdvU0xDSXdvZWMwY29tQlhmWU9fUGdlQWVQZ1dHeW1qQkpXZWR4Uk5pUQ?oc=5"
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/01/anthropic-releases-new-models-cost-structures-and-safeguards"
         },
         {
-          "name": "itmedia.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EYXg0VjZwVjJvNG1FcTZWdjhGVmVTWWgwT0tNYTRHLXZmQXRtYWJnZmp4SXNoSzN3cXdWdlI5WnBDSWU0OGhpUnVjelNTQk5Hck5aSFpSSmlsOU9wUUgyZUV1NHFnNFFkX0dXUQ?oc=5"
-        },
-        {
-          "name": "watch.impress.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtZHNLX3hqdWwxN2hTaUxCcHRDSVFWd3AwZzA0czd0MWpwWjVlMTl3UUV5TzRZSm9vQTFPRmJaamtPUkNrSnNCekZMa0dRUTJKSElUSzJ2Tkd1cXVmbGxkT21jaDE?oc=5"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
         }
-      ],
-      "eventUrls": [
-        "https://anthropic.com/claude-fable-and-mythos-5-1",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qOXpwMmVLdnlhNTllcTY3dTV0aUV5ZU8tWWI3enlBRWtCbnpEdDB3aDVfMVdfNGltaHdvU0xDSXdvZWMwY29tQlhmWU9fUGdlQWVQZ1dHeW1qQkpXZWR4Uk5pUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EYXg0VjZwVjJvNG1FcTZWdjhGVmVTWWgwT0tNYTRHLXZmQXRtYWJnZmp4SXNoSzN3cXdWdlI5WnBDSWU0OGhpUnVjelNTQk5Hck5aSFpSSmlsOU9wUUgyZUV1NHFnNFFkX0dXUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtZHNLX3hqdWwxN2hTaUxCcHRDSVFWd3AwZzA0czd0MWpwWjVlMTl3UUV5TzRZSm9vQTFPRmJaamtPUkNrSnNCekZMa0dRUTJKSElUSzJ2Tkd1cXVmbGxkT21jaDE?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53a2x3R3k3NmRXandxSGFKRW85bWliemFUeWxHWWU3Rkhoc2xhQ0Y5WXVYUXVuVDBVVHI1eWNSV0ZxRU96RU93bE9aOC0wN0t4VHRrN3JOUFR4dEw1OUQ4?oc=5",
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XX080S0FyZmRBTXBHeWdGY1kxV1AwTGJJcTY4Tzd3MThSYTI3VjM4U05FWVliLWotM0JPUHdqWTBVWUtta24xeGtLX25aOVBIOXc?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXNGT2E1Z1l5VmlsZDB0ZkxCVnF6OHFZUFdqYmZCNEtLZnhGaXlNSWFSdlVTbUZjWEJ2Y0dDdU9FMEl3MlhCVF9WSHJFSWFOR1B1VVctY2Z1Y2NnS3lZZWJCQnBNbXlPeXZJRFpJTXVXTGxvZklPdmxHSy02THplLXhTbDBrN2dvaF9Bd1RR?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IN0pBNjQ3dmFuNktHbmtyQlBQZHN1dkJkUkNjVzNIR0xBUHYteW5fbHIxM0JtZ2FHWlA4Tl9NeXB1QTlSQXFkMDBnN3JkNXk4ekJURWd3RzFHYWxhY2Y5Z3ozY1pfZXpkMHlnVDRkc0pzc29peEQzdlVBR19Nd1k?oc=5",
-        "https://simonwillison.net/2026/Sep/1/claude-fable-5-1",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZzB0THZBcVZYMWpnUmFUUXBkd3VaX1QxTnZoN3hBS1BEamVJWUE3Z3hiTkpxQUdiMW1rU3hOdm5WVEh3YmJlMzVZWEJYWGJvOTk3dThHRVlNbzhXT2FqSVoxN2RtWHNoN1ktNGRXaE4zTGI4Z1pEZGpuYkhDWG5PSklWWk0wOWpRanRVeEpBT2ItNjZUcmtQUTFRMWJ4dGphM1c4Sl94NVdDYm5aRE5yQ2tsTUR5QXd0VWFxcGM0UkZEVnY1TWZhS3ZSSHPSAXxBVV95cUxPd3JQR3RjOUJFbGw5R2tGeEQwVy1NdW5QTlJ3NUpqZjZRNlZ0a2JYdHBKZ3FEVFZHMDNJTk0yaXZaN1VKZzRySXJZUWpWMFdPVGtUMk90Yjl4Z3NEQmJ5bHRFSGd2ckpWeDhtTWwwUXR4U1hibTJxV0N3RkV6?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EdHAxOV8xd3d0ZUdhNnhneS1JUFVCaEtBVGxENmZ5ZldnVTN1bFVUdXVtazlGa0FRV0dQb05IYVhBZFhoMTlrWmlWOWpvTDB0ODBja2pVTnVFcm1UNWJVTVdval9KdWw3?oc=5",
-        "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less",
-        "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws"
-      ],
-      "eventTitles": [
-        "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "Anthropic、Claude Fable 5.1とClaude Mythos 5.1をリリース - 株式会社インプレス",
-        "「Claude」利用制限を“一括リセット” 「Fable 5.1」のリリースに伴い（1/2 ページ） - itmedia.co.jp",
-        "アンソロピック、最上位モデル「Fable 5.1」公開 性能を大幅向上 - watch.impress.co.jp",
-        "Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開 AI透かしも導入 - 千葉テレビ放送",
-        "Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開 AI透かしも導入 - CNET Japan",
-        "Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開 AI透かしも導入 - news.yahoo.co.jp",
-        "Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開 AI透かしも導入（CNET Japan） - Yahoo!ニュース",
-        "Claude Fable 5.1 made me a really nice animated pelican",
-        "Anthropic「Fable 5.1」発表 長時間のAIエージェント処理を強化、キャッシュ料金75％減 - topics.smt.docomo.ne.jp",
-        "Anthropic「Fable 5.1」発表 長時間のAIエージェント処理を強化、キャッシュ料金75％減 - マイナビニュース",
-        "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
-        "Introducing Claude Fable 5.1 on AWS"
       ]
     },
     {
-      "id": "google-deepmind-https-deepmind-google-blog-introducing-gemini-3-8-flash-and-38-flash-cyber-",
-      "rank": 2,
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "originalTitle": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
+      "id": "openai-astra-critical-cyber",
+      "rank": 3,
+      "title": "OpenAI、最高度のサイバー能力を持つAstraの限定提供計画を発表",
+      "originalTitle": "Our path to safely deploying Astra",
+      "summary": "OpenAIは、同社で初めてサイバー能力を「Critical」と分類したAstraを発表し、高度な機能を審査制の限定プログラムで提供する方針を示しました。",
       "points": [
-        "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "Astraは未公開の脆弱性発見や複雑な攻撃経路の構築まで可能だとOpenAIは説明しています。",
+        "一般提供より先に、審査済み防御組織向けの限定アルファとDaybreak Blueプログラムで展開します。",
+        "監視、利用制限、異常時の自動停止などを組み合わせ、能力に応じて段階的に提供する計画です。"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Google DeepMind",
+      "whyItMatters": "生成AIのサイバー能力が、新しい安全区分と専用配布方式を必要とする水準に達したという発表です。防御利用の価値と悪用リスクを同時に扱う運用基準へ影響します。",
+      "source": "OpenAI",
       "sourceType": "official",
       "category": "安全性",
-      "publishedAt": "2026-09-02T16:18:31.000Z",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "impactScore": 100,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "prtimes.jp",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQk5hNm04Y1ZMbE5tLXdBMXB6YkJ4M2M5cGdvZTk1RWxiMnJQUTJnTEJuenpGMFdmM294LWRhcnY3Q3l1Y25TeVdhZmdfd2dPTXdQclg4Rm8tZmZRc25JcFVIdjFjMy1MU3c?oc=5"
-        },
-        {
-          "name": "ニコニコニュース",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZRWZwTDhSNWtaTEVUdlA0WEtncERncHQzVGdCUjFoZ2diQ3E2US1kUmdUbTF0b0xINUo1Y1ZLXzBoTXR3d0hBWl9ydXJ1NEZ4M05MaWd5cFRZTlhKTEIxZThiaS1HWXliSExGX0x6d3U2cGZHUEI3QjVxcw?oc=5"
-        },
-        {
-          "name": "PC Watch",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5Q0R5TlVsQnBFSVJqbGttcjNTY2xOa3ROaEVHLVJ0WU1aTW1aVGdEYlpEaGFWSWF5dFdDVzY1YUotNi1jQm11TUpFTmVKV2FkdzVwb200MEVNcHJhRGwxYWdiWQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQk5hNm04Y1ZMbE5tLXdBMXB6YkJ4M2M5cGdvZTk1RWxiMnJQUTJnTEJuenpGMFdmM294LWRhcnY3Q3l1Y25TeVdhZmdfd2dPTXdQclg4Rm8tZmZRc25JcFVIdjFjMy1MU3c?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZRWZwTDhSNWtaTEVUdlA0WEtncERncHQzVGdCUjFoZ2diQ3E2US1kUmdUbTF0b0xINUo1Y1ZLXzBoTXR3d0hBWl9ydXJ1NEZ4M05MaWd5cFRZTlhKTEIxZThiaS1HWXliSExGX0x6d3U2cGZHUEI3QjVxcw?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5Q0R5TlVsQnBFSVJqbGttcjNTY2xOa3ROaEVHLVJ0WU1aTW1aVGdEYlpEaGFWSWF5dFdDVzY1YUotNi1jQm11TUpFTmVKV2FkdzVwb200MEVNcHJhRGwxYWdiWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmdlc1OVNZbUJrcDlfcHB4amkyUVM3OUdWcE5EVWJvYjVCTjZJQk5TOGpjVkNZX1pSdXBaT1RoTnNTWHRjQUhESEFnTnN6ZzEzVjd6ZU9QMkk2UTVHc3hiTnh4RWpuNmhhQ3IzbDRR?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uMVRXZkZ1LUZYeFV1TzVxekxQZTIteWxfQ0hOaWdfbUtXQ0MtR0JqRG9NeHh3Z3lFT2R1T3dvbVZQbVExNzRwdWZ6dGd0WU1uTlZqS2d0Q28wS0hyVFg5bll3VmpJekN3Wmc?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOQlFxNURKMm9WbW9na1dqMXc2c0gweEpNcEt3STR4cnc3Tm1xelNtREROSFRlMjdwcHpzeDBWYXN6N3p3WVlQRGl0RTNYNVlfNW5NUWc0QmxET3RZLXBfZnlLM0hzWWM?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE43NmV4ZHhEN1phRHNkNjlaMnh3Rlpya3lCNXdVdEZnQWMyc1RWblhCb19NUGFJVGNjUG12cnVGUjlJb1RDQW1LQmlhZVA0TDFnR2R4aDNsM21xVElhZklrM3J4Vk9leVpXOUpuZDJ5R1NVWmPSAXhBVV95cUxQYUE2T2l0X2hXSGdLbjhBSDR1VXY4dWtjYmF2N0J1ZjNIbmtjVGdfTXJ2VzF2d185OFlma2UtcUF5UXRibXc4enlWcnk1QUJkOTN4WnRxd2F6ckdweS1oR0hSZno0djRZdkI0ZVpQbDdhdWVrNHZJb3Y?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVy0xOFo5aWZOb3hZTWtZcHN2UWczNXc4cjJiNkJ2ZEh3aVBwb2dDczI2dHY2dGcwcWx0U3JvZlBsekkxVGZaaktHNzE3UzRtMmpoZmZCZDRsMWN4aDc3TDRIRVpraG9Cd1BSaGdNbkd6TVJR?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zQ3hUMUpNSWt4MVh1bXdVMk1wMXpmZ3dCN2ZRNkNhSTA1U2tDa1REQjhDRm1jVmRjXzdObWlYN3FtZExJclFMMF9scGZQNFNPMFBpdmZQQnZLVC1CTDRJa0NGcGE?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTFByazlfRXkzY0Y4emRRVEpXTDEyalJnRW9qT0xzVEQ2UE9zYURzdjdaOFpQbmJmWXhPcGt3S1JBZk9zRkRJcExvTEVMM01lMWxiaVg2VFRqTmlBckE3algxNVkwVWZ3Rm9zSGZMSHd5Z0dTU09iS3poaXdFblBwdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50ME00OUg5LXZDZEp0YzlmRE9mVnJuYWlBOTdndkxrNU43dFZwV0hPN3BiM2NOVm94cWZIbm1aWEIxUXlqNl9yRW94MnZKYl9tSEF3?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01cUxHNDFPQjQxeFZtZndFMWZlaTBuNzFPLWo1RVZ3eDl2UHl6QUw5U3JaVGdscC1VRy1scTVROHAyREtSSk55SkpDWFFwNG0wTmNUd1MyMUVlYVc3cVViTExXQnV1RHl6?oc=5",
-        "https://itmedia.co.jp/aiplus/article/2609/03/2000001096",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nY3JJT3pNTDVkWHVTVktTOWEtSENwWG12em1Ba1FOejJTQ3E4Q1NGUGdFVHRPNkx3ekZDMV9FRUwxb1ZBanNNdGdvdGh0VVdETkQyWmZTc3RNeWRhNlhJZUFCQXdlbGZEVElpRw?oc=5",
-        "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6akZIaXU0b3U5dHRLejdQNHhwWFhBdmR2QTMyd2d3MnVTN3E4dGJzLWFaanV2R3NybUVTMzEzTkk?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Xb19JNnVVQUlUM0lxUFo2SUtiem5sTHN1WEw5T2F3eVc5Q1VFZlJEcXhpajlHZ2pHelRxWEM2bGJ0MWM2Z1B5TEE5enZQODhjSTRVdmhacGdkZFdnQ3c3TlAyOTF4UUNC?oc=5",
-        "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
-        "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia",
-        "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tekMzSUZMTVNobDFaRUNZSGpXbFh1aTh6SDVES3ZBa1kwWmVacXVXdVhybjhnYUtObmFYY18yY2FnWEcyYXByZ0hMQzJYOW44OHRZOFVKYlhqQThPTE5oVw?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yX2kta3BjM19vMktQRzd2ajhfOWI0YXdVZDNibFVMQVhqbkhpUkV6RUFpSVJoQnJ6YkdaT20zNHRTUFJ0eEQxcmZvN3FGY0VWb2xQVDQ5SS03U2lFSlJydlhOU3hLbTBlM3A0UUVNYlk?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQzIweEJnSzVKMkZXSXN6VXR4Vk81UXFaY3RoRVlSU3hqVm5yVzYzdTdDWmdCRmJycXZlZzRKczhxWExRR1dFUkhYT2VOX1FWNXI3OUJ5cDZScjJWX1g5eHYtd2xDRTU1TGY5d3FhVVRUVjNzYS0wRktsdmNqRmRSLUF0cUJZbnpUTGJadWpvbU1najhlUndBbVpQVkpLNG9Ub3J2MVBWRFhpWC02VTRSY2ZKN05VSnN5dTVWc3BsczYySWFROERlT3hDTzBJeFlKd0xRZHhpOWRrSUdh?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnNHZURuaHphaG1ObVBRUENPR29Eb2ZnSk05eWZZamxVY0Z4NF9SUjZrRzBTZjMyNzZwTm04bEI2NXFNZVFSMU1hdEwwVm9VeUtpSjFmY3dCbUFHQTJVa2ZQdnZTTFo3RU9NdTh4ZEtOdUlZQVd3QV9LVTJSY1E0UHJUSllUclI3ZU5odk9hY3dKVFQyWGlWUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oUk1PbHplOV8yc01FdFdNc1R3RTc2UERYM0hwdzFlTzRtNUNtazV1LXplNjFOR2NYS3hHRG9PaDREUjZQYlJBNUk5TzgySEl1bkpnOERsN190QjgxVUF3aEJrYXNyMkVDSGFWWkRFX3A?oc=5"
-      ],
-      "eventTitles": [
-        "【Gemini 3.8 Flash】自治体AI zevoにて2026年9月3日（木曜日）より提供開始！ - prtimes.jp",
-        "Stella AI、「Gemini 3.8 Flash」を即日追加 - ニコニコニュース",
-        "「Gemini 3.8 Flash」登場。推論とコーディングでGoogle最高をうたい、視覚も強い - PC Watch",
-        "Googleが「Gemini 3.8 Flash」をリリース、2027年から価格2倍に - au Webポータル",
-        "Googleが「Gemini 3.8 Flash」をリリース、2027年から価格2倍に - GIGAZINE",
-        "グーグル、次世代AIモデル「Gemini 3.8 Flash」とサイバーセキュリティ特化の「3.8 Flash Cyber」を発表 - k-tai.watch.impress.co.jp",
-        "グーグル、次世代AIモデル「Gemini 3.8 Flash」とサイバーセキュリティ特化の「3.8 Flash Cyber」を発表 - topics.smt.docomo.ne.jp",
-        "グーグル、3週間で「Gemini 3.8 Flash」投入 サイバー特化型も同時発表 - finance.biggo.jp",
-        "グーグル「Gemini 3.8 Flash」登場 3週間で主力モデルを大幅刷新、Opus 5に迫る - Impress Watch",
-        "Google が Gemini 3.8 Flash とサイバー特化版 Cyber を公開 - Pasquale Pillitteri",
-        "Gemini 3.8 Flash発表｜サイバー版は650組織に限定 - innovaTopia",
-        "Google、「Gemini 3.8 Flash」を発表 ～6週間で3度目の「Flash」モデルリリース - 窓の杜",
-        "Google、「Gemini 3.8 Flash」公開 3.7から3週間、価格据え置きで防御特化の「Cyber」も",
-        "Google、「Gemini 3.8 Flash」公開 3.7から3週間、価格据え置きで防御特化の「Cyber」も - itmedia.co.jp",
-        "「もはや季節じゃなく週単位」——Gemini 3.8 Flash、3週間でまた進化した中身 - shiritomo",
-        "Google「Gemini 3.8 Flash」、3.7から3週間で登場 大型モデルに迫る性能、低コスト維持 - マイナビニュース",
-        "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-        "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
-        "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "「Gemini 3.8 Flash/3.8 Flash Cyber」正式発表 - jetstream.blog",
-        "グーグル、政府向けサイバーセキュリティAIモデル「Gemini 3.8 Flash Cyber」を発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "グーグルが「Gemini 3.8 Flash」を投入：性能は最上位モデル「Claude Opus 5」に迫る、コスト効率が引き続き中核的競争力 - TradingKey",
-        "グーグル、AIモデル「ジェミニ3.8フラッシュ」今週発表へ - jp.wsj.com",
-        "GoogleがAIコーディング強化へ「Gemini 3.8 Flash」を準備中＝WSJ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-      ]
-    },
-    {
-      "id": "meta-ai-research-sitemap-https-research-meta-ai-blog-introducing-muse-spark-1-3",
-      "rank": 3,
-      "title": "Introducing Muse Spark 1.3",
-      "originalTitle": "Introducing Muse Spark 1.3",
-      "summary": "Introducing Muse Spark 1.3, with max reasoning for challenging reasoning and agentic tasks and improved real-world usability.",
-      "points": [
-        "Introducing Muse Spark 1.3, with max reasoning for challenging reasoning and agentic tasks and improved real-world usability.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "Meta AI Research",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-09-02T00:00:00.000Z",
-      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://openai.com/index/path-to-astra/",
       "impactScore": 95,
       "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "株式会社インプレス",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tSjdXMk1ZRlNxS0Z2VWNHU2pyaDlLaFM2VEVYR21kZUhKekU4WXRMMkpiN01wbnBwOEZfUXZZODlHWnB6ekV1XzRKWkU4c1BLak5UQTlSRnVCeVBvYWxQU2lCOA?oc=5"
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/01/openai-astras-cyber-critical"
         },
         {
-          "name": "news.yahoo.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRV9kV3gwWEhjYnFwQS1wVUNWU3ZaNjJxREFKSDY2WlE4VlJKQWRDR2w3MjR4cmNWa3hTMjliZm96SlNENXgzSWt4RHF0MndYbXlRaG1rT2NfZlozalg5eDJpUkpQb2NKZnFQNGxSRTRZVXdKajFVY3JKRlNJTmM?oc=5"
-        },
-        {
-          "name": "Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pOWNESlJxcXRmNjVmNkVnVFV4eUxGQmxvZVZkcW5wVEZrT3pGMlVkak5zb0dOa3ZvTUZVZzdCeE9vOERLbVR3OF9ydm1qTXoyVEtBTmNjSkVoMTJWRTVHVHV1eVZfMk1aWkQtUTUxcDZVcktGLS1XZElfRGNvOFU?oc=5"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/openais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
         }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tSjdXMk1ZRlNxS0Z2VWNHU2pyaDlLaFM2VEVYR21kZUhKekU4WXRMMkpiN01wbnBwOEZfUXZZODlHWnB6ekV1XzRKWkU4c1BLak5UQTlSRnVCeVBvYWxQU2lCOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHJKdjFzYjRrNU12R1VXaWd6RmtoLWFQTHg4b2xRV3VucHFJRmVkNFlyT2N5ZTFsTDRxRzBjR1RjVVdpNkwxWnFGSmplZTZ2TWZXcFZQTF9EYkJuQ0E3U1JDOFNTeTdRSEdDOFBRT1hVckFBTGRoRUFHelA4cHdXV2RXN1UyZTR0UTNMaUM1M0o4blo3RUpNVXpVbkFocXFwWUhsZkZyOVpEeWozbEN3dUZreVZjUVJHajM0?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRV9kV3gwWEhjYnFwQS1wVUNWU3ZaNjJxREFKSDY2WlE4VlJKQWRDR2w3MjR4cmNWa3hTMjliZm96SlNENXgzSWt4RHF0MndYbXlRaG1rT2NfZlozalg5eDJpUkpQb2NKZnFQNGxSRTRZVXdKajFVY3JKRlNJTmM?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZOUJKbVdpY1A4czdVUVVIZ21tcmdFX2pwM1FHT1c5YWN4eU5TeklMUGQwSFg4RFI2M3ZsQUpyR3pZT1hvTnM1N0NBemVFRnhkQ1c3SEJVNmtrS1EweDBVOFpIYlM0eGhnZE92MldlX1ZYbnJSaWFOMWtPSGRLQdIBgwFBVV95cUxQdXdGNnhoNlN3cEcxNlp3VjhuaEhEcWNzU2ZIMGJCRWZuVXkxVWxvM2czZlJMWHR0TDFZOUVlalRfVGs2ejlTN0FlMHhPd2w1Ym0xRWJEY01uamwyV0dFSWJhQk1mZUtfRV9pX2owOEFVZm15WWMzWGcwMHhMVHREa18yTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOSks4VWQ2LUVuNWRobEx0cEFIbVRDbzFhbklSekhyZVIwdGhuR2hLZU53VUQzc0Vocm9ZNHFLWXdOcWc0NV9zTUNtN2NFUzdzbnBKTWR0Z3k0SjI2WXhWWHM2UGc3QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pOWNESlJxcXRmNjVmNkVnVFV4eUxGQmxvZVZkcW5wVEZrT3pGMlVkak5zb0dOa3ZvTUZVZzdCeE9vOERLbVR3OF9ydm1qTXoyVEtBTmNjSkVoMTJWRTVHVHV1eVZfMk1aWkQtUTUxcDZVcktGLS1XZElfRGNvOFU?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NNUZHR25Ib0xLdTBpTV83cEdMVXJBZmFHWk9rOFptMUFRa28zR0JyLUtodW95UlVFZm9VQ2c2UFpnNk9ZWEVqRTRYS1JjMkFwMEFIc2p5aUNpejZCWlJvd0pPcDQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XNWoySURDeW9FRy1LWlZSWGREWXppcGthc3FxMHV6S2d2TWlNU1kwT0g3ZldSeENoemlwVl9pLXE5UTRQdFNlSlIzVHhzS3hoaHJ2a0IxMXQyMDlzVEdLQXoxcUoyQQ?oc=5",
-        "https://itmedia.co.jp/aiplus/article/2609/03/2000001101",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JeXZqWFZGbVZmMkRrQzQ0eEJsNmh2dUpia2ctSktnZUhEU3pWSkZ4WVpQV2VKMUhaNF8tT21rbzRPamppZ0xVOWM1eHFmdUlaMlYxLWJHMERwaGtYbG55MVlNMDlwVF9mYWF1cEJPZkp3Tk8x?oc=5",
-        "https://research.meta.ai/blog/introducing-muse-spark-1-3"
-      ],
-      "eventTitles": [
-        "エージェントやコーディング業務でパフォーマンスが向上「Muse Spark 1.3」 - 株式会社インプレス",
-        "Meta、「Muse Spark 1.3」提供開始 Anthropic・OpenAIに対抗 - 디지털투데이",
-        "Meta、AIモデル「Muse Spark 1.3」を公開 ～「Fable 5」と同スコア、価格は10分の1以下（窓の杜） - news.yahoo.co.jp",
-        "Metaも新AIモデル「Muse Spark 1.3」 1カ月で大幅強化し「Fable 5に匹敵」 - ｄメニューニュース",
-        "Metaが「Spark 1.3」公開 最前線グループに並ぶ - 株式会社エクサウィザーズ",
-        "Metaも新AIモデル「Muse Spark 1.3」 1カ月で大幅強化し「Fable 5に匹敵」（Impress Watch） - Yahoo!ニュース",
-        "Metaも新AIモデル「Muse Spark 1.3」 1カ月で大幅強化し「Fable 5に匹敵」 - watch.impress.co.jp",
-        "Metaが「Muse Spark 1.3」を発表、ついにAnthropicやOpenAIの最先端モデルに追いつく性能を達成 - gigazine.net",
-        "Meta、「Muse Spark 1.3」公開 コーディングとエージェント性能を強化 「最大の飛躍」とザッカーバーグCEO",
-        "Meta、最強モデル「Muse Spark 1.3」を発表——プログラミング能力でGPT-5.6 Solを凌駕 - BigGo ファイナンス",
-        "Introducing Muse Spark 1.3"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-path-to-astra",
+      "id": "meta-muse-spark-1-3",
       "rank": 4,
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "originalTitle": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "title": "Meta、長時間の開発作業に向けたMuse Spark 1.3を公開",
+      "originalTitle": "Introducing Muse Spark 1.3",
+      "summary": "Metaは、並列ツール実行、曖昧な依頼の処理、取り消しにくい操作の判断を改善したコーディングエージェント向けモデルMuse Spark 1.3を発表しました。",
       "points": [
-        "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "長時間のコーディングや複数タスクの並列処理を主な対象にしています。",
+        "Muse CodeとAPIへ順次展開し、最大推論モードは後日提供するとしています。",
+        "Metaはツール呼び出し時のトークンを20%、全体を25%削減したとしていますが、提供元評価です。"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
+      "whyItMatters": "競争軸がチャットの回答品質から、ツールを安全に使いながら長く仕事を完遂する能力へ移っています。開発チームが常用するエージェントの速度と費用に直結する更新です。",
+      "source": "Meta AI",
       "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
-      "url": "https://openai.com/index/path-to-astra",
-      "impactScore": 94,
-      "impactLabel": "特大",
+      "category": "開発者向け",
+      "publishedAt": "2026-09-02T09:00:00-07:00",
+      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+      "impactScore": 91,
+      "impactLabel": "大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YWFlTYnZOVmJnQk9HdkxWelc5TmJueEd1UFNKS3ZZNGVUckduaUN1VXBDUEh6bFdncVpKbExGSmJnbENLbTJPWVF2NDFaQjZSU2NackY2U2dUbWNVWUpPV2N2eGl6SDVSWnVJOC1TeHpHSGJWd2RrNk9PVQ?oc=5"
-        },
-        {
-          "name": "codezine.jp",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPSl91NXBJU3FNRUg3bXpyYXdnUEE2eTBfZUxWX3pkV2d5cWRZT3RibEc0R0hVOWVrd3Z1Q3VVZW9DQVlLd1U1MlNOVFoyQQ?oc=5"
-        },
-        {
-          "name": "BigGo ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hZVJXZzdOcHdWNGVwVS1hMjh4RFAxRDVDLUNDWm13aEdYZGYyN0pRay1tRW1fSW1sWm1sM0RIY0ZfWmxPZFZ2M0JTMjFjM3BWeE9Zc041VXRIQQ?oc=5"
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues"
         }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YWFlTYnZOVmJnQk9HdkxWelc5TmJueEd1UFNKS3ZZNGVUckduaUN1VXBDUEh6bFdncVpKbExGSmJnbENLbTJPWVF2NDFaQjZSU2NackY2U2dUbWNVWUpPV2N2eGl6SDVSWnVJOC1TeHpHSGJWd2RrNk9PVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPSl91NXBJU3FNRUg3bXpyYXdnUEE2eTBfZUxWX3pkV2d5cWRZT3RibEc0R0hVOWVrd3Z1Q3VVZW9DQVlLd1U1MlNOVFoyQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hZVJXZzdOcHdWNGVwVS1hMjh4RFAxRDVDLUNDWm13aEdYZGYyN0pRay1tRW1fSW1sWm1sM0RIY0ZfWmxPZFZ2M0JTMjFjM3BWeE9Zc041VXRIQQ?oc=5",
-        "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfX2t1NDJDQnJSa2ZjQVNvdGNVRWxNYVE3VEtIZ09ET2p3REg2N3NRTkY1YmJIR01HdUNFTkNKWXFtb3RJMW83OEhadVdaMkZ6RzBZemIxRHM3Z21sX29rVENlMFU?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMkhEM01wOTNhcVFYZ1BBWWF2M0FRT3lXRTIyTzFPTldSM0lmZTRERGNPQVdtRGFwZUNQVFJwLUdKWEx6N1RYbzZtZ0R6WEY4ZWQ1S1BtSkFMT2NzZGV1VllwYjN1dk5RRjRDSm9UOWpCM0cyTW9ScFRIX2xTTjM3cWtlZDN5NnA2VVZfZE5DNi1nVkYzQ0xXVnA2U21pUDQ5NnZfSVhYaHJEc2hPQlpPSklaYkd6aVpxalN6akpPMTJIR0JVb2FJVW9TQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdDV4b1F6U2k3OEdBWWs1X0NNcUdhb0xEWk5FUU42aFRHMndQaG11eTNiQks4WTE5R2hCMmtOUWRvbUdMSzU3dThKUlIxU1dqWVJEV09sQWpXSldRWWluVVJMSE11bW4wMFcxbmtkU3N5MjJaSUlyNk1uOXp2bTg?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wT3QyN0tEOHdCdVdnd2VRZkF5cGFOWHRJaUhqTlBoMVpualRMTTNSSTB5aVlMRURaZjRWUFhZNkJEOFlnSzlwYy15WlVkdWtLMWNqaEFaNVZUdWJLeDRSQnI5NA?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Zel9sdzBRajh6aWFfTXZFb3N0SlJlc3kzeTNFMlZxdTBNU1lyMC1SSEk3bENBaVBJNjBnQnMtWHBFN2VsT2YwMGVkN19nTjZzcm5POFVxLVA2RDdFRi1iLWNtOA?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjMmJoWFpxTDFDZFk3Zk5xTG0xTVUxdmEtNWR1My1SN2pCWW9iSDdTNGtzU3hnTlNRQk9XNXJybGFoTTk4ckxKemI5TVNCaU85ZFJBVTlSMkIxTWdoUlBJTS16c09QcC1zbE1pQUln?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZN0ZvLWVhNnNqZ1BQLUwtYldQYjEwWWFELVR4Y3lDbFhwdFhkVWxmeXNQWl9CZkN4X2pPQVZSTHREeTlKMjJvWk9IRVozU1FKbFZOMHMtVEZ5VzVITUE?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Mjg0N0ExcUVrYktpWEFJR3hLeXRDS0VqUUd6Rk5CZ1czWm9uQ2t6ODl1TXVuUkdfcmxLbmdPbGFmSGs1aFFib3FyY2NpRmJjRThrX1BfR3NMZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00LWYzZWs3a25RaHMzMGpUNk9sT0N3WXV4QlZ0SkplbW1QQ2tFTzNiTDdNeHdjUVZXUm53S0dPcHoyaVRzdHNtaDNCTWtCVnA1QjQ3YXZ1YmtmTU5XY2lV?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sMmNBTjYyZHpTQUVBdkozOURGZGJPRkFKeXpxSWk0WXFaY1pid2VONl9BT2ZEZmROOUdXN2ZESnlCdEg1UVdYTnpiUzZMbm5POUhBWjdXUDNodjI2QXo3VWJqX3hFUENSaG5TZ2pLWWQ?oc=5",
-        "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
-        "https://openai.com/index/path-to-astra",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Y0tZU2phemFOYXM2WUo5dVljTzNkYjRWVFFNSTVDOHlRQk9na1JDYzRabnRCNXhQWXFOYmJQYS1aSFYtNWpRQ21HZHdqVG41OUo2QmRjWWY?oc=5"
-      ],
-      "eventTitles": [
-        "OpenAIは、Astra AIのローンチを前にセキュリティ対策を強化した。 - Vietnam.vn",
-        "OpenAIが新AIモデル「Astra」を発表、近日中に提供開始へ - codezine.jp",
-        "OpenAIのAstraリークが示す「闇の中で思考するモデル」の危険性、ネイサン・ラベンツ氏が警鐘 - BigGo ファイナンス",
-        "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
-        "OpenAI、次世代AIモデル「Astra」はまもなく 今後は「ペースを落とす」 - Impress Watch",
-        "OpenAI、次世代AIモデル「Astra」はまもなく 今後は「ペースを落とす」（Impress Watch） - Yahoo!ニュース",
-        "OpenAIの次期AI「Astra」投入が秒読み段階。セキュリティ能力「重大」（PC Watch） - news.yahoo.co.jp",
-        "OpenAIの次期AI「Astra」投入が秒読み段階。セキュリティ能力「重大」 - PC Watch",
-        "OpenAI、新モデル「Astra」リリースに向け安全対策を公表 - 株式会社インプレス",
-        "OpenAIが次期主力AIモデル「Astra」の開発状況を報告 - au Webポータル",
-        "OpenAIが次期主力AIモデル「Astra」の開発状況を報告 - gigazine.net",
-        "OpenAI、アンソロピックのMythos対抗モデル「Astra」をまもなく投入へ - Forbes JAPAN",
-        "AIが未知の「弱点」を発見、攻撃手法まで構築 OpenAIがAstraの提供前に安全対策強化 - 千葉テレビ放送",
-        "OpenAIのアルトマンCEO、新AIモデル「Astra」を近日公開へ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "Path to Astra: critical capabilities and frontier safeguards",
-        "Astra への道：重大な能力とフロンティア安全対策 - OpenAI"
       ]
     },
     {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-atlas",
+      "id": "doj-openai-nyt-fair-use",
       "rank": 5,
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "originalTitle": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Introducing Atlas, our new omni world model for spatial intelligence.",
+      "title": "米司法省、NYT対OpenAI訴訟でAI学習の公正利用論を支持",
+      "originalTitle": "Justice Department backs OpenAI's fair use argument in New York Times copyright case",
+      "summary": "米司法省はNew York Timesなどによる著作権訴訟で、公開記事をAI学習に使う行為は公正利用になり得るとするOpenAI側の主張を支持する意見書を提出しました。",
       "points": [
-        "Introducing Atlas, our new omni world model for spatial intelligence.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "司法省は裁判所に提出した意見書で、モデル学習の変容的な性質を重視する見解を示しました。",
+        "意見書は裁判所を拘束する判決ではなく、訴訟の最終判断はまだ出ていません。",
+        "出版社側は無断利用が市場を害すると主張しており、学習データの対価を巡る争点は継続します。"
       ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "whyItMatters": "米国での学習データ利用ルールは、モデル開発費、ライセンス交渉、メディア企業の事業モデルを左右します。政府見解が加わったことで、今後の判例形成への影響が注目されます。",
+      "source": "Associated Press",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-09-02T12:00:00-04:00",
+      "url": "https://apnews.com/article/dbb22e8e02c660ee5a8644915dec39a4",
+      "impactScore": 89,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": []
+    },
+    {
+      "id": "openai-chatgpt-health-epic",
+      "rank": 6,
+      "title": "ChatGPT for Healthcare、Epicの診療記録と公的医療情報に接続",
+      "originalTitle": "ChatGPT connects to health records and healthcare sources",
+      "summary": "OpenAIは医療機関向けChatGPTをEpicの電子診療記録やPubMed、ClinicalTrials.govなど九つの公的データ源へ接続できるようにしました。",
+      "points": [
+        "権限のある臨床担当者が、患者情報を会話へ安全に取り込み、要約や情報探索に使える設計です。",
+        "PubMed、DailyMed、ClinicalTrials.gov、CMSなどの公開情報源も横断できます。",
+        "OpenAIは臨床安全性評価で99.1%と公表していますが、規制当局による承認を意味するものではありません。"
+      ],
+      "whyItMatters": "生成AIが単独のチャットから、業務システムと根拠データをつなぐ実務基盤へ進んでいます。医療では利便性だけでなく、権限管理、出典確認、臨床責任の設計が特に重要です。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+      "impactScore": 86,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+        }
+      ]
+    },
+    {
+      "id": "nyc-school-generative-ai-moratorium",
+      "rank": 7,
+      "title": "ニューヨーク市、幼児教育から中学まで生成AI導入を1年間凍結",
+      "originalTitle": "Mayor Mamdani and Chancellor Samuels put students first with new AI policy",
+      "summary": "ニューヨーク市は2026〜27年度、2-Kから8年生までの教室で新たな生成AIツール導入を原則停止し、高校ではAIリテラシー教育と限定実証を進めます。",
+      "points": [
+        "対象は約60万人の低学年・中学生で、学校による新規生成AI導入を1学年間停止します。",
+        "高校ではAIリテラシー科目を設け、管理された範囲での試行を認めます。",
+        "全年齢で会話型コンパニオンAIを禁止し、子どもの安全と学習効果の検証を優先します。"
+      ],
+      "whyItMatters": "教育現場では導入の速さより、年齢に応じた安全性と学習効果の証拠を求める動きが強まっています。大規模学区の判断は、他地域の調達や学校向け製品設計にも影響します。",
+      "source": "City of New York",
+      "sourceType": "official",
+      "category": "政策・社会",
+      "publishedAt": "2026-09-02T10:00:00-04:00",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "impactScore": 84,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/647f6a968eea0399521b7934418b1aff"
+        }
+      ]
+    },
+    {
+      "id": "world-labs-atlas",
+      "rank": 8,
+      "title": "World Labs、映像から操作可能な3D世界を作るAtlasを発表",
+      "originalTitle": "Introducing Atlas",
+      "summary": "World Labsは、テキスト・画像・動画・3D入力から移動可能な三次元空間を生成するワールドモデルAtlasを発表し、早期アクセスを開始しました。",
+      "points": [
+        "実写映像から新しい視点の動画、点群、Gaussian Splatなどを生成できます。",
+        "ロボットや自動運転向けに、現実の空間をシミュレーションへ移す用途を想定しています。",
+        "最大1分・1440pの生成を掲げていますが、現時点では早期アクセスで提供範囲は限定的です。"
+      ],
+      "whyItMatters": "生成AIの対象が文章や画像から、移動・試行できる空間モデルへ広がっています。映像制作だけでなく、ロボット学習、シミュレーション、ゲーム開発のデータ作成を変える可能性があります。",
       "source": "World Labs",
       "sourceType": "official",
       "category": "研究",
-      "publishedAt": "2026-09-01T23:35:01.433Z",
-      "url": "https://worldlabs.ai/blog/atlas",
-      "impactScore": 93,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos"
-        },
-        {
-          "name": "ITmedia AI+",
-          "url": "https://itmedia.co.jp/aiplus/article/2609/02/2000001068"
-        }
-      ],
-      "eventUrls": [
-        "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos",
-        "https://itmedia.co.jp/aiplus/article/2609/02/2000001068",
-        "https://worldlabs.ai/blog/atlas"
-      ],
-      "eventTitles": [
-        "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
-        "フェイフェイ・リー氏のWorld Labs、空間知能オムニモデル「Atlas」発表 少数の画像から3D空間やバレットタイム映像を生成",
-        "Atlas: A World Model for Spatial Intelligence"
-      ]
-    },
-    {
-      "id": "wired-ai-6a98445d5b3846267183e587",
-      "rank": 6,
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "originalTitle": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others&#x27; intellectual property is fair use.",
-      "points": [
-        "The US government wrote a letter in support of OpenAI’s argument that training AI on others&#x27; intellectual property is fair use.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "WIRED",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-09-02T18:41:02.000Z",
-      "url": "https://wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-      "impactScore": 91,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "shiritomo",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LVThVT1RhaEhBanI1cGNPN0FiOGhCalhsOHJsSXBOVjR5T1l2LUliQzhCNnh2NmhUQmZPZ2JKSkg?oc=5"
-        },
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdk5TbGNnRlRYN3NlQmYtcXhYNGZqaWxQTUtZQ3ZsX1pzTE9JZmg3czJINDY2ZExxWV9Oc3JkdnJOQUdocmtHTmF3T0dnVDRQMDRCMVR6VUZiUlBlaUZsbUpvZW5UamNVRXc?oc=5"
-        },
-        {
-          "name": "ニューズウィーク日本版",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBMDE5ZHVwZnQ4NElQNlBnLXVpZHJLNHV1VmtwVGt3ZEZiQU5vVXA3V1VyTHVRZzVGcFQ5LTdsYm01RjlsbmpUZnZRdF8wVEsxVlZROWxzOFh5dw?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LVThVT1RhaEhBanI1cGNPN0FiOGhCalhsOHJsSXBOVjR5T1l2LUliQzhCNnh2NmhUQmZPZ2JKSkg?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdk5TbGNnRlRYN3NlQmYtcXhYNGZqaWxQTUtZQ3ZsX1pzTE9JZmg3czJINDY2ZExxWV9Oc3JkdnJOQUdocmtHTmF3T0dnVDRQMDRCMVR6VUZiUlBlaUZsbUpvZW5UamNVRXc?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBMDE5ZHVwZnQ4NElQNlBnLXVpZHJLNHV1VmtwVGt3ZEZiQU5vVXA3V1VyTHVRZzVGcFQ5LTdsYm01RjlsbmpUZnZRdF8wVEsxVlZROWxzOFh5dw?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtazd0dVJTZ2RNdTV0SE1sMDdkWmRyZWFMLVIwZl9peWpScHpJNm4yQ2QwM2paakZtOTBOak52M01rREMtbENuSklSOGYyTHBZWnAwbFJrU2E1NEpjeS01cnF0V1FjbW1PVXFlR09mcmhmM01EVkNibUNSdGJ3TlU?oc=5",
-        "https://wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxOeG9Id0psZ004cm9jS3pIY1NXaHp2ZVVCWVFPXzU4TjdkWmNFWjY4cEYzeEduMGJCMTJzTks2OEZTcTRZcTZCR3pLR1ZTWGtQSWNDNnp1Rmd0bWRxSXQ3cmc3NVVkNHAzeURQcFI0MGxGX09HbXRFWmVieVVmdjAtcVJJcC1IR21LUDVtRTFJX0NCWW1yN1ZKWVRjV3llQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUZsQ3p5ZW9HOWl0SFliWG9YanlpRjVpVjdvemxDNUxtckRYUXB3QlNFNWJhTGZtOWVENHlMbmZIaldYNDJGRklkMGxOZ0tYbjk3bU1fdVFyT3VZMUVieXhRVDlFZDB6U3FpOHp4eGpTNzFNMElMb2NXbmo4aHBVdVM3alBRYzFVblN0Z3pRZldBY0JZeFU1N1d2dy15UGV2OWVaY2NhOWdJcjJXbm5TTVFtdnRTdmNGWjFreGtrV0s?oc=5"
-      ],
-      "eventTitles": [
-        "学習は擁護、出力は不問——米司法省がNYT対OpenAI訴訟で示した「半分だけの味方」 - shiritomo",
-        "トランプ政権「記事のAI学習は著作権侵害ではない」 OpenAIを支持する意見書、対New York Timesなどとの訴訟で - ITmedia",
-        "トランプ政権、ニューヨーク・タイムズなどの著作権侵害訴訟でOpenAI支持 - ニューズウィーク日本版",
-        "米政府、NYT著作権訴訟でOpenAI・MSを支持…「AI開発は国家安保に直結」（中央日報日本語版） - news.yahoo.co.jp",
-        "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-        "著作権を巡るOpenAIとニューヨーク・タイムズの訴訟について司法省が「AIトレーニングはフェアユース」と主張する書面を提出 - gigazine.net",
-        "U.S. Government Backs OpenAI in AI Copyright Case - Whalesbook"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-ndtv-com-1c6c05a466dae32ba9c9",
-      "rank": 7,
-      "title": "Mamdani Announces NYCâ€™s First AI Policy, Restricts Generative AI In Grades 2â€“8 - ndtv.com",
-      "originalTitle": "Mamdani Announces NYCâ€™s First AI Policy, Restricts Generative AI In Grades 2â€“8 - ndtv.com",
-      "summary": "Mamdani Announces NYCâ€™s First AI Policy, Restricts Generative AI In Grades 2â€“8 ndtv.com",
-      "points": [
-        "Mamdani Announces NYCâ€™s First AI Policy, Restricts Generative AI In Grades 2â€“8 ndtv.com",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "ndtv.com",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-09-03T09:28:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNclFacHN0MTVTb0RROVM5YjdnQjZyUGhXTmJndUZEaHZDZC05TWphd3RrQUFTLTF0MElNRmUyaWlUWURacVBHR3l3WkN6cWhwaGdqUkN5UGZwdk1aNzluUXhwbUItUUp0djBXMWhIREtOS3UzdkZwTXYwUWowRGhnVUhNMUZOVVFnMDExdVl0S1FwQ0ZSQ0liQ1dVaXF1WHZPd0xnOGpTOHlQWXJBZV9MSw?oc=5",
-      "impactScore": 89,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "edtechinnovationhub.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUltWmYzdThaRlBjTUx5RXQ3b2xKSzBlQW9iRGVFRENpUEVWRFk0V3l6Tm5abWtnOGEySlQyd2JhSXdwWmZ2YU1qdmEtcUtFN2w5VWNwRFNPMEtJcXVWaDZha0pOckhRTGE4T05pOWZDWnJxSkhpUW83cVhuYXhQdnlnOUJzTS1SU2g2R0RYNGZNNjkwcjJCNkMyS0l6RGdHRWRkNXhSamtnZVQtODcxbEtsN1ZvVXJH?oc=5"
-        },
-        {
-          "name": "ビジネス+IT",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84WkcwLVlpWEF6NTVQR0c1TEVqekVrNzZmREZwU2ZZVTBHWm9kZl9rQ1JhUUlHZ0RnMFFFUGFzZWEwT1ZPZ29jRWE1cmVIZXc0T093?oc=5"
-        },
-        {
-          "name": "itmedia.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rR1NGUnFib29MN0l2a25TMjBSU2hoYnJvYVFsX0ZXWTFrQlQ0RkN4VTNMajhrVFRydDFQYkxFZmpKUHFwVkttbjBVdmQzMlRnTWszS0dtQ0ZmVlZCdmxnb2pfTzN3SEVtQ3c?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUltWmYzdThaRlBjTUx5RXQ3b2xKSzBlQW9iRGVFRENpUEVWRFk0V3l6Tm5abWtnOGEySlQyd2JhSXdwWmZ2YU1qdmEtcUtFN2w5VWNwRFNPMEtJcXVWaDZha0pOckhRTGE4T05pOWZDWnJxSkhpUW83cVhuYXhQdnlnOUJzTS1SU2g2R0RYNGZNNjkwcjJCNkMyS0l6RGdHRWRkNXhSamtnZVQtODcxbEtsN1ZvVXJH?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNclFacHN0MTVTb0RROVM5YjdnQjZyUGhXTmJndUZEaHZDZC05TWphd3RrQUFTLTF0MElNRmUyaWlUWURacVBHR3l3WkN6cWhwaGdqUkN5UGZwdk1aNzluUXhwbUItUUp0djBXMWhIREtOS3UzdkZwTXYwUWowRGhnVUhNMUZOVVFnMDExdVl0S1FwQ0ZSQ0liQ1dVaXF1WHZPd0xnOGpTOHlQWXJBZV9MSw?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84WkcwLVlpWEF6NTVQR0c1TEVqekVrNzZmREZwU2ZZVTBHWm9kZl9rQ1JhUUlHZ0RnMFFFUGFzZWEwT1ZPZ29jRWE1cmVIZXc0T093?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rR1NGUnFib29MN0l2a25TMjBSU2hoYnJvYVFsX0ZXWTFrQlQ0RkN4VTNMajhrVFRydDFQYkxFZmpKUHFwVkttbjBVdmQzMlRnTWszS0dtQ0ZmVlZCdmxnb2pfTzN3SEVtQ3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjBfUzB5b3R1b0ZrQU1NSm1KYzVTLTcybWxMN0Q1Q3EwUVB2QmVHQlhTNjdLQmRRZTd3NENpM0lDZmdJSWFUcW1DTThaWmJrNFZaUFZlYVpoM2VERG1qelRiUDJnLUxqSHVUd05waFJ6ZE4teHUwb25nOVA1eVhuWUQ5RF9zbDdURFhSS05tN0MxZURFMDl1Q1VfMjZ0Y1pTSVp4UHJDak9JN0FtOEhHS00xOUl4cU5Z0gG-AUFVX3lxTFBTeklCQ1NiMkFJOUNjd1dPakpOa0EwRXd4UkEtY2FnQkxXS2ZLV2FDN1JaOTJmQVg5WXNNbWQ5MU15OWpmdW1GbzFNOFpNbjVxa0RvYTRULXdKTmlmMXRYWmRaVHRUVFlQQkFYX0pkcGFzS3RncElCRFNiNnFyRUJ1R3ExLXlFQXNITEY0MVlkTm1UTlZQM2Z6V3E2NHVfRGE4QnBSMEhjTFNXSUpoMW9MdHJPUUwzRHVxdnhWNkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTdzd3dUb2NYMksyTWRZQ0F1eXptMVZIUld6UWRiYVF1WVZwMC1UWlFGUWxZVU02dUNpWklCZTZZVnI0MmlPTGVOVjVUQ2Z2ZWhHRWFqTVRZZEJ4VGJzSnBwUi1zU3pTV2FTNHVZTDdMempiZTVmaGRWdWUweUVCNk5pRFZLTU50VnRnVTRxUzc4aDY2cWVHZmlqR09sNktOYmw2MVh2ZE1XczJQS19sSXZyOFZpNXdaRUJweHBiakNWeTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QQ0FMb0lOaUllQV9NaFc0U2dzTU5zYkpjN2djczJEdHBNcU9XMkFBWmJnR2Z4Rm5VTTY2QmtWdW5LUjBMcHlPQmNFdEJRUGhldDlRNVJJRmhhU1F6ZWhOOGIzMUx5dGJa?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaEw2cjVJQkF2U3d0Uk9UWUJiNzVMV0hEQWdMTHFMT2U0c0ZyN3FwOU80REwwbFA0Y3JSUk1zUG9jZlBRT1NURFN3R3dEY3oweWRPN2Vlems5WXdmUGFpaW1reUFPazF5cWt3aXhiVVRnWllCMzJhMkoxa3lXakh2clFNcw?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXFtU0NnWmN1aGlubkRFb3ZSbHExZEU1MTFqaHBjSnZYT1Z4bHFhRnEzbE81RW55U1ZNbWxDU2Y5OTJPZXhUNFlIVzMxTFdVeFZ5V1B6YmN2VTFFUzVDY0VIcVlHM3lhMXhLcFY4TXRWSXdlbjM4U2tNakVHTDlxWjlR?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSm9wUlpudjItTVJzUklmczhlbXNjMzU2VkN4U1d0LWdTdmN0aU5sNU9ia1lIWXdHNEp3eWdpMHRXMWNMT2pBd1BXZ1lzZmZtMW1QRWt0OTNSQ09QZk1ndGp5UWFpSzNlWm5SbUlYOUpXQlF4b1RuenAxTVFQQlRGdU9qRdIBiAFBVV95cUxQUXRadUY3QmcwMkl1Ul9wTlJUOHhXcFVfQUtLZC1KRVhBX2dNSDRqTUNOT29DOUpMeUtfd1U4SENSRWRBaVVwSGlWaWJVazgwbzhZTzJVOFlCVXlVMmI3Q2VFdzdCUTBsZGlfeWRDdkVXNVpfSFF4ZHZGS2hvYmpPVXBocDNnX2Nq?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lQTQxOF9HUk92VlV3SlRPUS1PbGY3bzNYbHJrczRhMXA1MGlvdkVFRnZlTjFCeHhQMVJnaVpxMVktdHFXcTl6MHo0YmFZbXI4TmpITFJOdGl5UmN2SHI2aUpsMUlJdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yR2R0Rm05VXpsczRnOERfZDRmMDgzWW5zOThWRC1xUm5aWXRzMXNhY3NGZWZlM1RmN25RZVQ4S29yUWJkUmxsWVJfWDhIeXd2Z1piU2NFUVNQWWJvU1BHMXl3?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOUxseUM4b3NZSmVIN0hIb1B4UHVRa3o3ejVSYmo3N2xjZDdLZkVUVzBhWkJrX0E0ZGpzRHpNbERzQVpBeUJCTG1JY1VhTml3TG1uaF9iVFNLWGNNdUE3YkFNaFVMYU9taFEzWENwY25xOV93RXdhMDUzUGJVbklieFUwaFpkSDFUanZGd0tzQ2NaWHpFWlhfWHY5ZWZETnJDem9yWGI3TFItRGpzYWpnYXFZT1pLWmdRbUtzS3RWLWtnTEJnV2ZyTHhwVkRKeVlwX0M3dklVQmZXX1p0TWVyMVEwOTVPQzBBNEVrZGFn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGQ2WjhuMWstTldyQlBmTU5qMFFEbnJkbVhoOGhhRlIyendGLXE3S2hCU1hVWWZvTjBudHJEOV9fUUhJSWtSOUV5NndWaEpwclo4cE9nMU5KYkp6clBwV0Q0azVvUlBRaDV1N3E1ZnVLbVpZZGQxdUtJTWFhTlRPbmhRV2FJM0pfLVRWRFpiU1c2LXJSWEk5SHJCOEU4aE50Y1pNa18zdHDSAbYBQVVfeXFMTktndmxmbjU2RkdpODFqazdpb09kTFBkWTdJYkFfck5GaWZVQ2ZWeDhoSzhBVGtnZzZFLTlGVkZBQnhmdDNRRzgwajNDUHFBOVRRYkFHSkxNU1IwUVBBVzkzN0JCVDRPdkxJS2NucmZGRjdOS3diV2VRNFdrbGNhWG5iS21MOVBzMjRlakVIcXh3RHE5cTFGa3dHSDRoRTVKbWw3OC1UUUhiM093aW8yM280V1lYQWc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGxhd0psSnVXWVhNOU9yMURKLTVFNFh4bmFqY2duLWd5eU9Pa3ZNcE13YU96aXFKTm1xck1xeldSNFJ0bmFwcnBXbHhhYUJHeEtKZzdDc2lwQlRvMmZkWnhsSVdLa3FqdkRPRExPbS01SjdSQm9OTFI5MnotX1BPamx6cWJzbFBhaV91RVZGZndaenlZM3dVTEgtVUpqeE1lR1htLWp5SdIBpwFBVV95cUxOUVUxU0FodWhaSnRUQlZQajlIVmNQdGRPVDJtOV9obFNfUXJSbm9feU85cjNFSlBvX1g2VTNPT0dSOWwtSkdOSFNxZDhlaHhBS2k2X3htVEJGZ05iSThTMUdWSWpQU2Z2UUVWay1nZm1DbUJ1M0NPWUlES3p4dG9LUFJ6eEZxY2FIdzV6ZDdTb1ZrcDRwTFdVMDViLTJwMEl6b3dCQmFOQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTktJOEJiWWs5R20xb043eDh3dVRfWHZjM2xRLWNCb0tsN2JaekZVRnRod2tGLUxDNndFZ3pjblFTVG1ZalItckMzcFZzbmE1T0pOc3dyWXhJaHQ5UFBGbzJqa1QtSFVDSVkyd29NRFdMdXV2clNYMFNSTDhtYWxWNGxKQlpmUG01?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjJ5NzJkQ1JEQUc2b05GUlpRdWx4TU1QTFI4eG1ZRDVjeTE3a0Z0cnZLR1JpMFROTHlFOEVYRENvamlMS2FJcExtNTRBZkNRRndDbEhaazNXSVYyaUJVbjNuZlcxel9tX0tMUzNZREpLZ2RISDM3ZGlCMGpnNVRCT2dXbHhRWFVQY3RSUlhHN21MM1hjaEE?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlNTWXFCSEppQTJ2RDN4dTNRTk13TmhBRWdtRU9MekFtb2tpWlgzSlpMdzFfQ2owcVBJc0FxTHZJWXR2YWIzTXNfX1RxNmEzZTlfb1BzUTBfWGJlZVVaaEtiRVFNb09MOXhwUG1SdXB5ZWdpOVQxSVoxcjNqRGhtTGlET3NNbTUzNWpHRlIyWU9faFU5aHBTRTN3YzNQSmRqVTA0Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxdjYydHJ1aW5KYWxOcUt4a2RIU0YyMk8zalFpVFRiZ1pCcHFXcGg0c2lsOWlkZDBYVkN2MVFqUnJuQW9kekdQRWw0TDRMRkZOa2txMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVZFUGRQLWhYVUhMR1ljQjQ3cDdjems5bVd6WHhhWVdpWFEtM3V6TldSd0VRYm01Q09RQ3k3T2IzRUM2X2gtWHJxbDNDNXcyMXZQLVJnZ3N6US1FLU04cGdHX0RDVUVzUW5yLWJsMGxZd25JbWhSWkVMb1BDbi1vbmlWQnFQYkc30gGQAUFVX3lxTE95Vmlna1VCZXZWMHpjajdpMnJOM2hCSWNxTHZPQWloVFVzZHlxQWJ5b2ZCMTV2enN3SFhuWXEtRFA4bnRISnRUMjBJUG1pZXpGUXIzOE5ZQS1BY1ppWVhpaFk3WkVjRmtreXBrcGo1TTB4OHpweHIyX2ZoZkg2NDNpOFVCQWxqZk5DbUNEVy1FZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGtYSUptWmN4YmhFdEZYMVNYYzdtRHpxWG9GWV9FWjJuZURSb2sxTGV4aE5pdURUWS1tUGNmZjRQTDdSRkMxYk1lRHdQV2dkWlRDN0Zpd0FzcGxmWS1RWWNEUGkwUjFKenp6NUJWYmxfOTExOTVqQVNDeVZ4ajFFdzRNbDNuM2t2UXdTaW01MHI?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWN1N0xpT1lEdGZlTzFtM1V2N25sV1dRTktidlBLS0Q4TjlIMnlELTFsS1NkWlNkX1NlUTNjd1pJSUlLNjBmV3EyNmk0MTdmMHFTSzVMRVM1aW1uLXlwMS1RZWZrdEk4QlVrRFVYa3RNT1dYNEcwZFcxQXFXc21uWjlTOWpKQko1bktvUDFld3VvQnNGeUx5QW94OFI?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTgtWmN3OEZQWGNfWHRENTlHUFlfOHduckJWYUs5b2U3RnEtbHp4VEZ4M29IaWhVWlQ3VThERFZ6dm16el9YN2lIT3owX2xCRWFEeUFsNFg1NjZ1bWE1dF8wZ3pPUFQzV3RWdWoxRm5ycXVuWjNja0s1ZW44TktPSFU0dGZ2QTQ0Nkd3UjV2VEIyVzRLQU0wVGhFMURsRXJlZDFNOHVTd2J0aXRVMklaa0pHM2hmM0ZqZEcxWnpJNnoyY2ozckE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3dXdlNmZHZlbzBBWDBLOVRVem82X0xxS3h3N3AtR2VVR2pQeWFsYmRmY2VGZHZVd2xMckN6bnFWQk1hTW9USEh5dXdDdElCMVdxUVlOMmU0SHlnRDBjc1B1c1NDODBOeEFObXJsMmJ0YW9xTEVRSW1WYURMSGdPbmV5UnE5Nk5xVURMbUp5dmhvbmZYci1BSXNfY0RoT2szeVRVN2t3OXE?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlR1REw5eDFQaDVkd2p1N0todkd1OTItX215TnU2RHlfRGRFRUtNRjc5a1dtMjFfMzAyc3IzYmlaX2hOaTFzcXNkbloyRGV2VElUeUdmZGd3elU3VG1aUWRVNTlZcjZCOVVnSlc5QkU3V2s5UllJejJrSHdxaTZMb3gzT3N6WmR1OGJMQUhVY1ZQN3pVU1otWkdqTHVYWmdweXI2TlFVeWtUVlE4Q2xIa3hYekcwNi1IZFRZag?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1NHNG5VV3lzVVVsbm52cjZTUEFhZWV2dkxLMUQyR0dGT3RWY3Z0OGI3M0w3UGtZYzFWVTdUdGRxUVR1cWRQQk1maTQ0X1FLWHZBclpwZnhhcGhDcjRKUG5HbThMSkppcGlFc3gtekRGcHZvWV9HZ0hqZGhhb3pCQkNiQjZCM0l3bF94TWhqdDVGZTV1clE1LVRueGZULU5WVnNJUmJnYjRtNzgtazZpQ2luYWdfQXFSa3hGMExWVEJzUmhSajRGQ3NB?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OaWptejVNU1Y1d001WDlLRmdvMnA3OTd1b3cxRUszRjRDX0hrY1U2RjUzOUZqVlNhVjhnT3lFbWx6Q05QcTlGU184QTJabEZsQzRaYUZTYzBzSlZqUmfSAWNBVV95cUxNQVgxRGJwVDhwa2pDLW9yNGRaeXQwNTVURWxKWWU3M3pYeHVqaDVTdHRHS0xpY29mTnhObGRfUGtHbXBuV01DRTBGV2E0bExfSU1iVjhlczFGZ3dZRU9CUEFLSTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHlFVWpiVEZobS1ENkF1bVZ6eFFQSzJ1bk9mdmFPWUs2QUpEeFFCTkhsalhxQUstdlpVa0VULUtOUFBocUtHdkUwVDBmUnVrbFY3TjNjZWhXSFJOV2ZqejQ1U0pYSkpyaVVKSXV6T0tiOXoxSFFTangxQ3FLb20wZUROYVNtOV9ONDEwMUhPWjFKY05EeE5OcUdtRkJEUWdIaHhKNzVIbC00RVRqY3F6NHBfUDU?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWk9nYjJmem1Fa25VQmppOFZpMXVaOGV3WlB0ekpVNWE2NTY2TjdCRlVfeWo2SFlBNUNFUmZFMjNtd0dCTUN0bjJQeTlBeTU5U3pLTjNlaEVZYm9xNkx1eFFlY2t6Wk95T0dYX0Jyd2UtN244TW5DUTNzcWZIRTJLYmU2a1I0UWZqb1FyS3JVcWlsWE5nTWN5VUNn?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXh0ckZlSmlVUjh6LWFXTkQzYlhySmVZT3lFUFFhUk5YZXF3emtfTjAtLWN2ZUVyRmI3bEF1OW0zTFFBNVRVZ2ltQzVqd2hReWtvNWtUSHFHUjVKcUJQc0ZVOWJCT2I4M0pqOTZBX3ZZdWtYNVppN2VDS25uTy0xMWJOTHJtRTBaQ0E?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fbnRvdm85eWt1ak1WSTRqWGw2MkdQdlVKWVJWUGx2REx4RUM5VlVGcm1PeEFMSXloLXpIZjdoc2RDa0JhNFYzeGt4YkNYM3lhc0NLbTZGM21iV09kblhOWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVktPRERhd1RhbG5LeE10enFqUXY4TkNhUGY2Ukh1Y1gzZ3NicDl1LUgtWEd0ZjI0eEZvdDVpbV9GeFc1V2x5alo3WTBvdEU4T3FRdktoQWk2VFZ4dHRJV0dIQ0JITC1RbXBSQnBvYjRSaU5oZTRRRl9TWExLRnhhamVzMlZjUG1rSlJPWDE1NEZKbGxWYm1pSE9OOXlNeEZqOHZRLVhZRlhiVlJkRUxfS2ZkR0JQNV9fcVpVcHRpczN4ZF9qd1E?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dE1ReUxQOEhULUlfN05fQWtPclJiVHVZZm1iYXBxbnlGeWtFaDBjZXJqNUV4anNEMXY5THVqVUQxTUk4VEFKVGwweEZlSUJjSFg1VlZ2c2c1QVl6WGs5THVHMFI3dEkyU3l4cGUtQWFobVZXeGc?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4NlZWUnpLQVE4OVlwdzIxU0NpaEJ2TDJlWmItUmloWGJCd1J6bkpGamZGcU5BbGYwN2tIMnViZ00zTTdpWjJmTUhiYWlQcnJLRmlIVDdTN1lhdkYz?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekpycGpMdm9Venh3c05qQUVZSU43bDVJcnRjOFlMaWFxb3JvQk5VWlBESFRMM0hvVmw4VFdKNnhveDdJMzNSa09FMDdMLVpzSjZNZEk1aFE5MGszVm1Yelo4VWl2dTU1M1NUZ0djaExSRVdoMm5aNlpGNG9NLWRQWUpwUm9TVDl0UTVEWnJWbXlCbV9lNEtwa29udDlkbHhYRmFObXl3UHVzbDEzWGJtaTJWU2FmNG0zWktrUtIBwgFBVV95cUxQdm9VWWdpQ0lyN2ZQMlZuZU9PVFlkWERzMUgwOVE1STFEV3JuRzFwS2tvRkd1N1BUYy02WjJhcWtldnBxanp2OWN1T0x3OUNqV0xXdXV4N2FvM1djX3QtdWNvVzI3cVhpbGdKZEJGSGN0M0FtZ3FuaGNDZ3pJMVo2eTZNdFpNX2VKc3ByU1pZVVo4RTQtMnl5UkVsbDlSZDY3WjlzWXk2bG9ocDQ3LUd1Tm9Kdnd1YnhidUhqX2JEOWtmQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9VWWdpQ0lyN2ZQMlZuZU9PVFlkWERzMUgwOVE1STFEV3JuRzFwS2tvRkd1N1BUYy02WjJhcWtldnBxanp2OWN1T0x3OUNqV0xXdXV4N2FvM1djX3QtdWNvVzI3cVhpbGdKZEJGSGN0M0FtZ3FuaGNDZ3pJMVo2eTZNdFpNX2VKc3ByU1pZVVo4RTQtMnl5UkVsbDlSZDY3WjlzWXk2bG9ocDQ3LUd1Tm9Kdnd1YnhidUhqX2JEOWtmQdIBwgFBVV95cUxQdm9VWWdpQ0lyN2ZQMlZuZU9PVFlkWERzMUgwOVE1STFEV3JuRzFwS2tvRkd1N1BUYy02WjJhcWtldnBxanp2OWN1T0x3OUNqV0xXdXV4N2FvM1djX3QtdWNvVzI3cVhpbGdKZEJGSGN0M0FtZ3FuaGNDZ3pJMVo2eTZNdFpNX2VKc3ByU1pZVVo4RTQtMnl5UkVsbDlSZDY3WjlzWXk2bG9ocDQ3LUd1Tm9Kdnd1YnhidUhqX2JEOWtmQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaU5fV18tWjNvY3dFa1JIZG1obE1DNHh3WW9PaEV5TzhoT25hdWNibHBRd01NX1U4R1J6b3QyQVlhVUNVRy1ZeG5meGlxQVV2QUhGSVkybHkxZjdJUWgtVHlHY19CR0o4WTZnM24zQ1FfSDF0Y2E3OERqUWR5UGZQbF94eE9ITjlTUVNkeQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jVE5VWWpBektDd21NamY0NEdmakQ1WDNOTGxIdkFDNGpWMjlDbENueWhOREE2NjRfUW1vVkttM1JIUGRXUUlubk9IQ2xyQW1VQm9fYmFCSlRCVjlYbkHSAWNBVV95cUxNV09aUy0zQlZCTUZOTnBMNFNZdnA5RUNjSjZjczRHaFAzNVkwcU5YUGk3cFpqYUVvVm1oUU0xak1Yb0ZhOHRUVndHMXFnSzVQMm9YdFNhQ3N5X0o5ZDJKUVFDa1k?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTVQc2NpeTBKMngtbUpJUm5HXy15OWQtYTZyTExEeWMwcl9CLVhIdnBjUi1oQWdwZFZEVktkWmNQQXZIbnNpUC00WGo5elJSTndHRWJReEcyVURMS2wyMG9VWGE0RDMtd1JfRDJWNVphNTAyT282Y2NqeER6bks1b25nWThiRFVSMFZ3MlFhRFJVYmU4SWhfc1RqM0UwOUhOSHhlM3BR0gGmAUFVX3lxTE1JNVBzY2l5MEoyeC1tSklSbkdfLXk5ZC1hNnJMTER5YzByX0ItWEh2cGNSLWhBZ3BkVkRWS2RaY1BBdkhuc2lQLTRYajl6UlJOd0dFYlF4RzJVRExLbDIwb1VYYTREMy13Ul9EMlY1WmE1MDJPbzZjY2p4RHpuSzVvbmdZOGJEVVIwVncyUWFEUlViZThJaF9zVGozRTA5SE5IeGUzcFE?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFdsVlpWR242ZlczN1ZQTUpQZHBQTW9xUkNod2pJWVlTN1VtVW5lSFhrbXowZEU4MW8tbWlWbGxEUS11QTFFOU1qQWlhWFNlUHFUZHNNejk2S0k1MDNuTm9QTmhrajhwUXdBVEVaMmVUdXA0NGR2a3BpYmRLT3F3eXpseVYwZGdkdDk4dzZjTWhfaWFIS29n0gGcAUFVX3lxTE9yVVdfLUc5TGZtcHE2OTRFcHRDQ1ZLZnZpVFhQV0t1OXVwa3F0RFc3NHZ1UDhqc2xFRzhnNjRJZnhTS3o4QmtaSmlLWW5vVlZsSDl0aDJfTV9VbmtPdU1aSGMybnM4OU5sTTJpNzM1ZnNWNmRUNU5GNTBYeHlwOTRBbHZLN2FfU1psaGdJRjRRVDYtNThKYVA1Ujh5VQ?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwdEQtV0JLejRiNU5VX3FnM0RoTTlkZDY2WXE3ZFN4VlBjOEx2OWhXc3hRbmt2WThuYy1Ya3NKZmdSU04yN3FHa0hEUVdLRE1rOU1UUmNxaGkwM181Ym5fdGZOSGVwSlh4TEpZT1o2U3ZvOHFTT1HSAXtBVV95cUxQUEV4UDlKR0xVbjZRLUhEc3F6Y2JSOWI5M0x0TFNvUTdodUJyRk52aDVXUC00VjY1MTN2SlU4bHp3elR0dGRXWjNybXdnUTVSYk82ZVpzQmNxOVY2UnNpMHhxS2NJY0JjZWp6UnYwUVlqa3o4WHEzSUprM1E?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3pqZHE4WVFwdEhYdlM5MWc1QlJDQTE1TXdqZENVMDlKbU1veC1BNGlVNzRVX1NpR0tGNWwtN2FhRHdtNVdrZm0wLWgtc2xCRkNQU2pJV0tsTFJmbTBTUW81V0J4d0Z4ZmE5RmV1clhNdVhjV0JOVnRqZlZERExRcWRzQWE4WDNZNmlfZVZuVnptV0xEWGY0b29DM0dXNGVzZ2pPOEFB?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclVXXy1HOUxmbXBxNjk0RXB0Q0NWS2Z2aVRYUFdLdTl1cGtxdERXNzR2dVA4anNsRUc4ZzY0SWZ4U0t6OEJrWkppS1lub1ZWbEg5dGgyX01fVW5rT3VNWkhjMm5zODlObE0yaTczNWZzVjZkVDVORjUwWHh5cDk0QWx2SzdhX1NabGhnSUY0UVQ2LTU4SmFQNVI4eVXSAZwBQVVfeXFMT3JVV18tRzlMZm1wcTY5NEVwdENDVktmdmlUWFBXS3U5dXBrcXREVzc0dnVQOGpzbEVHOGc2NElmeFNLejhCa1pKaUtZbm9WVmxIOXRoMl9NX1Vua091TVpIYzJuczg5TmxNMmk3MzVmc1Y2ZFQ1TkY1MFh4eXA5NEFsdks3YV9TWmxoZ0lGNFFUNi01OEphUDVSOHlV?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaE1CMzZJbnpLSVJQLUllb1NEaS1RWjhqaC1JQkh1MVRIamlYeEtFUXF0WVkzdUNRSWRnZW1YVnJEaXBMal9IdmFla21xNjlNdTZzTE9VbmRySHlhTjlFV1hyTml5VTJqLXRyRWZiRmFQSG80UTN0akNZNXJIb3VzSjdNVnNVTlE4SVFnLUUzV044ZjNoZGJ1U2hoS1B3VmVHOUNldU4yOVM?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjNRZXVZbUFYWFIyOFYyWm5Sd2t6N0hQYzA1Z3J1cHc3dDJ3WWZVUFlRUTVmTV9rMHpVMjJUcFJQQ1hRWDlDMG5rTXlLcjJGSnpPZUI3a1NUQlpqbnloTzMwUHpmbTJyXzBrNHZXMmMzaUtiMmE1VmxwN2phTmhGczN2Y3B6YTJKcEJUNDFGc0JGRXBwaXZ2cWt1c1didl9pdFEwelRXNEZmRHdNYVBxb1gybEFENnhLbU54RmhMQXJKZw?oc=5"
-      ],
-      "eventTitles": [
-        "New York City puts one-year school generative AI moratorium in place | ETIH EdTech News - edtechinnovationhub.com",
-        "Mamdani Announces NYCâ€™s First AI Policy, Restricts Generative AI In Grades 2â€“8 - ndtv.com",
-        "ニューヨーク市、中学生以下の生成AI利用を1年間原則禁止へ…公立校約60万人が対象に - ビジネス+IT",
-        "ニューヨーク市、公立校で生成AI利用を1年間禁止 8年生まで約60万人が対象 - itmedia.co.jp",
-        "Mayor Zohran Mamdani Bans Generative AI in New York Schools - The Hans India",
-        "NYC Mayor Mamdani Bans AI For Students Up to Class 8: Why Is He Limiting Gen AI in Schools - Mashable India",
-        "New York City introduces a generative AI moratorium for younger students - Digital Watch Observatory",
-        "NYC schools ban student-facing generative AI through grade 8 - medianama.com",
-        "NYC bans generative AI in public schools until Year 9 - thedailyaus.com.au",
-        "ニューヨーク市、公立学校で生成ＡＩの利用を１年間原則禁止に…２歳児〜中学２年対象・電子機器の閲覧時間も制限推奨 - topics.smt.docomo.ne.jp",
-        "ニューヨーク市、公立学校で生成ＡＩの利用を１年間原則禁止に…２歳児～中学２年対象・電子機器の閲覧時間も制限推奨 - 読売新聞",
-        "ニューヨーク市、公立学校で生成ＡＩの利用を１年間原則禁止に…２歳児～中学２年対象・電子機器の閲覧時間も制限推奨 - yomiuri.co.jp",
-        "NYC Mayor Mamdani announces ban on Generative AI for studen… - GujaratSamachar English",
-        "NYC imposes yearlong ban on generative AI for students through 8th grade in America's largest school district - edexlive.com",
-        "New York City imposes year-long AI ban for younger students - DW.com",
-        "New York City Bans Generative AI for K-8 Students - 조선일보",
-        "Generative AI banned for some NYC Public Schools students - PIX11",
-        "New York City to ban generative AI until high school - The Washington Post",
-        "New York City Education Department Bans Generative AI in Elementary and Middle Schools - dongascience.com",
-        "New York City Pauses Generative AI for Younger Students - findarticles.com",
-        "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools - NYC.gov",
-        "NYC Bars Generative AI in Elementary Classrooms - Briefs Finance",
-        "New York City bans generative AI for students, limits screen time - wng.org",
-        "NYC mayor moves to block generative AI in classrooms for young students - upnorthlive.com",
-        "NYC to ban AI in preschool to 8th grade this year, but AI skeptics fear ‘exemptions’ - New York Daily News",
-        "NYC’s new school AI ban explained: What students and teachers need to know - Chalkbeat",
-        "NYC mayor moves to block generative AI in classrooms for young students - KBAK",
-        "Why is Mamdani banning generative AI for NYC schools? - FOX 5 New York",
-        "New York City is banning AI in elementary and middle schools. What is Connecticut's policy? - stamfordadvocate.com",
-        "NYC Bans The Use Of Generative AI Tools In Public Schools For Students Through Eighth Grade - Engadget"
-      ]
-    },
-    {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-98014",
-      "rank": 8,
-      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "originalTitle": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurt",
-      "points": [
-        "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday.",
-        "Attacks are now automated.",
-        "Defense has to be, too."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-09-01T21:19:20.000Z",
-      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://www.worldlabs.ai/blog/atlas",
       "impactScore": 82,
       "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026"
-      ],
-      "eventTitles": [
-        "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia AI+",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001068/"
+        }
       ]
     },
     {
-      "id": "meta-ai-research-sitemap-https-research-meta-ai-blog-introducing-muse-voice-transcribe",
+      "id": "alibaba-qwen3-8-max-0902",
       "rank": 9,
-      "title": "Introducing Muse Voice Transcribe",
-      "originalTitle": "Introducing Muse Voice Transcribe",
-      "summary": "Introducing Muse Voice Transcribe, a real-time audio perception model for streaming speech recognition, diarization, and endpointing.",
+      "title": "Alibaba、100万トークン対応のQwen3.8-Max-0902を公開",
+      "originalTitle": "Qwen3.8-Max-0902",
+      "summary": "AlibabaはQwen3.8-Maxの新スナップショットを公開し、長時間の自律開発、複数ツール、文書・表・画像をまたぐ作業を強化しました。",
       "points": [
-        "Introducing Muse Voice Transcribe, a real-time audio perception model for streaming speech recognition, diarization, and endpointing.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "最大100万トークンのコンテキストを掲げ、長いコードベースや大量文書の処理を対象にしています。",
+        "開発支援に加え、文書、図表、画像を扱うCowork型の作業も強化しました。",
+        "QwenのサービスとAPIから利用でき、モデル提供の選択肢を広げます。"
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Meta AI Research",
+      "whyItMatters": "非常に長い入力と複数ツールを一体で扱うモデルは、検索で情報を小分けにする従来の設計を変えます。中国発モデルの企業利用と国際的な価格競争にも影響する更新です。",
+      "source": "Qwen",
       "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
-      "impactScore": 81,
-      "impactLabel": "大",
+      "publishedAt": "2026-09-02T08:00:00+08:00",
+      "url": "https://www.qwencloud.com/models/qwen3.8-max-0902",
+      "impactScore": 79,
+      "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "株式会社インプレス",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY04zdnV5V2NoQlpKRDI5eVhTQll3RUJ0aVhBeGFQOGM1SHlYUzM3eUtHX3JHQUxCMUV4d3E5YTB5a3N2ZGZCbTZLbHlxTE9IQnY5OFQ5c0VTR0RzQ1pTUHQ2SQ?oc=5"
-        },
-        {
-          "name": "Infoseek",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lODJjSlc3OFFLU1o5UkFXTEJ1d2tXeHd1YnYzdGNmTzNkOE9GMzhfUkpVVVFkSkoxTEx6QnIxZkVvMHdIaklXX0gyQWRRalRJYmhSQWtNelNwMWtLOW03bTZhR1h4Y3ZvVXRxam96ajdTbl9raTF4OUhELTTSAXxBVV95cUxNZTgyY0pXNzhRS1NaOVJBV0xCdXdrV3h3dWJ2M3RjZk8zZDhPRjM4X1JKVVVRZEpKMUxMekJyMWZFbzB3SGpJV19IMkFkUWpUSWJoUkFrTXpTcDFrSzltN202YUdYeGN2b1V0cWpvemo3U25fa2kxeDlIRC00?oc=5"
-        },
-        {
-          "name": "topics.smt.docomo.ne.jp",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXRscXNPY1FKbDlsZHZLOS1uRm1mRTlQMU9SaGtUM0dvbzYxZmlIaDI4V2FFX21WRzI4ZkJlVVdCSkhTZlhrbzJ2b2ZSNWpqYUNrTmxQaHl0TWxYNVB3YzBMNjluWE51bU1LWXVTdm51Wk9TSGFqSElCNWs4TU5kZE9OVUZYSmw4TDVMX2NIZElVdDhDVGtoZEpURdIBmwFBVV95cUxPLXRscXNPY1FKbDlsZHZLOS1uRm1mRTlQMU9SaGtUM0dvbzYxZmlIaDI4V2FFX21WRzI4ZkJlVVdCSkhTZlhrbzJ2b2ZSNWpqYUNrTmxQaHl0TWxYNVB3YzBMNjluWE51bU1LWXVTdm51Wk9TSGFqSElCNWs4TU5kZE9OVUZYSmw4TDVMX2NIZElVdDhDVGtoZEpURQ?oc=5"
+          "name": "TechNode",
+          "url": "https://technode.com/2026/09/02/alibaba-upgrades-qwen38-max-with-new-0902-snapshot/"
         }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY04zdnV5V2NoQlpKRDI5eVhTQll3RUJ0aVhBeGFQOGM1SHlYUzM3eUtHX3JHQUxCMUV4d3E5YTB5a3N2ZGZCbTZLbHlxTE9IQnY5OFQ5c0VTR0RzQ1pTUHQ2SQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10WlNSMkxMRUViaFBTQURTM3N1M3VVSEFUem9tN1Z3MHBTbGM4OV9xNnYzN2hXYzlOeG5Ha040U2ZQalpGeWdvOFJCeEhpUUdpZkM5UmtwcWFXenlCaVJBQ0pQdTBqT2g2?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lODJjSlc3OFFLU1o5UkFXTEJ1d2tXeHd1YnYzdGNmTzNkOE9GMzhfUkpVVVFkSkoxTEx6QnIxZkVvMHdIaklXX0gyQWRRalRJYmhSQWtNelNwMWtLOW03bTZhR1h4Y3ZvVXRxam96ajdTbl9raTF4OUhELTTSAXxBVV95cUxNZTgyY0pXNzhRS1NaOVJBV0xCdXdrV3h3dWJ2M3RjZk8zZDhPRjM4X1JKVVVRZEpKMUxMekJyMWZFbzB3SGpJV19IMkFkUWpUSWJoUkFrTXpTcDFrSzltN202YUdYeGN2b1V0cWpvemo3U25fa2kxeDlIRC00?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXRscXNPY1FKbDlsZHZLOS1uRm1mRTlQMU9SaGtUM0dvbzYxZmlIaDI4V2FFX21WRzI4ZkJlVVdCSkhTZlhrbzJ2b2ZSNWpqYUNrTmxQaHl0TWxYNVB3YzBMNjluWE51bU1LWXVTdm51Wk9TSGFqSElCNWs4TU5kZE9OVUZYSmw4TDVMX2NIZElVdDhDVGtoZEpURdIBmwFBVV95cUxPLXRscXNPY1FKbDlsZHZLOS1uRm1mRTlQMU9SaGtUM0dvbzYxZmlIaDI4V2FFX21WRzI4ZkJlVVdCSkhTZlhrbzJ2b2ZSNWpqYUNrTmxQaHl0TWxYNVB3YzBMNjluWE51bU1LWXVTdm51Wk9TSGFqSElCNWs4TU5kZE9OVUZYSmw4TDVMX2NIZElVdDhDVGtoZEpURQ?oc=5",
-        "https://itmedia.co.jp/news/article/2609/02/2000001062",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrdk5ld1VyVERiVWtFSDA1OXNkaXRnTW9TWTNOZkdnN0dZekVXcHRrQnIzQTlPdjhDbFI1YjYxLUJheDYzY09hY0t1WTZMSTd0a3B1eEQxUXluLUJjMVJzbVBHdUw2aXRfT1E?oc=5",
-        "https://research.meta.ai/blog/introducing-muse-voice-transcribe"
-      ],
-      "eventTitles": [
-        "Meta、リアルタイム音声認識モデル「Muse Voice Transcribe」発表 - 株式会社インプレス",
-        "Meta、リアルタイム音声認識モデル「Muse Voice Transcribe」を発表 - 窓の杜",
-        "Meta、初のリアルタイム音声認識モデル「Muse Voice Transcribe」 20人超の話者識別と多言語混在に対応 - Infoseek",
-        "Meta、初のリアルタイム音声認識モデル「Muse Voice Transcribe」 20人超の話者識別と多言語混在に対応 - topics.smt.docomo.ne.jp",
-        "Meta、初のリアルタイム音声認識モデル「Muse Voice Transcribe」 20人超の話者識別と多言語混在に対応",
-        "Meta、初のリアルタイム音声認識モデル「Muse Voice Transcribe」 20人超の話者識別と多言語混在に対応 - itmedia.co.jp",
-        "Introducing Muse Voice Transcribe"
       ]
     },
     {
-      "id": "google-deepmind-https-deepmind-google-blog-proactive-cyber-defense-for-governments-and-enterprises-",
+      "id": "crowdstrike-nvidia-safemind",
       "rank": 10,
-      "title": "Proactive cyber defense for governments and enterprises",
-      "originalTitle": "Proactive cyber defense for governments and enterprises",
-      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "title": "CrowdStrikeとNVIDIA、サイバー防御AI「SafeMind」を発表",
+      "originalTitle": "CrowdStrike launches frontier models for cybersecurity with NVIDIA",
+      "summary": "CrowdStrikeはNVIDIA Nemotronを基盤に、攻撃側と防御側のモデルが閉ループで学習するサイバーセキュリティ向けモデル群SafeMindを発表しました。",
       "points": [
-        "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "攻撃シミュレーションのRed Tempestと、防御・修復を担うBlue Solanoを組み合わせます。",
+        "Falconプラットフォームへの統合と、審査済み利用者向けアクセスを計画しています。",
+        "検知率29%向上、修復6倍高速化、費用99%削減をうたいますが、いずれも提供元評価です。"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Google DeepMind",
+      "whyItMatters": "攻撃と防御を同時に学習させる専用モデルは、脅威の変化に対する更新速度を上げる可能性があります。一方でベンダー評価の再現性とアクセス管理を見極める必要があります。",
+      "source": "CrowdStrike",
       "sourceType": "official",
       "category": "安全性",
-      "publishedAt": "2026-09-02T16:24:24.000Z",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
-      "impactScore": 80,
-      "impactLabel": "大",
+      "publishedAt": "2026-09-01T09:00:00-07:00",
+      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-launches-frontier-models-for-cybersecurity-with-nvidia/",
+      "impactScore": 76,
+      "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "Google AI",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program"
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/"
         }
-      ],
-      "eventUrls": [
-        "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises",
-        "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program"
-      ],
-      "eventTitles": [
-        "Proactive cyber defense for governments and enterprises"
       ]
     }
   ]
