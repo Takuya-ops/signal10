@@ -33,7 +33,7 @@ export function isPublicAddress(address) {
   return false;
 }
 
-export async function assertPublicHttpsUrl(value) {
+export async function resolvePublicHttpsUrl(value) {
   const url = new URL(value);
   if (url.protocol !== 'https:') throw new Error('Only HTTPS URLs are allowed');
   if (url.username || url.password) throw new Error('Credentials in URLs are not allowed');
@@ -45,13 +45,17 @@ export async function assertPublicHttpsUrl(value) {
   }
   if (isIP(hostname)) {
     if (!isPublicAddress(hostname)) throw new Error('Private or reserved IP addresses are not allowed');
-    return url;
+    return { url, addresses: [{ address: hostname, family: isIP(hostname) }] };
   }
   const addresses = await lookup(hostname, { all: true, verbatim: true });
   if (!addresses.length || addresses.some(({ address }) => !isPublicAddress(address))) {
     throw new Error('Hostname resolves to a private or reserved address');
   }
-  return url;
+  return { url, addresses };
+}
+
+export async function assertPublicHttpsUrl(value) {
+  return (await resolvePublicHttpsUrl(value)).url;
 }
 
 export function hasSameHostname(left, right) {

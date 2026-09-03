@@ -1,4 +1,7 @@
 import { XMLParser } from 'fast-xml-parser';
+import { createHash } from 'node:crypto';
+import { isIP } from 'node:net';
+import { isPublicAddress } from './network-safety.mjs';
 
 const STOP_WORDS = new Set([
   'the', 'a', 'an', 'and', 'or', 'for', 'to', 'of', 'in', 'on', 'with', 'from', 'by',
@@ -107,14 +110,20 @@ export function stripHtml(value = '') {
     .replace(/&gt;/gi, '>')
     .replace(/&#39;|&apos;/gi, "'")
     .replace(/&quot;/gi, '"')
-    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&#(\d+);/g, (_, code) => {
+      const point = Number(code);
+      return Number.isInteger(point) && point >= 0 && point <= 0x10FFFF
+        && !(point >= 0xD800 && point <= 0xDFFF) ? String.fromCodePoint(point) : ' ';
+    })
     .replace(/\s+/g, ' ')
     .trim();
 }
 
 export function normalizeUrl(value = '') {
+  const input = String(value || '').trim();
+  if (!input || input.length > 2_048) return '';
   try {
-    const url = new URL(value);
+    const url = new URL(input);
     url.hash = '';
     for (const key of [...url.searchParams.keys()]) {
       if (/^(utm_|fbclid|gclid|mc_|ref$|source$)/i.test(key)) url.searchParams.delete(key);
@@ -123,8 +132,42 @@ export function normalizeUrl(value = '') {
     url.pathname = url.pathname.replace(/\/(amp|print)\/?$/i, '').replace(/\/$/, '') || '/';
     return url.toString();
   } catch {
-    return String(value).trim();
+    return input;
   }
+}
+
+function normalizeDiscoveredUrl(value = '') {
+  const input = String(value || '').trim();
+  try {
+    const url = new URL(input);
+    // Some long-running official feeds still emit legacy HTTP permalinks even
+    // though the canonical site supports HTTPS. Never persist the insecure form.
+    if (url.protocol === 'http:') url.protocol = 'https:';
+    return normalizeUrl(url.toString());
+  } catch {
+    return normalizeUrl(input);
+  }
+}
+
+export function isSafePublicHttpsUrl(value) {
+  try {
+    const url = new URL(value);
+    const hostname = url.hostname.replace(/^\[|\]$/g, '').replace(/\.$/, '').toLowerCase();
+    return url.protocol === 'https:' && !url.username && !url.password && (!url.port || url.port === '443')
+      && Boolean(hostname) && hostname !== 'localhost' && !hostname.endsWith('.localhost')
+      && !hostname.endsWith('.local') && !hostname.endsWith('.internal') && !hostname.endsWith('.lan')
+      && (!isIP(hostname) || isPublicAddress(hostname));
+  } catch {
+    return false;
+  }
+}
+
+export function candidateId(sourceId, identity) {
+  const safeSourceId = String(sourceId || 'source').slice(0, 120);
+  const raw = `${safeSourceId}-${String(identity || 'item')}`;
+  if (raw.length <= 160) return raw;
+  const digest = createHash('sha256').update(raw).digest('hex').slice(0, 20);
+  return `${safeSourceId.slice(0, 120)}-${digest}`;
 }
 
 function matchingHeadline(title = '') {
@@ -208,6 +251,29 @@ function properTitleTokens(title = '') {
     .filter((token) => !ignored.has(token) && !BRAND_TERMS.has(token) && !MATCH_GENERIC_TERMS.has(token)))];
 }
 
+function deliveryEventKeys(candidate) {
+  const headline = new Set([
+    ...titleTokens(candidate.title),
+    ...titleTokens(candidate.sourceName || ''),
+  ]);
+  const context = new Set([
+    ...headline,
+    ...titleTokens((candidate.description || '').slice(0, 600)),
+  ]);
+  const keys = [];
+
+  // These signatures cover events whose follow-up headlines commonly omit the
+  // distinguishing name. Keep them deliberately narrow: descriptions can mention
+  // competitors and should never drive ordinary clustering.
+  if (headline.has('openai') && context.has('astra')) keys.push('openai:astra');
+  if (headline.has('openai') && headline.has('support') && context.has('training')
+    && (context.has('copyright') || context.has('fairuse'))
+    && ['doj', 'nyt', 'lawsuit', 'government'].some((token) => context.has(token))) {
+    keys.push('usgov:openai-training-copyright');
+  }
+  return keys;
+}
+
 export function inferCategory(candidate) {
   const haystack = `${candidate.title} ${candidate.description || ''}`.toLowerCase();
   let best = { category: candidate.defaultCategory || 'プロダクト', hits: 0 };
@@ -240,28 +306,29 @@ export function parseFeedDocument(xml, source) {
   else if (parsed['rdf:RDF']) items = asArray(parsed['rdf:RDF'].item);
 
   return items.map((item, index) => {
-    const title = stripHtml(textValue(item.title));
-    const link = getLink(item.link) || textValue(item.guid) || textValue(item.id);
+    const title = stripHtml(textValue(item.title)).slice(0, 500);
+    const guid = textValue(item.guid || item.id).slice(0, 2_048);
+    const link = (getLink(item.link) || guid).slice(0, 2_048);
     const description = stripHtml(
       textValue(item['content:encoded']) || textValue(item.description) || textValue(item.summary) || textValue(item.content),
     ).slice(0, 6000);
     const publishedAt = validDate(item.pubDate || item.published || item.updated || item['dc:date']);
-    const embeddedSource = source.id.startsWith('google-news-') ? stripHtml(textValue(item.source)) : '';
+    const embeddedSource = source.id.startsWith('google-news-') ? stripHtml(textValue(item.source)).slice(0, 160) : '';
     return {
-      id: `${source.id}-${textValue(item.guid || item.id) || index}`,
-      guid: textValue(item.guid || item.id),
+      id: candidateId(source.id, guid || index),
+      guid,
       title,
       description,
-      url: normalizeUrl(link),
+      url: normalizeDiscoveredUrl(link),
       publishedAt,
       sourceId: embeddedSource ? `${source.id}:${embeddedSource.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 60)}` : source.id,
-      sourceName: embeddedSource || source.name,
+      sourceName: (embeddedSource || source.name).slice(0, 160),
       sourceType: source.type,
       tier: source.tier,
       defaultCategory: source.defaultCategory,
       aiOnly: source.aiOnly,
     };
-  }).filter((item) => item.title && item.url && item.publishedAt);
+  }).filter((item) => item.title && item.url && item.publishedAt && isSafePublicHttpsUrl(item.url));
 }
 
 export function parseSitemapDocument(xml, source, newestAllowed = Date.now()) {
@@ -270,8 +337,8 @@ export function parseSitemapDocument(xml, source, newestAllowed = Date.now()) {
   const includes = source.include || [];
   const excludes = source.exclude || [];
   return entries
-    .map((entry) => ({ url: normalizeUrl(textValue(entry.loc)), publishedAt: validDate(entry.lastmod) }))
-    .filter((entry) => entry.url && entry.publishedAt)
+    .map((entry) => ({ url: normalizeDiscoveredUrl(textValue(entry.loc).slice(0, 2_049)), publishedAt: validDate(entry.lastmod) }))
+    .filter((entry) => entry.url && entry.publishedAt && isSafePublicHttpsUrl(entry.url))
     .filter((entry) => new Date(entry.publishedAt).getTime() <= newestAllowed)
     .filter((entry) => !includes.length || includes.some((fragment) => entry.url.includes(fragment)))
     .filter((entry) => !excludes.some((fragment) => entry.url.includes(fragment)));
@@ -314,6 +381,7 @@ export function clusterCandidates(candidates, { maxEventGapMs = 96 * 60 * 60 * 1
     const sharedProper = candidate.properTokens.filter((token) => reference.properTokens.includes(token));
     const sharedSpecific = shared.filter((token) => token.length >= 3 && !MATCH_GENERIC_TERMS.has(token));
     const sharedOrganization = sharedBrands.some((token) => ORGANIZATION_TERMS.has(token));
+    const replayComparison = Boolean(reference.delivered || candidate.delivered);
     const nycSchoolPolicy = shared.includes('nyc')
       && (shared.includes('ban') || shared.includes('policy'))
       && (shared.includes('school') || shared.includes('student') || shared.includes('generative') || shared.includes('policy'));
@@ -324,6 +392,7 @@ export function clusterCandidates(candidates, { maxEventGapMs = 96 * 60 * 60 * 1
     if (nycSchoolPolicy) return true;
     if (nytOpenAiCase) return true;
     if (openAiTrainingCase) return true;
+    if (replayComparison && candidate.eventKeys.some((key) => reference.eventKeys.includes(key))) return true;
     if (sharedProper.some((token) => token.length >= 5) && sharedOrganization) return true;
     return similarity >= 0.72 || (similarity >= 0.48 && sharedSpecific.length >= 4);
   };
@@ -341,6 +410,7 @@ export function clusterCandidates(candidates, { maxEventGapMs = 96 * 60 * 60 * 1
       ...inputCandidate,
       tokens: headlineTokens,
       properTokens: properTitleTokens(inputCandidate.title),
+      eventKeys: deliveryEventKeys(inputCandidate),
       topicBrands: [...new Set(inputCandidate.sourceType === 'official'
         ? [...sourceBrands, ...headlineBrands.slice(0, 1)]
         : mediaTopicBrands)],
@@ -557,13 +627,77 @@ export function clustersToStories(clusters) {
 }
 
 export function validateDigest(digest) {
-  if (!digest || !Array.isArray(digest.stories) || digest.stories.length !== 10) throw new Error('Digest must contain exactly 10 stories');
+  const fail = (message) => { throw new Error(`Invalid digest: ${message}`); };
+  const checkString = (value, label, maxLength) => {
+    if (typeof value !== 'string' || !value.trim() || value.length > maxLength || /[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/.test(value)) {
+      fail(`${label} must be a non-empty string of at most ${maxLength} characters`);
+    }
+  };
+  const checkInteger = (value, label, minimum, maximum) => {
+    if (!Number.isInteger(value) || value < minimum || value > maximum) fail(`${label} is out of range`);
+  };
+  const checkDate = (value, label) => {
+    checkString(value, label, 80);
+    if (Number.isNaN(Date.parse(value))) fail(`${label} must be a valid date`);
+  };
+  const checkPublicHttpsUrl = (value, label) => {
+    checkString(value, label, 2_048);
+    if (!isSafePublicHttpsUrl(value)) fail(`${label} must be a public HTTPS URL`);
+  };
+
+  if (!digest || typeof digest !== 'object' || Array.isArray(digest)) fail('root must be an object');
+  if (Buffer.byteLength(JSON.stringify(digest), 'utf8') > 1_000_000) fail('payload exceeds 1 MB');
+  checkDate(digest.edition, 'edition');
+  checkDate(digest.generatedAt, 'generatedAt');
+  checkDate(digest.periodStart, 'periodStart');
+  if (!['live', 'sample', 'degraded'].includes(digest.status)) fail('unknown status');
+  checkInteger(digest.checkedSources, 'checkedSources', 1, 500);
+  checkInteger(digest.successfulSources, 'successfulSources', 0, digest.checkedSources);
+  if (digest.freshSources != null) checkInteger(digest.freshSources, 'freshSources', 0, digest.successfulSources);
+  checkInteger(digest.candidateCount, 'candidateCount', 10, 100_000);
+  checkString(digest.editorialNote, 'editorialNote', 600);
+  if (digest.repositoryUrl != null) checkPublicHttpsUrl(digest.repositoryUrl, 'repositoryUrl');
+  const coreFields = [digest.coreSources, digest.coreSuccessfulSources, digest.coreFreshSources];
+  if (coreFields.some((value) => value != null)) {
+    if (coreFields.some((value) => value == null)) fail('core source health fields must be provided together');
+    checkInteger(digest.coreSources, 'coreSources', 1, digest.checkedSources);
+    checkInteger(digest.coreSuccessfulSources, 'coreSuccessfulSources', 0, digest.coreSources);
+    checkInteger(digest.coreFreshSources, 'coreFreshSources', 0, digest.coreSuccessfulSources);
+  }
+  if (!Array.isArray(digest.stories) || digest.stories.length !== 10) throw new Error('Digest must contain exactly 10 stories');
   const ids = new Set();
   for (const [index, story] of digest.stories.entries()) {
-    if (!story.id || !story.title || !story.summary || !story.url) throw new Error(`Story ${index + 1} is incomplete`);
+    if (!story || typeof story !== 'object' || Array.isArray(story)) fail(`story ${index + 1} must be an object`);
+    checkString(story.id, `story ${index + 1} id`, 160);
+    checkString(story.title, `story ${index + 1} title`, 180);
+    checkString(story.originalTitle, `story ${index + 1} originalTitle`, 500);
+    checkString(story.summary, `story ${index + 1} summary`, 1_200);
+    checkString(story.whyItMatters, `story ${index + 1} whyItMatters`, 1_000);
+    checkString(story.source, `story ${index + 1} source`, 160);
+    checkDate(story.publishedAt, `story ${index + 1} publishedAt`);
+    checkPublicHttpsUrl(story.url, `story ${index + 1} url`);
     if (ids.has(story.id)) throw new Error(`Duplicate story id: ${story.id}`);
     if (story.rank !== index + 1) throw new Error(`Story rank mismatch at ${index + 1}`);
+    if (!['official', 'media', 'research'].includes(story.sourceType)) fail(`story ${index + 1} sourceType is invalid`);
+    if (!CATEGORY_RULES.some(([category]) => category === story.category)) fail(`story ${index + 1} category is invalid`);
+    checkInteger(story.impactScore, `story ${index + 1} impactScore`, 0, 100);
+    if (!['特大', '大', '中'].includes(story.impactLabel)) fail(`story ${index + 1} impactLabel is invalid`);
+    if (!['公式発表', '複数ソース', '信頼できる報道'].includes(story.verification)) fail(`story ${index + 1} verification is invalid`);
     if (!Array.isArray(story.points) || story.points.length !== 3) throw new Error(`Story ${index + 1} needs exactly three points`);
+    story.points.forEach((point, pointIndex) => checkString(point, `story ${index + 1} point ${pointIndex + 1}`, 500));
+    if (!Array.isArray(story.relatedSources) || story.relatedSources.length > 5) fail(`story ${index + 1} relatedSources is invalid`);
+    story.relatedSources.forEach((source, sourceIndex) => {
+      checkString(source?.name, `story ${index + 1} related source ${sourceIndex + 1} name`, 160);
+      checkPublicHttpsUrl(source?.url, `story ${index + 1} related source ${sourceIndex + 1} url`);
+    });
+    if (story.eventUrls != null) {
+      if (!Array.isArray(story.eventUrls) || story.eventUrls.length > 50) fail(`story ${index + 1} eventUrls is invalid`);
+      story.eventUrls.forEach((url, urlIndex) => checkPublicHttpsUrl(url, `story ${index + 1} event URL ${urlIndex + 1}`));
+    }
+    if (story.eventTitles != null) {
+      if (!Array.isArray(story.eventTitles) || story.eventTitles.length > 30) fail(`story ${index + 1} eventTitles is invalid`);
+      story.eventTitles.forEach((title, titleIndex) => checkString(title, `story ${index + 1} event title ${titleIndex + 1}`, 500));
+    }
     ids.add(story.id);
   }
   return true;

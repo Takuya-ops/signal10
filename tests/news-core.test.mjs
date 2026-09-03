@@ -12,6 +12,7 @@ import {
   parseSitemapDocument,
   scoreCluster,
   selectTopClusters,
+  stripHtml,
   validateDigest,
 } from '../scripts/lib/news-core.mjs';
 import { assertPublicHttpsUrl, hasSameHostname, isPublicAddress } from '../scripts/lib/network-safety.mjs';
@@ -36,6 +37,22 @@ test('RSS and Atom entries are normalized into candidates', () => {
   assert.equal(atomItems[0].title, 'Agent update');
 });
 
+test('feed-controlled archive fields are bounded at ingestion', () => {
+  const longTitle = 'T'.repeat(20_000);
+  const longGuid = 'g'.repeat(20_000);
+  const longSource = 'Publisher '.repeat(100);
+  const rss = `<?xml version="1.0"?><rss><channel><item><title>${longTitle}</title><link>https://example.com/post</link><description>Safe description</description><pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate><guid>${longGuid}</guid><source>${longSource}</source></item></channel></rss>`;
+  const [item] = parseFeedDocument(rss, { ...source, id: 'google-news-test' });
+  assert.equal(item.title.length, 500);
+  assert.equal(item.guid.length, 2_048);
+  assert.ok(item.id.length <= 160);
+  assert.equal(item.sourceName.length, 160);
+  const unsafe = `<?xml version="1.0"?><rss><channel><item><title>Unsafe AI item</title><link>http://127.0.0.1/private</link><pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate></item></channel></rss>`;
+  assert.deepEqual(parseFeedDocument(unsafe, source), []);
+  const legacyHttp = `<?xml version="1.0"?><rss><channel><item><title>Legacy AI permalink</title><link>http://example.com/ai</link><pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate></item></channel></rss>`;
+  assert.equal(parseFeedDocument(legacyHttp, source)[0].url, 'https://example.com/ai');
+});
+
 test('sitemap discovery honors include and exclude path rules', () => {
   const sitemap = `<?xml version="1.0"?><urlset><url><loc>https://example.com/news/model</loc><lastmod>2026-09-02</lastmod></url><url><loc>https://example.com/events/model</loc><lastmod>2026-09-02</lastmod></url><url><loc>https://example.com/about</loc><lastmod>2026-09-02</lastmod></url></urlset>`;
   const items = parseSitemapDocument(sitemap, {
@@ -51,6 +68,11 @@ test('tracking parameters are removed without changing meaningful query paramete
     normalizeUrl('https://WWW.Example.com/news/?id=42&utm_campaign=x#top'),
     'https://example.com/news?id=42',
   );
+});
+
+test('invalid numeric entities cannot crash untrusted text normalization', () => {
+  assert.equal(stripHtml('before &#999999999999999999999; after'), 'before after');
+  assert.equal(stripHtml('valid &#128640; entity'), 'valid 🚀 entity');
 });
 
 test('network guards reject private destinations and cross-host sitemap entries', async () => {
@@ -280,6 +302,60 @@ test('delivered DOJ event blocks English and Japanese paraphrases', () => {
   assert.deepEqual(excludeDeliveredCandidates(candidates, delivered).map((item) => item.id), ['other']);
 });
 
+test('delivered events match distinctive product names found only in article descriptions', () => {
+  const base = {
+    publishedAt: '2026-09-02T00:00:00.000Z', sourceId: 'media', sourceName: 'Media',
+    sourceType: 'media', tier: 1, defaultCategory: '安全性', aiOnly: true,
+  };
+  const candidates = [
+    {
+      ...base, id: 'astra-generic', guid: 'astra-generic',
+      title: 'OpenAI Is About to Release Its First AI Model With Critical Cyber Abilities',
+      description: 'The company will give select partners early access to its Astra AI model.',
+      url: 'https://media.example/openai-cyber',
+    },
+    {
+      ...base, id: 'comparison', guid: 'comparison',
+      title: 'Anthropic releases a safety update for Claude',
+      description: 'The report compares its safeguards with the OpenAI Astra AI model.',
+      url: 'https://media.example/anthropic-safety',
+    },
+  ];
+  const delivered = [{
+    id: 'astra', title: 'OpenAI、Astraの限定提供計画を発表',
+    originalTitle: 'Our path to safely deploying Astra', summary: 'Astra is a critical cyber model.',
+    source: 'OpenAI', url: 'https://openai.example/astra', relatedSources: [],
+    publishedAt: '2026-09-01T00:00:00.000Z', category: '安全性',
+  }];
+  assert.deepEqual(excludeDeliveredCandidates(candidates, delivered).map((item) => item.id), ['comparison']);
+});
+
+test('delivered copyright case matches a generic government follow-up without blocking unrelated OpenAI news', () => {
+  const base = {
+    description: '', publishedAt: '2026-09-03T00:00:00.000Z', sourceType: 'media', tier: 2,
+    defaultCategory: '政策・社会', aiOnly: true, sourceId: 'media', sourceName: 'Media',
+  };
+  const candidates = [
+    {
+      ...base, id: 'government', guid: 'government',
+      title: 'US government sides with OpenAI on issue of training LLMs on copyrighted material',
+      url: 'https://media.example/government-openai-copyright',
+    },
+    {
+      ...base, id: 'license', guid: 'license',
+      title: 'OpenAI signs a new copyright licensing agreement for training data',
+      url: 'https://media.example/openai-license',
+    },
+  ];
+  const delivered = [{
+    id: 'doj', title: '米司法省、NYT対OpenAI訴訟でAI学習の公正利用論を支持',
+    originalTitle: "Justice Department backs OpenAI's fair use argument in New York Times copyright case",
+    summary: '', source: 'Associated Press', url: 'https://ap.example/doj', relatedSources: [],
+    publishedAt: '2026-09-02T18:00:00.000Z', category: '政策・社会',
+  }];
+  assert.deepEqual(excludeDeliveredCandidates(candidates, delivered).map((item) => item.id), ['license']);
+});
+
 test('delivered World Labs Atlas event blocks a differently worded follow-up', () => {
   const base = {
     description: '', publishedAt: '2026-09-03T00:00:00.000Z', sourceType: 'media', tier: 2,
@@ -373,17 +449,18 @@ test('candidate preselection limits research-feed crowding', () => {
   assert.ok(selected.filter((cluster) => cluster.primary.sourceId.startsWith('arxiv-')).length <= 2);
 });
 
-test('digest validation rejects anything other than a complete top ten', () => {
-  assert.throws(() => validateDigest({ stories: [] }), /exactly 10/);
-  const stories = Array.from({ length: 10 }, (_, index) => ({
-    id: `story-${index}`,
-    rank: index + 1,
-    title: 'Title',
-    summary: 'Summary',
-    url: 'https://example.com',
-    points: ['one', 'two', 'three'],
-  }));
-  assert.equal(validateDigest({ stories }), true);
+test('digest validation rejects incomplete, oversized, and unsafe editions', async () => {
+  const digest = JSON.parse(await readFile('public/data/latest.json', 'utf8'));
+  assert.equal(validateDigest(digest), true);
+  assert.throws(() => validateDigest({ ...digest, stories: [] }), /exactly 10/);
+  assert.throws(() => validateDigest({
+    ...digest,
+    stories: digest.stories.map((story, index) => index ? story : { ...story, title: 'x'.repeat(181) }),
+  }), /title/);
+  assert.throws(() => validateDigest({
+    ...digest,
+    stories: digest.stories.map((story, index) => index ? story : { ...story, url: 'https://127.0.0.1/private' }),
+  }), /public HTTPS/);
 });
 
 test('digest health requires both broad coverage and healthy core official sources', () => {

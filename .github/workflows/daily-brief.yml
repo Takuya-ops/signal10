@@ -18,7 +18,6 @@ jobs:
     timeout-minutes: 25
     permissions:
       contents: read
-      models: read
 
     steps:
       - name: Check out repository
@@ -40,10 +39,9 @@ jobs:
       - name: Collect, deduplicate, rank, and summarize
         env:
           COLLECT_ONLY: ${{ github.event_name == 'schedule' && github.event.schedule == '15 */2 * * *' }}
-          GITHUB_TOKEN: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '30 21 * * *') && secrets.GITHUB_TOKEN || '' }}
           OPENAI_API_KEY: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '30 21 * * *') && secrets.OPENAI_API_KEY || '' }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.4-mini' }}
-          GITHUB_MODELS_MODEL: ${{ vars.GITHUB_MODELS_MODEL || 'openai/gpt-4.1' }}
+          OPENAI_VERIFIER_MODEL: ${{ vars.OPENAI_VERIFIER_MODEL || 'gpt-4.1-mini' }}
         run: npm run news:update
 
       - name: Run ranking and parser tests

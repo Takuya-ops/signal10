@@ -538,7 +538,7 @@ export default function Dashboard({ initialDigest }: { initialDigest: Digest }) 
           <div><span>01</span><h3>広く集める</h3><p>AI企業の公式発表、主要メディア、研究フィードを毎日巡回します。</p></div>
           <div><span>02</span><h3>同じ話題を束ねる</h3><p>似た見出しやリンクを統合し、一つの出来事として複数ソースで確認します。</p></div>
           <div><span>03</span><h3>重要度で並べる</h3><p>公式性、影響範囲、報道の広がり、新しさを採点し、上位10件を選びます。</p></div>
-          <div><span>04</span><h3>日本語で要約する</h3><p>事実と解釈を分け、「何が起きたか」「なぜ重要か」まで短くまとめます。</p></div>
+          <div><span>04</span><h3>根拠を確かめる</h3><p>原文と各要点を照合し、確認できない生成文は原文表示へ安全に戻します。</p></div>
         </div>
       </section>
 
