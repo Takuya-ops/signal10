@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-10-01T19:32:11.761Z",
+  "generatedAt": "2026-10-01T23:53:13.783Z",
   "sources": [
-    {
-      "id": "google-deepmind",
-      "name": "Google DeepMind",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-09-30T20:01:45.000Z",
-      "items": 100,
-      "durationMs": 196
-    },
     {
       "id": "openai",
       "name": "OpenAI",
@@ -18,8 +8,8 @@
       "stale": false,
       "status": "ok",
       "newestAt": "2026-10-01T17:00:00.000Z",
-      "items": 1242,
-      "durationMs": 316
+      "items": 1243,
+      "durationMs": 270
     },
     {
       "id": "mistral",
@@ -29,37 +19,7 @@
       "status": "not-modified",
       "newestAt": "2026-09-28T15:57:59.000Z",
       "items": 0,
-      "durationMs": 311
-    },
-    {
-      "id": "google-ai",
-      "name": "Google AI",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-09-28T19:00:00.000Z",
-      "items": 20,
-      "durationMs": 322
-    },
-    {
-      "id": "world-labs-sitemap",
-      "name": "World Labs",
-      "ok": true,
-      "stale": false,
-      "status": "not-modified",
-      "newestAt": "2026-09-28T20:07:32.460Z",
-      "items": 0,
-      "durationMs": 206
-    },
-    {
-      "id": "nvidia-generative-ai",
-      "name": "NVIDIA",
-      "ok": true,
-      "stale": false,
-      "status": "not-modified",
-      "newestAt": "2026-09-30T17:00:21.000Z",
-      "items": 0,
-      "durationMs": 400
+      "durationMs": 266
     },
     {
       "id": "hugging-face",
@@ -69,7 +29,7 @@
       "status": "ok",
       "newestAt": "2026-10-01T15:01:43.000Z",
       "items": 871,
-      "durationMs": 473
+      "durationMs": 437
     },
     {
       "id": "meta-ai-research-sitemap",
@@ -79,7 +39,67 @@
       "status": "not-modified",
       "newestAt": "2026-09-23T00:00:00.000Z",
       "items": 0,
-      "durationMs": 288
+      "durationMs": 177
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-09-28T19:00:00.000Z",
+      "items": 20,
+      "durationMs": 462
+    },
+    {
+      "id": "nvidia-generative-ai",
+      "name": "NVIDIA",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-10-01T23:44:13.000Z",
+      "items": 18,
+      "durationMs": 486
+    },
+    {
+      "id": "world-labs-sitemap",
+      "name": "World Labs",
+      "ok": true,
+      "stale": false,
+      "status": "not-modified",
+      "newestAt": "2026-09-28T20:07:32.460Z",
+      "items": 0,
+      "durationMs": 250
+    },
+    {
+      "id": "cohere-sitemap",
+      "name": "Cohere",
+      "ok": true,
+      "stale": false,
+      "status": "not-modified",
+      "newestAt": "2026-09-30T11:45:00.000Z",
+      "items": 0,
+      "durationMs": 65
+    },
+    {
+      "id": "stability-ai",
+      "name": "Stability AI",
+      "ok": true,
+      "stale": true,
+      "status": "not-modified",
+      "newestAt": "2026-08-25T14:59:22.000Z",
+      "items": 0,
+      "durationMs": 515
+    },
+    {
+      "id": "google-deepmind",
+      "name": "Google DeepMind",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-09-30T20:01:45.000Z",
+      "items": 100,
+      "durationMs": 548
     },
     {
       "id": "techcrunch-ai",
@@ -87,9 +107,29 @@
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T19:21:53.000Z",
+      "newestAt": "2026-10-01T21:08:11.000Z",
       "items": 19,
-      "durationMs": 197
+      "durationMs": 69
+    },
+    {
+      "id": "wired-ai",
+      "name": "WIRED",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-10-01T22:10:42.000Z",
+      "items": 10,
+      "durationMs": 95
+    },
+    {
+      "id": "azure-ai-ml",
+      "name": "Microsoft Azure AI",
+      "ok": true,
+      "stale": false,
+      "status": "not-modified",
+      "newestAt": "2026-09-29T06:30:00.000Z",
+      "items": 0,
+      "durationMs": 70
     },
     {
       "id": "mit-tech-review-ai",
@@ -99,47 +139,7 @@
       "status": "ok",
       "newestAt": "2026-09-30T10:40:30.000Z",
       "items": 10,
-      "durationMs": 137
-    },
-    {
-      "id": "stability-ai",
-      "name": "Stability AI",
-      "ok": true,
-      "stale": true,
-      "status": "stale",
-      "newestAt": "2026-08-25T14:59:22.000Z",
-      "items": 20,
-      "durationMs": 658
-    },
-    {
-      "id": "ars-technica-ai",
-      "name": "Ars Technica",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-10-01T16:28:04.000Z",
-      "items": 20,
-      "durationMs": 298
-    },
-    {
-      "id": "wired-ai",
-      "name": "WIRED",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-09-30T20:30:09.000Z",
-      "items": 10,
-      "durationMs": 297
-    },
-    {
-      "id": "apple-ml-research",
-      "name": "Apple Machine Learning Research",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-10-01T00:00:00.000Z",
-      "items": 10,
-      "durationMs": 128
+      "durationMs": 134
     },
     {
       "id": "aws-machine-learning",
@@ -147,29 +147,19 @@
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T17:34:56.000Z",
+      "newestAt": "2026-10-01T22:06:14.000Z",
       "items": 20,
-      "durationMs": 461
+      "durationMs": 162
     },
     {
-      "id": "azure-ai-ml",
-      "name": "Microsoft Azure AI",
+      "id": "apple-ml-research",
+      "name": "Apple Machine Learning Research",
       "ok": true,
       "stale": false,
-      "status": "ok",
-      "newestAt": "2026-09-29T06:30:00.000Z",
-      "items": 10,
-      "durationMs": 439
-    },
-    {
-      "id": "github-ai-ml",
-      "name": "GitHub AI & ML",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-09-25T18:00:00.000Z",
-      "items": 10,
-      "durationMs": 466
+      "status": "not-modified",
+      "newestAt": "2026-10-01T00:00:00.000Z",
+      "items": 0,
+      "durationMs": 116
     },
     {
       "id": "meta-engineering-ai",
@@ -179,17 +169,27 @@
       "status": "not-modified",
       "newestAt": "2026-09-02T09:00:29.000Z",
       "items": 0,
-      "durationMs": 251
+      "durationMs": 111
     },
     {
-      "id": "itmedia-ai-plus",
-      "name": "ITmedia AI+",
+      "id": "github-ai-ml",
+      "name": "GitHub AI & ML",
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T09:01:23.000Z",
-      "items": 20,
-      "durationMs": 680
+      "newestAt": "2026-09-25T18:00:00.000Z",
+      "items": 10,
+      "durationMs": 187
+    },
+    {
+      "id": "cloudflare-ai",
+      "name": "Cloudflare AI",
+      "ok": true,
+      "stale": false,
+      "status": "not-modified",
+      "newestAt": "2026-10-01T15:34:02.000Z",
+      "items": 0,
+      "durationMs": 54
     },
     {
       "id": "google-research",
@@ -199,17 +199,27 @@
       "status": "ok",
       "newestAt": "2026-09-29T18:38:27.000Z",
       "items": 100,
-      "durationMs": 226
+      "durationMs": 214
     },
     {
-      "id": "cloudflare-ai",
-      "name": "Cloudflare AI",
+      "id": "ars-technica-ai",
+      "name": "Ars Technica",
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T15:34:02.000Z",
+      "newestAt": "2026-10-01T20:11:55.000Z",
       "items": 20,
-      "durationMs": 254
+      "durationMs": 504
+    },
+    {
+      "id": "itmedia-ai-plus",
+      "name": "ITmedia AI+",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-10-01T23:00:00.000Z",
+      "items": 20,
+      "durationMs": 525
     },
     {
       "id": "simon-willison",
@@ -219,7 +229,7 @@
       "status": "not-modified",
       "newestAt": "2026-10-01T06:29:01.000Z",
       "items": 0,
-      "durationMs": 496
+      "durationMs": 355
     },
     {
       "id": "import-ai",
@@ -229,87 +239,7 @@
       "status": "not-modified",
       "newestAt": "2026-09-28T12:32:03.000Z",
       "items": 0,
-      "durationMs": 470
-    },
-    {
-      "id": "cohere-sitemap",
-      "name": "Cohere",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-09-30T11:45:00.000Z",
-      "items": 5,
-      "durationMs": 1536
-    },
-    {
-      "id": "ieee-spectrum-ai",
-      "name": "IEEE Spectrum",
-      "ok": true,
-      "stale": false,
-      "status": "not-modified",
-      "newestAt": "2026-09-29T12:00:02.000Z",
-      "items": 0,
-      "durationMs": 766
-    },
-    {
-      "id": "arxiv-cs-ai",
-      "name": "arXiv cs.AI",
-      "ok": true,
-      "stale": false,
-      "status": "not-modified",
-      "newestAt": "2026-10-01T04:00:00.000Z",
-      "items": 0,
-      "durationMs": 222
-    },
-    {
-      "id": "arxiv-cs-cl",
-      "name": "arXiv cs.CL",
-      "ok": true,
-      "stale": false,
-      "status": "not-modified",
-      "newestAt": "2026-10-01T04:00:00.000Z",
-      "items": 0,
-      "durationMs": 61
-    },
-    {
-      "id": "google-security",
-      "name": "Google Security Blog",
-      "ok": true,
-      "stale": true,
-      "status": "stale",
-      "newestAt": "2026-04-23T21:38:00.001Z",
-      "items": 25,
-      "durationMs": 401
-    },
-    {
-      "id": "the-verge",
-      "name": "The Verge",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-10-01T19:20:29.000Z",
-      "items": 10,
-      "durationMs": 106
-    },
-    {
-      "id": "ml-safety-newsletter",
-      "name": "ML Safety Newsletter",
-      "ok": true,
-      "stale": true,
-      "status": "stale",
-      "newestAt": "2026-08-26T18:57:43.000Z",
-      "items": 20,
-      "durationMs": 557
-    },
-    {
-      "id": "arxiv-cs-lg",
-      "name": "arXiv cs.LG",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-10-01T04:00:00.000Z",
-      "items": 638,
-      "durationMs": 310
+      "durationMs": 336
     },
     {
       "id": "uk-ai-security-institute",
@@ -319,17 +249,87 @@
       "status": "not-modified",
       "newestAt": "2026-05-25T00:00:02.000Z",
       "items": 0,
-      "durationMs": 734
+      "durationMs": 322
     },
     {
-      "id": "the-decoder",
-      "name": "The Decoder",
+      "id": "ieee-spectrum-ai",
+      "name": "IEEE Spectrum",
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T18:03:40.000Z",
+      "newestAt": "2026-09-29T12:00:02.000Z",
+      "items": 30,
+      "durationMs": 656
+    },
+    {
+      "id": "arxiv-cs-cl",
+      "name": "arXiv cs.CL",
+      "ok": true,
+      "stale": false,
+      "status": "not-modified",
+      "newestAt": "2026-10-01T04:00:00.000Z",
+      "items": 0,
+      "durationMs": 130
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "name": "arXiv cs.AI",
+      "ok": true,
+      "stale": false,
+      "status": "not-modified",
+      "newestAt": "2026-10-01T04:00:00.000Z",
+      "items": 0,
+      "durationMs": 178
+    },
+    {
+      "id": "the-verge",
+      "name": "The Verge",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-10-01T22:51:36.000Z",
       "items": 10,
-      "durationMs": 1264
+      "durationMs": 47
+    },
+    {
+      "id": "arxiv-cs-lg",
+      "name": "arXiv cs.LG",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-10-01T04:00:00.000Z",
+      "items": 697,
+      "durationMs": 152
+    },
+    {
+      "id": "ml-safety-newsletter",
+      "name": "ML Safety Newsletter",
+      "ok": true,
+      "stale": true,
+      "status": "stale",
+      "newestAt": "2026-08-26T18:57:43.000Z",
+      "items": 20,
+      "durationMs": 466
+    },
+    {
+      "id": "google-security",
+      "name": "Google Security Blog",
+      "ok": true,
+      "stale": true,
+      "status": "stale",
+      "newestAt": "2026-04-23T21:38:00.001Z",
+      "items": 25,
+      "durationMs": 493
+    },
+    {
+      "id": "publickey",
+      "name": "Publickey",
+      "ok": true,
+      "stale": false,
+      "status": "not-modified",
+      "newestAt": "2026-10-01T18:28:43.000Z",
+      "items": 0,
+      "durationMs": 256
     },
     {
       "id": "anthropic-sitemap",
@@ -338,18 +338,8 @@
       "stale": false,
       "status": "ok",
       "newestAt": "2026-10-01T15:19:00.000Z",
-      "items": 14,
-      "durationMs": 2241
-    },
-    {
-      "id": "publickey",
-      "name": "Publickey",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-10-01T18:28:43.000Z",
-      "items": 15,
-      "durationMs": 249
+      "items": 13,
+      "durationMs": 1675
     },
     {
       "id": "alignment-forum",
@@ -359,27 +349,17 @@
       "status": "ok",
       "newestAt": "2026-09-28T20:08:39.000Z",
       "items": 10,
-      "durationMs": 323
+      "durationMs": 475
     },
     {
-      "id": "google-news-global-policy",
-      "name": "Google News — Global AI Policy",
+      "id": "the-decoder",
+      "name": "The Decoder",
       "ok": true,
       "stale": false,
-      "status": "ok",
-      "newestAt": "2026-10-01T19:10:27.000Z",
-      "items": 100,
-      "durationMs": 510
-    },
-    {
-      "id": "google-news-genai",
-      "name": "Google News — 生成AI",
-      "ok": true,
-      "stale": false,
-      "status": "ok",
-      "newestAt": "2026-10-01T18:33:49.000Z",
-      "items": 100,
-      "durationMs": 608
+      "status": "not-modified",
+      "newestAt": "2026-10-01T18:03:40.000Z",
+      "items": 0,
+      "durationMs": 1440
     },
     {
       "id": "google-news-labs",
@@ -387,27 +367,19 @@
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T16:50:18.000Z",
+      "newestAt": "2026-10-01T23:12:52.000Z",
       "items": 100,
-      "durationMs": 709
+      "durationMs": 672
     },
     {
-      "id": "google-news-asia-models",
-      "name": "Google News — Asia AI Models",
+      "id": "google-news-genai",
+      "name": "Google News — 生成AI",
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T16:08:33.000Z",
-      "items": 81,
-      "durationMs": 447
-    },
-    {
-      "id": "venturebeat-ai",
-      "name": "VentureBeat AI",
-      "ok": false,
-      "status": "failed",
-      "error": "HTTP 429",
-      "durationMs": 2021
+      "newestAt": "2026-10-01T23:34:00.000Z",
+      "items": 100,
+      "durationMs": 633
     },
     {
       "id": "google-news-global-genai",
@@ -415,9 +387,37 @@
       "ok": true,
       "stale": false,
       "status": "ok",
-      "newestAt": "2026-10-01T19:05:25.000Z",
+      "newestAt": "2026-10-01T23:30:00.000Z",
       "items": 100,
-      "durationMs": 804
+      "durationMs": 419
+    },
+    {
+      "id": "google-news-global-policy",
+      "name": "Google News — Global AI Policy",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-10-01T22:56:25.000Z",
+      "items": 100,
+      "durationMs": 415
+    },
+    {
+      "id": "google-news-asia-models",
+      "name": "Google News — Asia AI Models",
+      "ok": true,
+      "stale": false,
+      "status": "ok",
+      "newestAt": "2026-10-01T16:08:55.000Z",
+      "items": 83,
+      "durationMs": 423
+    },
+    {
+      "id": "venturebeat-ai",
+      "name": "VentureBeat AI",
+      "ok": false,
+      "status": "failed",
+      "error": "HTTP 429",
+      "durationMs": 1918
     },
     {
       "id": "ainow",
@@ -427,7 +427,7 @@
       "status": "ok",
       "newestAt": "2026-09-30T13:24:46.000Z",
       "items": 10,
-      "durationMs": 1146
+      "durationMs": 1223
     }
   ]
 }
