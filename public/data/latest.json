@@ -1,390 +1,330 @@
 {
-  "edition": "2026-10-10T06:30:00+09:00",
-  "generatedAt": "2026-10-10T01:05:50.164Z",
-  "periodStart": "2026-10-07T13:05:50.164Z",
+  "edition": "2026-10-11T06:30:00+09:00",
+  "generatedAt": "2026-10-11T00:19:57.213Z",
+  "periodStart": "2026-10-08T12:19:57.213Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 42,
-  "freshSources": 37,
+  "successfulSources": 34,
+  "freshSources": 29,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 2394,
+  "candidateCount": 1319,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "cloudflare-ai-01M4GV0DTKYJTCM5GPYBCME1T4",
+      "id": "google-news-asia-models-aibase-CBMiS0FVX3lxTE5iSTVMM0tCSDhnRFpBcFFGb0t2S0FNVzBSMWh0RFFvajlsR05jUHFXV",
       "rank": 1,
-      "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-      "originalTitle": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-      "summary": "Following last week’s release of Clef and Clef-flash , Cloudflare’s open-weight decision models, we decided to bring forth more gifts. Today, we’re releasing Clef-omni, which takes in audio and video input alongside text and image. We also cut the price of Cle",
+      "title": "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI - AIBase",
+      "originalTitle": "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI - AIBase",
+      "summary": "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI AIBase",
       "points": [
-        "Following last week’s release of Clef and Clef-flash , Cloudflare’s open-weight decision models, we decided to bring forth more gifts.",
-        "Today, we’re releasing Clef-omni, which takes in audio and video input alongside text and image.",
-        "We also cut the price of Clef-flash so it is now cheaper than Jev, and we made Clef faster."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Cloudflare AI",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-09T18:27:34.000Z",
-      "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal",
-      "impactScore": 80,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://blog.cloudflare.com/clef-faster-cheaper-multimodal"
-      ],
-      "eventTitles": [
-        "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41318",
-      "rank": 2,
-      "title": "Anthropic launches a free AI scanner for open-source projects",
-      "originalTitle": "Anthropic launches a free AI scanner for open-source projects",
-      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatica",
-      "points": [
-        "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks.",
-        "Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vul",
-        "The article Anthropic launches a free AI scanner for open-source projects appeared first on The Decoder ."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-09T17:54:44.000Z",
-      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects",
-      "impactScore": 80,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
-        }
-      ],
-      "eventUrls": [
-        "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects",
-        "https://theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
-      ],
-      "eventTitles": [
-        "Anthropic launches a free AI scanner for open-source projects",
-        "Anthropic launches free AI security scans for open-source projects"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-10-google-rolls-out-improved-synthid-ai-content-detect",
-      "rank": 3,
-      "title": "Google rolls out improved SynthID AI content detector, now available globally",
-      "originalTitle": "Google rolls out improved SynthID AI content detector, now available globally",
-      "summary": "Every piece of AI content from Google's Gemini models has a hidden SynthID label, which makes it very difficult to pass the content off as authentic . SynthID has also gotten buy-in from other major AI players, but actually checking for those invisible waterma",
-      "points": [
-        "Every piece of AI content from Google's Gemini models has a hidden SynthID label, which makes it very difficult to pass the content off as authentic .",
-        "SynthID has also gotten buy-in from other major AI players, but actually checking for those invisible watermarks has been a convoluted process.",
-        "It's going to be a little easier going forward, though."
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-07T14:00:08.000Z",
-      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally",
-      "impactScore": 80,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Real Sound｜リアルサウンド",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3VmkyWW01MDN5M0c0bjdMLUI0b01vUkJscHpMemY5MmFkWTdWbDJUU1BTcEhsdGFWVV9xX0FvMTBFbllaMlRCeXhfRzlBU08zMWhsSWRfb0NUWGlPYzdKa0hpV1dfZ9IBZkFVX3lxTFA3VmkyWW01MDN5M0c0bjdMLUI0b01vUkJscHpMemY5MmFkWTdWbDJUU1BTcEhsdGFWVV9xX0FvMTBFbllaMlRCeXhfRzlBU08zMWhsSWRfb0NUWGlPYzdKa0hpV1dfZw?oc=5"
-        },
-        {
-          "name": "千葉テレビ放送株式会社",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BYmF6M05uZ01NZ3Y0SlVBUzFUSmd2bEZ4NG9fVW9mczF3Tno1WmtwbGxFRlVRNE5VeV95Y3JYSWdDS0FyTDBzSHZ5cHRINEw0WEM4WEFyZV9rNlRheE00?oc=5"
-        },
-        {
-          "name": "Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVg2NEctVnMzSTNpQXRnZ0stY1Z1SmlLTUN3WFR5cTNxVHV1c25rUWEtQXl1Uk1OdGFybldGYk1zTnFwWkhrLU12X19lZE1ab0lKZmVNZENHSnlVbURORGpfRlEwbHlrV3AtMUFISGgwQnEyLVBtWktIbjNrNnhHRHlhUy01aDM2anItdzBn?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3VmkyWW01MDN5M0c0bjdMLUI0b01vUkJscHpMemY5MmFkWTdWbDJUU1BTcEhsdGFWVV9xX0FvMTBFbllaMlRCeXhfRzlBU08zMWhsSWRfb0NUWGlPYzdKa0hpV1dfZ9IBZkFVX3lxTFA3VmkyWW01MDN5M0c0bjdMLUI0b01vUkJscHpMemY5MmFkWTdWbDJUU1BTcEhsdGFWVV9xX0FvMTBFbllaMlRCeXhfRzlBU08zMWhsSWRfb0NUWGlPYzdKa0hpV1dfZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YZTZDdmxHdktLUkZUV2pzRkRYQVlJWkRWSUNrT1hBNDJJblUwa0wwdXFvenExRHpzMlNNVmlfWVNBbzlmWm15STdjZFc4cjZfa2pJR1dFUTR4VTY5czE0dNIBZkFVX3lxTFA3VmkyWW01MDN5M0c0bjdMLUI0b01vUkJscHpMemY5MmFkWTdWbDJUU1BTcEhsdGFWVV9xX0FvMTBFbllaMlRCeXhfRzlBU08zMWhsSWRfb0NUWGlPYzdKa0hpV1dfZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BYmF6M05uZ01NZ3Y0SlVBUzFUSmd2bEZ4NG9fVW9mczF3Tno1WmtwbGxFRlVRNE5VeV95Y3JYSWdDS0FyTDBzSHZ5cHRINEw0WEM4WEFyZV9rNlRheE00?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVg2NEctVnMzSTNpQXRnZ0stY1Z1SmlLTUN3WFR5cTNxVHV1c25rUWEtQXl1Uk1OdGFybldGYk1zTnFwWkhrLU12X19lZE1ab0lKZmVNZENHSnlVbURORGpfRlEwbHlrV3AtMUFISGgwQnEyLVBtWktIbjNrNnhHRHlhUy01aDM2anItdzBn?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE52enRmWG4xMUxCZ1lUTUtCcFh2WXBZZ3JLeE9Ta1RHVjEzSGV4YUlsTEpRbEdGdFVkYjZsOFlpTVF4bGlELVZoYUpGUlEwSjhRTGlQQ21oWktBOUF2cGxLQkdQcnU3UTlZdkN2YU1BT1RINUtxcEpSYVhDdHFwNXc?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLS05M3M5ZTQxaDV5dnlSNkRYRlpSNFV2ZGVpejE3NGlrazBHNW1McFJiT2p2N2xpVHJRS0pjdHZaVFltc1MyOE5CaUVGMkhIcE9hSDVRckw3dEozZ1U3OFpMUGRITjZHdVNsdU1IdGE5cjBrMmhoMGdoaEJ2SDZUa1YxYU1JTGc?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYRW1iUGxzUlR5NUdxUjRnQXZMX2pOX3NESFlfVS1pUmktNGVPMDZBdmFuTEpPM3BpSkZPVWZqV3ZfaDRNLWlEOERaQUtJMm5OWndqbFVLb3Y1cTNMRHJiTnpkZlF6VmR5VlpxTGtTeEd3eE5S?oc=5",
-        "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public",
-        "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally",
-        "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media"
-      ],
-      "eventTitles": [
-        "Google、AI生成物を識別する「SynthID Detector」を公開 OpenAIやNVIDIAの透かしにも対応 - Real Sound｜リアルサウンド",
-        "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定 - 千葉テレビ放送株式会社",
-        "Googleが生成AI使用チェックツールを一般公開。SynthID DetectorはChatGPTやNVIDIA製の画像・動画・音声も検証 - Yahoo!ニュース",
-        "GoogleがSynthID Detectorを全ユーザーに開放、OpenAIのファイルも判定 - Pasquale Pillitteri",
-        "グーグル、SynthID検出ツールを一般公開——Gemini以外のAI生成物チェックにも対応拡大 - BigGo ファイナンス",
-        "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
-        "Google rolls out improved SynthID AI content detector, now available globally",
-        "Google’s new SynthID website can identify AI-generated media"
-      ]
-    },
-    {
-      "id": "simon-willison-https-simonwillison-net-2026-Oct-9-deno-is-joining-cloudflare-",
-      "rank": 4,
-      "title": "Deno is joining Cloudflare",
-      "originalTitle": "Deno is joining Cloudflare",
-      "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on c",
-      "points": [
-        "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudfl",
-        "Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using th",
-        "After that year we will end our development of the Deno runtime."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Simon Willison",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-09T22:48:37.000Z",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare"
-      ],
-      "eventTitles": [
-        "Deno is joining Cloudflare"
-      ]
-    },
-    {
-      "id": "anthropic-sitemap-https-anthropic-com-research-investigating-unintended-model-actions",
-      "rank": 5,
-      "title": "Investigating unintended model actions in our evaluations and internal use",
-      "originalTitle": "Investigating unintended model actions in our evaluations and internal use",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "points": [
-        "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI AIBase",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Anthropic",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-10-09T16:09:00.000Z",
-      "url": "https://anthropic.com/research/investigating-unintended-model-actions",
-      "impactScore": 75,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://anthropic.com/research/investigating-unintended-model-actions"
-      ],
-      "eventTitles": [
-        "Investigating unintended model actions in our evaluations and internal use"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_video-038-p-3176138",
-      "rank": 6,
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "originalTitle": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of pr",
-      "points": [
-        "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year.",
-        "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco.",
-        "Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-09T16:56:42.000Z",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust"
-      ],
-      "eventTitles": [
-        "Amazon and others are done keeping data center deals secret. Is it enough to build trust?"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_podcast-038-p-3176135",
-      "rank": 7,
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "originalTitle": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of pr",
-      "points": [
-        "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year.",
-        "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco.",
-        "Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-09T16:53:02.000Z",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card"
-      ],
-      "eventTitles": [
-        "Amazon drops data center NDAs, and AI agents want your credit card"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-technotification-af36d7c7f125393c1967",
-      "rank": 8,
-      "title": "Which DeepSeek V4 Flash API Is Cheapest? Bitdeer AI Tops Artificial Analysis Price Benchmark - Technotification",
-      "originalTitle": "Which DeepSeek V4 Flash API Is Cheapest? Bitdeer AI Tops Artificial Analysis Price Benchmark - Technotification",
-      "summary": "Which DeepSeek V4 Flash API Is Cheapest? Bitdeer AI Tops Artificial Analysis Price Benchmark Technotification",
-      "points": [
-        "Which DeepSeek V4 Flash API Is Cheapest?",
-        "Bitdeer AI Tops Artificial Analysis Price Benchmark Technotification",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "Technotification",
-      "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-10-09T15:20:17.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFZ4cXdOOEozWWUyeDZOQVR6YmU2MjFkNzVUV3pPZExzcldkZE5Ya3VDV2VUT3RGbWZQX3dsMl9xM0lGUk04RGUtbWpicDdMYWxWSjgzZXY5SmNhSE9uSlhiMnVJM210QWl3Sm9ZM0lVaVV2LTRfVnZIOEQ0bENTUmQ4anM2SzF4bHQwTW1n?oc=5",
-      "impactScore": 73,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Bénin Web TV",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSDJzeHIyTU8yNl9RN3g2TkhMR1UzVFJNcFV6bkliUzA0ckwwY2Z4R2E2QXhoNExkVE5hVUx0cDNkZ2ZMNDg4cURwaTRqTmhrZ3dZbDBkbWZ6YVAtNGdDZWJuU3A1bkR3NGZBNjFEN0xHeU1kTHl2ZjhtQmNSUnZ0czVVWUkzZm5fdFE?oc=5"
-        },
-        {
-          "name": "The Standard (HK)",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1dzTFFkSnBwQ1hwaE1FUVZCVE93cmtfQ1hhblJhUWxiUm96NXdud3BUd2YxVGFlMnJzMDBoQmoxS05IVjBGSk5qampXazB2aWstcUI0Uk91bkZQb2pjeXFTVC16aU5GUlRIUWJUMEl0REhFT1lBdVI4OVd5My1sa2hVaGxQdGVJcFRLRVlOaHdOUjZnLUNhUEtB?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFZ4cXdOOEozWWUyeDZOQVR6YmU2MjFkNzVUV3pPZExzcldkZE5Ya3VDV2VUT3RGbWZQX3dsMl9xM0lGUk04RGUtbWpicDdMYWxWSjgzZXY5SmNhSE9uSlhiMnVJM210QWl3Sm9ZM0lVaVV2LTRfVnZIOEQ0bENTUmQ4anM2SzF4bHQwTW1n?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSDJzeHIyTU8yNl9RN3g2TkhMR1UzVFJNcFV6bkliUzA0ckwwY2Z4R2E2QXhoNExkVE5hVUx0cDNkZ2ZMNDg4cURwaTRqTmhrZ3dZbDBkbWZ6YVAtNGdDZWJuU3A1bkR3NGZBNjFEN0xHeU1kTHl2ZjhtQmNSUnZ0czVVWUkzZm5fdFE?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1dzTFFkSnBwQ1hwaE1FUVZCVE93cmtfQ1hhblJhUWxiUm96NXdud3BUd2YxVGFlMnJzMDBoQmoxS05IVjBGSk5qampXazB2aWstcUI0Uk91bkZQb2pjeXFTVC16aU5GUlRIUWJUMEl0REhFT1lBdVI4OVd5My1sa2hVaGxQdGVJcFRLRVlOaHdOUjZnLUNhUEtB?oc=5"
-      ],
-      "eventTitles": [
-        "Which DeepSeek V4 Flash API Is Cheapest? Bitdeer AI Tops Artificial Analysis Price Benchmark - Technotification",
-        "AI DeepSeek launches V4.1 Flash, its new multimodal model - Bénin Web TV",
-        "China's DeepSeek launches V4.1-Flash model - The Standard (HK)"
-      ]
-    },
-    {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-98615",
-      "rank": 9,
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "originalTitle": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "summary": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents ",
-      "points": [
-        "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agent",
-        "NVIDIA was founded because of Windows, Huang said.",
-        "Now AI agents are coming to Windows."
-      ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-07T18:45:28.000Z",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "impactScore": 72,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNXRwcEVfZXFhNnFEMmtmQlZSaXhvVExfZ0RlWk9sZGVPc01FUG5Wdk1DLUZGYno4LU5VNG9PZnc3ZHFSZ3N0WjdRYkQ5c0FVTVFKamRnZmFZN091Y2FjcXY3aFhwMHl0b0lCUThDTmt1eHJzQmpTdzZNN2NraXhWdThZTkxCZ3AtWkZtNzVfU2phTjc4N0M1cmtSUWh2WXBWcVZ4ZmtONHlRbE5YaHBwUkI0UUxva0lfV1dOd2RTclpSVHg5aG5xU2JhbVZXd3VnX1lRYk16dG13alFpMVYyRnFjdnhWWTd3Qy1sZnhQaTh1VDBwYW1CTUZOemQyaDg0SXZGMWZHTVM1eERZZm5Gb29RdHJ0TnVxMzJDUGl2YXFadXZiVnZaSTBCMEJZWlpjckc4a08wTWJUVXZXU2FjQk9Qb0FySmtlV2lGbDA3T3g4d1phWE92bFRQZUxBam9hOGhOdXdTb1NYQ0loMkxDaFNEcm9rVmxEU292VzdQbGhZSmpfMWlqVGpVaDhpS2FqVkl1bGVIc3VFeTR1RmdISzE3LTdON3JGWDdOb1plZDNpc29uMHVicGNjZ2trMDRCUlUyWEw0UTMtZTJEcmdnekVET0RDYml0YlB5VDF3ejNhZw?oc=5"
-        },
-        {
-          "name": "ITmedia AI+",
-          "url": "https://itmedia.co.jp/aiplus/article/2610/08/2000002110"
-        },
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0NZd1VrcGpfanZId0V4QTFPY2dVVVQ2bXdDaWxzaEx6RHllZU5pNDRtREducnZFeVF5cDZHNGNyNXBnaXdoTDMyQ3hYeVRjR1NFY2c1UXJFQnlRMHJsVGRKXzFyTkhlQlBVQVFSOXlUWTZZbmRUMjJKWGpRdmN4Ml9ybnRHcXRuLVJScFFpRlhvV3MtaDU0WlVR?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNXRwcEVfZXFhNnFEMmtmQlZSaXhvVExfZ0RlWk9sZGVPc01FUG5Wdk1DLUZGYno4LU5VNG9PZnc3ZHFSZ3N0WjdRYkQ5c0FVTVFKamRnZmFZN091Y2FjcXY3aFhwMHl0b0lCUThDTmt1eHJzQmpTdzZNN2NraXhWdThZTkxCZ3AtWkZtNzVfU2phTjc4N0M1cmtSUWh2WXBWcVZ4ZmtONHlRbE5YaHBwUkI0UUxva0lfV1dOd2RTclpSVHg5aG5xU2JhbVZXd3VnX1lRYk16dG13alFpMVYyRnFjdnhWWTd3Qy1sZnhQaTh1VDBwYW1CTUZOemQyaDg0SXZGMWZHTVM1eERZZm5Gb29RdHJ0TnVxMzJDUGl2YXFadXZiVnZaSTBCMEJZWlpjckc4a08wTWJUVXZXU2FjQk9Qb0FySmtlV2lGbDA3T3g4d1phWE92bFRQZUxBam9hOGhOdXdTb1NYQ0loMkxDaFNEcm9rVmxEU292VzdQbGhZSmpfMWlqVGpVaDhpS2FqVkl1bGVIc3VFeTR1RmdISzE3LTdON3JGWDdOb1plZDNpc29uMHVicGNjZ2trMDRCUlUyWEw0UTMtZTJEcmdnekVET0RDYml0YlB5VDF3ejNhZw?oc=5",
-        "https://itmedia.co.jp/aiplus/article/2610/08/2000002110",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0NZd1VrcGpfanZId0V4QTFPY2dVVVQ2bXdDaWxzaEx6RHllZU5pNDRtREducnZFeVF5cDZHNGNyNXBnaXdoTDMyQ3hYeVRjR1NFY2c1UXJFQnlRMHJsVGRKXzFyTkhlQlBVQVFSOXlUWTZZbmRUMjJKWGpRdmN4Ml9ybnRHcXRuLVJScFFpRlhvV3MtaDU0WlVR?oc=5",
-        "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event"
-      ],
-      "eventTitles": [
-        "クラウドに頼らないAIエージェント マイクロソフトとNVIDIAが128GB搭載「Surface Laptop Ultra」を投入 - Yellow.com",
-        "NVIDIA「RTX Spark」搭載のノートPC「Surface Laptop Ultra」発売 価格は51万3480円から",
-        "NVIDIAとMicrosoftがRTX SparkラップトップとAIエージェントをWindows PCに提供 - Unite.AI",
-        "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-simply-wall-street-7668bdd69c0f9436d534",
-      "rank": 10,
-      "title": "Alibaba (BABA) Chairman Joe Tsai Urges Europe To Back Open Source AI - Simply Wall Street",
-      "originalTitle": "Alibaba (BABA) Chairman Joe Tsai Urges Europe To Back Open Source AI - Simply Wall Street",
-      "summary": "Alibaba (BABA) Chairman Joe Tsai Urges Europe To Back Open Source AI Simply Wall Street",
-      "points": [
-        "Alibaba (BABA) Chairman Joe Tsai Urges Europe To Back Open Source AI Simply Wall Street",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Simply Wall Street",
+      "source": "AIBase",
       "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-09T22:52:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVdNTUJkM054NnZ4ZGlGYzNDWU1uN2RMN182WVI3MGg4NlRzRXoxUFVLcTl3dnZkUUFOY1JDRDdrdUJveWFpOXJKV1Q2a0xjN0F1NFRyeGp2TE1MTjBDXzZJanpXRjhnZFVxVkFYNGwxam5wU3o2WGxvb0pwbDIxc2lrOTdhdmVubGRKVFBIZjNUZ2tNUUo0Ml9pdFNRWWtuTUxTRUNnaXhQWWxEQWtSZ1BZUjRrTjFUOTVvLUFORVFuUUU5LVhpNXpncWpQYUZ3VFHSAdcBQVVfeXFMT2FfYmd3UUJrekg5aE5rdDJkWERMTFdBdGJQNWVyVFQxZUpoVUdFUXgxNV9OQ2FNUkh4NU9XYlBFa1FjbGgwUnBpbkVLaXlfNm00X0RFa0Nwam16Snl1alZwYTdMWVoxb016ZFREQXk3eUREZ2NOMGgza0h1amhNaURFaExFOXpmdDRuQU00aXN6NC12QmdzM2ZwNGdCX3VmeXVBUWNLanZPNDNzeW9vX3M1Ry1mY053VHV3ZDdKMC10enJEZDYxMFVaUnZfQUJBRW1wSmJwUW8?oc=5",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-10T08:09:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSTVMM0tCSDhnRFpBcFFGb0t2S0FNVzBSMWh0RFFvajlsR05jUHFXVkJDY2EyWl9EQ3hwMm8xdmlzcEg0VmJIQmE3Zw?oc=5",
       "impactScore": 69,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "TOKENPOST",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wb2gtYTdQQzB1ZG5qZGFoQ3NzbXpidC16UEdfMFZKNWJNMS1BNG9YNXBscmwxQ25jN1IyeVRfNlpnRldTdmlyZERKMzNWbE1FdUwwQVFwZS03T0E?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3l4S1V2dFJKWXYwNWtNUzRVQV9LVlNqWnZleUNPblN2UFRjcFk2ekUxQzhUTzJpZXgzMTBxZ2lfcF9GeEJ0M1pnaHZjN1NxZkFfdWpxR1ItbkptSHFJd1FvcENNWHhvLWVzNEdDemlrenk3T0JBUmtMd0t6a0x1YmJUTXd1Q0tjM2ZyYjczTExfLXdrU2xmYzlmYmFUWE9PUWIxdGl6aW81bjc5QU5mU3VZV0o?oc=5"
-        },
-        {
-          "name": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWdUMEc4UEF3bVpHaEp1OGt1OC1BTXVnUC1oeW1pY3lVTzllYWM2bWRpcU5VcGJmdzExeFBXTkNZQlhhZUFRN1JnS1lheWpscjFtUmxWRVJaQVBFQ2x4ZFo4WmV4V0JIb1l1ZkFPcTZiZk1pZGpNczJNZWdDR1A0dXRHWlNZZEpmamVyUEFidXlmcUZrTEJsbkJwcHVuZG9ReURyX0JJbVd2ZWRObkFZZ3BNYzJZaTQ?oc=5"
+          "name": "Pandaily",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGFOTWt4bXBfMG5CTGpZVzJENjNiOFhPazZXc0Z6clg0c3JSazByWFMwbGs1SlctQTEzUW1VOS1ULWFzZVpDYjh3MlFfRmtjSndCR0ptZVN2R3JESjR3bFRzS2tuYU5jNFIwOTJYcHpCck9ob3pqYnZPaTFidkRXVE1taVg1dC1SQ1lubEFWdS1DR3V6QzVrZ3JXTEVjV1U?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVdNTUJkM054NnZ4ZGlGYzNDWU1uN2RMN182WVI3MGg4NlRzRXoxUFVLcTl3dnZkUUFOY1JDRDdrdUJveWFpOXJKV1Q2a0xjN0F1NFRyeGp2TE1MTjBDXzZJanpXRjhnZFVxVkFYNGwxam5wU3o2WGxvb0pwbDIxc2lrOTdhdmVubGRKVFBIZjNUZ2tNUUo0Ml9pdFNRWWtuTUxTRUNnaXhQWWxEQWtSZ1BZUjRrTjFUOTVvLUFORVFuUUU5LVhpNXpncWpQYUZ3VFHSAdcBQVVfeXFMT2FfYmd3UUJrekg5aE5rdDJkWERMTFdBdGJQNWVyVFQxZUpoVUdFUXgxNV9OQ2FNUkh4NU9XYlBFa1FjbGgwUnBpbkVLaXlfNm00X0RFa0Nwam16Snl1alZwYTdMWVoxb016ZFREQXk3eUREZ2NOMGgza0h1amhNaURFaExFOXpmdDRuQU00aXN6NC12QmdzM2ZwNGdCX3VmeXVBUWNLanZPNDNzeW9vX3M1Ry1mY053VHV3ZDdKMC10enJEZDYxMFVaUnZfQUJBRW1wSmJwUW8?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wb2gtYTdQQzB1ZG5qZGFoQ3NzbXpidC16UEdfMFZKNWJNMS1BNG9YNXBscmwxQ25jN1IyeVRfNlpnRldTdmlyZERKMzNWbE1FdUwwQVFwZS03T0E?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3l4S1V2dFJKWXYwNWtNUzRVQV9LVlNqWnZleUNPblN2UFRjcFk2ekUxQzhUTzJpZXgzMTBxZ2lfcF9GeEJ0M1pnaHZjN1NxZkFfdWpxR1ItbkptSHFJd1FvcENNWHhvLWVzNEdDemlrenk3T0JBUmtMd0t6a0x1YmJUTXd1Q0tjM2ZyYjczTExfLXdrU2xmYzlmYmFUWE9PUWIxdGl6aW81bjc5QU5mU3VZV0o?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWdUMEc4UEF3bVpHaEp1OGt1OC1BTXVnUC1oeW1pY3lVTzllYWM2bWRpcU5VcGJmdzExeFBXTkNZQlhhZUFRN1JnS1lheWpscjFtUmxWRVJaQVBFQ2x4ZFo4WmV4V0JIb1l1ZkFPcTZiZk1pZGpNczJNZWdDR1A0dXRHWlNZZEpmamVyUEFidXlmcUZrTEJsbkJwcHVuZG9ReURyX0JJbVd2ZWRObkFZZ3BNYzJZaTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41dm94bTU3OGZiVnhELXN6cjdUVm5kZExMRjhkYVZZVHhOYzI4MVp2c0pjcElsUXVEa3Yzd1Z2Yno3S0tDanRlZnRFaUhCRmlC?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmh0YlZEZTYwcW5LdFAzUU1WVTY3RlUwYjhWZGpzbk5qbnVqNG1rR2x6c1hIeXE1dm1pVTlKbG5yR3F4Nk9jNzhuZDRQNDBIYUc3ei1ILXhMRy1YTjZRcFV3UkNUU010Z294X0hzUjFfRk85aHZqcGx1ZUpOUEdxWU1xNG1wc0EySjZzNmgyUFRTc2tra1M0?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbk9Iek9HUnk0UmsxaTBvbDB2TV92bnFWemVjMnM0bmZfMEVnalJGSkpiSWhQdXUtdzYwWV9lXzU4RmhyaXA1OFRDX0ZkYWJwaUpXTl9Makt1b3k5eTFFMFREVTEyOVdEeXZ3bkM4Q1BGLWhfN1MyTFRXUUJyeE1aNA?oc=5"
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSTVMM0tCSDhnRFpBcFFGb0t2S0FNVzBSMWh0RFFvajlsR05jUHFXVkJDY2EyWl9EQ3hwMm8xdmlzcEg0VmJIQmE3Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGFOTWt4bXBfMG5CTGpZVzJENjNiOFhPazZXc0Z6clg0c3JSazByWFMwbGs1SlctQTEzUW1VOS1ULWFzZVpDYjh3MlFfRmtjSndCR0ptZVN2R3JESjR3bFRzS2tuYU5jNFIwOTJYcHpCck9ob3pqYnZPaTFidkRXVE1taVg1dC1SQ1lubEFWdS1DR3V6QzVrZ3JXTEVjV1U?oc=5"
       ],
       "eventTitles": [
-        "Alibaba (BABA) Chairman Joe Tsai Urges Europe To Back Open Source AI - Simply Wall Street",
-        "Alibaba Chairman Tsai Urges Europe to Expand Sovereign AI Infrastructure - TOKENPOST",
-        "Alibaba’s Joe Tsai Says Open Source Is Europe’s Best Shot at AI - Bloomberg.com",
-        "Alibaba chairman says open source is Europe’s best shot at AI - The Edge Singapore",
-        "Alibaba chairman says open source is Europe’s best shot at AI - The Edge Malaysia",
-        "Alibaba’s Joe Tsai says open source is Europe’s only way to AI independence - The Next Web",
-        "Alibaba's Joe Tsai says open-source AI is Europe's best path to tech independence - Quartz"
+        "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI - AIBase",
+        "Huawei Goes Deep, Alibaba Broad, ByteDance Focused, Tencent Clever: The Fight to Own the AI Phone - Pandaily"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-science-2026-10-winning-nikon-small-world-in-motion-video-disq",
+      "rank": 2,
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "originalTitle": "AI disqualification yields new Nikon Small World in Motion winner",
+      "summary": "Credit: Nguyen Nam Nhat. Last month we covered the winner of Nikon's Small World in Motion video: Ning Xu of Tsinghua University in China, whose video captured tiny cilia beating in the airways of a child with a rare respiratory disorder. But allegations surfa",
+      "points": [
+        "Credit: Nguyen Nam Nhat.",
+        "Last month we covered the winner of Nikon's Small World in Motion video: Ning Xu of Tsinghua University in China, whose video captured tiny cilia beating in the airways o",
+        "But allegations surfaced about Xu's use of AI while making the video."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-09T18:44:06.000Z",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Tbreak UAE",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pUzUwQ1JPTnRheTNzOGUtNG1tRFlCRlpya3ljZWpHREx0eDNZS2JXRkVrWXdrNS04YmdrUVBkTDdDUEdqSUxJNXpvcm1EdFo1SGlHcmpLVGRMR01jc1BOVDZNLXZMZjdGcWI5TGFoTFBNeUR1SXBseHln?oc=5"
+        },
+        {
+          "name": "NewsBytes",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0pQYWlxN0EyV3BwWUVqWVRxLW51MHRld0JTbHp2Mk5IOTZiWHJKM1d1eUdSMFhpZmVuaHFuNTJMd21hOUx4ZC1QX29LOFNaWUU0a1d1ejVrQkpOQk1BYlNZci1QcEM5Ul82Um5BX2hrWnZORjllWkNLSHpTb1hRdUxiRkhQQWNkb2RjbzBhRGdkUzk3Mjk3RHpmeW9ZdkV2cXNMQjB0RS1YT1Z6YlVyalFIQQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pUzUwQ1JPTnRheTNzOGUtNG1tRFlCRlpya3ljZWpHREx0eDNZS2JXRkVrWXdrNS04YmdrUVBkTDdDUEdqSUxJNXpvcm1EdFo1SGlHcmpLVGRMR01jc1BOVDZNLXZMZjdGcWI5TGFoTFBNeUR1SXBseHln?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0pQYWlxN0EyV3BwWUVqWVRxLW51MHRld0JTbHp2Mk5IOTZiWHJKM1d1eUdSMFhpZmVuaHFuNTJMd21hOUx4ZC1QX29LOFNaWUU0a1d1ejVrQkpOQk1BYlNZci1QcEM5Ul82Um5BX2hrWnZORjllWkNLSHpTb1hRdUxiRkhQQWNkb2RjbzBhRGdkUzk3Mjk3RHpmeW9ZdkV2cXNMQjB0RS1YT1Z6YlVyalFIQQ?oc=5",
+        "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use"
+      ],
+      "eventTitles": [
+        "Nikon disqualifies Small World in Motion winner over generative AI - Tbreak UAE",
+        "Nikon disqualifies Small World in Motion winner over generative AI - NewsBytes",
+        "AI disqualification yields new Nikon Small World in Motion winner"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3176212",
+      "rank": 3,
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "originalTitle": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "points": [
+        "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-09T19:36:56.000Z",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "impactScore": 63,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police",
+        "https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police"
+      ],
+      "eventTitles": [
+        "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+        "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41328",
+      "rank": 4,
+      "title": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+      "originalTitle": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new mode",
+      "points": [
+        "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds.",
+        "According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5.",
+        "Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-10T08:59:49.000Z",
+      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance"
+      ],
+      "eventTitles": [
+        "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3176448",
+      "rank": 5,
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "originalTitle": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "points": [
+        "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "impactScore": 60,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
+      ],
+      "eventTitles": [
+        "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Oct-10-python-actions-",
+      "rank": 6,
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "originalTitle": "Python 3.15.0 added to actions/python-versions",
+      "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable ",
+      "points": [
+        "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https",
+        "Tags: github , python , github-actions , chatgpt",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-10T23:58:04.000Z",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/10/python-actions"
+      ],
+      "eventTitles": [
+        "Python 3.15.0 added to actions/python-versions"
+      ]
+    },
+    {
+      "id": "wired-ai-6ac7c89b91ca886b7a0df9d4",
+      "rank": 7,
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "originalTitle": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "points": [
+        "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-10T12:00:00.000Z",
+      "url": "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals"
+      ],
+      "eventTitles": [
+        "AI Is Getting Really Good at Messing With Cybercriminals"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-10-2000002189",
+      "rank": 8,
+      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "originalTitle": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+      "points": [
+        "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-09T23:28:02.000Z",
+      "url": "https://itmedia.co.jp/news/article/2610/10/2000002189",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/10/2000002189"
+      ],
+      "eventTitles": [
+        "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e",
+      "rank": 9,
+      "title": "ICYMI: What landed for AI builders in September 2026",
+      "originalTitle": "ICYMI: What landed for AI builders in September 2026",
+      "summary": "A recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026 At AWS, we believe the fastest path to enterprise AI is giving builders real choice at every layer: model, runtime, and tooling. That belief shapes how we i",
+      "points": [
+        "A recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026 At AWS, we believe the fastest path to enterprise AI is giving bui",
+        "That belief shapes how we invest across Amazon Bedrock, AgentCore, and Strands.",
+        "Amazon Bedrock continues expanding access to leading frontier models so you can build and scale AI applications securely."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-09T15:38:39.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026"
+      ],
+      "eventTitles": [
+        "ICYMI: What landed for AI builders in September 2026"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-sophos",
+      "rank": 10,
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "points": [
+        "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "url": "https://openai.com/index/sophos",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/sophos"
+      ],
+      "eventTitles": [
+        "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
       ]
     }
   ]
