@@ -1,256 +1,27 @@
 {
-  "edition": "2026-10-11T06:30:00+09:00",
-  "generatedAt": "2026-10-11T00:19:57.213Z",
-  "periodStart": "2026-10-08T12:19:57.213Z",
+  "edition": "2026-10-12T06:30:00+09:00",
+  "generatedAt": "2026-10-12T00:40:49.170Z",
+  "periodStart": "2026-10-09T12:40:49.170Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 34,
-  "freshSources": 29,
+  "successfulSources": 39,
+  "freshSources": 34,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1319,
+  "candidateCount": 390,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-news-asia-models-aibase-CBMiS0FVX3lxTE5iSTVMM0tCSDhnRFpBcFFGb0t2S0FNVzBSMWh0RFFvajlsR05jUHFXV",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-12-2000002192",
       "rank": 1,
-      "title": "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI - AIBase",
-      "originalTitle": "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI - AIBase",
-      "summary": "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI AIBase",
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "originalTitle": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
       "points": [
-        "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI AIBase",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "AIBase",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-10T08:09:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSTVMM0tCSDhnRFpBcFFGb0t2S0FNVzBSMWh0RFFvajlsR05jUHFXVkJDY2EyWl9EQ3hwMm8xdmlzcEg0VmJIQmE3Zw?oc=5",
-      "impactScore": 69,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Pandaily",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGFOTWt4bXBfMG5CTGpZVzJENjNiOFhPazZXc0Z6clg0c3JSazByWFMwbGs1SlctQTEzUW1VOS1ULWFzZVpDYjh3MlFfRmtjSndCR0ptZVN2R3JESjR3bFRzS2tuYU5jNFIwOTJYcHpCck9ob3pqYnZPaTFidkRXVE1taVg1dC1SQ1lubEFWdS1DR3V6QzVrZ3JXTEVjV1U?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSTVMM0tCSDhnRFpBcFFGb0t2S0FNVzBSMWh0RFFvajlsR05jUHFXVkJDY2EyWl9EQ3hwMm8xdmlzcEg0VmJIQmE3Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGFOTWt4bXBfMG5CTGpZVzJENjNiOFhPazZXc0Z6clg0c3JSazByWFMwbGs1SlctQTEzUW1VOS1ULWFzZVpDYjh3MlFfRmtjSndCR0ptZVN2R3JESjR3bFRzS2tuYU5jNFIwOTJYcHpCck9ob3pqYnZPaTFidkRXVE1taVg1dC1SQ1lubEFWdS1DR3V6QzVrZ3JXTEVjV1U?oc=5"
-      ],
-      "eventTitles": [
-        "AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI - AIBase",
-        "Huawei Goes Deep, Alibaba Broad, ByteDance Focused, Tencent Clever: The Fight to Own the AI Phone - Pandaily"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-science-2026-10-winning-nikon-small-world-in-motion-video-disq",
-      "rank": 2,
-      "title": "AI disqualification yields new Nikon Small World in Motion winner",
-      "originalTitle": "AI disqualification yields new Nikon Small World in Motion winner",
-      "summary": "Credit: Nguyen Nam Nhat. Last month we covered the winner of Nikon's Small World in Motion video: Ning Xu of Tsinghua University in China, whose video captured tiny cilia beating in the airways of a child with a rare respiratory disorder. But allegations surfa",
-      "points": [
-        "Credit: Nguyen Nam Nhat.",
-        "Last month we covered the winner of Nikon's Small World in Motion video: Ning Xu of Tsinghua University in China, whose video captured tiny cilia beating in the airways o",
-        "But allegations surfaced about Xu's use of AI while making the video."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-09T18:44:06.000Z",
-      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use",
-      "impactScore": 67,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Tbreak UAE",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pUzUwQ1JPTnRheTNzOGUtNG1tRFlCRlpya3ljZWpHREx0eDNZS2JXRkVrWXdrNS04YmdrUVBkTDdDUEdqSUxJNXpvcm1EdFo1SGlHcmpLVGRMR01jc1BOVDZNLXZMZjdGcWI5TGFoTFBNeUR1SXBseHln?oc=5"
-        },
-        {
-          "name": "NewsBytes",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0pQYWlxN0EyV3BwWUVqWVRxLW51MHRld0JTbHp2Mk5IOTZiWHJKM1d1eUdSMFhpZmVuaHFuNTJMd21hOUx4ZC1QX29LOFNaWUU0a1d1ejVrQkpOQk1BYlNZci1QcEM5Ul82Um5BX2hrWnZORjllWkNLSHpTb1hRdUxiRkhQQWNkb2RjbzBhRGdkUzk3Mjk3RHpmeW9ZdkV2cXNMQjB0RS1YT1Z6YlVyalFIQQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pUzUwQ1JPTnRheTNzOGUtNG1tRFlCRlpya3ljZWpHREx0eDNZS2JXRkVrWXdrNS04YmdrUVBkTDdDUEdqSUxJNXpvcm1EdFo1SGlHcmpLVGRMR01jc1BOVDZNLXZMZjdGcWI5TGFoTFBNeUR1SXBseHln?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0pQYWlxN0EyV3BwWUVqWVRxLW51MHRld0JTbHp2Mk5IOTZiWHJKM1d1eUdSMFhpZmVuaHFuNTJMd21hOUx4ZC1QX29LOFNaWUU0a1d1ejVrQkpOQk1BYlNZci1QcEM5Ul82Um5BX2hrWnZORjllWkNLSHpTb1hRdUxiRkhQQWNkb2RjbzBhRGdkUzk3Mjk3RHpmeW9ZdkV2cXNMQjB0RS1YT1Z6YlVyalFIQQ?oc=5",
-        "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use"
-      ],
-      "eventTitles": [
-        "Nikon disqualifies Small World in Motion winner over generative AI - Tbreak UAE",
-        "Nikon disqualifies Small World in Motion winner over generative AI - NewsBytes",
-        "AI disqualification yields new Nikon Small World in Motion winner"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3176212",
-      "rank": 3,
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "originalTitle": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "points": [
-        "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-09T19:36:56.000Z",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "impactScore": 63,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
-        }
-      ],
-      "eventUrls": [
-        "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police",
-        "https://theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-        "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police"
-      ],
-      "eventTitles": [
-        "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
-        "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-        "An Anthropic AI model sent a false homicide tip to Philadelphia police"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41328",
-      "rank": 4,
-      "title": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
-      "originalTitle": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
-      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new mode",
-      "points": [
-        "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds.",
-        "According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5.",
-        "Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-10T08:59:49.000Z",
-      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
-      "impactScore": 61,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance"
-      ],
-      "eventTitles": [
-        "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3176448",
-      "rank": 5,
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "originalTitle": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "points": [
-        "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-10T21:47:51.000Z",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "impactScore": 60,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
-      ],
-      "eventTitles": [
-        "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
-      ]
-    },
-    {
-      "id": "simon-willison-https-simonwillison-net-2026-Oct-10-python-actions-",
-      "rank": 6,
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "originalTitle": "Python 3.15.0 added to actions/python-versions",
-      "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable ",
-      "points": [
-        "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https",
-        "Tags: github , python , github-actions , chatgpt",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "Simon Willison",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-10T23:58:04.000Z",
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions",
-      "impactScore": 59,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://simonwillison.net/2026/Oct/10/python-actions"
-      ],
-      "eventTitles": [
-        "Python 3.15.0 added to actions/python-versions"
-      ]
-    },
-    {
-      "id": "wired-ai-6ac7c89b91ca886b7a0df9d4",
-      "rank": 7,
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "originalTitle": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "points": [
-        "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "WIRED",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-10T12:00:00.000Z",
-      "url": "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals"
-      ],
-      "eventTitles": [
-        "AI Is Getting Really Good at Messing With Cybercriminals"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-10-2000002189",
-      "rank": 8,
-      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-      "originalTitle": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-      "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
-      "points": [
-        "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+        "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -258,73 +29,296 @@
       "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-10-09T23:28:02.000Z",
-      "url": "https://itmedia.co.jp/news/article/2610/10/2000002189",
-      "impactScore": 58,
+      "publishedAt": "2026-10-11T23:59:36.000Z",
+      "url": "https://itmedia.co.jp/news/article/2610/12/2000002192",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZ3RNQU02R2hacVhXdjM0ekkzNTdXejBRUklNN1EzUDRXWkE5LVRHUWxUX180Y180TUJDcHNlU3dNaEZjY1dwY2x3VDdpRWUzRVpEOWxGNU0xV25ON29TWFJNcExBNXlPY1E?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/12/2000002192",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZ3RNQU02R2hacVhXdjM0ekkzNTdXejBRUklNN1EzUDRXWkE5LVRHUWxUX180Y180TUJDcHNlU3dNaEZjY1dwY2x3VDdpRWUzRVpEOWxGNU0xV25ON29TWFJNcExBNXlPY1E?oc=5"
+      ],
+      "eventTitles": [
+        "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+        "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告 - ITmedia"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41402",
+      "rank": 2,
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "originalTitle": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score,",
+      "points": [
+        "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism an",
+        "At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew.",
+        "The models' biggest weakness is still their inability to critically question their own results."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-11T13:44:32.000Z",
+      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
+      "impactScore": 65,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://itmedia.co.jp/news/article/2610/10/2000002189"
+        "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds"
       ],
       "eventTitles": [
-        "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明"
+        "AI agents overstate their results and remain far from autonomous research, study finds"
       ]
     },
     {
-      "id": "aws-machine-learning-47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e",
-      "rank": 9,
-      "title": "ICYMI: What landed for AI builders in September 2026",
-      "originalTitle": "ICYMI: What landed for AI builders in September 2026",
-      "summary": "A recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026 At AWS, we believe the fastest path to enterprise AI is giving builders real choice at every layer: model, runtime, and tooling. That belief shapes how we i",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3176490",
+      "rank": 3,
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "originalTitle": "Will the HomeView be Apple’s first smart home success?",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
       "points": [
-        "A recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026 At AWS, we believe the fastest path to enterprise AI is giving bui",
-        "That belief shapes how we invest across Amazon Bedrock, AgentCore, and Strands.",
-        "Amazon Bedrock continues expanding access to leading frontier models so you can build and scale AI applications securely."
+        "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-09T15:38:39.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026",
-      "impactScore": 58,
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-11T21:14:40.000Z",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
+      "impactScore": 63,
       "impactLabel": "中",
-      "verification": "公式発表",
+      "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026"
+        "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success"
       ],
       "eventTitles": [
-        "ICYMI: What landed for AI builders in September 2026"
+        "Will the HomeView be Apple’s first smart home success?"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-sophos",
-      "rank": 10,
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "id": "google-news-global-policy-nz-herald-1b8d19c59c02c8f865df",
+      "rank": 4,
+      "title": "Green Party announcement on AI regulation plans - NZ Herald",
+      "originalTitle": "Green Party announcement on AI regulation plans - NZ Herald",
+      "summary": "Green Party announcement on AI regulation plans NZ Herald",
       "points": [
-        "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "Green Party announcement on AI regulation plans NZ Herald",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "NZ Herald",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-12T00:03:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajJHdUtaUDI1cE5QUmR5YV9FSzN5emE3ckdydm9qeFdwVmdZQ2U0MGE1cU1JU1RtVzZ5NjE0YzAycG9mY3hRVTlFOEg1VVpnQlVyS3p3bDFFekRnUDlqaW96eEk0Q3BPaEtnMzhEaVBvcjVvY1pZNnZ6UkFmODBBQ1ZmdUl0YktTd1FOUXZmaC14U2VPanpxbE5BQmRxT3hiZTJoTWVrUkI?oc=5",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajJHdUtaUDI1cE5QUmR5YV9FSzN5emE3ckdydm9qeFdwVmdZQ2U0MGE1cU1JU1RtVzZ5NjE0YzAycG9mY3hRVTlFOEg1VVpnQlVyS3p3bDFFekRnUDlqaW96eEk0Q3BPaEtnMzhEaVBvcjVvY1pZNnZ6UkFmODBBQ1ZmdUl0YktTd1FOUXZmaC14U2VPanpxbE5BQmRxT3hiZTJoTWVrUkI?oc=5"
+      ],
+      "eventTitles": [
+        "Green Party announcement on AI regulation plans - NZ Herald"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-pasquale-pillitteri-f15e660f4b5cc63d0845",
+      "rank": 5,
+      "title": "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content - Pasquale Pillitteri",
+      "originalTitle": "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content - Pasquale Pillitteri",
+      "summary": "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content Pasquale Pillitteri",
+      "points": [
+        "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content Pasquale Pillitteri",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Pasquale Pillitteri",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-10T23:21:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXdXaE40b0l4R2FYR3dYaTZMYm1jcEhuUi1sVkRMREljMDRyQ2xHa2UtdkVBTW4ySDl4bzRzbHdlejZISU93U3lCTDBsdkZ0ajVqdklpS3dvMktrdm5DQmEwTGxNSjNvWlltQ09iRktLM2RlYVJIT0RFekdSYTh2OE90YTNOU3JhVkFieC1QdnFFdTZhYk50b3JERQ?oc=5",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "MarkTechPost",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXpvaFdacktESjZwbURtOUpFTW5WTTktSnZ4TjBudmVJcXVHenYxdEpRQ1p0RjFENkJuQmFIVHdVM3JjN1lSSkc3UEZfejI2cVNDRFNoRi1yV0l2NWNGb3VEQTVmVmpGcm1acWVOeXVtMFk0Y1JtNDFkUjNXdkZ4bFN4UHhjTk1qTGdIZkF1TmNTd3ZQWVNwWTlMX3A4SzhJTm5yTDlVRTE2TlhS0gGsAUFVX3lxTE5Vem9oV1pyS0RKNnBtRG05SkVNblZNOS1KdnhOMG52ZUlxdUd6djF0SlFDWnRGMUQ2Qm5CYUhUd1UzcmM3WVJKRzdQRl96MjZxU0NEU2hGLXJXSXY1Y0ZvdURBNWZWakZybVpxZU55dW0wWTRjUm00MWRSM1d2RnhsU3hQeGNOTWpMZ0hmQXVOY1N3dlBZU3BZOUxfcDhLOElObnJMOVVFMTZOWFI?oc=5"
+        },
+        {
+          "name": "Kingy AI",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2ODA3bUZUbnpBUHA4aU5jalJmZUdjZUNwQVRmbjRndGg5OEItcW93ZVhyc2ViMlc2eTJxV3owcUE3S1M1UVZRcEFGbGs5Wk5ITWUtVmxncjBiVzZsUng5dEVDUUNUVGY2d3haU1o5dk4?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXdXaE40b0l4R2FYR3dYaTZMYm1jcEhuUi1sVkRMREljMDRyQ2xHa2UtdkVBTW4ySDl4bzRzbHdlejZISU93U3lCTDBsdkZ0ajVqdklpS3dvMktrdm5DQmEwTGxNSjNvWlltQ09iRktLM2RlYVJIT0RFekdSYTh2OE90YTNOU3JhVkFieC1QdnFFdTZhYk50b3JERQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXpvaFdacktESjZwbURtOUpFTW5WTTktSnZ4TjBudmVJcXVHenYxdEpRQ1p0RjFENkJuQmFIVHdVM3JjN1lSSkc3UEZfejI2cVNDRFNoRi1yV0l2NWNGb3VEQTVmVmpGcm1acWVOeXVtMFk0Y1JtNDFkUjNXdkZ4bFN4UHhjTk1qTGdIZkF1TmNTd3ZQWVNwWTlMX3A4SzhJTm5yTDlVRTE2TlhS0gGsAUFVX3lxTE5Vem9oV1pyS0RKNnBtRG05SkVNblZNOS1KdnhOMG52ZUlxdUd6djF0SlFDWnRGMUQ2Qm5CYUhUd1UzcmM3WVJKRzdQRl96MjZxU0NEU2hGLXJXSXY1Y0ZvdURBNWZWakZybVpxZU55dW0wWTRjUm00MWRSM1d2RnhsU3hQeGNOTWpMZ0hmQXVOY1N3dlBZU3BZOUxfcDhLOElObnJMOVVFMTZOWFI?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2ODA3bUZUbnpBUHA4aU5jalJmZUdjZUNwQVRmbjRndGg5OEItcW93ZVhyc2ViMlc2eTJxV3owcUE3S1M1UVZRcEFGbGs5Wk5ITWUtVmxncjBiVzZsUng5dEVDUUNUVGY2d3haU1o5dk4?oc=5"
+      ],
+      "eventTitles": [
+        "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content - Pasquale Pillitteri",
+        "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model - MarkTechPost",
+        "Qwen Image 2.1 Turbo Arrives: Eight-Step Generation, With a License Catch. - Kingy AI"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3176460",
+      "rank": 6,
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "originalTitle": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "points": [
+        "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-11T16:52:33.000Z",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "impactScore": 60,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas"
+      ],
+      "eventTitles": [
+        "Can the AI industry persuade data center opponents by getting rid of NDAs?"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41313",
+      "rank": 7,
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "originalTitle": "Odyssey-3 is a new generative world model that you can try for free",
+      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top s",
+      "points": [
+        "Odyssey is making its world model Odyssey-3 available as a public research preview.",
+        "The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V.",
+        "Odyssey claims top scores on physics benchmarks, though the methodology behind those results has limits."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-11T07:48:01.000Z",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free"
+      ],
+      "eventTitles": [
+        "Odyssey-3 is a new generative world model that you can try for free"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-kingy-ai-623cf10fe25181aeec46",
+      "rank": 8,
+      "title": "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers - Kingy AI",
+      "originalTitle": "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers - Kingy AI",
+      "summary": "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers Kingy AI",
+      "points": [
+        "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers Kingy AI",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Kingy AI",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-11T00:36:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XTWNXZllYSlI2eEV3QkZOZ0R2SFlYNVlvRHl6S0VsMUJTOWs0ZlV2RTBSbk81eTl4cnBOVHBtQ1JNU0J1VjV4SkcySmI3X05vb0pkM0JqQXhQaDM2NGdwdHVn?oc=5",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XTWNXZllYSlI2eEV3QkZOZ0R2SFlYNVlvRHl6S0VsMUJTOWs0ZlV2RTBSbk81eTl4cnBOVHBtQ1JNU0J1VjV4SkcySmI3X05vb0pkM0JqQXhQaDM2NGdwdHVn?oc=5",
+        "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race"
+      ],
+      "eventTitles": [
+        "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers - Kingy AI",
+        "Microsoft's Decision-1 model enters the fast-growing AI decision model race"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-ndtv-profit-c26b0ad156ac65dd0bba",
+      "rank": 9,
+      "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
+      "originalTitle": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
+      "summary": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
+      "points": [
+        "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
-      "sourceType": "official",
+      "source": "NDTV Profit",
+      "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "url": "https://openai.com/index/sophos",
-      "impactScore": 58,
+      "publishedAt": "2026-10-11T16:33:15.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5",
+      "impactScore": 57,
       "impactLabel": "中",
-      "verification": "公式発表",
+      "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/sophos"
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5"
       ],
       "eventTitles": [
-        "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+        "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-cybersecurity-insiders-58928bf760990278921a",
+      "rank": 10,
+      "title": "Your AI Policy Assumes the Work Is Happening on a Laptop You Own - Cybersecurity Insiders",
+      "originalTitle": "Your AI Policy Assumes the Work Is Happening on a Laptop You Own - Cybersecurity Insiders",
+      "summary": "Your AI Policy Assumes the Work Is Happening on a Laptop You Own Cybersecurity Insiders",
+      "points": [
+        "Your AI Policy Assumes the Work Is Happening on a Laptop You Own Cybersecurity Insiders",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Cybersecurity Insiders",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-11T11:57:56.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0RyLTZkQXNTMXJfbFBQSVdrVUt3dGhOVVdfR3lXSTdJYXk4NFZUSkFrb1dsSlNwMFJIYU14QTA1OEpFbkF1TnpvX2N0VlZHVl85a256ZVBtY1RFQk9CTGpfZTV0eVZKSzIydk9XUWlaclQzTG90NXNpcUlVdkdDMTEtY2luREVlS05QRXNNc0JXUzBPcmpDQWNEWlZtOU9UNVBlUmZDQQ?oc=5",
+      "impactScore": 56,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0RyLTZkQXNTMXJfbFBQSVdrVUt3dGhOVVdfR3lXSTdJYXk4NFZUSkFrb1dsSlNwMFJIYU14QTA1OEpFbkF1TnpvX2N0VlZHVl85a256ZVBtY1RFQk9CTGpfZTV0eVZKSzIydk9XUWlaclQzTG90NXNpcUlVdkdDMTEtY2luREVlS05QRXNNc0JXUzBPcmpDQWNEWlZtOU9UNVBlUmZDQQ?oc=5"
+      ],
+      "eventTitles": [
+        "Your AI Policy Assumes the Work Is Happening on a Laptop You Own - Cybersecurity Insiders"
       ]
     }
   ]
