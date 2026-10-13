@@ -1,27 +1,296 @@
 {
-  "edition": "2026-10-12T06:30:00+09:00",
-  "generatedAt": "2026-10-12T00:40:49.170Z",
-  "periodStart": "2026-10-09T12:40:49.170Z",
+  "edition": "2026-10-13T06:30:00+09:00",
+  "generatedAt": "2026-10-13T02:40:21.750Z",
+  "periodStart": "2026-10-10T14:40:21.750Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 39,
-  "freshSources": 34,
+  "successfulSources": 42,
+  "freshSources": 38,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 390,
+  "candidateCount": 1033,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-12-2000002192",
+      "id": "google-news-asia-models-startup-fortune-599240cc06a26fa729a8",
       "rank": 1,
-      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
-      "originalTitle": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
-      "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+      "title": "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours - Startup Fortune",
+      "originalTitle": "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours - Startup Fortune",
+      "summary": "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours Startup Fortune",
       "points": [
-        "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+        "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours Startup Fortune",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Startup Fortune",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-13T01:20:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjRmbC1iVXVLRGp0cjM1ZU5Zd01HSFU3bkhtU0hWN0NEQ0kxRl9DODQwMVZKYnRoRElTYkN6RkN3NGVFXzBfaDFZazBFY0RYemNRT25uNGx1UmVSY21BR3JtRjYydzhRVGtPRlI0M1VOTzRNQUZER1RIdkdzWlpYY1V3eTVpM1pDVl9KMHBtTjBIT0k1U3dsM3RGOTB2MWdJVGs4ZC1naFVUdw?oc=5",
+      "impactScore": 84,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "MarkTechPost",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOONIB1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOOA?oc=5"
+        },
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXJrM2luYnJIc2NEMkV0RFdHUmZwN0J3MFRRS1JrV2ctMHdad3ZMUFVsbFBsd0hHcWhTYzRmQjFJdDhtR3BqYlVNY1ZJc2FMS3NwQmRiZzVmRUpSNWdrZjRiM3J0dU80ZVZfNC1OWW5UYmVsUmU0eW85MjQ0d3laX0g1ZHRBQ1l6bURac0VKVQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjRmbC1iVXVLRGp0cjM1ZU5Zd01HSFU3bkhtU0hWN0NEQ0kxRl9DODQwMVZKYnRoRElTYkN6RkN3NGVFXzBfaDFZazBFY0RYemNRT25uNGx1UmVSY21BR3JtRjYydzhRVGtPRlI0M1VOTzRNQUZER1RIdkdzWlpYY1V3eTVpM1pDVl9KMHBtTjBIT0k1U3dsM3RGOTB2MWdJVGs4ZC1naFVUdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOONIB1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOOA?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLTRTeUVOVV9SQTZESnNsOU5WeFk0NlhfMVFpRmV1WUIzU3IzMVl2Rm1IRzBpMWx2ZTJiYl9hS3FSUDZWTERZMmdjdjhtNEJXZmE0bG4wVWl3TzVsMHg1Y1pBandzcmUxSkItS0Vsd3doZ01EVmhkVzNsNi1LTVd2MTRlc1RLMTZkLXJ4d2xPdDVqWGVNVHotTkZCdGdEX2NYdHNMcGhXRXp4SUdNMGExN2hVMkM2Rm00YlY2Z2tnQjJhUTdYQ1ZkU182UEnSAcwBQVVfeXFMUC00U3lFTlVfUkE2REpzbDlOVnhZNDZYXzFRaUZldVlCM1NyMzFZdkZtSEcwaTFsdmUyYmJfYUtxUlA2VkxEWTJnY3Y4bTRCV2ZhNGxuMFVpd081bDB4NWNaQWp3c3JlMUpCLUtFbHd3aGdNRFZoZFczbDYtS01XdjE0ZXNUSzE2ZC1yeHdsT3Q1alhlTVR6LU5GQnRnRF9jWHRzTHBoV0V6eElHTTBhMTdoVTJDNkZtNGJWNmdrZ0IyYVE3WENWZFNfNlBJ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXJrM2luYnJIc2NEMkV0RFdHUmZwN0J3MFRRS1JrV2ctMHdad3ZMUFVsbFBsd0hHcWhTYzRmQjFJdDhtR3BqYlVNY1ZJc2FMS3NwQmRiZzVmRUpSNWdrZjRiM3J0dU80ZVZfNC1OWW5UYmVsUmU0eW85MjQ0d3laX0g1ZHRBQ1l6bURac0VKVQ?oc=5"
+      ],
+      "eventTitles": [
+        "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours - Startup Fortune",
+        "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents - MarkTechPost",
+        "Alibaba Unveils QwenGyre to Speed Up Training of AI Agents - FourWeekMBA"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-gaming-2026-10-report-epic-games-goes-all-in-on-ai-for-disney-",
+      "rank": 2,
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "originalTitle": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "Epic Games is shifting to an \"AI first\" development strategy for its collaboration with the Walt Disney Company, letting AI models write all the code and guide all the artwork for an upcoming shooter. That's according to a Bloomberg report , which cites unname",
+      "points": [
+        "Epic Games is shifting to an \"AI first\" development strategy for its collaboration with the Walt Disney Company, letting AI models write all the code and guide all the ar",
+        "That's according to a Bloomberg report , which cites unnamed people familiar with the project who commented on the significant pivot in internal development at the Unreal",
+        "Human developers will be tasked with managing and guiding code and art assets generated by models such as Anthropic's Claude, according to internal Epic employee messages"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-12T20:59:50.000Z",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "impactScore": 83,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
+      ],
+      "eventTitles": [
+        "Epic Games reportedly pivoting to \"AI first\" game development model"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-distilled-post-ea67a317a94cf7bf5763",
+      "rank": 3,
+      "title": "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief - Distilled Post",
+      "originalTitle": "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief - Distilled Post",
+      "summary": "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief Distilled Post",
+      "points": [
+        "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief Distilled Post",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Distilled Post",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-12T17:08:03.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlNUUmVIZTF6LTVoSWNvVVRVSGtiVzIyUzVMWHdtRk9iZTljdW82SHJqRUdxeDFSTUVkclczT0JscjNHMk10MXFqNndvRTdpZkxSQUZObTNLLU1iZmsydFRZMC1MdTEwaTBodnoyNnJPRG0tS0pDVmdBZ09Fcl9xd2ozYmEzTDhCQk4wLTRubDJpb2YtQkJQcVNkWjBVanlDTUViUklnLWFlQkdD?oc=5",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0k5cjdEWXpYVWpjck11NndHZkVkUHFtdk9kWm03QXdPZmtnVTdWaUpQOThzTmpJT1NlYzAwblVWX1JyQl83RnNxdGduc2FMZnN1QW9SbVNEQ1AzUEh4YUZqMzVEUnVfc2tZR0s4YWptdXVITWpyZG9tcWZ5SFhPX2NOTjlvaDBrYUw1VW9JRVlQalFvckZjcHBrdzFpV2JmdDI3R1JGM3ptYmlOaUppM01xY9IBuAFBVV95cUxQMEt3bkRMdzBOeW1HczhIYzEwZXEwb0ZxOEMtc2JoeWNoYW0tUGdiRUdWSVRmUVVFWm9odHBQbmNoLXY2c3FqcDVqMGp3ZTF1X2VZQnpnSmZyekdoczBxTW9odTdkVUFFTHNWTjQ1VFhDcGV2bWNJUEpHR1otV2dncHlnbEp0NzhzMzN5V2RWMmxlNDhJLXltRHViZ3Vqdmg3c1RPZGFKdXJLSTBxbGJSd0laaEFPbTJa?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEZhdTlOUnZUTXJTWkt3aFpmZ3NTSVFKc20zU3RHZkt4T3IzUGlUVl9WU0VlUHdKVktnQWRMWVVHV2RhRmFEWUVVelh5aDVsczk4RDVGZm1XeHp1M0RQdjFyMVF6OFJadVZ0emtxbm43NF9ET2pWb0cxMVU0UWdYaDIyWVhTQUlCcG1wZHVud0Y0aHI5R1BzSkJmeThQaXliZ0JNNno4RTVyZjVLWVZYZ3c3WTBETEtLVW5SRFBVVXJIRFRmOVJfQ3BxTXhlaU1KcUVF?oc=5"
+        },
+        {
+          "name": "Gotrade",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1RtSjcxWjJOOHQ3LXZhcm5zSENrbnlCOHRaWWYyMWEtYjF2eVZNdVR5WUpOdEs5NEtFek1hSTdqRUdlWm9kd1NJZkpRUHI3ZVlHWjVjcTVYT2xfSlo3dl9GeURpVkNlOGpjT3pDM2YxLXZLbHV6Rm9xRUozTnFLYjZMMEowVWtIRDQ3N2pxZVdjSDFGU2pkVHFXZ19GeWJNODhMa2diZ083VVA1NngtY3QzSzJmWnNCS3c?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlNUUmVIZTF6LTVoSWNvVVRVSGtiVzIyUzVMWHdtRk9iZTljdW82SHJqRUdxeDFSTUVkclczT0JscjNHMk10MXFqNndvRTdpZkxSQUZObTNLLU1iZmsydFRZMC1MdTEwaTBodnoyNnJPRG0tS0pDVmdBZ09Fcl9xd2ozYmEzTDhCQk4wLTRubDJpb2YtQkJQcVNkWjBVanlDTUViUklnLWFlQkdD?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0k5cjdEWXpYVWpjck11NndHZkVkUHFtdk9kWm03QXdPZmtnVTdWaUpQOThzTmpJT1NlYzAwblVWX1JyQl83RnNxdGduc2FMZnN1QW9SbVNEQ1AzUEh4YUZqMzVEUnVfc2tZR0s4YWptdXVITWpyZG9tcWZ5SFhPX2NOTjlvaDBrYUw1VW9JRVlQalFvckZjcHBrdzFpV2JmdDI3R1JGM3ptYmlOaUppM01xY9IBuAFBVV95cUxQMEt3bkRMdzBOeW1HczhIYzEwZXEwb0ZxOEMtc2JoeWNoYW0tUGdiRUdWSVRmUVVFWm9odHBQbmNoLXY2c3FqcDVqMGp3ZTF1X2VZQnpnSmZyekdoczBxTW9odTdkVUFFTHNWTjQ1VFhDcGV2bWNJUEpHR1otV2dncHlnbEp0NzhzMzN5V2RWMmxlNDhJLXltRHViZ3Vqdmg3c1RPZGFKdXJLSTBxbGJSd0laaEFPbTJa?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEZhdTlOUnZUTXJTWkt3aFpmZ3NTSVFKc20zU3RHZkt4T3IzUGlUVl9WU0VlUHdKVktnQWRMWVVHV2RhRmFEWUVVelh5aDVsczk4RDVGZm1XeHp1M0RQdjFyMVF6OFJadVZ0emtxbm43NF9ET2pWb0cxMVU0UWdYaDIyWVhTQUlCcG1wZHVud0Y0aHI5R1BzSkJmeThQaXliZ0JNNno4RTVyZjVLWVZYZ3c3WTBETEtLVW5SRFBVVXJIRFRmOVJfQ3BxTXhlaU1KcUVF?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1RtSjcxWjJOOHQ3LXZhcm5zSENrbnlCOHRaWWYyMWEtYjF2eVZNdVR5WUpOdEs5NEtFek1hSTdqRUdlWm9kd1NJZkpRUHI3ZVlHWjVjcTVYT2xfSlo3dl9GeURpVkNlOGpjT3pDM2YxLXZLbHV6Rm9xRUozTnFLYjZMMEowVWtIRDQ3N2pxZVdjSDFGU2pkVHFXZ19GeWJNODhMa2diZ083VVA1NngtY3QzSzJmWnNCS3c?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUzljY01VV05haDAzQkdpbnFFWlBhZWp5S3ZsSG9WZWFuQU1lc05UaWZUZEVocjU0MS05M0JnMUtFc2VLTG5rUXVoOHhNTVJFQlZKdWNJYWtvaGIwSUc1dUowZ3poc29GczVtcDQtVW0?oc=5"
+      ],
+      "eventTitles": [
+        "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief - Distilled Post",
+        "Microsoft President Brad Smith Urges Strict Global AI Regulation - LatestLY",
+        "Microsoft President Calls for Global AI Regulation Amid Strong V - GuruFocus",
+        "AI Regulation & Safety (White House Incident Reporting, Microsoft Calls for Safeguards) - Gotrade",
+        "Microsoft President Urges Britain to Lead Global AI Regulation - SuaraGarut.ID"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-self-replicating-ai",
+      "rank": 4,
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "originalTitle": "AI models may be capable of self-replicating without access to a datacenter",
+      "summary": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+      "points": [
+        "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-12T19:30:00.000Z",
+      "url": "https://anthropic.com/research/self-replicating-ai",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/research/self-replicating-ai"
+      ],
+      "eventTitles": [
+        "AI models may be capable of self-replicating without access to a datacenter"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3176628",
+      "rank": 5,
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "originalTitle": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "points": [
+        "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-12T15:31:19.000Z",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnU2eF9vUW9LNUFpdGNUTS1oOUNzSnlUOUlfV2otaFEybWlDbDgzVGEtTlgycjRkbnpSY1owZ2JvNEd3MldaM0N3cngyOXg2ZGtDMkpZV2luVDNtWXdDS05FdjNCZTE2YmQ1VzQwVUdaenVNbnJtYTg5SU5tWk5JUExKYU8tOUFWZ2NF?oc=5"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnU2eF9vUW9LNUFpdGNUTS1oOUNzSnlUOUlfV2otaFEybWlDbDgzVGEtTlgycjRkbnpSY1owZ2JvNEd3MldaM0N3cngyOXg2ZGtDMkpZV2luVDNtWXdDS05FdjNCZTE2YmQ1VzQwVUdaenVNbnJtYTg5SU5tWk5JUExKYU8tOUFWZ2NF?oc=5",
+        "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc?oc=5"
+      ],
+      "eventTitles": [
+        "Microsoft president says UK is best placed to drive AI regulation - mezha.net",
+        "Microsoft president says UK is best placed to drive AI regulation",
+        "Microsoft president says UK is best placed to drive AI regulation - TechCrunch"
+      ]
+    },
+    {
+      "id": "google-news-labs-ascii-jp-CBMiVEFVX3lxTE5GX2ZiYkw5RlFuWEwzZld4UmhvWmRkZDRzaGZ1T3VtSDhqSmR4LV84eFFpbU",
+      "rank": 6,
+      "title": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも - ASCII.jp",
+      "originalTitle": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも - ASCII.jp",
+      "summary": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも ASCII.jp",
+      "points": [
+        "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも ASCII.jp",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "ASCII.jp",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-13T02:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GX2ZiYkw5RlFuWEwzZld4UmhvWmRkZDRzaGZ1T3VtSDhqSmR4LV84eFFpbURGUFQwZlpNSE9lMnZlOTZST3VBaWQ2N21aSG5Ud1otQg?oc=5",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "innovaTopia",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tb000dWZNa0NEcE44a0tOamptTEt0ODRRblJTZlRBbkZFN2VNUzBOTkZVcWtfM1VsSlk0aXExM0RHLWRwVzBoOWJGZkNHQ0NNNU9z?oc=5"
+        },
+        {
+          "name": "Impress Watch",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Sk1PVlJIZE5OLVMzNW9KcEI1bmNCSlU5M3pKNGNsZWY1aHRZQWhPUVBQak8wUUM2Y1JfNW1SR0JlMTcyVmZBZU1yUWpKX2xBVmtSaUJWWGo1cUk4c0NJd1BaLVQ?oc=5"
+        },
+        {
+          "name": "千葉テレビ放送株式会社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUEQ2ZGZDUGpmOURhc0ZtQ2wwOTQzQUpTaGNJNmdSOHhqSEVpVEtOYmZWS2V5ck5lWHctLVlHeUJCSjdyRW9FWG1kUVd2eHR5aW9qbnp0aGNkZlk0SkRB?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GX2ZiYkw5RlFuWEwzZld4UmhvWmRkZDRzaGZ1T3VtSDhqSmR4LV84eFFpbURGUFQwZlpNSE9lMnZlOTZST3VBaWQ2N21aSG5Ud1otQg?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tb000dWZNa0NEcE44a0tOamptTEt0ODRRblJTZlRBbkZFN2VNUzBOTkZVcWtfM1VsSlk0aXExM0RHLWRwVzBoOWJGZkNHQ0NNNU9z?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Sk1PVlJIZE5OLVMzNW9KcEI1bmNCSlU5M3pKNGNsZWY1aHRZQWhPUVBQak8wUUM2Y1JfNW1SR0JlMTcyVmZBZU1yUWpKX2xBVmtSaUJWWGo1cUk4c0NJd1BaLVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUEQ2ZGZDUGpmOURhc0ZtQ2wwOTQzQUpTaGNJNmdSOHhqSEVpVEtOYmZWS2V5ck5lWHctLVlHeUJCSjdyRW9FWG1kUVd2eHR5aW9qbnp0aGNkZlk0SkRB?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tUW05UF8tZW5YaG1EcTdvbG5xMTZtbzQ1bmk0Z3VyZ1hZWkNOU2dwVi03UmlCMV8zck12TWpIN05JN2tRazNFWWpYQTJRQjFVeldjS3RjdUhjQVR1TEtsT0dBbXNyWjZZZmV4MWVyNTRINVY0aGVXaHRkYVLSAXxBVV95cUxNbVFtOVBfLWVuWGhtRHE3b2xucTE2bW80NW5pNGd1cmdYWVpDTlNncFYtN1JpQjFfM3JNdk1qSDdOSTdrUWszRVlqWEEyUUIxVXpXY0t0Y3VIY0FUdUxLbE9HQW1zclo2WWZleDFlcjU0SDVWNGhlV2h0ZGFS?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzV6V3V4cHdKalc5Z0JRT0d1dDlZcEpQRmo3YnItZzlPM1JhTUtVaUpiZVBCOVhycnpzNDlsRjFCUE9HcWpVSVlMVmV5YkptZzRWVlVTVTI0RmNaRlNud0Q5YWw2ODhnYjRJcjJ1RjJEODRta1llNG5uNlE2R290NWVEclNuMGZsTk9XdXpGS01LTURoVlBVVzhUNGc2Nm_SAZsBQVVfeXFMUFNXRGUyRDZ1emtoc1ZvbG1OcGZ1NXBDT2swZmRTS2F4S0d5dU1QTWFwOVFvc2NXZ0lCMjJJbHpzQ2JCQ2xTdmdYSFgxMlpjWlBVVGZfckg1XzlYSVVYU05pLW1Cbkg5UFdXUWEtclVTNmhURl9pV1I2WjQyNUZvMHJzTHg3SWVhWi1BYWNuT2gxbDJzaXA5RGZqc2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WNzUzZ1NxTl9ldVJxRTBGc1VPS0VZU1pJMnA2YWZxSHk5bVRPSUIzUVU3eUd5bUdLQmpOeTNmc28zT0dCN0lCTkxueVU2ZGZkaUE?oc=5"
+      ],
+      "eventTitles": [
+        "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも - ASCII.jp",
+        "Meta「Muse Wonder」公開、Opus 5.5と同じ単価｜上位版FullはMuse Code限定 - innovaTopia",
+        "Meta、新最上位AIモデル「Muse Wonder」 専門タスクやエージェントに強み - Impress Watch",
+        "Meta、ChatGPTやClaudeに対抗する最先端AI「Muse Wonder」発表 - 千葉テレビ放送株式会社",
+        "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ - Infoseek",
+        "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ - ｄメニューニュース",
+        "Meta、ChatGPTやClaudeに対抗する最先端AI「Muse Wonder」発表 - CNET Japan"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-distillation-defenses",
+      "rank": 7,
+      "title": "Strengthening our defenses against distillation attacks",
+      "originalTitle": "Strengthening our defenses against distillation attacks",
+      "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+      "points": [
+        "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards.",
+        "Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-12T09:30:00.000Z",
+      "url": "https://anthropic.com/research/distillation-defenses",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/research/distillation-defenses"
+      ],
+      "eventTitles": [
+        "Strengthening our defenses against distillation attacks"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2610-13-2000002180",
+      "rank": 8,
+      "title": "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは",
+      "originalTitle": "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは",
+      "summary": "OpenAIのAIが起こした「Hugging Face」への侵入事案から約3カ月、OpenAI幹部のクリス・レヘイン氏にAI開発の安全対策の考え方などを聞いた。",
+      "points": [
+        "OpenAIのAIが起こした「Hugging Face」への侵入事案から約3カ月、OpenAI幹部のクリス・レヘイン氏にAI開発の安全対策の考え方などを聞いた。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -29,296 +298,105 @@
       "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-10-11T23:59:36.000Z",
-      "url": "https://itmedia.co.jp/news/article/2610/12/2000002192",
-      "impactScore": 80,
-      "impactLabel": "大",
+      "publishedAt": "2026-10-12T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2610/13/2000002180",
+      "impactScore": 65,
+      "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [
         {
           "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZ3RNQU02R2hacVhXdjM0ekkzNTdXejBRUklNN1EzUDRXWkE5LVRHUWxUX180Y180TUJDcHNlU3dNaEZjY1dwY2x3VDdpRWUzRVpEOWxGNU0xV25ON29TWFJNcExBNXlPY1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNnV4Z2RTWUMzc0FoRFhhaVpJNDRmVXhPVkJQTXZoTG5uY3ZWU3dSSU44cmx2QzhXbGRmRjNIdVVhbmpvTnlKTWkwMzNnOFJxSmdKNXUtZlgxOWVYU2NCQUJiWnpVNTZEc2RNYw?oc=5"
         }
       ],
       "eventUrls": [
-        "https://itmedia.co.jp/news/article/2610/12/2000002192",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZ3RNQU02R2hacVhXdjM0ekkzNTdXejBRUklNN1EzUDRXWkE5LVRHUWxUX180Y180TUJDcHNlU3dNaEZjY1dwY2x3VDdpRWUzRVpEOWxGNU0xV25ON29TWFJNcExBNXlPY1E?oc=5"
+        "https://itmedia.co.jp/aiplus/article/2610/13/2000002180",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNnV4Z2RTWUMzc0FoRFhhaVpJNDRmVXhPVkJQTXZoTG5uY3ZWU3dSSU44cmx2QzhXbGRmRjNIdVVhbmpvTnlKTWkwMzNnOFJxSmdKNXUtZlgxOWVYU2NCQUJiWnpVNTZEc2RNYw?oc=5"
       ],
       "eventTitles": [
-        "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
-        "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告 - ITmedia"
+        "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは",
+        "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは - ITmedia"
       ]
     },
     {
-      "id": "the-decoder-https-the-decoder-com-p-41402",
-      "rank": 2,
-      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
-      "originalTitle": "AI agents overstate their results and remain far from autonomous research, study finds",
-      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score,",
+      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-russia-was-not-ready-for-the-data-center-war-i",
+      "rank": 9,
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "originalTitle": "Russia was not ready for the data center war it started with Ukraine",
+      "summary": "When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation. Now Russia’s digital services are facing widespread outages after Ukrainian drone strikes knocked out three of th",
       "points": [
-        "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism an",
-        "At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew.",
-        "The models' biggest weakness is still their inability to critically question their own results."
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-11T13:44:32.000Z",
-      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
-      "impactScore": 65,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds"
-      ],
-      "eventTitles": [
-        "AI agents overstate their results and remain far from autonomous research, study finds"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3176490",
-      "rank": 3,
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "originalTitle": "Will the HomeView be Apple’s first smart home success?",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "points": [
-        "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation.",
+        "Now Russia’s digital services are facing widespread outages after Ukrainian drone strikes knocked out three of the largest data centers owned by Russian tech giant Yandex",
+        "Pro-Kremlin bloggers are warning that Russia’s centralized digital economy could collapse because the country is not prepared for the “data center war” it started, accord"
       ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "TechCrunch",
+      "source": "Ars Technica",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-10-11T21:14:40.000Z",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
+      "publishedAt": "2026-10-12T17:52:36.000Z",
+      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine",
+      "impactScore": 64,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine"
+      ],
+      "eventTitles": [
+        "Russia was not ready for the data center war it started with Ukraine"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-investing-com-c0faa1850edb4f0cb111",
+      "rank": 10,
+      "title": "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg - Investing.com",
+      "originalTitle": "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg - Investing.com",
+      "summary": "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg Investing.com",
+      "points": [
+        "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg Investing.com",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Investing.com",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-12T13:17:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOThkLUR4cmZnVTVCenVmOHlrcjFYR2lPcnhTYXpOQkRrekU0V0M3Xy1uVkFtZlo4TEp2OW1kcVB1SmthNGJadTZKVE5zbnNBbmpWcmFqYlJKRnNXTG1FRGJQT1Fuc3B1emctSVF0aEdTeG5lYllDR1VHRkZsWnN3eG5EdTdmLWNPck1qbG10amxUUlY3bWRmeHFScVRUcnBNUHVWUmMtM1Z5WFFRWEk0UF92djR6ZXBiZzdhbDVyQUkteUZWTTBrczVlVzBtOHI4X2Vj?oc=5",
       "impactScore": 63,
       "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success"
-      ],
-      "eventTitles": [
-        "Will the HomeView be Apple’s first smart home success?"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-nz-herald-1b8d19c59c02c8f865df",
-      "rank": 4,
-      "title": "Green Party announcement on AI regulation plans - NZ Herald",
-      "originalTitle": "Green Party announcement on AI regulation plans - NZ Herald",
-      "summary": "Green Party announcement on AI regulation plans NZ Herald",
-      "points": [
-        "Green Party announcement on AI regulation plans NZ Herald",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "NZ Herald",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-12T00:03:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajJHdUtaUDI1cE5QUmR5YV9FSzN5emE3ckdydm9qeFdwVmdZQ2U0MGE1cU1JU1RtVzZ5NjE0YzAycG9mY3hRVTlFOEg1VVpnQlVyS3p3bDFFekRnUDlqaW96eEk0Q3BPaEtnMzhEaVBvcjVvY1pZNnZ6UkFmODBBQ1ZmdUl0YktTd1FOUXZmaC14U2VPanpxbE5BQmRxT3hiZTJoTWVrUkI?oc=5",
-      "impactScore": 61,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajJHdUtaUDI1cE5QUmR5YV9FSzN5emE3ckdydm9qeFdwVmdZQ2U0MGE1cU1JU1RtVzZ5NjE0YzAycG9mY3hRVTlFOEg1VVpnQlVyS3p3bDFFekRnUDlqaW96eEk0Q3BPaEtnMzhEaVBvcjVvY1pZNnZ6UkFmODBBQ1ZmdUl0YktTd1FOUXZmaC14U2VPanpxbE5BQmRxT3hiZTJoTWVrUkI?oc=5"
-      ],
-      "eventTitles": [
-        "Green Party announcement on AI regulation plans - NZ Herald"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-pasquale-pillitteri-f15e660f4b5cc63d0845",
-      "rank": 5,
-      "title": "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content - Pasquale Pillitteri",
-      "originalTitle": "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content - Pasquale Pillitteri",
-      "summary": "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content Pasquale Pillitteri",
-      "points": [
-        "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content Pasquale Pillitteri",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Pasquale Pillitteri",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-10T23:21:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXdXaE40b0l4R2FYR3dYaTZMYm1jcEhuUi1sVkRMREljMDRyQ2xHa2UtdkVBTW4ySDl4bzRzbHdlejZISU93U3lCTDBsdkZ0ajVqdklpS3dvMktrdm5DQmEwTGxNSjNvWlltQ09iRktLM2RlYVJIT0RFekdSYTh2OE90YTNOU3JhVkFieC1QdnFFdTZhYk50b3JERQ?oc=5",
-      "impactScore": 61,
-      "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "MarkTechPost",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXpvaFdacktESjZwbURtOUpFTW5WTTktSnZ4TjBudmVJcXVHenYxdEpRQ1p0RjFENkJuQmFIVHdVM3JjN1lSSkc3UEZfejI2cVNDRFNoRi1yV0l2NWNGb3VEQTVmVmpGcm1acWVOeXVtMFk0Y1JtNDFkUjNXdkZ4bFN4UHhjTk1qTGdIZkF1TmNTd3ZQWVNwWTlMX3A4SzhJTm5yTDlVRTE2TlhS0gGsAUFVX3lxTE5Vem9oV1pyS0RKNnBtRG05SkVNblZNOS1KdnhOMG52ZUlxdUd6djF0SlFDWnRGMUQ2Qm5CYUhUd1UzcmM3WVJKRzdQRl96MjZxU0NEU2hGLXJXSXY1Y0ZvdURBNWZWakZybVpxZU55dW0wWTRjUm00MWRSM1d2RnhsU3hQeGNOTWpMZ0hmQXVOY1N3dlBZU3BZOUxfcDhLOElObnJMOVVFMTZOWFI?oc=5"
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZU1jWXZIb0ZfQXpWQmM1STc1MXp2TFZlYU95REVBaE5LMHZUdTI1aHRYaFNCUWFNRmFNTE1zR2taVTZTQUI4aUVYN2NUTzAzVFZzZFFScXB3Wjk5UzVoaGdvS0lIX2hoaUFjcnlsRmlxVHF2cXF1dzFBT1E0OWF4a0ZES1hhTDJnRmJ0UUZTRXphZEFrQmlRQjdkVlVuYmdHcGxzc2NKekxwbHF3Q19WR3ZaeGtGNGNtdk9LcDBMdlBEeUdCN1ZQWnJOUGRjUkxUM3c?oc=5"
         },
         {
-          "name": "Kingy AI",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2ODA3bUZUbnpBUHA4aU5jalJmZUdjZUNwQVRmbjRndGg5OEItcW93ZVhyc2ViMlc2eTJxV3owcUE3S1M1UVZRcEFGbGs5Wk5ITWUtVmxncjBiVzZsUng5dEVDUUNUVGY2d3haU1o5dk4?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXdXaE40b0l4R2FYR3dYaTZMYm1jcEhuUi1sVkRMREljMDRyQ2xHa2UtdkVBTW4ySDl4bzRzbHdlejZISU93U3lCTDBsdkZ0ajVqdklpS3dvMktrdm5DQmEwTGxNSjNvWlltQ09iRktLM2RlYVJIT0RFekdSYTh2OE90YTNOU3JhVkFieC1QdnFFdTZhYk50b3JERQ?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXpvaFdacktESjZwbURtOUpFTW5WTTktSnZ4TjBudmVJcXVHenYxdEpRQ1p0RjFENkJuQmFIVHdVM3JjN1lSSkc3UEZfejI2cVNDRFNoRi1yV0l2NWNGb3VEQTVmVmpGcm1acWVOeXVtMFk0Y1JtNDFkUjNXdkZ4bFN4UHhjTk1qTGdIZkF1TmNTd3ZQWVNwWTlMX3A4SzhJTm5yTDlVRTE2TlhS0gGsAUFVX3lxTE5Vem9oV1pyS0RKNnBtRG05SkVNblZNOS1KdnhOMG52ZUlxdUd6djF0SlFDWnRGMUQ2Qm5CYUhUd1UzcmM3WVJKRzdQRl96MjZxU0NEU2hGLXJXSXY1Y0ZvdURBNWZWakZybVpxZU55dW0wWTRjUm00MWRSM1d2RnhsU3hQeGNOTWpMZ0hmQXVOY1N3dlBZU3BZOUxfcDhLOElObnJMOVVFMTZOWFI?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2ODA3bUZUbnpBUHA4aU5jalJmZUdjZUNwQVRmbjRndGg5OEItcW93ZVhyc2ViMlc2eTJxV3owcUE3S1M1UVZRcEFGbGs5Wk5ITWUtVmxncjBiVzZsUng5dEVDUUNUVGY2d3haU1o5dk4?oc=5"
-      ],
-      "eventTitles": [
-        "AtomicChat releases Qwen-Image-2.1 uncensored, but it unlocks no new content - Pasquale Pillitteri",
-        "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model - MarkTechPost",
-        "Qwen Image 2.1 Turbo Arrives: Eight-Step Generation, With a License Catch. - Kingy AI"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3176460",
-      "rank": 6,
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "originalTitle": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "points": [
-        "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-10-11T16:52:33.000Z",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
-      "impactScore": 60,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas"
-      ],
-      "eventTitles": [
-        "Can the AI industry persuade data center opponents by getting rid of NDAs?"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41313",
-      "rank": 7,
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "originalTitle": "Odyssey-3 is a new generative world model that you can try for free",
-      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top s",
-      "points": [
-        "Odyssey is making its world model Odyssey-3 available as a public research preview.",
-        "The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V.",
-        "Odyssey claims top scores on physics benchmarks, though the methodology behind those results has limits."
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-10-11T07:48:01.000Z",
-      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free",
-      "impactScore": 59,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free"
-      ],
-      "eventTitles": [
-        "Odyssey-3 is a new generative world model that you can try for free"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-kingy-ai-623cf10fe25181aeec46",
-      "rank": 8,
-      "title": "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers - Kingy AI",
-      "originalTitle": "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers - Kingy AI",
-      "summary": "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers Kingy AI",
-      "points": [
-        "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers Kingy AI",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Kingy AI",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-11T00:36:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XTWNXZllYSlI2eEV3QkZOZ0R2SFlYNVlvRHl6S0VsMUJTOWs0ZlV2RTBSbk81eTl4cnBOVHBtQ1JNU0J1VjV4SkcySmI3X05vb0pkM0JqQXhQaDM2NGdwdHVn?oc=5",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
+          "name": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzFOOF9rMzBHM1BvVVNJcDQ4N1owM2paeVJoT3RLQ3Z4U3d2SUpGY2w4UEVmMjE0dG9BZEFmdk84SWxEcnoxR2dIWUllY1pSeFZoakcwTHZaYzgtSWQ5VGRGVUp0dUYxRWhtSDM0ZmRGbHRoNVkwWlh0MEJ1NzRjNGs2WVZ5UFNSQzIwNjdwX3Ffcm05SkNMeFRqTzQ5QTBUZUkzUDFodw?oc=5"
+        },
         {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race"
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkhjRnlocXE2eTdLUHRkQzBta1NXYU1EN0xaSGp0OHZLTTJYaFhMS3huaWxNcmlpcnFQbGlWWlJLeGs3bGg2QjBWM2xEMUJlU1dFWnRMX0J4SnVGS0hiakM0TUJSUzRPMG1CcHRObGtjcGlGTktWNW5COVc1dnVWMVlidXlJUWFfZXQ1WkU5ZGprcXlyQjY3aFJXUFYxSTZ1TjRQbkpCX2FFbnB5ZHRwaUo4Qmc0TEVuLVlFdWdrM2o3d19jMEZrbm5SX2oySzh2Qlp3cnRwSS0tenc?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XTWNXZllYSlI2eEV3QkZOZ0R2SFlYNVlvRHl6S0VsMUJTOWs0ZlV2RTBSbk81eTl4cnBOVHBtQ1JNU0J1VjV4SkcySmI3X05vb0pkM0JqQXhQaDM2NGdwdHVn?oc=5",
-        "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race"
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOThkLUR4cmZnVTVCenVmOHlrcjFYR2lPcnhTYXpOQkRrekU0V0M3Xy1uVkFtZlo4TEp2OW1kcVB1SmthNGJadTZKVE5zbnNBbmpWcmFqYlJKRnNXTG1FRGJQT1Fuc3B1emctSVF0aEdTeG5lYllDR1VHRkZsWnN3eG5EdTdmLWNPck1qbG10amxUUlY3bWRmeHFScVRUcnBNUHVWUmMtM1Z5WFFRWEk0UF92djR6ZXBiZzdhbDVyQUkteUZWTTBrczVlVzBtOHI4X2Vj?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZU1jWXZIb0ZfQXpWQmM1STc1MXp2TFZlYU95REVBaE5LMHZUdTI1aHRYaFNCUWFNRmFNTE1zR2taVTZTQUI4aUVYN2NUTzAzVFZzZFFScXB3Wjk5UzVoaGdvS0lIX2hoaUFjcnlsRmlxVHF2cXF1dzFBT1E0OWF4a0ZES1hhTDJnRmJ0UUZTRXphZEFrQmlRQjdkVlVuYmdHcGxzc2NKekxwbHF3Q19WR3ZaeGtGNGNtdk9LcDBMdlBEeUdCN1ZQWnJOUGRjUkxUM3c?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzFOOF9rMzBHM1BvVVNJcDQ4N1owM2paeVJoT3RLQ3Z4U3d2SUpGY2w4UEVmMjE0dG9BZEFmdk84SWxEcnoxR2dIWUllY1pSeFZoakcwTHZaYzgtSWQ5VGRGVUp0dUYxRWhtSDM0ZmRGbHRoNVkwWlh0MEJ1NzRjNGs2WVZ5UFNSQzIwNjdwX3Ffcm05SkNMeFRqTzQ5QTBUZUkzUDFodw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkhjRnlocXE2eTdLUHRkQzBta1NXYU1EN0xaSGp0OHZLTTJYaFhMS3huaWxNcmlpcnFQbGlWWlJLeGs3bGg2QjBWM2xEMUJlU1dFWnRMX0J4SnVGS0hiakM0TUJSUzRPMG1CcHRObGtjcGlGTktWNW5COVc1dnVWMVlidXlJUWFfZXQ1WkU5ZGprcXlyQjY3aFJXUFYxSTZ1TjRQbkpCX2FFbnB5ZHRwaUo4Qmc0TEVuLVlFdWdrM2o3d19jMEZrbm5SX2oySzh2Qlp3cnRwSS0tenc?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ozanV4bE5iRXh3TFR6eE5KOFFqd1RZSmlGSWZWZXlyeE12WTdvRUZjMXZIUUJFOVhyM0lUUVI4aFNSX1NNUmlKTXFvLVNWR1NFUjRvVGtlX2wxMzUtYlBGWGpjOVZKNEFFOGVETDRVTUZxU0tMNWtWVHMxLWJMbFc0MGZFR2RmU3pjaDBMTmFpSUtLSlg4djM1cEFTVVN1VUhQNTZWTFFLR0VsRUNoUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYzIyMzFLY0V3R2ZNekphQ2swTzdBODZVZ1dVUlBpbUpSVjNFbmY0U1RqTHhLT0ZXQWFwb3VCT0pMVGplRkZnUUZva3NnMTZJQXJZcU9qVlBIaEY3bGw1V3M2enlTbFJpNWd6SVczemdpSndJZGc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkxZdTNvYVhaOXNPcGl6Wjc5WnhVb3NqX2VYY2JYTW9xcWlGcmRZOVRCc2RBQ2E4ZVdRSFhwSzNacy1tU0pLQlljWVFPUlZTVGt6aGR6VEdtUlNpTzdYeUZzdEp5QkJKaTNHaHZRUnJYRU8xSFotOXZhQktxX280RndpcVhNa3hoRE4yN2Z3N2NzUERETGxkMGVicmJFanpzSmg0enc3R0lSaHUwZlhlUDdPYy0yUWRhcENDWVVJdzA5TWdnRUc2ZjNRS1RXblJUbVhybkhQRHZ6eno1?oc=5"
       ],
       "eventTitles": [
-        "Microsoft Launches Decision-1: The Fast, Low-Cost AI Model Built to Make Decisions Instead of Writing Answers - Kingy AI",
-        "Microsoft's Decision-1 model enters the fast-growing AI decision model race"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-ndtv-profit-c26b0ad156ac65dd0bba",
-      "rank": 9,
-      "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
-      "originalTitle": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
-      "summary": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
-      "points": [
-        "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "NDTV Profit",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-11T16:33:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5",
-      "impactScore": 57,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5"
-      ],
-      "eventTitles": [
-        "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-cybersecurity-insiders-58928bf760990278921a",
-      "rank": 10,
-      "title": "Your AI Policy Assumes the Work Is Happening on a Laptop You Own - Cybersecurity Insiders",
-      "originalTitle": "Your AI Policy Assumes the Work Is Happening on a Laptop You Own - Cybersecurity Insiders",
-      "summary": "Your AI Policy Assumes the Work Is Happening on a Laptop You Own Cybersecurity Insiders",
-      "points": [
-        "Your AI Policy Assumes the Work Is Happening on a Laptop You Own Cybersecurity Insiders",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Cybersecurity Insiders",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-11T11:57:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0RyLTZkQXNTMXJfbFBQSVdrVUt3dGhOVVdfR3lXSTdJYXk4NFZUSkFrb1dsSlNwMFJIYU14QTA1OEpFbkF1TnpvX2N0VlZHVl85a256ZVBtY1RFQk9CTGpfZTV0eVZKSzIydk9XUWlaclQzTG90NXNpcUlVdkdDMTEtY2luREVlS05QRXNNc0JXUzBPcmpDQWNEWlZtOU9UNVBlUmZDQQ?oc=5",
-      "impactScore": 56,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0RyLTZkQXNTMXJfbFBQSVdrVUt3dGhOVVdfR3lXSTdJYXk4NFZUSkFrb1dsSlNwMFJIYU14QTA1OEpFbkF1TnpvX2N0VlZHVl85a256ZVBtY1RFQk9CTGpfZTV0eVZKSzIydk9XUWlaclQzTG90NXNpcUlVdkdDMTEtY2luREVlS05QRXNNc0JXUzBPcmpDQWNEWlZtOU9UNVBlUmZDQQ?oc=5"
-      ],
-      "eventTitles": [
-        "Your AI Policy Assumes the Work Is Happening on a Laptop You Own - Cybersecurity Insiders"
+        "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg - Investing.com",
+        "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg By Investing.com - Investing.com South Africa",
+        "DeepSeek leads $400M robot-AI seed round for ex-Tencent scientist's lab - Dealroom",
+        "DeepSeek to lead funding round for robotics AI startup Winverse at $400 mln - report - Investing.com Nigeria",
+        "DeepSeek leads $400 million funding round for ex-Tencent scientist's robot AI startup - Startup Fortune",
+        "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million - Crypto Briefing",
+        "DeepSeek to lead funding round for robotics AI startup Winverse at $400 mln - report - Investing.com"
       ]
     }
   ]
