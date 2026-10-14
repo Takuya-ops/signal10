@@ -1,402 +1,346 @@
 {
-  "edition": "2026-10-13T06:30:00+09:00",
-  "generatedAt": "2026-10-13T02:40:21.750Z",
-  "periodStart": "2026-10-10T14:40:21.750Z",
+  "edition": "2026-10-14T06:30:00+09:00",
+  "generatedAt": "2026-10-14T00:28:05.422Z",
+  "periodStart": "2026-10-11T12:28:05.422Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 42,
-  "freshSources": 38,
+  "successfulSources": 41,
+  "freshSources": 37,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1033,
+  "candidateCount": 1305,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-news-asia-models-startup-fortune-599240cc06a26fa729a8",
+      "id": "google-deepmind-https-deepmind-google-blog-developing-gemini-4-argon-responsibly-and-safely-",
       "rank": 1,
-      "title": "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours - Startup Fortune",
-      "originalTitle": "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours - Startup Fortune",
-      "summary": "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours Startup Fortune",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "originalTitle": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "Learn more about our approach to safety and security for Gemini 4 Argon.",
       "points": [
-        "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours Startup Fortune",
+        "Learn more about our approach to safety and security for Gemini 4 Argon.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Startup Fortune",
-      "sourceType": "media",
+      "source": "Google DeepMind",
+      "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-10-13T01:20:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjRmbC1iVXVLRGp0cjM1ZU5Zd01HSFU3bkhtU0hWN0NEQ0kxRl9DODQwMVZKYnRoRElTYkN6RkN3NGVFXzBfaDFZazBFY0RYemNRT25uNGx1UmVSY21BR3JtRjYydzhRVGtPRlI0M1VOTzRNQUZER1RIdkdzWlpYY1V3eTVpM1pDVl9KMHBtTjBIT0k1U3dsM3RGOTB2MWdJVGs4ZC1naFVUdw?oc=5",
-      "impactScore": 84,
-      "impactLabel": "大",
+      "publishedAt": "2026-10-13T19:43:07.000Z",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "impactScore": 94,
+      "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "MarkTechPost",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOONIB1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOOA?oc=5"
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HbjhjU1hlWXlOU3ZhZmxJb09NUGN5dWVkNTM2T1E0NllxRU8tY1VBZ0VYNVdmZ0JtNzhKdXYycG9FRUZ4WldqMjFhQV9JZERpX2l2VjBQdlRJcHNqSllrX3Q4a0lJLW9UTVRzTTYyUk1oUy1Zck9Fa0ZjVE9KNzQ?oc=5"
         },
         {
-          "name": "FourWeekMBA",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXJrM2luYnJIc2NEMkV0RFdHUmZwN0J3MFRRS1JrV2ctMHdad3ZMUFVsbFBsd0hHcWhTYzRmQjFJdDhtR3BqYlVNY1ZJc2FMS3NwQmRiZzVmRUpSNWdrZjRiM3J0dU80ZVZfNC1OWW5UYmVsUmU0eW85MjQ0d3laX0g1ZHRBQ1l6bURac0VKVQ?oc=5"
+          "name": "ビジネス+IT",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9za1pVbUx2QUNLX1R5Q2JoZnNLWGFTbEFXQjI0TlNWRUI1ZFFzdzdJM21oVzB0YlJGdVQwWmQ0VmJTV0NuMzVQOHBOR0dLTE9Kem9Z?oc=5"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oVG9yeGxjM2doZFNxaWQ2djNIYnJMbFRQemM1WFhBWi0tNU9fbno5VzVFLUpOR1JlRE9NWXdjQ1pMNFNkUXR4UWFTWEdwc3RMUnBWUjVBWlVYWWZqQTdUX2RaQkhRalQ3cG40ekdOY2FVa2hU?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjRmbC1iVXVLRGp0cjM1ZU5Zd01HSFU3bkhtU0hWN0NEQ0kxRl9DODQwMVZKYnRoRElTYkN6RkN3NGVFXzBfaDFZazBFY0RYemNRT25uNGx1UmVSY21BR3JtRjYydzhRVGtPRlI0M1VOTzRNQUZER1RIdkdzWlpYY1V3eTVpM1pDVl9KMHBtTjBIT0k1U3dsM3RGOTB2MWdJVGs4ZC1naFVUdw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOONIB1AFBVV95cUxPNWF0Ym9DSVR1c3k4emVHdUR4X0xlZzJzNXJtdzNjNm1DTVpHV3VKV1dsSkUtTjZNcGtXVE9MV0tmM016dW5KUFNfRUFTZVZmSk9rd1hsZ29sZkJiZmlQdHhJVVA4Ukd2QXA0LWtGTWl0OHdPSHozbUJ2d2RIcVl4Y0JXTGpKdVFUVHg3Rnd1SWtBZF9MSU5IM0J3QUFXc0Naam9NMWZSaWdxU3ZyQWt1VWVIdzNMMGc1X0pRVDdqUjJMR3FRLTg2eUpacDJrWkFlMTlOOA?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLTRTeUVOVV9SQTZESnNsOU5WeFk0NlhfMVFpRmV1WUIzU3IzMVl2Rm1IRzBpMWx2ZTJiYl9hS3FSUDZWTERZMmdjdjhtNEJXZmE0bG4wVWl3TzVsMHg1Y1pBandzcmUxSkItS0Vsd3doZ01EVmhkVzNsNi1LTVd2MTRlc1RLMTZkLXJ4d2xPdDVqWGVNVHotTkZCdGdEX2NYdHNMcGhXRXp4SUdNMGExN2hVMkM2Rm00YlY2Z2tnQjJhUTdYQ1ZkU182UEnSAcwBQVVfeXFMUC00U3lFTlVfUkE2REpzbDlOVnhZNDZYXzFRaUZldVlCM1NyMzFZdkZtSEcwaTFsdmUyYmJfYUtxUlA2VkxEWTJnY3Y4bTRCV2ZhNGxuMFVpd081bDB4NWNaQWp3c3JlMUpCLUtFbHd3aGdNRFZoZFczbDYtS01XdjE0ZXNUSzE2ZC1yeHdsT3Q1alhlTVR6LU5GQnRnRF9jWHRzTHBoV0V6eElHTTBhMTdoVTJDNkZtNGJWNmdrZ0IyYVE3WENWZFNfNlBJ?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXJrM2luYnJIc2NEMkV0RFdHUmZwN0J3MFRRS1JrV2ctMHdad3ZMUFVsbFBsd0hHcWhTYzRmQjFJdDhtR3BqYlVNY1ZJc2FMS3NwQmRiZzVmRUpSNWdrZjRiM3J0dU80ZVZfNC1OWW5UYmVsUmU0eW85MjQ0d3laX0g1ZHRBQ1l6bURac0VKVQ?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HbjhjU1hlWXlOU3ZhZmxJb09NUGN5dWVkNTM2T1E0NllxRU8tY1VBZ0VYNVdmZ0JtNzhKdXYycG9FRUZ4WldqMjFhQV9JZERpX2l2VjBQdlRJcHNqSllrX3Q4a0lJLW9UTVRzTTYyUk1oUy1Zck9Fa0ZjVE9KNzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9za1pVbUx2QUNLX1R5Q2JoZnNLWGFTbEFXQjI0TlNWRUI1ZFFzdzdJM21oVzB0YlJGdVQwWmQ0VmJTV0NuMzVQOHBOR0dLTE9Kem9Z?oc=5",
+        "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oVG9yeGxjM2doZFNxaWQ2djNIYnJMbFRQemM1WFhBWi0tNU9fbno5VzVFLUpOR1JlRE9NWXdjQ1pMNFNkUXR4UWFTWEdwc3RMUnBWUjVBWlVYWWZqQTdUX2RaQkhRalQ3cG40ekdOY2FVa2hU?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MN3cwYVRTalVsaFlvOFBjajFGTUY0Q2FPSXFpS0lOdEtLSnFCOUdNUmtRRWI2ZVdhYzItdEF3VzUwTnNNWVJjWVpEM1FZVTRMVmt1dEp6WTYyaDZNVk5kQjNsdlRTN1NMZGtB?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OdW53RGx2TGgxS01WWFE0N29TbVRFQkdFM0l4aHVkNlgtaGxFVlh5aXJOdndtMGJnZkZLM3FhRDBaelo4ZDhaWVZ5cXV6anFlYmY4cHRlaWZpWkJKZDVBRTlzWmV4dW8?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0lxVXZ0bHhLMHJEZ0stWjJHeXFaMy15MURBTFZrQkdhMHlrdENQVE50S3dCRDd1YmZaMU5wd0VYZmNNYXY3OFdnVVNfajVNY3N1NWl3elJLYVg1T3lKTGpOZWVDYWNadlBzUW5zalRwWWFZY1RGWjE4UFlMLTB1WlFQTXhxcTNWcVI2d29fTmFndGkxdGh5N241bHUxeWNtbW51Qk1DU2xKZENQd3hia1owZw?oc=5",
+        "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+        "https://deepmind.google/blog/introducing-gemini-4-argon",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"
       ],
       "eventTitles": [
-        "Alibaba's Qwen team open sources QwenGyre to train AI agents that run for hours - Startup Fortune",
-        "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents - MarkTechPost",
-        "Alibaba Unveils QwenGyre to Speed Up Training of AI Agents - FourWeekMBA"
+        "グーグル、最上位AI「Gemini 4 Argon」を世界で提供開始 API入力は100万トークン2ドル（ビジネス＋IT） - Yahoo!ニュース",
+        "グーグル、最上位AI「Gemini 4 Argon」を世界で提供開始 API入力は100万トークン2ドル - ビジネス+IT",
+        "Developing Gemini 4 Argon responsibly and safely",
+        "グーグル、有料契約者と開発者向けに「Gemini 4 Argon」を提供開始 - BigGo ファイナンス",
+        "Google、最先端AIモデル「Gemini 4 Argon」提供開始 - Jetstream",
+        "Google、最先端AIモデル「Gemini 4 Argon」提供開始 - jetstream.blog",
+        "🚨最新情報：Googleが自社最強のAIモデル「Gemini 4 Argon」 をリリース - Moomoo",
+        "Gemini 4 Argon for Robotics",
+        "Gemini 4 Argon: Built to solve your hardest problems"
       ]
     },
     {
-      "id": "ars-technica-ai-https-arstechnica-com-gaming-2026-10-report-epic-games-goes-all-in-on-ai-for-disney-",
+      "id": "simon-willison-https-simonwillison-net-2026-Oct-13-llm-gemini-",
       "rank": 2,
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "originalTitle": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "summary": "Epic Games is shifting to an \"AI first\" development strategy for its collaboration with the Walt Disney Company, letting AI models write all the code and guide all the artwork for an upcoming shooter. That's according to a Bloomberg report , which cites unname",
+      "title": "llm-gemini 0.35",
+      "originalTitle": "llm-gemini 0.35",
+      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all exc",
       "points": [
-        "Epic Games is shifting to an \"AI first\" development strategy for its collaboration with the Walt Disney Company, letting AI models write all the code and guide all the ar",
-        "That's according to a Bloomberg report , which cites unnamed people familiar with the project who commented on the significant pivot in internal development at the Unreal",
-        "Human developers will be tasked with managing and guiding code and art assets generated by models such as Anthropic's Claude, according to internal Epic employee messages"
+        "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month sub",
+        "Here are the low, medium and high pelicans .",
+        "As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (a"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-13T22:28:54.000Z",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/13/llm-gemini"
+      ],
+      "eventTitles": [
+        "llm-gemini 0.35"
+      ]
+    },
+    {
+      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1146366",
+      "rank": 3,
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "originalTitle": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here . Late last month, Anthropic released a report arguing that the model ",
+      "points": [
+        "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.",
+        "You can read more from the series here .",
+        "Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "MIT Technology Review",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "url": "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
+      ],
+      "eventTitles": [
+        "Open models have real benefits. Do they outweigh the risks?"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Oct-13-redesigning-source-control-at-anthropic-",
+      "rank": 4,
+      "title": "Redesigning source control at Anthropic",
+      "originalTitle": "Redesigning source control at Anthropic",
+      "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic av",
+      "points": [
+        "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic incr",
+        "In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day.",
+        "They included a chart showing those changes."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-13T23:00:06.000Z",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic"
+      ],
+      "eventTitles": [
+        "Redesigning source control at Anthropic"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-10-gemini-4-argon-begins-rolling-out-in-gemini-app-and",
+      "rank": 5,
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "originalTitle": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "summary": "Google revealed Gemini 4 Argon a few weeks ago, saying that it needed to move cautiously toward a full release because of the potential for nefarious use. Google seems to have worked all that out pretty quickly, though. Argon is beginning its wide rollout toda",
+      "points": [
+        "Google revealed Gemini 4 Argon a few weeks ago, saying that it needed to move cautiously toward a full release because of the potential for nefarious use.",
+        "Google seems to have worked all that out pretty quickly, though.",
+        "Argon is beginning its wide rollout today , but it's only coming to paying users at this time, and even those on lower-tier plans won't have full access."
       ],
       "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
       "source": "Ars Technica",
       "sourceType": "media",
       "category": "開発者向け",
-      "publishedAt": "2026-10-12T20:59:50.000Z",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-      "impactScore": 83,
+      "publishedAt": "2026-10-13T16:00:02.000Z",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay",
+      "impactScore": 74,
       "impactLabel": "大",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
+        "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay"
       ],
       "eventTitles": [
-        "Epic Games reportedly pivoting to \"AI first\" game development model"
+        "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay"
       ]
     },
     {
-      "id": "google-news-global-policy-distilled-post-ea67a317a94cf7bf5763",
-      "rank": 3,
-      "title": "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief - Distilled Post",
-      "originalTitle": "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief - Distilled Post",
-      "summary": "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief Distilled Post",
-      "points": [
-        "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief Distilled Post",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "Distilled Post",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-12T17:08:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlNUUmVIZTF6LTVoSWNvVVRVSGtiVzIyUzVMWHdtRk9iZTljdW82SHJqRUdxeDFSTUVkclczT0JscjNHMk10MXFqNndvRTdpZkxSQUZObTNLLU1iZmsydFRZMC1MdTEwaTBodnoyNnJPRG0tS0pDVmdBZ09Fcl9xd2ozYmEzTDhCQk4wLTRubDJpb2YtQkJQcVNkWjBVanlDTUViUklnLWFlQkdD?oc=5",
-      "impactScore": 72,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "LatestLY",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0k5cjdEWXpYVWpjck11NndHZkVkUHFtdk9kWm03QXdPZmtnVTdWaUpQOThzTmpJT1NlYzAwblVWX1JyQl83RnNxdGduc2FMZnN1QW9SbVNEQ1AzUEh4YUZqMzVEUnVfc2tZR0s4YWptdXVITWpyZG9tcWZ5SFhPX2NOTjlvaDBrYUw1VW9JRVlQalFvckZjcHBrdzFpV2JmdDI3R1JGM3ptYmlOaUppM01xY9IBuAFBVV95cUxQMEt3bkRMdzBOeW1HczhIYzEwZXEwb0ZxOEMtc2JoeWNoYW0tUGdiRUdWSVRmUVVFWm9odHBQbmNoLXY2c3FqcDVqMGp3ZTF1X2VZQnpnSmZyekdoczBxTW9odTdkVUFFTHNWTjQ1VFhDcGV2bWNJUEpHR1otV2dncHlnbEp0NzhzMzN5V2RWMmxlNDhJLXltRHViZ3Vqdmg3c1RPZGFKdXJLSTBxbGJSd0laaEFPbTJa?oc=5"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEZhdTlOUnZUTXJTWkt3aFpmZ3NTSVFKc20zU3RHZkt4T3IzUGlUVl9WU0VlUHdKVktnQWRMWVVHV2RhRmFEWUVVelh5aDVsczk4RDVGZm1XeHp1M0RQdjFyMVF6OFJadVZ0emtxbm43NF9ET2pWb0cxMVU0UWdYaDIyWVhTQUlCcG1wZHVud0Y0aHI5R1BzSkJmeThQaXliZ0JNNno4RTVyZjVLWVZYZ3c3WTBETEtLVW5SRFBVVXJIRFRmOVJfQ3BxTXhlaU1KcUVF?oc=5"
-        },
-        {
-          "name": "Gotrade",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1RtSjcxWjJOOHQ3LXZhcm5zSENrbnlCOHRaWWYyMWEtYjF2eVZNdVR5WUpOdEs5NEtFek1hSTdqRUdlWm9kd1NJZkpRUHI3ZVlHWjVjcTVYT2xfSlo3dl9GeURpVkNlOGpjT3pDM2YxLXZLbHV6Rm9xRUozTnFLYjZMMEowVWtIRDQ3N2pxZVdjSDFGU2pkVHFXZ19GeWJNODhMa2diZ083VVA1NngtY3QzSzJmWnNCS3c?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRlNUUmVIZTF6LTVoSWNvVVRVSGtiVzIyUzVMWHdtRk9iZTljdW82SHJqRUdxeDFSTUVkclczT0JscjNHMk10MXFqNndvRTdpZkxSQUZObTNLLU1iZmsydFRZMC1MdTEwaTBodnoyNnJPRG0tS0pDVmdBZ09Fcl9xd2ozYmEzTDhCQk4wLTRubDJpb2YtQkJQcVNkWjBVanlDTUViUklnLWFlQkdD?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0k5cjdEWXpYVWpjck11NndHZkVkUHFtdk9kWm03QXdPZmtnVTdWaUpQOThzTmpJT1NlYzAwblVWX1JyQl83RnNxdGduc2FMZnN1QW9SbVNEQ1AzUEh4YUZqMzVEUnVfc2tZR0s4YWptdXVITWpyZG9tcWZ5SFhPX2NOTjlvaDBrYUw1VW9JRVlQalFvckZjcHBrdzFpV2JmdDI3R1JGM3ptYmlOaUppM01xY9IBuAFBVV95cUxQMEt3bkRMdzBOeW1HczhIYzEwZXEwb0ZxOEMtc2JoeWNoYW0tUGdiRUdWSVRmUVVFWm9odHBQbmNoLXY2c3FqcDVqMGp3ZTF1X2VZQnpnSmZyekdoczBxTW9odTdkVUFFTHNWTjQ1VFhDcGV2bWNJUEpHR1otV2dncHlnbEp0NzhzMzN5V2RWMmxlNDhJLXltRHViZ3Vqdmg3c1RPZGFKdXJLSTBxbGJSd0laaEFPbTJa?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEZhdTlOUnZUTXJTWkt3aFpmZ3NTSVFKc20zU3RHZkt4T3IzUGlUVl9WU0VlUHdKVktnQWRMWVVHV2RhRmFEWUVVelh5aDVsczk4RDVGZm1XeHp1M0RQdjFyMVF6OFJadVZ0emtxbm43NF9ET2pWb0cxMVU0UWdYaDIyWVhTQUlCcG1wZHVud0Y0aHI5R1BzSkJmeThQaXliZ0JNNno4RTVyZjVLWVZYZ3c3WTBETEtLVW5SRFBVVXJIRFRmOVJfQ3BxTXhlaU1KcUVF?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1RtSjcxWjJOOHQ3LXZhcm5zSENrbnlCOHRaWWYyMWEtYjF2eVZNdVR5WUpOdEs5NEtFek1hSTdqRUdlWm9kd1NJZkpRUHI3ZVlHWjVjcTVYT2xfSlo3dl9GeURpVkNlOGpjT3pDM2YxLXZLbHV6Rm9xRUozTnFLYjZMMEowVWtIRDQ3N2pxZVdjSDFGU2pkVHFXZ19GeWJNODhMa2diZ083VVA1NngtY3QzSzJmWnNCS3c?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUzljY01VV05haDAzQkdpbnFFWlBhZWp5S3ZsSG9WZWFuQU1lc05UaWZUZEVocjU0MS05M0JnMUtFc2VLTG5rUXVoOHhNTVJFQlZKdWNJYWtvaGIwSUc1dUowZ3poc29GczVtcDQtVW0?oc=5"
-      ],
-      "eventTitles": [
-        "Britain Best Positioned to Lead Global AI Regulation, Says Microsoft Chief - Distilled Post",
-        "Microsoft President Brad Smith Urges Strict Global AI Regulation - LatestLY",
-        "Microsoft President Calls for Global AI Regulation Amid Strong V - GuruFocus",
-        "AI Regulation & Safety (White House Incident Reporting, Microsoft Calls for Safeguards) - Gotrade",
-        "Microsoft President Urges Britain to Lead Global AI Regulation - SuaraGarut.ID"
-      ]
-    },
-    {
-      "id": "anthropic-sitemap-https-anthropic-com-research-self-replicating-ai",
-      "rank": 4,
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "originalTitle": "AI models may be capable of self-replicating without access to a datacenter",
-      "summary": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
-      "points": [
-        "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Anthropic",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-10-12T19:30:00.000Z",
-      "url": "https://anthropic.com/research/self-replicating-ai",
-      "impactScore": 71,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://anthropic.com/research/self-replicating-ai"
-      ],
-      "eventTitles": [
-        "AI models may be capable of self-replicating without access to a datacenter"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3176628",
-      "rank": 5,
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "originalTitle": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "points": [
-        "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-12T15:31:19.000Z",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-      "impactScore": 71,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "mezha.net",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnU2eF9vUW9LNUFpdGNUTS1oOUNzSnlUOUlfV2otaFEybWlDbDgzVGEtTlgycjRkbnpSY1owZ2JvNEd3MldaM0N3cngyOXg2ZGtDMkpZV2luVDNtWXdDS05FdjNCZTE2YmQ1VzQwVUdaenVNbnJtYTg5SU5tWk5JUExKYU8tOUFWZ2NF?oc=5"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnU2eF9vUW9LNUFpdGNUTS1oOUNzSnlUOUlfV2otaFEybWlDbDgzVGEtTlgycjRkbnpSY1owZ2JvNEd3MldaM0N3cngyOXg2ZGtDMkpZV2luVDNtWXdDS05FdjNCZTE2YmQ1VzQwVUdaenVNbnJtYTg5SU5tWk5JUExKYU8tOUFWZ2NF?oc=5",
-        "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkdWMWdtZHpPVGw2ckJseDNGd1FVVGE5ZVo2cUd6TEpSTE1xRlJNNXY2X1RLRWo0ZTAtOTc2VFRaQTBuMjNrX2ZjYkZyNUphUlBrWnNwb1hmWGNmRDN1bHFkMVRuelNRSHdXNFN3WWVzSXpTLWk4eldfNEVRTDdvVWttZ19zOEFjZjlLbkpKWXpZVlVHV3RyQW1RZ0NfMTBSTHc?oc=5"
-      ],
-      "eventTitles": [
-        "Microsoft president says UK is best placed to drive AI regulation - mezha.net",
-        "Microsoft president says UK is best placed to drive AI regulation",
-        "Microsoft president says UK is best placed to drive AI regulation - TechCrunch"
-      ]
-    },
-    {
-      "id": "google-news-labs-ascii-jp-CBMiVEFVX3lxTE5GX2ZiYkw5RlFuWEwzZld4UmhvWmRkZDRzaGZ1T3VtSDhqSmR4LV84eFFpbU",
+      "id": "google-news-global-policy-the-straits-times-07bd356993482042ec0b",
       "rank": 6,
-      "title": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも - ASCII.jp",
-      "originalTitle": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも - ASCII.jp",
-      "summary": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも ASCII.jp",
+      "title": "Microsoft president says milk faces more regulation than AI - The Straits Times",
+      "originalTitle": "Microsoft president says milk faces more regulation than AI - The Straits Times",
+      "summary": "Microsoft president says milk faces more regulation than AI The Straits Times",
       "points": [
-        "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも ASCII.jp",
+        "Microsoft president says milk faces more regulation than AI The Straits Times",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "ASCII.jp",
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Straits Times",
       "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-10-13T02:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GX2ZiYkw5RlFuWEwzZld4UmhvWmRkZDRzaGZ1T3VtSDhqSmR4LV84eFFpbURGUFQwZlpNSE9lMnZlOTZST3VBaWQ2N21aSG5Ud1otQg?oc=5",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-13T07:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnNMcTNfUndYQnpFSGR0QTNSanVHZkl2SWVKZ0h6eWNaOXJhZ2RrY01hQzdIc3lCT2ZYd0xvWEFKdVFQTndTeEMtVkR5bFRHaTZrcDRyck94Nk0wcjVZcmhtRVAxMEV5OTRXa1A1V2M3M0JtSG9FODhBWTF0OTdOOUtmS3M3TV9EdWpDSjdzTnNUbHBRT014WnpRWjhNYl82XzI0?oc=5",
       "impactScore": 69,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "innovaTopia",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tb000dWZNa0NEcE44a0tOamptTEt0ODRRblJTZlRBbkZFN2VNUzBOTkZVcWtfM1VsSlk0aXExM0RHLWRwVzBoOWJGZkNHQ0NNNU9z?oc=5"
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXdBa1Y2TGdLNldYOHJEbjhING1xTkZRZWVWeXZXVkp2emxWdVo3N3daT3poQndVcGhEeDlJcTZIdGlqNjhoMmpWcGdEMl9uVHFCRk1iNDFocVc0SVZ4aGhsRUY4TURJU2M0VWZtNkd2d2ROc2kxMi0zR243QTRhSWdnM2JaSWdPSTFZZ2ZTYUlHQzlfRG1MVlExTzJSYkpNaGlFcy1waUN1Z2pqUFBRZ1ZjeGFlSTFRNy1LaDJoZXVJblE?oc=5"
         },
         {
-          "name": "Impress Watch",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Sk1PVlJIZE5OLVMzNW9KcEI1bmNCSlU5M3pKNGNsZWY1aHRZQWhPUVBQak8wUUM2Y1JfNW1SR0JlMTcyVmZBZU1yUWpKX2xBVmtSaUJWWGo1cUk4c0NJd1BaLVQ?oc=5"
+          "name": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMHo4eGprM2NQcDAwdU5PVFBNMGxlcWhqYi1JUkhpTkVjemJTaDBWRmdObkJ6WEJlYXhNenVObmtjVlZENFJRNEVOc0lzcFphai11LWJDRUs2NmRpREhidWhXMUlmVEVnbnd5MlJrVFBRbk5qM2dBWllqY3k3Z0g5YlhBZFdYQVFtZmNydFJFRm5jOW4wR3l3bllhNnBHNzFiX0RLQkN5a2dLZ2hZUFlIOERpb1FoN2NSNGFLWnlhYUUwOFBid3hZemt2Q2pLdFVWYzlqR3Qxa0E5Um54TUxJVnF0LXRRamFBblJJOEhILXI3WDNfNzViY3hhTdIBgAJBVV95cUxOWk5CRnRobGZZbWtPUUxYbjhPdEtJWlZ0V0gtY2d0MVB3Ulp5aVpObGlNTWpWSWlGTUFaMlpYOUFYMjBuZ1Bwc2RyT3R3Wng4RXhVejJEaUFaMG04UkFpa3lncWsyZ0cteHlzbTZZazBRbnlzMEF1U0tJY1oxajJrT2Y3UUJ4UkhGaXlCTXR1OWFsVDdUYkVvV2hBOGQ3WVRhcnZTYmxTUkczWmxtV3A0a3o4ZmtfX2RCNkl1WGhxck52WUlyX0V3MWFSbEVJY0NHdF9nc3BHSFFCWWliYnZVVlc5UDA4OWVvQnUxcmppV29DX2tFZjhtU24yb1czZXlZ?oc=5"
         },
         {
-          "name": "千葉テレビ放送株式会社",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUEQ2ZGZDUGpmOURhc0ZtQ2wwOTQzQUpTaGNJNmdSOHhqSEVpVEtOYmZWS2V5ck5lWHctLVlHeUJCSjdyRW9FWG1kUVd2eHR5aW9qbnp0aGNkZlk0SkRB?oc=5"
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzBNYWZrTWxOaDJrZUFqUFVrbmNJaXg3Z0lzVElsX05yT2JiMHc3S01kZTlBMTlIdGdHVU1hY0JXTDliak5Id2d5eERXUHAyLXlvcnBGT3V6SUVXRG5lRkp5UGRoNmstUW1RLXhGQjhXcGxTY3FuQTB5ZWhRSW1DYnJ3Y0x2eU4xUkFzcGE0LWNrMEtBM2VyMHNZdU9ld29QQnJSaFFxVjYtaExtUmtzaW11MXZlem5zWk5YRnZUYW0xWXp2N2tsUGlNNU9NeFREVlUxdUg5NTIySi1Qd1FFYl9WZXBRUdIB3wFBVV95cUxOdXB5YnFoU2lORkFNdmNMMzRaUFl6ZGhQUGM0TnEzYWx3MllDS1JuaDRDVW15QlVVSGVlLUlISjBaaXB1OVc2cUlqN1dmRnRXblFsaHQ0QXRXTmptYUpfZUR2WVRwNEloVTFRNHRnYi1xa1VXUDZhYllWWENISkpJLU1DWlRJVGt2MkNJWDVVVFpMd2Z0aHpiZkJEYjJocEhjS0Zya0lDbFRrZVNrZzRsbXI5Q2ZycnlycHZzNVh4TnhjdUJQNVRjbWhoX0xhaUE1Zll4d3NmYnhTdzNUMFF3?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GX2ZiYkw5RlFuWEwzZld4UmhvWmRkZDRzaGZ1T3VtSDhqSmR4LV84eFFpbURGUFQwZlpNSE9lMnZlOTZST3VBaWQ2N21aSG5Ud1otQg?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tb000dWZNa0NEcE44a0tOamptTEt0ODRRblJTZlRBbkZFN2VNUzBOTkZVcWtfM1VsSlk0aXExM0RHLWRwVzBoOWJGZkNHQ0NNNU9z?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01Sk1PVlJIZE5OLVMzNW9KcEI1bmNCSlU5M3pKNGNsZWY1aHRZQWhPUVBQak8wUUM2Y1JfNW1SR0JlMTcyVmZBZU1yUWpKX2xBVmtSaUJWWGo1cUk4c0NJd1BaLVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUEQ2ZGZDUGpmOURhc0ZtQ2wwOTQzQUpTaGNJNmdSOHhqSEVpVEtOYmZWS2V5ck5lWHctLVlHeUJCSjdyRW9FWG1kUVd2eHR5aW9qbnp0aGNkZlk0SkRB?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tUW05UF8tZW5YaG1EcTdvbG5xMTZtbzQ1bmk0Z3VyZ1hZWkNOU2dwVi03UmlCMV8zck12TWpIN05JN2tRazNFWWpYQTJRQjFVeldjS3RjdUhjQVR1TEtsT0dBbXNyWjZZZmV4MWVyNTRINVY0aGVXaHRkYVLSAXxBVV95cUxNbVFtOVBfLWVuWGhtRHE3b2xucTE2bW80NW5pNGd1cmdYWVpDTlNncFYtN1JpQjFfM3JNdk1qSDdOSTdrUWszRVlqWEEyUUIxVXpXY0t0Y3VIY0FUdUxLbE9HQW1zclo2WWZleDFlcjU0SDVWNGhlV2h0ZGFS?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzV6V3V4cHdKalc5Z0JRT0d1dDlZcEpQRmo3YnItZzlPM1JhTUtVaUpiZVBCOVhycnpzNDlsRjFCUE9HcWpVSVlMVmV5YkptZzRWVlVTVTI0RmNaRlNud0Q5YWw2ODhnYjRJcjJ1RjJEODRta1llNG5uNlE2R290NWVEclNuMGZsTk9XdXpGS01LTURoVlBVVzhUNGc2Nm_SAZsBQVVfeXFMUFNXRGUyRDZ1emtoc1ZvbG1OcGZ1NXBDT2swZmRTS2F4S0d5dU1QTWFwOVFvc2NXZ0lCMjJJbHpzQ2JCQ2xTdmdYSFgxMlpjWlBVVGZfckg1XzlYSVVYU05pLW1Cbkg5UFdXUWEtclVTNmhURl9pV1I2WjQyNUZvMHJzTHg3SWVhWi1BYWNuT2gxbDJzaXA5RGZqc2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WNzUzZ1NxTl9ldVJxRTBGc1VPS0VZU1pJMnA2YWZxSHk5bVRPSUIzUVU3eUd5bUdLQmpOeTNmc28zT0dCN0lCTkxueVU2ZGZkaUE?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnNMcTNfUndYQnpFSGR0QTNSanVHZkl2SWVKZ0h6eWNaOXJhZ2RrY01hQzdIc3lCT2ZYd0xvWEFKdVFQTndTeEMtVkR5bFRHaTZrcDRyck94Nk0wcjVZcmhtRVAxMEV5OTRXa1A1V2M3M0JtSG9FODhBWTF0OTdOOUtmS3M3TV9EdWpDSjdzTnNUbHBRT014WnpRWjhNYl82XzI0?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXdBa1Y2TGdLNldYOHJEbjhING1xTkZRZWVWeXZXVkp2emxWdVo3N3daT3poQndVcGhEeDlJcTZIdGlqNjhoMmpWcGdEMl9uVHFCRk1iNDFocVc0SVZ4aGhsRUY4TURJU2M0VWZtNkd2d2ROc2kxMi0zR243QTRhSWdnM2JaSWdPSTFZZ2ZTYUlHQzlfRG1MVlExTzJSYkpNaGlFcy1waUN1Z2pqUFBRZ1ZjeGFlSTFRNy1LaDJoZXVJblE?oc=5",
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMHo4eGprM2NQcDAwdU5PVFBNMGxlcWhqYi1JUkhpTkVjemJTaDBWRmdObkJ6WEJlYXhNenVObmtjVlZENFJRNEVOc0lzcFphai11LWJDRUs2NmRpREhidWhXMUlmVEVnbnd5MlJrVFBRbk5qM2dBWllqY3k3Z0g5YlhBZFdYQVFtZmNydFJFRm5jOW4wR3l3bllhNnBHNzFiX0RLQkN5a2dLZ2hZUFlIOERpb1FoN2NSNGFLWnlhYUUwOFBid3hZemt2Q2pLdFVWYzlqR3Qxa0E5Um54TUxJVnF0LXRRamFBblJJOEhILXI3WDNfNzViY3hhTdIBgAJBVV95cUxOWk5CRnRobGZZbWtPUUxYbjhPdEtJWlZ0V0gtY2d0MVB3Ulp5aVpObGlNTWpWSWlGTUFaMlpYOUFYMjBuZ1Bwc2RyT3R3Wng4RXhVejJEaUFaMG04UkFpa3lncWsyZ0cteHlzbTZZazBRbnlzMEF1U0tJY1oxajJrT2Y3UUJ4UkhGaXlCTXR1OWFsVDdUYkVvV2hBOGQ3WVRhcnZTYmxTUkczWmxtV3A0a3o4ZmtfX2RCNkl1WGhxck52WUlyX0V3MWFSbEVJY0NHdF9nc3BHSFFCWWliYnZVVlc5UDA4OWVvQnUxcmppV29DX2tFZjhtU24yb1czZXlZ?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzBNYWZrTWxOaDJrZUFqUFVrbmNJaXg3Z0lzVElsX05yT2JiMHc3S01kZTlBMTlIdGdHVU1hY0JXTDliak5Id2d5eERXUHAyLXlvcnBGT3V6SUVXRG5lRkp5UGRoNmstUW1RLXhGQjhXcGxTY3FuQTB5ZWhRSW1DYnJ3Y0x2eU4xUkFzcGE0LWNrMEtBM2VyMHNZdU9ld29QQnJSaFFxVjYtaExtUmtzaW11MXZlem5zWk5YRnZUYW0xWXp2N2tsUGlNNU9NeFREVlUxdUg5NTIySi1Qd1FFYl9WZXBRUdIB3wFBVV95cUxOdXB5YnFoU2lORkFNdmNMMzRaUFl6ZGhQUGM0TnEzYWx3MllDS1JuaDRDVW15QlVVSGVlLUlISjBaaXB1OVc2cUlqN1dmRnRXblFsaHQ0QXRXTmptYUpfZUR2WVRwNEloVTFRNHRnYi1xa1VXUDZhYllWWENISkpJLU1DWlRJVGt2MkNJWDVVVFpMd2Z0aHpiZkJEYjJocEhjS0Zya0lDbFRrZVNrZzRsbXI5Q2ZycnlycHZzNVh4TnhjdUJQNVRjbWhoX0xhaUE1Zll4d3NmYnhTdzNUMFF3?oc=5"
       ],
       "eventTitles": [
-        "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも - ASCII.jp",
-        "Meta「Muse Wonder」公開、Opus 5.5と同じ単価｜上位版FullはMuse Code限定 - innovaTopia",
-        "Meta、新最上位AIモデル「Muse Wonder」 専門タスクやエージェントに強み - Impress Watch",
-        "Meta、ChatGPTやClaudeに対抗する最先端AI「Muse Wonder」発表 - 千葉テレビ放送株式会社",
-        "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ - Infoseek",
-        "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ - ｄメニューニュース",
-        "Meta、ChatGPTやClaudeに対抗する最先端AI「Muse Wonder」発表 - CNET Japan"
+        "Microsoft president says milk faces more regulation than AI - The Straits Times",
+        "Microsoft president says AI regulation looser than for milk or washing machines - 디지털투데이",
+        "Microsoft president calls for urgent global AI regulation, says milk faces more safety checks - Moneycontrol.com",
+        "Microsoft president says milk faces more regulation than AI - The Economic Times"
       ]
     },
     {
-      "id": "anthropic-sitemap-https-anthropic-com-research-distillation-defenses",
+      "id": "aws-machine-learning-0c79d3a743bd70e676fa029365ec191931b2b410",
       "rank": 7,
-      "title": "Strengthening our defenses against distillation attacks",
-      "originalTitle": "Strengthening our defenses against distillation attacks",
-      "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+      "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "originalTitle": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "summary": "AI agents increasingly need to access web resources that are priced per request. For example, premium datasets charge by the query, research APIs meter by the call, and paywalled publishers gate content behind payment. When an AI agent encounters one of these ",
       "points": [
-        "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards.",
-        "Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "AI agents increasingly need to access web resources that are priced per request.",
+        "For example, premium datasets charge by the query, research APIs meter by the call, and paywalled publishers gate content behind payment.",
+        "When an AI agent encounters one of these resources, the server returns HTTP 402 Payment Required."
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Anthropic",
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
       "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-10-12T09:30:00.000Z",
-      "url": "https://anthropic.com/research/distillation-defenses",
-      "impactScore": 67,
+      "category": "開発者向け",
+      "publishedAt": "2026-10-13T20:10:33.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "impactScore": 68,
       "impactLabel": "中",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://anthropic.com/research/distillation-defenses"
+        "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments"
       ],
       "eventTitles": [
-        "Strengthening our defenses against distillation attacks"
+        "Building agents that transact with Anchor Browser and AgentCore payments"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2610-13-2000002180",
+      "id": "itmedia-ai-plus-https-monoist-itmedia-co-jp-mn-articles-2610-14-news032-html",
       "rank": 8,
-      "title": "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは",
-      "originalTitle": "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは",
-      "summary": "OpenAIのAIが起こした「Hugging Face」への侵入事案から約3カ月、OpenAI幹部のクリス・レヘイン氏にAI開発の安全対策の考え方などを聞いた。",
+      "title": "オムロンはAIを現場の価値に変える 米IPC企業買収で「設備最適化」へ拡張",
+      "originalTitle": "オムロンはAIを現場の価値に変える 米IPC企業買収で「設備最適化」へ拡張",
+      "summary": "�I�������́A�č��̎Y�ƗpPC���[�J�[�ł���OnLogic�����S�q��Љ�����Ɣ��\\�B�����ē����s���ŋL�҉���J���A�����̑_���A�w�i�Ȃǂ���������B",
       "points": [
-        "OpenAIのAIが起こした「Hugging Face」への侵入事案から約3カ月、OpenAI幹部のクリス・レヘイン氏にAI開発の安全対策の考え方などを聞いた。",
+        "�I�������́A�č��̎Y�ƗpPC���[�J�[�ł���OnLogic�����S�q��Љ�����Ɣ��\\�B�����ē����s���ŋL�҉���J���A�����̑_���A�w�i�Ȃǂ���������B",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
       "source": "ITmedia AI+",
       "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-12T23:00:00.000Z",
-      "url": "https://itmedia.co.jp/aiplus/article/2610/13/2000002180",
-      "impactScore": 65,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNnV4Z2RTWUMzc0FoRFhhaVpJNDRmVXhPVkJQTXZoTG5uY3ZWU3dSSU44cmx2QzhXbGRmRjNIdVVhbmpvTnlKTWkwMzNnOFJxSmdKNXUtZlgxOWVYU2NCQUJiWnpVNTZEc2RNYw?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://itmedia.co.jp/aiplus/article/2610/13/2000002180",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNnV4Z2RTWUMzc0FoRFhhaVpJNDRmVXhPVkJQTXZoTG5uY3ZWU3dSSU44cmx2QzhXbGRmRjNIdVVhbmpvTnlKTWkwMzNnOFJxSmdKNXUtZlgxOWVYU2NCQUJiWnpVNTZEc2RNYw?oc=5"
-      ],
-      "eventTitles": [
-        "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは",
-        "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは - ITmedia"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-russia-was-not-ready-for-the-data-center-war-i",
-      "rank": 9,
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "originalTitle": "Russia was not ready for the data center war it started with Ukraine",
-      "summary": "When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation. Now Russia’s digital services are facing widespread outages after Ukrainian drone strikes knocked out three of th",
-      "points": [
-        "When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation.",
-        "Now Russia’s digital services are facing widespread outages after Ukrainian drone strikes knocked out three of the largest data centers owned by Russian tech giant Yandex",
-        "Pro-Kremlin bloggers are warning that Russia’s centralized digital economy could collapse because the country is not prepared for the “data center war” it started, accord"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-12T17:52:36.000Z",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine",
-      "impactScore": 64,
+      "category": "ビジネス",
+      "publishedAt": "2026-10-13T21:30:00.000Z",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/14/news032.html",
+      "impactScore": 67,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine"
+        "https://monoist.itmedia.co.jp/mn/articles/2610/14/news032.html"
       ],
       "eventTitles": [
-        "Russia was not ready for the data center war it started with Ukraine"
+        "オムロンはAIを現場の価値に変える 米IPC企業買収で「設備最適化」へ拡張"
       ]
     },
     {
-      "id": "google-news-asia-models-investing-com-c0faa1850edb4f0cb111",
-      "rank": 10,
-      "title": "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg - Investing.com",
-      "originalTitle": "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg - Investing.com",
-      "summary": "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg Investing.com",
+      "id": "wired-ai-6ace0d6cda1d099f16b1dae2",
+      "rank": 9,
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "originalTitle": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
       "points": [
-        "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg Investing.com",
+        "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to ",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Investing.com",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "WIRED",
       "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-12T13:17:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOThkLUR4cmZnVTVCenVmOHlrcjFYR2lPcnhTYXpOQkRrekU0V0M3Xy1uVkFtZlo4TEp2OW1kcVB1SmthNGJadTZKVE5zbnNBbmpWcmFqYlJKRnNXTG1FRGJQT1Fuc3B1emctSVF0aEdTeG5lYllDR1VHRkZsWnN3eG5EdTdmLWNPck1qbG10amxUUlY3bWRmeHFScVRUcnBNUHVWUmMtM1Z5WFFRWEk0UF92djR6ZXBiZzdhbDVyQUkteUZWTTBrczVlVzBtOHI4X2Vj?oc=5",
-      "impactScore": 63,
+      "category": "安全性",
+      "publishedAt": "2026-10-13T19:35:29.000Z",
+      "url": "https://wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
+      "impactScore": 67,
       "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZU1jWXZIb0ZfQXpWQmM1STc1MXp2TFZlYU95REVBaE5LMHZUdTI1aHRYaFNCUWFNRmFNTE1zR2taVTZTQUI4aUVYN2NUTzAzVFZzZFFScXB3Wjk5UzVoaGdvS0lIX2hoaUFjcnlsRmlxVHF2cXF1dzFBT1E0OWF4a0ZES1hhTDJnRmJ0UUZTRXphZEFrQmlRQjdkVlVuYmdHcGxzc2NKekxwbHF3Q19WR3ZaeGtGNGNtdk9LcDBMdlBEeUdCN1ZQWnJOUGRjUkxUM3c?oc=5"
-        },
-        {
-          "name": "Dealroom",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzFOOF9rMzBHM1BvVVNJcDQ4N1owM2paeVJoT3RLQ3Z4U3d2SUpGY2w4UEVmMjE0dG9BZEFmdk84SWxEcnoxR2dIWUllY1pSeFZoakcwTHZaYzgtSWQ5VGRGVUp0dUYxRWhtSDM0ZmRGbHRoNVkwWlh0MEJ1NzRjNGs2WVZ5UFNSQzIwNjdwX3Ffcm05SkNMeFRqTzQ5QTBUZUkzUDFodw?oc=5"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkhjRnlocXE2eTdLUHRkQzBta1NXYU1EN0xaSGp0OHZLTTJYaFhMS3huaWxNcmlpcnFQbGlWWlJLeGs3bGg2QjBWM2xEMUJlU1dFWnRMX0J4SnVGS0hiakM0TUJSUzRPMG1CcHRObGtjcGlGTktWNW5COVc1dnVWMVlidXlJUWFfZXQ1WkU5ZGprcXlyQjY3aFJXUFYxSTZ1TjRQbkpCX2FFbnB5ZHRwaUo4Qmc0TEVuLVlFdWdrM2o3d19jMEZrbm5SX2oySzh2Qlp3cnRwSS0tenc?oc=5"
-        }
-      ],
+      "verification": "信頼できる報道",
+      "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOThkLUR4cmZnVTVCenVmOHlrcjFYR2lPcnhTYXpOQkRrekU0V0M3Xy1uVkFtZlo4TEp2OW1kcVB1SmthNGJadTZKVE5zbnNBbmpWcmFqYlJKRnNXTG1FRGJQT1Fuc3B1emctSVF0aEdTeG5lYllDR1VHRkZsWnN3eG5EdTdmLWNPck1qbG10amxUUlY3bWRmeHFScVRUcnBNUHVWUmMtM1Z5WFFRWEk0UF92djR6ZXBiZzdhbDVyQUkteUZWTTBrczVlVzBtOHI4X2Vj?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZU1jWXZIb0ZfQXpWQmM1STc1MXp2TFZlYU95REVBaE5LMHZUdTI1aHRYaFNCUWFNRmFNTE1zR2taVTZTQUI4aUVYN2NUTzAzVFZzZFFScXB3Wjk5UzVoaGdvS0lIX2hoaUFjcnlsRmlxVHF2cXF1dzFBT1E0OWF4a0ZES1hhTDJnRmJ0UUZTRXphZEFrQmlRQjdkVlVuYmdHcGxzc2NKekxwbHF3Q19WR3ZaeGtGNGNtdk9LcDBMdlBEeUdCN1ZQWnJOUGRjUkxUM3c?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzFOOF9rMzBHM1BvVVNJcDQ4N1owM2paeVJoT3RLQ3Z4U3d2SUpGY2w4UEVmMjE0dG9BZEFmdk84SWxEcnoxR2dIWUllY1pSeFZoakcwTHZaYzgtSWQ5VGRGVUp0dUYxRWhtSDM0ZmRGbHRoNVkwWlh0MEJ1NzRjNGs2WVZ5UFNSQzIwNjdwX3Ffcm05SkNMeFRqTzQ5QTBUZUkzUDFodw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkhjRnlocXE2eTdLUHRkQzBta1NXYU1EN0xaSGp0OHZLTTJYaFhMS3huaWxNcmlpcnFQbGlWWlJLeGs3bGg2QjBWM2xEMUJlU1dFWnRMX0J4SnVGS0hiakM0TUJSUzRPMG1CcHRObGtjcGlGTktWNW5COVc1dnVWMVlidXlJUWFfZXQ1WkU5ZGprcXlyQjY3aFJXUFYxSTZ1TjRQbkpCX2FFbnB5ZHRwaUo4Qmc0TEVuLVlFdWdrM2o3d19jMEZrbm5SX2oySzh2Qlp3cnRwSS0tenc?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ozanV4bE5iRXh3TFR6eE5KOFFqd1RZSmlGSWZWZXlyeE12WTdvRUZjMXZIUUJFOVhyM0lUUVI4aFNSX1NNUmlKTXFvLVNWR1NFUjRvVGtlX2wxMzUtYlBGWGpjOVZKNEFFOGVETDRVTUZxU0tMNWtWVHMxLWJMbFc0MGZFR2RmU3pjaDBMTmFpSUtLSlg4djM1cEFTVVN1VUhQNTZWTFFLR0VsRUNoUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYzIyMzFLY0V3R2ZNekphQ2swTzdBODZVZ1dVUlBpbUpSVjNFbmY0U1RqTHhLT0ZXQWFwb3VCT0pMVGplRkZnUUZva3NnMTZJQXJZcU9qVlBIaEY3bGw1V3M2enlTbFJpNWd6SVczemdpSndJZGc?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkxZdTNvYVhaOXNPcGl6Wjc5WnhVb3NqX2VYY2JYTW9xcWlGcmRZOVRCc2RBQ2E4ZVdRSFhwSzNacy1tU0pLQlljWVFPUlZTVGt6aGR6VEdtUlNpTzdYeUZzdEp5QkJKaTNHaHZRUnJYRU8xSFotOXZhQktxX280RndpcVhNa3hoRE4yN2Z3N2NzUERETGxkMGVicmJFanpzSmg0enc3R0lSaHUwZlhlUDdPYy0yUWRhcENDWVVJdzA5TWdnRUc2ZjNRS1RXblJUbVhybkhQRHZ6eno1?oc=5"
+        "https://wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us"
       ],
       "eventTitles": [
-        "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg - Investing.com",
-        "DeepSeek backs ex-Tencent scientist’s robotics startup Winverse AI - Bloomberg By Investing.com - Investing.com South Africa",
-        "DeepSeek leads $400M robot-AI seed round for ex-Tencent scientist's lab - Dealroom",
-        "DeepSeek to lead funding round for robotics AI startup Winverse at $400 mln - report - Investing.com Nigeria",
-        "DeepSeek leads $400 million funding round for ex-Tencent scientist's robot AI startup - Startup Fortune",
-        "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million - Crypto Briefing",
-        "DeepSeek to lead funding round for robotics AI startup Winverse at $400 mln - report - Investing.com"
+        "OpenAI and Anthropic Tell British Lawmakers: Regulate Us"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3177267",
+      "rank": 10,
+      "title": "Facebook is giving users more control over their algorithm",
+      "originalTitle": "Facebook is giving users more control over their algorithm",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "points": [
+        "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-13T18:05:24.000Z",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
+      ],
+      "eventTitles": [
+        "Facebook is giving users more control over their algorithm"
       ]
     }
   ]
