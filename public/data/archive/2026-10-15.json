@@ -1,0 +1,305 @@
+{
+  "edition": "2026-10-15T06:30:00+09:00",
+  "generatedAt": "2026-10-15T00:02:06.158Z",
+  "periodStart": "2026-10-12T12:02:06.158Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 1343,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "openai-https-openai-com-index-third-moment-research",
+      "rank": 1,
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "originalTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "points": [
+        "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "url": "https://openai.com/index/third-moment-research",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/third-moment-research"
+      ],
+      "eventTitles": [
+        "How Third Moment Research runs 10,000 agents for 36+ hours"
+      ]
+    },
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-98818",
+      "rank": 2,
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "originalTitle": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accele",
+      "points": [
+        "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
+        "Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital ",
+        "These applications can anticipate maintenance needs, guide urban planning and make public services more responsive."
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-14T06:00:28.000Z",
+      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations"
+      ],
+      "eventTitles": [
+        "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-10-fbi-arrests-openai-engineer-suspected-of-p",
+      "rank": 3,
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "originalTitle": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "summary": "It took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential information, including technical progress, government engagements, and commercial partnerships. O",
+      "points": [
+        "It took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential informa",
+        "Only those with special clearance are supposed to access that room.",
+        "But the FBI believes the recording device was planted by Abdulrahman Alfozan, a 35-year-old engineer from Saudi Arabia, who became a permanent US legal resident in 2020."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-14T16:41:49.000Z",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "WIRED",
+          "url": "https://wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office"
+        }
+      ],
+      "eventUrls": [
+        "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
+        "https://wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office"
+      ],
+      "eventTitles": [
+        "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+        "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-amp-beyond-coding",
+      "rank": 4,
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "originalTitle": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "points": [
+        "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/amp-beyond-coding"
+      ],
+      "eventTitles": [
+        "Amp puts AI agents to work beyond code with OpenAI models"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-news-singapore-office-opening",
+      "rank": 5,
+      "title": "Singapore office and government MOU | Anthropic",
+      "originalTitle": "Singapore office and government MOU | Anthropic",
+      "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+      "points": [
+        "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-14T08:30:00.000Z",
+      "url": "https://anthropic.com/news/singapore-office-opening",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/news/singapore-office-opening"
+      ],
+      "eventTitles": [
+        "Singapore office and government MOU | Anthropic"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41530",
+      "rank": 6,
+      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "originalTitle": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way t",
+      "points": [
+        "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic.",
+        "The UK gets $250 million in compute for AI agent safety and security research.",
+        "Huang pitched open-weight models as Europe's way to close the AI gap."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-14T14:24:34.000Z",
+      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs"
+      ],
+      "eventTitles": [
+        "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-e450e4e25d2199a8263f8d40fbee33f9f2e8a25b",
+      "rank": 7,
+      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "originalTitle": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "summary": "Critical cloud exposures pile up faster than security teams can close them. Cloud-native application protection platforms (CNAPP), cloud providers, and posture scanners generate more findings than any team can triage, and risk accumulates in the gap between de",
+      "points": [
+        "Critical cloud exposures pile up faster than security teams can close them.",
+        "Cloud-native application protection platforms (CNAPP), cloud providers, and posture scanners generate more findings than any team can triage, and risk accumulates in the ",
+        "Most findings sit untouched, not because they’re hard to fix."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-14T13:53:33.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock"
+      ],
+      "eventTitles": [
+        "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-10-openai-google-pushing-new-ai-models-easily",
+      "rank": 8,
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "originalTitle": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "summary": "Safety researchers continue to warn that a large volume of AI-generated explicit content is spreading unchecked, while regulators do little to meaningfully stop it. This non-consensual content is commonly shared in text and direct messages or stored in private",
+      "points": [
+        "Safety researchers continue to warn that a large volume of AI-generated explicit content is spreading unchecked, while regulators do little to meaningfully stop it.",
+        "This non-consensual content is commonly shared in text and direct messages or stored in private clouds where it’s less likely to be detected or reported, a Google co-auth",
+        "That’s why the “most critical intervention point” remains at the source: the harmful AI tools used to make the fake sexual images, Google researchers concluded."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-14T11:00:30.000Z",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say"
+      ],
+      "eventTitles": [
+        "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-gaming-2026-10-programming-is-hard-epic-games-leans-on-vibe-co",
+      "rank": 9,
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "originalTitle": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "summary": "Nearly eight years after Epic took on Steam with its own Game Store and launcher, the Fortnite maker is deploying a new tool to give it an edge over Valve: vibe coding. In announcing the new publicly available \"Preview\" build of its Epic Games Launcher, Epic w",
+      "points": [
+        "Nearly eight years after Epic took on Steam with its own Game Store and launcher, the Fortnite maker is deploying a new tool to give it an edge over Valve: vibe coding.",
+        "In announcing the new publicly available \"Preview\" build of its Epic Games Launcher, Epic writes that \"programming is hard.",
+        "So, instead of doing that, we vibe coded a new Epic Games Launcher that’s way faster and more responsive than the current one, and has a new look.\" And while that might s"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-14T21:15:56.000Z",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app"
+      ],
+      "eventTitles": [
+        "Epic says its new vibe-coded Epic Games Launcher is faster than Steam"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-on-device-ai-scam-detection-mddi-",
+      "rank": 10,
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "originalTitle": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "points": [
+        "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-14T02:00:14.000Z",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
+      ],
+      "eventTitles": [
+        "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+      ]
+    }
+  ]
+}
