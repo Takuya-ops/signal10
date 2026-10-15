@@ -1,304 +1,369 @@
 {
-  "edition": "2026-10-15T06:30:00+09:00",
-  "generatedAt": "2026-10-15T00:02:06.158Z",
-  "periodStart": "2026-10-12T12:02:06.158Z",
+  "edition": "2026-10-16T06:30:00+09:00",
+  "generatedAt": "2026-10-15T23:46:36.671Z",
+  "periodStart": "2026-10-13T11:46:36.671Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 39,
-  "freshSources": 35,
+  "successfulSources": 42,
+  "freshSources": 38,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1343,
+  "candidateCount": 2687,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "openai-https-openai-com-index-third-moment-research",
+      "id": "meta-ai-research-sitemap-https-research-meta-ai-blog-muse-spark-open",
       "rank": 1,
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "originalTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "title": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date",
+      "originalTitle": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date",
+      "summary": "Muse Spark Open is the most capable US open-weight model to date, and brings leading agentic capabilities to your desktop on Apple M5 Ultra Mac Studios.",
       "points": [
-        "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "url": "https://openai.com/index/third-moment-research",
-      "impactScore": 81,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://openai.com/index/third-moment-research"
-      ],
-      "eventTitles": [
-        "How Third Moment Research runs 10,000 agents for 36+ hours"
-      ]
-    },
-    {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-98818",
-      "rank": 2,
-      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "originalTitle": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accele",
-      "points": [
-        "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
-        "Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital ",
-        "These applications can anticipate maintenance needs, guide urban planning and make public services more responsive."
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-14T06:00:28.000Z",
-      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
-      "impactScore": 76,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations"
-      ],
-      "eventTitles": [
-        "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-10-fbi-arrests-openai-engineer-suspected-of-p",
-      "rank": 3,
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "originalTitle": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "summary": "It took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential information, including technical progress, government engagements, and commercial partnerships. O",
-      "points": [
-        "It took OpenAI two days to notice that a recording device was hidden in a restricted executive conference room where leadership met to discuss highly confidential informa",
-        "Only those with special clearance are supposed to access that room.",
-        "But the FBI believes the recording device was planted by Abdulrahman Alfozan, a 35-year-old engineer from Saudi Arabia, who became a permanent US legal resident in 2020."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-14T16:41:49.000Z",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "WIRED",
-          "url": "https://wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office"
-        }
-      ],
-      "eventUrls": [
-        "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
-        "https://wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office"
-      ],
-      "eventTitles": [
-        "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-index-amp-beyond-coding",
-      "rank": 4,
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "originalTitle": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "points": [
-        "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "Muse Spark Open is the most capable US open-weight model to date, and brings leading agentic capabilities to your desktop on Apple M5 Ultra Mac Studios.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
+      "source": "Meta AI Research",
       "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "impactScore": 100,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BRIDGE（ブリッジ）",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBudjd0TUpzVmZsOGEwTGlxMUVjaEI5eTVRMXZuQ243QU1MU0pZby1RZFkzV2JpZU1RMEZQeFRTZjQtbUNHcnlYVzh4enh4OUFLVlhzY0sxNGpCZXJsSGpzTkRSTGZkcHZNQWRORE45VVg0dk5FVldV?oc=5"
+        },
+        {
+          "name": "UQライフ",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWhGNUpHME95VGFjRlFwMnpiNFd1dkR2QmFzbk5hTng0ckNzdnBBaldKU0ZiNzcya283YWtkR2xBUjRNWHBLTGZHYUt3YzFGNUZJM2tra3VPLWxaQXB6WGU2QS1vNUpSdTBmR3pQcmh3Q2VvRERTYy10VHV1UVVtVA?oc=5"
+        },
+        {
+          "name": "テクノエッジ TechnoEdge",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hcGtuSS1YaTNnbkJNbDVfN2duSklPX2h0VGhrWGhjb0t1ZHRyRVZvTWlIWnAzeG53VkJOeXhvY2Q4LXloNE81ZXhtMi1XWlBwY25LWTRqNmRmYlRuMjMxMG40WVRCczA?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://openai.com/index/amp-beyond-coding"
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBudjd0TUpzVmZsOGEwTGlxMUVjaEI5eTVRMXZuQ243QU1MU0pZby1RZFkzV2JpZU1RMEZQeFRTZjQtbUNHcnlYVzh4enh4OUFLVlhzY0sxNGpCZXJsSGpzTkRSTGZkcHZNQWRORE45VVg0dk5FVldV?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWhGNUpHME95VGFjRlFwMnpiNFd1dkR2QmFzbk5hTng0ckNzdnBBaldKU0ZiNzcya283YWtkR2xBUjRNWHBLTGZHYUt3YzFGNUZJM2tra3VPLWxaQXB6WGU2QS1vNUpSdTBmR3pQcmh3Q2VvRERTYy10VHV1UVVtVA?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hcGtuSS1YaTNnbkJNbDVfN2duSklPX2h0VGhrWGhjb0t1ZHRyRVZvTWlIWnAzeG53VkJOeXhvY2Q4LXloNE81ZXhtMi1XWlBwY25LWTRqNmRmYlRuMjMxMG40WVRCczA?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ya29uVDBLeWxLdUJvVGlUV2JBeFlkcExUdTQ2UExlaFplTFFWMEJldlNpMkZLd0JsalFRc2FqaDhrT1VfSjVsVExPdnRrZEpBSklaOUlubHVVUjB6Xzk4b3BzRWUyUzRXNEV5TXR6NW4?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHU4SXhvaXV4ZGVNYmpQXzBFQS11X1k5ZGxWMnM3djFFUVR6VzJSUDNtOE5WTTJqbGRhQ29hSGJtNXhITmUyc1pURjNrZFAwWUdMSi12ajhNRVVWYlBCa0tCcF9IbkJHejc5c0NZMlFvNjZGVXE2eFlqNVl5R25CakJmd3VJRXFNVUNfYi02d3Q4S0VsRzdpU0VmYTU0dHM1WGduM3o2bnBISkUwcGw2VHNWTGs?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHluTzNXWExLSkhLTVpfOVRIT3AzQ08ybWNNLVBLaGFHQ1ZqZHpGMm12d09WUjhsR3hfdUx3SFlOZkY3Q2VWdWJIM0MxUE1YenNsbGdHN01YNU9ucjVxQjZraHByVnd5ekZ6WGNZaklLaHMtb2ZhYkZsTkRPQ2dOd3h4dEJreTFa?oc=5",
+        "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+        "https://research.meta.ai/blog/muse-spark-open"
       ],
       "eventTitles": [
-        "Amp puts AI agents to work beyond code with OpenAI models"
+        "Meta、オープンウェイトの「Muse Spark Open」を公開——Mac Studio2台で動く8,160億パラメーターのモデル - BRIDGE（ブリッジ）",
+        "Meta、オープンウェイトAI「Muse Spark Open」を無償公開。アップルが協力、複数Mac Studio使いローカル動作 - UQライフ",
+        "Meta、オープンウェイトAI「Muse Spark Open」を無償公開。アップルが協力、複数Mac Studio使いローカル動作 - テクノエッジ TechnoEdge",
+        "Mac Studioをつないで巨大AIを手元に、MetaがMuse Spark Openの重み公開 - XenoSpectrum",
+        "Meta、AppleとMac向けAI最適化で協業 「Muse Spark Open」公開 - 디지털투데이",
+        "MetaがMuse Spark Openを公開、8160億パラメータで重みを開放 - Pasquale Pillitteri",
+        "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+        "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date"
       ]
     },
     {
-      "id": "anthropic-sitemap-https-anthropic-com-news-singapore-office-opening",
-      "rank": 5,
-      "title": "Singapore office and government MOU | Anthropic",
-      "originalTitle": "Singapore office and government MOU | Anthropic",
-      "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+      "id": "cohere-sitemap-https-cohere-com-blog-cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilie",
+      "rank": 2,
+      "title": "Cohere to acquire AISLE for cyber-resilient sovereign AI",
+      "originalTitle": "Cohere to acquire AISLE for cyber-resilient sovereign AI",
+      "summary": "Cohere proposes acquiring AISLE to enhance sovereign AI security for enterprises and governments.",
       "points": [
-        "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+        "Cohere proposes acquiring AISLE to enhance sovereign AI security for enterprises and governments.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Anthropic",
+      "source": "Cohere",
       "sourceType": "official",
       "category": "安全性",
-      "publishedAt": "2026-10-14T08:30:00.000Z",
-      "url": "https://anthropic.com/news/singapore-office-opening",
-      "impactScore": 73,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "publishedAt": "2026-10-15T09:00:00.000Z",
+      "url": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+      "impactScore": 96,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXSkxTYkpqNkd0aXhtSmhpUy15NzV1dW9aODFYZ0NhVk5aMzhNWjUyV1lhU0llT0FpTm5iWXRMeS14VF9KNXgtdmJHUG4wX1JVY2h6SHpqSU9hUHp4MHFDQXEtVGgydkRxSjNFOW41RUZtYXU1YUdCVg?oc=5"
+        },
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVGd0RmJRUmdoRVo3N3JQb3RSaVY2R0lQZFg5MDZycE05eEdVWi1LOGxjbm1aSXZieHQ4aTgzT2xob1M4VEp6M3d6WmNTM0kwb2RxdmhRVnAtb0lhVmZyMm5uX2hVMEtNS2NyNXVjeWdxaGxaSVZwN0lTTGZVSVFHN21LcTYtNUFlNDktcHRtaWVWaGN0UEFKejZVcXNYVXlWTW9uZll6RXdWZ1E4NjRhaUtlWnl2S3poX0hzNEVzbDU1bVh3UUF0dFFIaw?oc=5"
+        },
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUFiWVIzQ2xaVDZuWDFSOWhGM3lmT2daTlBZOGxyVU5wOEpHRlBZOUZGT3BuempWbGplRkhVWkhkeWdadFRlamg1U3VMVUlPcng4MDBrTTR3LVMwQUpYOVJFUFFSZ0ZhTmNqNnQ4aXphU05VZzJHcEl2NUp4X2c5NFFET2lvdW9VMFBnWUpzTVh1SlR1?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://anthropic.com/news/singapore-office-opening"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXSkxTYkpqNkd0aXhtSmhpUy15NzV1dW9aODFYZ0NhVk5aMzhNWjUyV1lhU0llT0FpTm5iWXRMeS14VF9KNXgtdmJHUG4wX1JVY2h6SHpqSU9hUHp4MHFDQXEtVGgydkRxSjNFOW41RUZtYXU1YUdCVg?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVGd0RmJRUmdoRVo3N3JQb3RSaVY2R0lQZFg5MDZycE05eEdVWi1LOGxjbm1aSXZieHQ4aTgzT2xob1M4VEp6M3d6WmNTM0kwb2RxdmhRVnAtb0lhVmZyMm5uX2hVMEtNS2NyNXVjeWdxaGxaSVZwN0lTTGZVSVFHN21LcTYtNUFlNDktcHRtaWVWaGN0UEFKejZVcXNYVXlWTW9uZll6RXdWZ1E4NjRhaUtlWnl2S3poX0hzNEVzbDU1bVh3UUF0dFFIaw?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUFiWVIzQ2xaVDZuWDFSOWhGM3lmT2daTlBZOGxyVU5wOEpHRlBZOUZGT3BuempWbGplRkhVWkhkeWdadFRlamg1U3VMVUlPcng4MDBrTTR3LVMwQUpYOVJFUFFSZ0ZhTmNqNnQ4aXphU05VZzJHcEl2NUp4X2c5NFFET2lvdW9VMFBnWUpzTVh1SlR1?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wUzZoeG1BTjZZcmJwVVZ4Vk5wWlZSRkJBaXJSeS1HeHUzdl96bDVWdzZlNTR2ZUExdzJIWE9LLVBQczNGSDZSaEFxcFFaVnBmYndyaGNNVWlFeDhmaTJPZTF0SHQ2T0NqWl96MjhLNHV2cVdCWUNkNQ?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE93bUZsQ0VGSFpkcUI1eDZ6MElmNC1rYWtQdlVlWXBKLWhjcU40U3ZEd3g0aWFrOTBsMl82Z2duVGRYeVhBTm95c1YydldKcUJfeHNveG1tU08tOHBFZnNNeXFGa2JpUWlFeFIxY29XVFhLSHhhaDZJ?oc=5",
+        "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai"
       ],
       "eventTitles": [
-        "Singapore office and government MOU | Anthropic"
+        "Cohere、AIサイバーセキュリティスタートアップのAisleを買収へ - TradingView",
+        "Cohere、AISLE買収へ意向書 AI脆弱性検知を取り込み - 디지털투데이",
+        "Cohere、AIサイバーセキュリティ企業AISLEの買収に向け意向表明書に署名 - Mezha.net",
+        "Cohere、AIサイバーセキュリティスタートアップのAISLEを買収へ - TradingView",
+        "Cohere to acquire AISLE for cyber-resilient sovereign AI"
       ]
     },
     {
-      "id": "the-decoder-https-the-decoder-com-p-41530",
-      "rank": 6,
-      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
-      "originalTitle": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
-      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way t",
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-98901",
+      "rank": 3,
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "originalTitle": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Eu",
       "points": [
-        "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic.",
-        "The UK gets $250 million in compute for AI agent safety and security research.",
-        "Huang pitched open-weight models as Europe's way to close the AI gap."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-14T14:24:34.000Z",
-      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs",
-      "impactScore": 72,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs"
-      ],
-      "eventTitles": [
-        "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-e450e4e25d2199a8263f8d40fbee33f9f2e8a25b",
-      "rank": 7,
-      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "originalTitle": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "summary": "Critical cloud exposures pile up faster than security teams can close them. Cloud-native application protection platforms (CNAPP), cloud providers, and posture scanners generate more findings than any team can triage, and risk accumulates in the gap between de",
-      "points": [
-        "Critical cloud exposures pile up faster than security teams can close them.",
-        "Cloud-native application protection platforms (CNAPP), cloud providers, and posture scanners generate more findings than any team can triage, and risk accumulates in the ",
-        "Most findings sit untouched, not because they’re hard to fix."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-10-14T13:53:33.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
-      "impactScore": 72,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock"
-      ],
-      "eventTitles": [
-        "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-10-openai-google-pushing-new-ai-models-easily",
-      "rank": 8,
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "originalTitle": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "summary": "Safety researchers continue to warn that a large volume of AI-generated explicit content is spreading unchecked, while regulators do little to meaningfully stop it. This non-consensual content is commonly shared in text and direct messages or stored in private",
-      "points": [
-        "Safety researchers continue to warn that a large volume of AI-generated explicit content is spreading unchecked, while regulators do little to meaningfully stop it.",
-        "This non-consensual content is commonly shared in text and direct messages or stored in private clouds where it’s less likely to be detected or reported, a Google co-auth",
-        "That’s why the “most critical intervention point” remains at the source: the harmful AI tools used to make the fake sexual images, Google researchers concluded."
+        "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the cont",
+        "Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems.",
+        "The many computing advancements already underway in the Nordics, combined with the opportunity that lies ahead, signal a region moving from ambition to application."
       ],
       "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-10-15T05:00:12.000Z",
+      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/nordics-technology-ecosystem"
+      ],
+      "eventTitles": [
+        "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-10-ftc-probes-if-openai-anthropic-security-in",
+      "rank": 4,
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "originalTitle": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "summary": "Following a string of incidents where AI models hacked websites and breached government systems during testing phases, the Federal Trade Commission is officially probing Anthropic and OpenAI over consumer harms, an insider told Axios . On Wednesday, the FTC se",
+      "points": [
+        "Following a string of incidents where AI models hacked websites and breached government systems during testing phases, the Federal Trade Commission is officially probing ",
+        "On Wednesday, the FTC sent out civil investigative demands seeking a wide range of information from the AI firms on recent safety incidents.",
+        "The FTC did not respond to Ars’ request to review the subpoena demands."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
       "source": "Ars Technica",
       "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-10-14T11:00:30.000Z",
-      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
-      "impactScore": 72,
+      "category": "安全性",
+      "publishedAt": "2026-10-15T15:43:24.000Z",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
+      "impactScore": 79,
       "impactLabel": "大",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say"
+        "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says"
       ],
       "eventTitles": [
-        "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
+        "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”"
       ]
     },
     {
-      "id": "ars-technica-ai-https-arstechnica-com-gaming-2026-10-programming-is-hard-epic-games-leans-on-vibe-co",
-      "rank": 9,
-      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-      "originalTitle": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-      "summary": "Nearly eight years after Epic took on Steam with its own Game Store and launcher, the Fortnite maker is deploying a new tool to give it an edge over Valve: vibe coding. In announcing the new publicly available \"Preview\" build of its Epic Games Launcher, Epic w",
+      "id": "google-news-asia-models-the-times-of-india-97d18c83c4285a873f7e",
+      "rank": 5,
+      "title": "Apple Intelligence clears China approval with Alibaba’s help - The Times of India",
+      "originalTitle": "Apple Intelligence clears China approval with Alibaba’s help - The Times of India",
+      "summary": "Apple Intelligence clears China approval with Alibaba’s help The Times of India",
       "points": [
-        "Nearly eight years after Epic took on Steam with its own Game Store and launcher, the Fortnite maker is deploying a new tool to give it an edge over Valve: vibe coding.",
-        "In announcing the new publicly available \"Preview\" build of its Epic Games Launcher, Epic writes that \"programming is hard.",
-        "So, instead of doing that, we vibe coded a new Epic Games Launcher that’s way faster and more responsive than the current one, and has a new look.\" And while that might s"
+        "Apple Intelligence clears China approval with Alibaba’s help The Times of India",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Times of India",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-15T14:39:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZWhkN0xZMVNHZGxySDlHYWxNVDV5TGpacUNRUzMtWWZwdmh5SWxOUG4wTWpqOFFtUjBwa0lDTDZDeHZsRjBiUUMxdjBWMjlmS3UwZ0hSV0dYS01hNVBEVkpwRzV5U1FsTjNlaXdLM0tnRkJVTm5tOVBhalM0SEQzM0UxWW1xTTRyRktDNmJENGtrYjUyYkN3NHhlRlpSS2NLZXAyNFV4Yk0zUkRwbUhfTHZSRzhtTGhXMkZDTE9zcEtiYjFuTF8xdDdmQmpZQllCODI4STBQcmtmZ9IB3wFBVV95cUxPbXphNjN5LTZZZ19temVWeG54RnNvZFZhUTVRN3BZUGRPNjEwaHlNRkZGektoNzI1TEJ6MDBmckRFTDduWm5RTlN1ME1WYzdNOHh4R1FlTFF3Szg2c3ZtUW9vZVNUQzhENmhHT0pkb0ZkaDI2NWJteGQ2NzJTQUl4cXh1YzYyYTVEd3lzclFGVXozbm82anZTV1h2RjFzd1RrcVpROTlIQVQ3WEwwbm5LZ0llU2FydlBUdmdVR0NpQXR2UlFCVkVjOGZ1OE11RWgzYXpDVEF5djBNUUxVbGJJ?oc=5",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "www.trendingtopics.eu",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUzk5SFlvVER5TnlwSjZvVkhiYmhYNUU3QnpHQ2hnLUhXWkhSNm1reDFnY1lyMEFUNWJiLWQ0NzA3UDhJVVd3eUFieHVhWThSalFwdk1QRWk0SEF4eGYzZF9ON3JOYUtVU3RDZnFqOV9RajBz?oc=5"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0pYRlZsM3dfWjB2bXNTTTRrTlE0alRsaVh1aTZEeHFYcmNRdzNxdERvMkdLb3dFRzNSby1KczZ0NkNPUUZZNWVBTThWY0NXOVRWclBWRmxHRGVBSy1NTTdoN3JYbGJWVGxXUC1rTDQ2M0htbzJaZHNVazJDNzE2cHhuVjAwZ1lxUnFDeUNIZ051aTVjMGlzSnVCU09Pc3I5eThiTV9xaTYxV1pnMGM3dmU1Z20xX3Exb05kQ1N5YzRCNjI0UnlRYzB5VXlxSVl1X0NLa3ZjTFI1YUV2Sml3bXFpdDJUUdIB6wFBVV95cUxQNzhyUHV6WHNCRzZJSnBOLWhqb1k0c0FwXzZzOGo1RnVMYng5b2dOVUkwNkRwRnpFNHNMS3VURnJjb2luZERtQXg3cmxYM0FuLXl5ZEo1UWhtLU53bVJzSEJHOFpRdzNocmJNNVJzNjRfRkQ3TS1UN1BIcEdZeUFnWWN1cGF1VlU5MjZsaW8ya1Y5bzBnR1FuY1BqNHBENTVWMkxOQU8wcVZ1UVQ3MHRPdDlQZnJ5WElQanhuc2pTSmhRS3FhWGdqY1J0TVdnTkFCUG1vR1d4cEVBSTY1UVZSeXdHRzl1bEVKTjNZ?oc=5"
+        },
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2IwTWVkSmZPTUtYWmJxM0xkOGVOdFQxalBjY0otemVHWW9RcUtYUnd5MlItMkFTdTZXc0VsdEpLWWdWV0VhZTFXeHpPZWRCTkFwNVJ5SFdtZGJsR3BZU1JYMm1wZTlNY25WUHRNUHhTRXJNV2tKekVDMk04WkwwWm9fNFRhWW1BYU9Kb2pvQlk3ckxtT3ZrbG9Ia09uNEQteHE3VTR0VlgtQWtBUWVreXZB?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZWhkN0xZMVNHZGxySDlHYWxNVDV5TGpacUNRUzMtWWZwdmh5SWxOUG4wTWpqOFFtUjBwa0lDTDZDeHZsRjBiUUMxdjBWMjlmS3UwZ0hSV0dYS01hNVBEVkpwRzV5U1FsTjNlaXdLM0tnRkJVTm5tOVBhalM0SEQzM0UxWW1xTTRyRktDNmJENGtrYjUyYkN3NHhlRlpSS2NLZXAyNFV4Yk0zUkRwbUhfTHZSRzhtTGhXMkZDTE9zcEtiYjFuTF8xdDdmQmpZQllCODI4STBQcmtmZ9IB3wFBVV95cUxPbXphNjN5LTZZZ19temVWeG54RnNvZFZhUTVRN3BZUGRPNjEwaHlNRkZGektoNzI1TEJ6MDBmckRFTDduWm5RTlN1ME1WYzdNOHh4R1FlTFF3Szg2c3ZtUW9vZVNUQzhENmhHT0pkb0ZkaDI2NWJteGQ2NzJTQUl4cXh1YzYyYTVEd3lzclFGVXozbm82anZTV1h2RjFzd1RrcVpROTlIQVQ3WEwwbm5LZ0llU2FydlBUdmdVR0NpQXR2UlFCVkVjOGZ1OE11RWgzYXpDVEF5djBNUUxVbGJJ?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUzk5SFlvVER5TnlwSjZvVkhiYmhYNUU3QnpHQ2hnLUhXWkhSNm1reDFnY1lyMEFUNWJiLWQ0NzA3UDhJVVd3eUFieHVhWThSalFwdk1QRWk0SEF4eGYzZF9ON3JOYUtVU3RDZnFqOV9RajBz?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0pYRlZsM3dfWjB2bXNTTTRrTlE0alRsaVh1aTZEeHFYcmNRdzNxdERvMkdLb3dFRzNSby1KczZ0NkNPUUZZNWVBTThWY0NXOVRWclBWRmxHRGVBSy1NTTdoN3JYbGJWVGxXUC1rTDQ2M0htbzJaZHNVazJDNzE2cHhuVjAwZ1lxUnFDeUNIZ051aTVjMGlzSnVCU09Pc3I5eThiTV9xaTYxV1pnMGM3dmU1Z20xX3Exb05kQ1N5YzRCNjI0UnlRYzB5VXlxSVl1X0NLa3ZjTFI1YUV2Sml3bXFpdDJUUdIB6wFBVV95cUxQNzhyUHV6WHNCRzZJSnBOLWhqb1k0c0FwXzZzOGo1RnVMYng5b2dOVUkwNkRwRnpFNHNMS3VURnJjb2luZERtQXg3cmxYM0FuLXl5ZEo1UWhtLU53bVJzSEJHOFpRdzNocmJNNVJzNjRfRkQ3TS1UN1BIcEdZeUFnWWN1cGF1VlU5MjZsaW8ya1Y5bzBnR1FuY1BqNHBENTVWMkxOQU8wcVZ1UVQ3MHRPdDlQZnJ5WElQanhuc2pTSmhRS3FhWGdqY1J0TVdnTkFCUG1vR1d4cEVBSTY1UVZSeXdHRzl1bEVKTjNZ?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2IwTWVkSmZPTUtYWmJxM0xkOGVOdFQxalBjY0otemVHWW9RcUtYUnd5MlItMkFTdTZXc0VsdEpLWWdWV0VhZTFXeHpPZWRCTkFwNVJ5SFdtZGJsR3BZU1JYMm1wZTlNY25WUHRNUHhTRXJNV2tKekVDMk04WkwwWm9fNFRhWW1BYU9Kb2pvQlk3ckxtT3ZrbG9Ia09uNEQteHE3VTR0VlgtQWtBUWVreXZB?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHhYSkxMWlZfWTh0QWxHcEJaQkJsSDNHSjJoS2x3VU1CUkJKcmJXSnQ2OHlLOUZMY05oYVR0UHRLSHI2czZEQlpJQUpWaHNFWDJHNEhZRG9XUW55Z3VtZXNGcl9YWDVwZzVyak5tbTdMNWdTX0ZodHh3UEVjMWF6R1pFQS0yZ2s?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjNKOWl0aVFZRlp4UHdtMzFMMmdOSDc3TUNidllkSXZvYnM3MVVGMGxpdnlxd21qMG1YbGlLTFJBc19xcGNZekZUTWlZTFExZVVzeDVnc1hRU3EtNHpJcUFHc3RaS2Q0SFc3VzFtQTlYTmM0dzg5WkMtWWRxMlM5dnpyeFJ2QlFFbE54Zlg4SnktQTNDSWRkMHY5QV9JNUkzUnVYc2RLOUJNT000UkE?oc=5"
+      ],
+      "eventTitles": [
+        "Apple Intelligence clears China approval with Alibaba’s help - The Times of India",
+        "Apple Intelligence Launches in China With Alibaba’s A.I. - www.trendingtopics.eu",
+        "Apple Intelligence is finally launching in China, Alibaba will power its top features - India Today",
+        "Apple Intelligence China rollout cleared as Alibaba AI model gets approval - 디지털투데이",
+        "Apple Intelligence nears China debut after AI approval - Tech in Asia",
+        "Apple Intelligence reportedly coming to China in December, but without Siri AI - 9to5Mac"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41595",
+      "rank": 6,
+      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "originalTitle": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor",
+      "points": [
+        "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generat",
+        "With 38 percent fewer parameters than its predecessor, it still outperforms proprietary competitors in internal tests and runs on GPUs with just 8 GB of VRAM.",
+        "The article Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM appeared first on The Decoder ."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-15T16:57:14.000Z",
+      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram"
+      ],
+      "eventTitles": [
+        "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-news-an-update-on-independent-evaluators",
+      "rank": 7,
+      "title": "Anthropic update on independent evaluators",
+      "originalTitle": "Anthropic update on independent evaluators",
+      "summary": "Anthropic announces updates to embedding independent evaluators",
+      "points": [
+        "Anthropic announces updates to embedding independent evaluators",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-15T17:20:00.000Z",
+      "url": "https://anthropic.com/news/an-update-on-independent-evaluators",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/news/an-update-on-independent-evaluators"
+      ],
+      "eventTitles": [
+        "Anthropic update on independent evaluators"
+      ]
+    },
+    {
+      "id": "mistral-https-mistral-ai-news-timestral-",
+      "rank": 8,
+      "title": "Introducing Timestral",
+      "originalTitle": "Introducing Timestral",
+      "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+      "points": [
+        "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Mistral AI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-15T12:00:00.000Z",
+      "url": "https://mistral.ai/news/timestral",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://mistral.ai/news/timestral"
+      ],
+      "eventTitles": [
+        "Introducing Timestral"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3178309",
+      "rank": 9,
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "originalTitle": "Meta launches an open-weight AI model that runs on Macs",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "points": [
+        "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-15T20:04:53.000Z",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
+      ],
+      "eventTitles": [
+        "Meta launches an open-weight AI model that runs on Macs"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-10-youtube-music-begins-labeling-ai-songs-",
+      "rank": 10,
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "originalTitle": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "summary": "Genuine human creativity takes time, but you know what doesn't? AI slop. There are countless AI models out there that can make something that passes for music, and you might come across those tracks on streaming services without realizing it. Google says it wi",
+      "points": [
+        "Genuine human creativity takes time, but you know what doesn't?",
+        "There are countless AI models out there that can make something that passes for music, and you might come across those tracks on streaming services without realizing it.",
+        "Google says it will begin labeling that content in YouTube Music, building on similar disclosures in the main YouTube app."
       ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
       "source": "Ars Technica",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-10-14T21:15:56.000Z",
-      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app",
-      "impactScore": 71,
+      "publishedAt": "2026-10-15T15:12:58.000Z",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs",
+      "impactScore": 67,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app"
+        "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs"
       ],
       "eventTitles": [
-        "Epic says its new vibe-coded Epic Games Launcher is faster than Steam"
-      ]
-    },
-    {
-      "id": "google-deepmind-https-deepmind-google-blog-on-device-ai-scam-detection-mddi-",
-      "rank": 10,
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "originalTitle": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "points": [
-        "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "Google DeepMind",
-      "sourceType": "official",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-14T02:00:14.000Z",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "impactScore": 70,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://deepmind.google/blog/on-device-ai-scam-detection-mddi"
-      ],
-      "eventTitles": [
-        "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+        "Singer or clanker? YouTube Music will tell you with new gen AI labeling."
       ]
     }
   ]
