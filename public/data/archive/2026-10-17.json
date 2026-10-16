@@ -1,0 +1,305 @@
+{
+  "edition": "2026-10-17T06:30:00+09:00",
+  "generatedAt": "2026-10-16T23:46:35.131Z",
+  "periodStart": "2026-10-14T11:46:35.131Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 42,
+  "freshSources": 38,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 3256,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-security-2026-10-openai-models-hacked-a-crypto-wallet-and-brea",
+      "rank": 1,
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "originalTitle": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "OpenAI said internal models hacked two more websites, bypassed company-imposed browsing restrictions, and used exposed credentials to draw cryptocurrency from a wallet it couldn’t otherwise access, in the latest installment of disclosures of its agents perform",
+      "points": [
+        "OpenAI said internal models hacked two more websites, bypassed company-imposed browsing restrictions, and used exposed credentials to draw cryptocurrency from a wallet it",
+        "The company on Thursday issued reports of four new incidents, all of which occurred in June.",
+        "They come after the company revealed in July that internal test agents exploited a zero-day vulnerability in a tool designed to restrict their access to the Internet."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-16T20:59:01.000Z",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites"
+      ],
+      "eventTitles": [
+        "OpenAI models hacked a crypto wallet and breached more websites"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
+      "rank": 2,
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "originalTitle": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "summary": "Reflection AI introduced Beam, an open-weight model for agentic coding and long-horizon tasks such as maintaining code, using tools, interpreting results, and completing multi-step workflows. The open-weight release gives developers and researchers control ove",
+      "points": [
+        "Reflection AI introduced Beam, an open-weight model for agentic coding and long-horizon tasks such as maintaining code, using tools, interpreting results, and completing ",
+        "The open-weight release gives developers and researchers control over the runtime, deployment environment, and customization process.",
+        "In this post, we explain Reflection’s vision and show how you can deploy Beam on AWS."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-16T15:23:10.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws"
+      ],
+      "eventTitles": [
+        "Introducing Reflection Beam: an open-weight model for agentic coding on AWS"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-10-romance-scam-doc-super-scam-me-takes-viewe",
+      "rank": 3,
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "originalTitle": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "summary": "If you got a DM from an unverified Jon Bon Jovi account after commenting on one of his official Instagram posts, what would it take to make you believe it was really the rock star hoping to connect? And at what point when he starts asking you to send money—lik",
+      "points": [
+        "If you got a DM from an unverified Jon Bon Jovi account after commenting on one of his official Instagram posts, what would it take to make you believe it was really the ",
+        "And at what point when he starts asking you to send money—like lose-your-house kind of money—would you snap out of the fantasy and stop draining your bank account?",
+        "In a documentary premiering Saturday— Super Scam Me —investigative journalist Mariana van Zeller goes deep into this toxic love-bombing terrain."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-16T14:00:59.000Z",
+      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain"
+      ],
+      "eventTitles": [
+        "Super Scam Me documentary shows what it takes to catch a romance scammer"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-moneycontrol-com-49999a801e8adedde7e4",
+      "rank": 4,
+      "title": "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation - Moneycontrol.com",
+      "originalTitle": "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation - Moneycontrol.com",
+      "summary": "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation Moneycontrol.com",
+      "points": [
+        "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation Moneycontrol.com",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Moneycontrol.com",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-16T18:32:38.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQamNzbER5T05YUV83a1RDeTF6a3Y2T21JLTFVSXd4Q3NGQk9rOS1ORzE0akdZWjIyaldNN1EyMkRWYlFnRjVRWE1CNUdYaHhYRE8yOWdpNXo3UHd3dTVFVXU1UzF4RTZFeFVScXZLTFBMN0s3WkE2YjVFMVNPRXRhYkZoaUxxRzJqMTVjVWdOdkEwSnkzazJrZmMwMEE2TXBFaXJ2YzN3VTBmekFnRzFmVm5SSDdXZm1SZmVTUWpxamNfYlhNR1JRZzhXZG16a0NqYUN5eUZoT3F5bzFCaGxTUm5vcGRSS0szQVl2edIB8gFBVV95cUxPVWZta3dIOVhXY28wQTBIZFNGMmh3Q1pJS0ZkT3NVaU44bFkwSjBzblc3UEZRM0N0aHJvTVpYbHB5RDliS2d1Z3FnS3pmY29oU3oyTkJCdkJOb21FdW45QUtyZjd6U1VyV19jdWJGWlVRTWttc2liQzdBa1JCY19JelYwWk5FZDlZY3BGRDZubGtWVnN6c2lYMnVYTEI1VmJ6QjljYWc0RnVEZkUzNF9CR1lmQ3E2dHNZNl9WblYxd2gzWFNHRG5UZnBjTXVRSlNxc2VwOFpjRmJhOUNUQ1NsdVYyaXRYNWlYZHcybWN2WWp0dw?oc=5",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQamNzbER5T05YUV83a1RDeTF6a3Y2T21JLTFVSXd4Q3NGQk9rOS1ORzE0akdZWjIyaldNN1EyMkRWYlFnRjVRWE1CNUdYaHhYRE8yOWdpNXo3UHd3dTVFVXU1UzF4RTZFeFVScXZLTFBMN0s3WkE2YjVFMVNPRXRhYkZoaUxxRzJqMTVjVWdOdkEwSnkzazJrZmMwMEE2TXBFaXJ2YzN3VTBmekFnRzFmVm5SSDdXZm1SZmVTUWpxamNfYlhNR1JRZzhXZG16a0NqYUN5eUZoT3F5bzFCaGxTUm5vcGRSS0szQVl2edIB8gFBVV95cUxPVWZta3dIOVhXY28wQTBIZFNGMmh3Q1pJS0ZkT3NVaU44bFkwSjBzblc3UEZRM0N0aHJvTVpYbHB5RDliS2d1Z3FnS3pmY29oU3oyTkJCdkJOb21FdW45QUtyZjd6U1VyV19jdWJGWlVRTWttc2liQzdBa1JCY19JelYwWk5FZDlZY3BGRDZubGtWVnN6c2lYMnVYTEI1VmJ6QjljYWc0RnVEZkUzNF9CR1lmQ3E2dHNZNl9WblYxd2gzWFNHRG5UZnBjTXVRSlNxc2VwOFpjRmJhOUNUQ1NsdVYyaXRYNWlYZHcybWN2WWp0dw?oc=5"
+      ],
+      "eventTitles": [
+        "CERT-In flags AI agent cyber risks: Govt urges companies to tighten security, eyes AI regulation - Moneycontrol.com"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-itau-generative-ai",
+      "rank": 5,
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "originalTitle": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "points": [
+        "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regul",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/itau-generative-ai"
+      ],
+      "eventTitles": [
+        "How Itaú is building generative AI for its entire customer base"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41627",
+      "rank": 6,
+      "title": "China tightens export controls on open-weight models and 23 key AI technologies",
+      "originalTitle": "China tightens export controls on open-weight models and 23 key AI technologies",
+      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are register",
+      "points": [
+        "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parame",
+        "A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight m",
+        "The article China tightens export controls on open-weight models and 23 key AI technologies appeared first on The Decoder ."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-16T17:42:47.000Z",
+      "url": "https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies",
+        "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies"
+      ],
+      "eventTitles": [
+        "China tightens export controls on open-weight models and 23 key AI technologies",
+        "China plans to tighten export controls on open-weight models and 23 key AI technologies"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-employment-at-anthropic",
+      "rank": 7,
+      "title": "How employment is changing at Anthropic",
+      "originalTitle": "How employment is changing at Anthropic",
+      "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+      "points": [
+        "How has AI restructured work and employment at Anthropic?",
+        "As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-16T16:26:00.000Z",
+      "url": "https://anthropic.com/research/employment-at-anthropic",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/research/employment-at-anthropic"
+      ],
+      "eventTitles": [
+        "How employment is changing at Anthropic"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3178496",
+      "rank": 8,
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "originalTitle": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "points": [
+        "Masad said the decision was made for a number of different reasons, including cost.",
+        "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says"
+      ],
+      "eventTitles": [
+        "Replit is no longer working with Anthropic, CEO says"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-designing-efficient-quantum-circuits",
+      "rank": 9,
+      "title": "Designing more efficient quantum circuits with Claude",
+      "originalTitle": "Designing more efficient quantum circuits with Claude",
+      "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
+      "points": [
+        "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-16T17:29:00.000Z",
+      "url": "https://anthropic.com/research/designing-efficient-quantum-circuits",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/research/designing-efficient-quantum-circuits"
+      ],
+      "eventTitles": [
+        "Designing more efficient quantum circuits with Claude"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-ecdsa-curve-origins",
+      "rank": 10,
+      "title": "Claude reveals ECDSA curve origins",
+      "originalTitle": "Claude reveals ECDSA curve origins",
+      "summary": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+      "points": [
+        "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-16T17:02:00.000Z",
+      "url": "https://anthropic.com/research/ecdsa-curve-origins",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/research/ecdsa-curve-origins"
+      ],
+      "eventTitles": [
+        "Claude reveals ECDSA curve origins"
+      ]
+    }
+  ]
+}
