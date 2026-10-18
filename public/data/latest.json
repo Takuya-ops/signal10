@@ -1,7 +1,7 @@
 {
-  "edition": "2026-10-18T06:30:00+09:00",
-  "generatedAt": "2026-10-17T23:16:34.708Z",
-  "periodStart": "2026-10-15T11:16:34.708Z",
+  "edition": "2026-10-19T06:30:00+09:00",
+  "generatedAt": "2026-10-18T23:27:17.891Z",
+  "periodStart": "2026-10-16T11:27:17.891Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 39,
@@ -9,292 +9,235 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1401,
+  "candidateCount": 479,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-news-asia-models-crypto-briefing-c00a4547aea7fede27f3",
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-10-anthropic-gives-outside-ai-watchdog-employee-like-a",
       "rank": 1,
-      "title": "DeepSeek V4.1 Flash takes on frontier AI models at a fraction of the cost - Crypto Briefing",
-      "originalTitle": "DeepSeek V4.1 Flash takes on frontier AI models at a fraction of the cost - Crypto Briefing",
-      "summary": "DeepSeek V4.1 Flash takes on frontier AI models at a fraction of the cost Crypto Briefing",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "originalTitle": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "Anthropic has granted external evaluators “employee-like access” to assess the risks of its models, following through on a commitment to increase safeguards over concerns the technology could run catastrophically out of control. METR, a nonprofit that has work",
       "points": [
-        "DeepSeek V4.1 Flash takes on frontier AI models at a fraction of the cost Crypto Briefing",
+        "Anthropic has granted external evaluators “employee-like access” to assess the risks of its models, following through on a commitment to increase safeguards over concerns",
+        "METR, a nonprofit that has worked with leading labs including OpenAI, Anthropic, Google and Meta, now has a team embedded in the Claude maker’s office with access to its ",
+        "A greater role for third-party evaluators is among the main concrete steps the labs have proposed in response to rising concern about the dangers more capable AI systems "
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-18T16:25:19.000Z",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access"
+      ],
+      "eventTitles": [
+        "Anthropic gives outside AI watchdog “employee-like” access"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3178949",
+      "rank": 2,
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "originalTitle": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup pr",
+      "points": [
+        "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney.",
+        "Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of i",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-18T16:30:00.000Z",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce"
+      ],
+      "eventTitles": [
+        "Disney agrees to hire the majority of Character.AI’s workforce"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-news-public-benefit-fund",
+      "rank": 3,
+      "title": "Investing in the public benefit",
+      "originalTitle": "Investing in the public benefit",
+      "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+      "points": [
+        "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Crypto Briefing",
-      "sourceType": "media",
+      "source": "Anthropic",
+      "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-10-17T22:53:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XRmFGeVVVd1YtVlh0ZEM4cXE4eVBjZnpnNGJCN2dwbEVLOXdVMVpoRlAyVWh1YUtFNjBNNTBPOWowYWFpSkhrU0UxT0Q0SFMyY2kyRmZDRXdpSGEteG5obVNxUmN4UVJfeFZUTTA2UVJTNnlabkVPVXp3?oc=5",
-      "impactScore": 89,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "NewsBytes",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0dHNmxMaGdsNy1oNDRYZUR3VE5SV2xfZGhxeXZtYTFmRV9Jbkp1b3V4cGVoUDBkZDUxYmpUVGRXUHlTbFJqSWVEQ0hLTS1zMWYxeUtPSXctZUJEM00tU0hXUEg5YzBhS2Nibnc2cWdnTVdPcHlIdXBkZTNsZS1SZEZkdC1HeUJKLU9FSTZtLTRiNDlPemphbzhKNFlyRlBzaVZwVUxTUVZZTmVrLWRwcGlFanAzREo5YUZrd0NDWQ?oc=5"
-        },
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs"
-        },
-        {
-          "name": "MarkTechPost",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHBkZGEtVEpZTVo3Y0tiWnJmTlEzX1lLMG9tSW45MU45VXNtZUV2M2hyNnFaeXY3bF9UMV9wM25xNWZTRnFTVS1OS0dkblZyRGFXSzZYU05BVGdGOWxDRGNQMEJEUE10VlFYUlNuZ2N2S2RFOHpXRnlhZm5GWThTWXA0ZzkwXzZwOWFuaDNtaVNnTm13MTJsd2I1TzFKaUZJRmNWUTFsdXlwbUt5cm5GeG5aWXQ0T1R1V3Nr0gG7AUFVX3lxTE9kcGRkYS1USllNWjdjS2JacmZOUTNfWUswb21JbjkxTjlVc21lRXYzaHI2cVp5djdsX1QxX3AzbnE1ZlNGcVNVLU5LR2RuVnJEYVdLNlhTTkFUZ0Y5bENEY1AwQkRQTXRWUVhSU25nY3ZLZEU4eldGeWFmbkZZOFNZcDRnOTBfNnA5YW5oM21pU2dObXcxMmx3YjVPMUppRklGY1ZRMWx1eXBtS3lybkZ4blpZdDRPVHVXc2s?oc=5"
-        }
-      ],
+      "publishedAt": "2026-10-18T16:49:35.513Z",
+      "url": "https://anthropic.com/news/public-benefit-fund",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XRmFGeVVVd1YtVlh0ZEM4cXE4eVBjZnpnNGJCN2dwbEVLOXdVMVpoRlAyVWh1YUtFNjBNNTBPOWowYWFpSkhrU0UxT0Q0SFMyY2kyRmZDRXdpSGEteG5obVNxUmN4UVJfeFZUTTA2UVJTNnlabkVPVXp3?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0dHNmxMaGdsNy1oNDRYZUR3VE5SV2xfZGhxeXZtYTFmRV9Jbkp1b3V4cGVoUDBkZDUxYmpUVGRXUHlTbFJqSWVEQ0hLTS1zMWYxeUtPSXctZUJEM00tU0hXUEg5YzBhS2Nibnc2cWdnTVdPcHlIdXBkZTNsZS1SZEZkdC1HeUJKLU9FSTZtLTRiNDlPemphbzhKNFlyRlBzaVZwVUxTUVZZTmVrLWRwcGlFanAzREo5YUZrd0NDWQ?oc=5",
-        "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHBkZGEtVEpZTVo3Y0tiWnJmTlEzX1lLMG9tSW45MU45VXNtZUV2M2hyNnFaeXY3bF9UMV9wM25xNWZTRnFTVS1OS0dkblZyRGFXSzZYU05BVGdGOWxDRGNQMEJEUE10VlFYUlNuZ2N2S2RFOHpXRnlhZm5GWThTWXA0ZzkwXzZwOWFuaDNtaVNnTm13MTJsd2I1TzFKaUZJRmNWUTFsdXlwbUt5cm5GeG5aWXQ0T1R1V3Nr0gG7AUFVX3lxTE9kcGRkYS1USllNWjdjS2JacmZOUTNfWUswb21JbjkxTjlVc21lRXYzaHI2cVp5djdsX1QxX3AzbnE1ZlNGcVNVLU5LR2RuVnJEYVdLNlhTTkFUZ0Y5bENEY1AwQkRQTXRWUVhSU25nY3ZLZEU4eldGeWFmbkZZOFNZcDRnOTBfNnA5YW5oM21pU2dObXcxMmx3YjVPMUppRklGY1ZRMWx1eXBtS3lybkZ4blpZdDRPVHVXc2s?oc=5"
+        "https://anthropic.com/news/public-benefit-fund"
       ],
       "eventTitles": [
-        "DeepSeek V4.1 Flash takes on frontier AI models at a fraction of the cost - Crypto Briefing",
-        "Chinese startup DeepSeek releases V4.1-Flash-1017 AI model live on platforms - NewsBytes",
-        "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-        "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API - MarkTechPost"
+        "Investing in the public benefit"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3178088",
-      "rank": 2,
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "originalTitle": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "id": "the-decoder-https-the-decoder-com-p-41640",
+      "rank": 4,
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+      "originalTitle": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+      "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a Britis",
       "points": [
-        "The new shopping tool is available in the U.S.",
-        "across Google Search and the Gemini app.",
+        "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment.",
+        "They resorted to invented excuses, lawsuit threats, and sharing confidential health data.",
+        "One agent sent 187 messages in 15 days, including 50 to a British MP's office."
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-18T08:15:04.000Z",
+      "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office"
+      ],
+      "eventTitles": [
+        "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-global-times-6d07eacaf9609648024e",
+      "rank": 5,
+      "title": "DeepSeek unveils faster, cheaper AI model, with improved performance - Global Times",
+      "originalTitle": "DeepSeek unveils faster, cheaper AI model, with improved performance - Global Times",
+      "summary": "DeepSeek unveils faster, cheaper AI model, with improved performance Global Times",
+      "points": [
+        "DeepSeek unveils faster, cheaper AI model, with improved performance Global Times",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Global Times",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-18T11:13:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVX191UVJLc2lYU2RFYnNtOHNvTGJINWV5QVFIRW5aR0t3T3BfTmdFTkhBaTlxZ3AyT2dfVGQtN2piQmcxM3dRWExVXzZvUnVDTnBnQlRUREpaWVNUSXloS19R?oc=5",
+      "impactScore": 60,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzMGlhSDlhOUNvakNZUXNQU09XVVBDN3owVllzamJhNGl0ZVRhYWZ0RlNqNl9WNlBPM3FPeHJTaFhDeGo5Ymh1eVVvSzBFc1NWSXp6aVd2MzlEclB6OFZtNGQzWnZieHlqbmpocl9TTHlUb0RveFRTTy1n0gGOAUFVX3lxTE9mM3VkckprYnloMWVNRGZZcXM2U0hkVmp4Sno2bGlzTUlEYUkyOG9HejRsTm1zZzYxY0FsMzNtd0xtWGJWbmY1TUo0RHJlTmREYXg0UmpnTjVTZGNoWS0xZk9aUzJ6VWljemllaFVvS1dHX2JmT0pkN3JyYWYxY3IxX1FQM3U4bFlidmxldVE?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVX191UVJLc2lYU2RFYnNtOHNvTGJINWV5QVFIRW5aR0t3T3BfTmdFTkhBaTlxZ3AyT2dfVGQtN2piQmcxM3dRWExVXzZvUnVDTnBnQlRUREpaWVNUSXloS19R?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzMGlhSDlhOUNvakNZUXNQU09XVVBDN3owVllzamJhNGl0ZVRhYWZ0RlNqNl9WNlBPM3FPeHJTaFhDeGo5Ymh1eVVvSzBFc1NWSXp6aVd2MzlEclB6OFZtNGQzWnZieHlqbmpocl9TTHlUb0RveFRTTy1n0gGOAUFVX3lxTE9mM3VkckprYnloMWVNRGZZcXM2U0hkVmp4Sno2bGlzTUlEYUkyOG9HejRsTm1zZzYxY0FsMzNtd0xtWGJWbmY1TUo0RHJlTmREYXg0UmpnTjVTZGNoWS0xZk9aUzJ6VWljemllaFVvS1dHX2JmT0pkN3JyYWYxY3IxX1FQM3U4bFlidmxldVE?oc=5"
+      ],
+      "eventTitles": [
+        "DeepSeek unveils faster, cheaper AI model, with improved performance - Global Times",
+        "DeepSeek unveils faster, cheaper AI model boosting coding and reasoning - CHOSUNBIZ - Chosunbiz"
+      ]
+    },
+    {
+      "id": "google-news-labs-uq--a0d9432d0594ec681629",
+      "rank": 6,
+      "title": "OpenAI、AIの新たな「暴走」事例を公表 公開情報を調べるはずが内部システムに無断侵入 - UQライフ",
+      "originalTitle": "OpenAI、AIの新たな「暴走」事例を公表 公開情報を調べるはずが内部システムに無断侵入 - UQライフ",
+      "summary": "OpenAI、AIの新たな「暴走」事例を公表 公開情報を調べるはずが内部システムに無断侵入 UQライフ",
+      "points": [
+        "OpenAI、AIの新たな「暴走」事例を公表 公開情報を調べるはずが内部システムに無断侵入 UQライフ",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "TechCrunch",
+      "source": "UQライフ",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-10-15T14:29:33.000Z",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
-      "impactScore": 69,
+      "publishedAt": "2026-10-18T23:13:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGVkUDBkelY2cmtZcHllb3kwdmlxZlNoMDAxMFI5OXJyc2lwdlFrakw4VklEMzRzc180YWQ3dzFQdUljR3VXSGxORjl5dENLckdRblRCUkp5Y1pxZWU2TjNMN0xzeVVNaEowWWpLenVNY2ZXZjNOZm1vSm8tN2VQcg?oc=5",
+      "impactScore": 59,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
           "name": "Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWV9YVG5Ybmw0MC1oY0pyU0lqMHBRdTVuanJISExqTXFKOTAxRHEtYjJEbmFpY2tZaUpPVUVqS19zalE1SlpWU2U4MUZkTGk0bUZuUE9FbmUtcHp4YzJwM3FFWkZYR3puQk5RbWkzazhCcWlNTjVlYktFMkNBYk0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSk1ZZFUzY0lPbmFWQUp5ZHVzX0dXcVpsNkcxZ0VPUTdwRkFNT2V1dXFzRlBGVlpOQ1ItdmpBOVJLZHpadW5WVml1NGJJc1FPSEZ5UEZOLW9GYUlkVk4zMlpIY1d5WnBDeWtTTzlBNGtsWXJqU0V4VWNITV9XSWM?oc=5"
         },
         {
-          "name": "ビジネス+IT",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wY2NMeFliZlFHM0h4VFEwWF9yM3p0allSZ1lHNWxqWTRxdUduTjBHVWpaRlRqUkI4NklvYlhxQ1duWGVoaFJhaWh3b19mRDllNEZn?oc=5"
-        },
-        {
-          "name": "Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmU2MnpiWVlkTVRUNXNDdnl6Q2dIdGc1TXNsVkg5bEVaNFFpMnhQSWE4ZXNOcDhZRlJtbzYxYmRVZFNPelJVLS1XTk9Scjg2eFRTNVBSeTJmU24wUE1fX0VVSkw1TVRlWXB5d19QUjRJdVh2elVmbWdSUDUtaEhkV3llZTVuRktG?oc=5"
+          "name": "CNET Japan",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5POXVmb2JSYjg1YzNGS1l1U01NWWF4WkRhVHdHXzNrejZHSWhTZFNFRnM5RG5MT09IbTBOZTJIQmRDUld2Nk5BVDF5MFoxWnBsd0E?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWV9YVG5Ybmw0MC1oY0pyU0lqMHBRdTVuanJISExqTXFKOTAxRHEtYjJEbmFpY2tZaUpPVUVqS19zalE1SlpWU2U4MUZkTGk0bUZuUE9FbmUtcHp4YzJwM3FFWkZYR3puQk5RbWkzazhCcWlNTjVlYktFMkNBYk0?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wY2NMeFliZlFHM0h4VFEwWF9yM3p0allSZ1lHNWxqWTRxdUduTjBHVWpaRlRqUkI4NklvYlhxQ1duWGVoaFJhaWh3b19mRDllNEZn?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmU2MnpiWVlkTVRUNXNDdnl6Q2dIdGc1TXNsVkg5bEVaNFFpMnhQSWE4ZXNOcDhZRlJtbzYxYmRVZFNPelJVLS1XTk9Scjg2eFRTNVBSeTJmU24wUE1fX0VVSkw1TVRlWXB5d19QUjRJdVh2elVmbWdSUDUtaEhkV3llZTVuRktG?oc=5",
-        "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGVkUDBkelY2cmtZcHllb3kwdmlxZlNoMDAxMFI5OXJyc2lwdlFrakw4VklEMzRzc180YWQ3dzFQdUljR3VXSGxORjl5dENLckdRblRCUkp5Y1pxZWU2TjNMN0xzeVVNaEowWWpLenVNY2ZXZjNOZm1vSm8tN2VQcg?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSk1ZZFUzY0lPbmFWQUp5ZHVzX0dXcVpsNkcxZ0VPUTdwRkFNT2V1dXFzRlBGVlpOQ1ItdmpBOVJLZHpadW5WVml1NGJJc1FPSEZ5UEZOLW9GYUlkVk4zMlpIY1d5WnBDeWtTTzlBNGtsWXJqU0V4VWNITV9XSWM?oc=5",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5POXVmb2JSYjg1YzNGS1l1U01NWWF4WkRhVHdHXzNrejZHSWhTZFNFRnM5RG5MT09IbTBOZTJIQmRDUld2Nk5BVDF5MFoxWnBsd0E?oc=5"
       ],
       "eventTitles": [
-        "米グーグル、AIモードとGeminiで使える共通カート「Universal Cart」を米国で提供開始（ビジネス＋IT） - Yahoo!ニュース",
-        "米グーグル、AIモードとGeminiで使える共通カート「Universal Cart」を米国で提供開始 - ビジネス+IT",
-        "Google、米国でUniversal Cartを提供開始、日本は未定 - Pasquale Pillitteri",
-        "Google’s Universal Cart shopping tool launches in the US"
+        "OpenAI、AIの新たな「暴走」事例を公表 公開情報を調べるはずが内部システムに無断侵入 - UQライフ",
+        "OpenAI、AIの新たな「暴走」事例を公表 公開情報を調べるはずが内部システムに無断侵入 - Yahoo!ニュース",
+        "OpenAI、AIの新たな「暴走」事例を公表 公開情報を調べるはずが内部システムに無断侵入 - CNET Japan"
       ]
     },
     {
-      "id": "the-decoder-https-the-decoder-com-p-41575",
-      "rank": 3,
-      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-      "originalTitle": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-      "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most o",
-      "points": [
-        "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents.",
-        "Two compact Bolt models bring agents to local machines.",
-        "Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware."
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-10-15T16:09:44.000Z",
-      "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop",
-      "impactScore": 67,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZnJKdUNtMkRqTkFBWXBnLXJOSUtMei1VTFZ6a0p4enNodFkxR3RpR05Ed2pEaU1RaW9PTFI0cHJ5ZW0yenl2TXNER0R6dnJWVklLVTVFVElENnViWjlHbTI0V01YZUc1c0l1dS1XNGt0MVNyOEdRR0xRSGJPVXY3NmJqY0tkNjBNek1YOVozSW5OX0wtWUY3OGxBTmM1RDhYXzNGYWtjbFZ5OXBfcTVseDNERmNjRHZiU25wOG5ncmdudw?oc=5"
-        },
-        {
-          "name": "GIGAZINE",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JWkVDQzBaeXZvT0ExcjZHX1dkbWExNW1pamNXaVdYTzlackJhcnZMcXU2alhyVzItNDd5VUJmVmJDNERLeUZ5V3c1cjU1cUlIeWQxLUloMlYtbUc4ZmVjbXczY01WUldBRzUxbzNEUkRRTFg3MVRGWHZHVmFvUQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZnJKdUNtMkRqTkFBWXBnLXJOSUtMei1VTFZ6a0p4enNodFkxR3RpR05Ed2pEaU1RaW9PTFI0cHJ5ZW0yenl2TXNER0R6dnJWVklLVTVFVElENnViWjlHbTI0V01YZUc1c0l1dS1XNGt0MVNyOEdRR0xRSGJPVXY3NmJqY0tkNjBNek1YOVozSW5OX0wtWUY3OGxBTmM1RDhYXzNGYWtjbFZ5OXBfcTVseDNERmNjRHZiU25wOG5ncmdudw?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JWkVDQzBaeXZvT0ExcjZHX1dkbWExNW1pamNXaVdYTzlackJhcnZMcXU2alhyVzItNDd5VUJmVmJDNERLeUZ5V3c1cjU1cUlIeWQxLUloMlYtbUc4ZmVjbXczY01WUldBRzUxbzNEUkRRTFg3MVRGWHZHVmFvUQ?oc=5",
-        "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop"
-      ],
-      "eventTitles": [
-        "NVIDIA、AIエージェント向け「Nemotron 3.5」公開 サーバーからローカル実行まで展開 - 디지털투데이",
-        "NVIDIAがAIエージェントによるタスクをローカルで実行するための「Nemotron 3.5 Bolt 74B-A9B 24GB」を発表 - GIGAZINE",
-        "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41671",
-      "rank": 4,
-      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "originalTitle": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hos",
-      "points": [
-        "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing.",
-        "In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without mentioning the un",
-        "The article An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet appeared first on The Decoder ."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-17T15:36:11.000Z",
-      "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet",
-      "impactScore": 65,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet"
-      ],
-      "eventTitles": [
-        "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-investing-com-1bb3597b9cd330416fff",
-      "rank": 5,
-      "title": "DeepSeek releases AI model update, opens search APIs to all users - Investing.com",
-      "originalTitle": "DeepSeek releases AI model update, opens search APIs to all users - Investing.com",
-      "summary": "DeepSeek releases AI model update, opens search APIs to all users Investing.com",
-      "points": [
-        "DeepSeek releases AI model update, opens search APIs to all users Investing.com",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "Investing.com",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-17T21:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGdtMm0zTGN2ZDByNFhUUExKanVmSGhiOWgxVG8tdW1fWS1pUGlGTWUyTkZUbkR3R3Vha1VIUXNsUDlRNXU0a2lsdHJsaXJMUXRFX180ZjE5S0ttUDVKdlRMUlFxZ1EwVlM5cmN2d1JBU2V0b3Q4NGFfMjdqTTJ4c1h1OTN3c0pld3ViZF9wSkFxdFdpV3dNZU9kY0tOLWFpQXNJSVBEWVR1R1QyZFhBVDE2NWxVa1V6TTRRR3R3?oc=5",
-      "impactScore": 64,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGdtMm0zTGN2ZDByNFhUUExKanVmSGhiOWgxVG8tdW1fWS1pUGlGTWUyTkZUbkR3R3Vha1VIUXNsUDlRNXU0a2lsdHJsaXJMUXRFX180ZjE5S0ttUDVKdlRMUlFxZ1EwVlM5cmN2d1JBU2V0b3Q4NGFfMjdqTTJ4c1h1OTN3c0pld3ViZF9wSkFxdFdpV3dNZU9kY0tOLWFpQXNJSVBEWVR1R1QyZFhBVDE2NWxVa1V6TTRRR3R3?oc=5"
-      ],
-      "eventTitles": [
-        "DeepSeek releases AI model update, opens search APIs to all users - Investing.com"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-inkorr-09a1fc81322800d84305",
-      "rank": 6,
-      "title": "OpenAI’s GPT-5.6 Sol Model Misuses Ethereum Tokens Without Authorization, Sparking AI Regulation Debates - Inkorr",
-      "originalTitle": "OpenAI’s GPT-5.6 Sol Model Misuses Ethereum Tokens Without Authorization, Sparking AI Regulation Debates - Inkorr",
-      "summary": "OpenAI’s GPT-5.6 Sol Model Misuses Ethereum Tokens Without Authorization, Sparking AI Regulation Debates Inkorr",
-      "points": [
-        "OpenAI’s GPT-5.6 Sol Model Misuses Ethereum Tokens Without Authorization, Sparking AI Regulation Debates Inkorr",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Inkorr",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-16T00:28:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUC1oOWNYNXZTUTk3REJ5WnJVUDE1WjREY3Bfa0x0aHVDSm10WFdnOG9Pa2xrZl93M01aODQtMFNHZWM4RmpPWDV3ZU5fVTRxMGozOTdPTkJpVkJXOXVPVURLWlNSX211S3BEcWdJMFZmRFBXV05JWWdpc0c2WktsLW1GNGVkNlRoZXB5LXFwSWdNcDl5a0hGSzdoMlI5LTNOVURTTy1DY0hHQzFRVXFEQkNkekdYWUwzdkJDdHFBdElhMkJ4ZThpSmxYaHRKd9IB0wFBVV95cUxOeDk4NW1HRU5TNEtJLU1zbTBJUzZEVzdfVXIycjFGWjlSY09EUF9WREJQeGZiLWwwS2xNRUlfVVIxTjNHWjhHakUyZ1A4ZkxfdVdoUW9HWTZtenBXdGE1ODgxRmN2cDg5dVFHeFo0Mlk5R1gtZG1sYjh3enJxazRKOTlGRlQ2ckNmRUs1a2F6MEZsZ3ZjQUswbEFpTk9VM1BubWI1M21senlkbkYxU3B0ZlNiTUZtaTJkakI2ZVNkby04aUNOeUlZUl82QkVPcWw1MW5v?oc=5",
-      "impactScore": 64,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOc05ERUJILV9QRDlpck4tSmNHQld5MXhpY0d1Mk1TU0V2Y2JXZ3l4YVB5TVdhc0VNZDI0NnNRSEVlR0ZHWUdsRm14N1RLQlNsaFZyWll5dnBoNFhPMmE5VldFVGRmNk93MksxTEk0UlozVGxyWTExUU9MSndHZmE4N0k2RTlEVDhEX3RoUHdJRE9YUUY0blVydHc2TUY4TERkWVREWjdOdDRkcVNIOVlUNHp2NXAtN203S2JNdEJJdmt0UExxMnlmU3RjdUFhbFB2bXdhS2ozUUpoaEhyVkRrZllPazNIaVlkV1QyMDAwYjJGampYZHdPSTJ6MnUtMWhQbFNtUXNmd3BkREMtQjZHZm1sME1zeTY1T2t5WkFraHdPZDZMa0tPSDJGbldBLVBhcFZGMEtIUUxlNjBPZFllTjM4WkdmN2dLaGlraFRlQmxIQlJDd1F1SlhIcndnRW96LTJseExKcVlHU1FKY2pjeXRzeUJzUkhKd0x6Vm5va3lIRXNKdFBLUlBxQVk4OXhwN1ZTUWdIMjBzQ01idWlxUUV1M3JfazVNMU5XQTVkRFF0Q1AwTUg0WXhaUGJWcFlramRTU2x4Yw?oc=5"
-        },
-        {
-          "name": "bitbank",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIU092cFUxV0JwN09qcTdIVnBoTTZNZWN4Yi1kc1BEdDJTYzJFV0ZMMGJtVTh4OTZ1U0R5QmVUNHNsQkcxUTBCZC1pQmVPV1J3b25ydlQ3RkFBTU9jS0pHMENPY2hpaHMt?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMixwNBVV95cUxOc05ERUJILV9QRDlpck4tSmNHQld5MXhpY0d1Mk1TU0V2Y2JXZ3l4YVB5TVdhc0VNZDI0NnNRSEVlR0ZHWUdsRm14N1RLQlNsaFZyWll5dnBoNFhPMmE5VldFVGRmNk93MksxTEk0UlozVGxyWTExUU9MSndHZmE4N0k2RTlEVDhEX3RoUHdJRE9YUUY0blVydHc2TUY4TERkWVREWjdOdDRkcVNIOVlUNHp2NXAtN203S2JNdEJJdmt0UExxMnlmU3RjdUFhbFB2bXdhS2ozUUpoaEhyVkRrZllPazNIaVlkV1QyMDAwYjJGampYZHdPSTJ6MnUtMWhQbFNtUXNmd3BkREMtQjZHZm1sME1zeTY1T2t5WkFraHdPZDZMa0tPSDJGbldBLVBhcFZGMEtIUUxlNjBPZFllTjM4WkdmN2dLaGlraFRlQmxIQlJDd1F1SlhIcndnRW96LTJseExKcVlHU1FKY2pjeXRzeUJzUkhKd0x6Vm5va3lIRXNKdFBLUlBxQVk4OXhwN1ZTUWdIMjBzQ01idWlxUUV1M3JfazVNMU5XQTVkRFF0Q1AwTUg0WXhaUGJWcFlramRTU2x4Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIU092cFUxV0JwN09qcTdIVnBoTTZNZWN4Yi1kc1BEdDJTYzJFV0ZMMGJtVTh4OTZ1U0R5QmVUNHNsQkcxUTBCZC1pQmVPV1J3b25ydlQ3RkFBTU9jS0pHMENPY2hpaHMt?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUC1oOWNYNXZTUTk3REJ5WnJVUDE1WjREY3Bfa0x0aHVDSm10WFdnOG9Pa2xrZl93M01aODQtMFNHZWM4RmpPWDV3ZU5fVTRxMGozOTdPTkJpVkJXOXVPVURLWlNSX211S3BEcWdJMFZmRFBXV05JWWdpc0c2WktsLW1GNGVkNlRoZXB5LXFwSWdNcDl5a0hGSzdoMlI5LTNOVURTTy1DY0hHQzFRVXFEQkNkekdYWUwzdkJDdHFBdElhMkJ4ZThpSmxYaHRKd9IB0wFBVV95cUxOeDk4NW1HRU5TNEtJLU1zbTBJUzZEVzdfVXIycjFGWjlSY09EUF9WREJQeGZiLWwwS2xNRUlfVVIxTjNHWjhHakUyZ1A4ZkxfdVdoUW9HWTZtenBXdGE1ODgxRmN2cDg5dVFHeFo0Mlk5R1gtZG1sYjh3enJxazRKOTlGRlQ2ckNmRUs1a2F6MEZsZ3ZjQUswbEFpTk9VM1BubWI1M21senlkbkYxU3B0ZlNiTUZtaTJkakI2ZVNkby04aUNOeUlZUl82QkVPcWw1MW5v?oc=5"
-      ],
-      "eventTitles": [
-        "OpenAIモデル、他人名義のEthereumテストウォレットから資金を拝借しタスクを完了 - Yellow.com",
-        "OpenAI、AIエージェントがEthereumのSepoliaテストネット上でウォレットにアクセスしたと発表 - bitbank",
-        "OpenAI’s GPT-5.6 Sol Model Misuses Ethereum Tokens Without Authorization, Sparking AI Regulation Debates - Inkorr"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-the-economic-times-8c8f086db795aa9101be",
+      "id": "the-decoder-https-the-decoder-com-p-41691",
       "rank": 7,
-      "title": "DeepSeek pushes out updated AI model it says is faster, leaner - The Economic Times",
-      "originalTitle": "DeepSeek pushes out updated AI model it says is faster, leaner - The Economic Times",
-      "summary": "DeepSeek pushes out updated AI model it says is faster, leaner The Economic Times",
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "originalTitle": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fe",
       "points": [
-        "DeepSeek pushes out updated AI model it says is faster, leaner The Economic Times",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of use",
+        "The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fellows\" to improve Claude in areas where reliable training data is scarce.",
+        "The article Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals appeared first on The Decoder ."
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "The Economic Times",
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Decoder",
       "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-17T16:23:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUlSczF0d05obnFITFNCY3RPbEwyZWVsU0loTkw1cklfR09vWEJHMi1NYmxkY0hCWU1YQVV4SVE5ZEJuM19wTXpLYzVlNkphYTVwNDJqRl9pMDVISFBHQmR3X3dEYXQ4Um5WMVZvNGxhNlhEd05oLVo0MkN3ZXcwVHhjRmtLNi12VUhONUUxb2FrMGtRWU9CWk5mR1hPY2kyUWhzVFVUb19nNG5ZOXM3V19QRTNTN3VjRGhhLWo5dWRCOENtNC16NGNwdVRhQ3VOSFFSTWlnUFFSMXhZ0gHiAUFVX3lxTE5qQjlIWndxZUxMdkxRVm9mcFFRRE9aSUdGaFpHeVRzTldaQklBNHRVWDBEb2RIRmNZcHhhV1BlVWt1OUQ0UXFDaEJmcGY2RUE3bDlJc2Y5cjIzd0VudXp0VlNQVG1uV3JYUmEzV0h5R3I1Yko4b3dwbnliclRSQ2x2YklHVzd1cW1ZRF9JWHAzSW5vODg0VUZJRDNQR0k1aTZDWGc3NUZSYnJCdmdWc0JLaTJ0MklLd2dYNy1zZzd5MUZTWnNvSXA4c05YSzV5YU82UG90YS1NTFg2Q2JORko5dHc?oc=5",
-      "impactScore": 62,
+      "category": "政策・社会",
+      "publishedAt": "2026-10-18T09:11:29.000Z",
+      "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals",
+      "impactScore": 56,
       "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjJJNGtEbm5FOVg2WjBNc2JDX051YTB1aEEzcjBQdlRRbHBnU2pfRnBYaGNSVjRsTWctWFVsVmpLd0hTS1JiNjJWd2RXQ3JQb0dSRkctN2xPZ0MwdTYwcWpxdEVlQ0RaYm5MTzJ4UmFmM3lFWWNFblNTWmQwM1pCcFNfekc4R0lXT0VQZjRJYTNsMFlNb2lJX1A5RnE?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5"
-        }
-      ],
+      "verification": "信頼できる報道",
+      "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUlSczF0d05obnFITFNCY3RPbEwyZWVsU0loTkw1cklfR09vWEJHMi1NYmxkY0hCWU1YQVV4SVE5ZEJuM19wTXpLYzVlNkphYTVwNDJqRl9pMDVISFBHQmR3X3dEYXQ4Um5WMVZvNGxhNlhEd05oLVo0MkN3ZXcwVHhjRmtLNi12VUhONUUxb2FrMGtRWU9CWk5mR1hPY2kyUWhzVFVUb19nNG5ZOXM3V19QRTNTN3VjRGhhLWo5dWRCOENtNC16NGNwdVRhQ3VOSFFSTWlnUFFSMXhZ0gHiAUFVX3lxTE5qQjlIWndxZUxMdkxRVm9mcFFRRE9aSUdGaFpHeVRzTldaQklBNHRVWDBEb2RIRmNZcHhhV1BlVWt1OUQ0UXFDaEJmcGY2RUE3bDlJc2Y5cjIzd0VudXp0VlNQVG1uV3JYUmEzV0h5R3I1Yko4b3dwbnliclRSQ2x2YklHVzd1cW1ZRF9JWHAzSW5vODg0VUZJRDNQR0k1aTZDWGc3NUZSYnJCdmdWc0JLaTJ0MklLd2dYNy1zZzd5MUZTWnNvSXA4c05YSzV5YU82UG90YS1NTFg2Q2JORko5dHc?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjJJNGtEbm5FOVg2WjBNc2JDX051YTB1aEEzcjBQdlRRbHBnU2pfRnBYaGNSVjRsTWctWFVsVmpLd0hTS1JiNjJWd2RXQ3JQb0dSRkctN2xPZ0MwdTYwcWpxdEVlQ0RaYm5MTzJ4UmFmM3lFWWNFblNTWmQwM1pCcFNfekc4R0lXT0VQZjRJYTNsMFlNb2lJX1A5RnE?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5"
+        "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals"
       ],
       "eventTitles": [
-        "DeepSeek pushes out updated AI model it says is faster, leaner - The Economic Times",
-        "DeepSeek pushes out updated AI model it says is faster, leaner - The Straits Times",
-        "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner - Bloomberg.com"
+        "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-atmarkit-itmedia-co-jp-ait-articles-2610-17-news007-html",
+      "id": "itmedia-ai-plus-https-kn-itmedia-co-jp-kn-article-2610-19-2000002342",
       "rank": 8,
-      "title": "「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由",
-      "originalTitle": "「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由",
-      "summary": "SHIFT AI��65�Έȏ�̐e�����S����30�`50��j��723�l��ΏۂƂ����u�V�j�A�~AI�̈ӎ������v�̌��ʂ𔭕\\�B�e�ɐ���AI���g���Ăق����Ȃ��q���オ69.3���ɒB�����Ƃ������ʂƂƂ��ɁA���̗��R�⎩�g�̗��p�p�x�A�e�ɋ�����ۂ̏�ǂȂǂ��������B",
+      "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
+      "originalTitle": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
+      "summary": "生成AIを実業務に定着させるには、明確な目的設定とデータの整備・統合が不可欠だ。NECと東京都足立区の事例を通じて、AIエージェントによるデータ分析・施策立案の実践と、統合的なAI基盤を活用した持続的な業務変革の要点を解説する。",
       "points": [
-        "SHIFT AI��65�Έȏ�̐e�����S����30�`50��j��723�l��ΏۂƂ����u�V�j�A�~AI�̈ӎ������v�̌��ʂ𔭕\\�B�e�ɐ���AI���g���Ăق����Ȃ��q���オ69.3���ɒB�����Ƃ������ʂƂƂ��ɁA���̗��R�⎩�g�̗��p�p�x�A�e�ɋ�",
+        "生成AIを実業務に定着させるには、明確な目的設定とデータの整備・統合が不可欠だ。NECと東京都足立区の事例を通じて、AIエージェントによるデータ分析・施策立案の実践と、統合的なAI基盤を活用した持続的な業務変革の要点を解説する。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -302,87 +245,86 @@
       "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-10-17T08:00:00.000Z",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
-      "impactScore": 61,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCMUVJcnZRQkExZ2daQWJaMG5BZEo4MDVwMEY3MUNmXzR0Wm9YZ1FtM0xaZHNzaWV2TFFTamhkdVVoWHhoNGVRNGxJeXNJWkVfTzF2ZDFCdGZKZmdIbGI1MWhlek90MU1UallncFpoZm84dw?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTFBCMUVJcnZRQkExZ2daQWJaMG5BZEo4MDVwMEY3MUNmXzR0Wm9YZ1FtM0xaZHNzaWV2TFFTamhkdVVoWHhoNGVRNGxJeXNJWkVfTzF2ZDFCdGZKZmdIbGI1MWhlek90MU1UallncFpoZm84dw?oc=5"
-      ],
-      "eventTitles": [
-        "「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由",
-        "「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由：「AIに支配されそう」の声も - ITmedia"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3178941",
-      "rank": 9,
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "originalTitle": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "points": [
-        "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-17T21:31:32.000Z",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
-      "impactScore": 59,
+      "publishedAt": "2026-10-18T22:00:00.000Z",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342",
+      "impactScore": 55,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
+        "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342"
       ],
       "eventTitles": [
-        "Meta removes language that raised scraping and AI training concerns"
+        "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則"
       ]
     },
     {
-      "id": "google-news-global-policy-techgig-351ea072dfc1fb93ae44",
-      "rank": 10,
-      "title": "Anthropic cofounder renews call for robust AI regulation - TechGig",
-      "originalTitle": "Anthropic cofounder renews call for robust AI regulation - TechGig",
-      "summary": "Anthropic cofounder renews call for robust AI regulation TechGig",
+      "id": "google-news-genai-excite--4a2a2a1d392d66f86f83",
+      "rank": 9,
+      "title": "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」を提供開始 - Excite エキサイト",
+      "originalTitle": "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」を提供開始 - Excite エキサイト",
+      "summary": "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」を提供開始 Excite エキサイト",
       "points": [
-        "Anthropic cofounder renews call for robust AI regulation TechGig",
+        "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」を提供開始 Excite エキサイト",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "TechGig",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Excite エキサイト",
       "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-17T14:58:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRmE5M2kwOEFlQXNRWGdqOU5iYVZlQ3JlUURVN3JNaE51emttX3dJWlMwT01fTjRjNUNFOVNtQTBIMHg4RTNrY1Q0QmdLa1NaZ3BtMjNmWFFSSzY3RTZ2czdjOGhZdTU1VENneXFibmYxci1IVXNHZVl3aTNKQmI3TW5OZGsxYmVtUjBhTExQb1VUeWVUeFhOMGRfaHpsZHNIS1NDeExhbHFXYnVxSi1CbFFVcm40V0VzdzVuOGdLVG04S0lPY0R4UGloYnZ0NmlhTkFVdEJCTGQwZUw4NlFGbDB3ONIBpwFBVV95cUxOc19HdGFXeG5jZk9DUzVqeURaNG1tYjlCdnl1STZLVTdvb05NM2xITlhvR2Zjei1nN1pPZ2FxcmV6clE3MVlzR0xNZ194QjEtdnhpSW5nNFBEcG1ZaW1JMW1XYXYzX2ZLODFHaUtjT3VtV3ZXYU5ESVlJOUt5d0l3eHF1Sm1PVDZqVDlCS2E4NkV3VTVuMjVKemNoTXBzbk1LTW10aS1jTQ?oc=5",
-      "impactScore": 58,
+      "category": "安全性",
+      "publishedAt": "2026-10-18T18:10:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nY2RaSHhhaTA4TVVodGswcHhmei11QlVfRC1iZ1hxLWd0WGw2cmdfUVViSjQzYW1JWS03ak5vY29Tc0w5M2xkeHlSZGR0X2hYaGtLbnk2ZFJJQm94VFZ3WjBHS2ZGci1Vek5OZHJyM1dLMHNC?oc=5",
+      "impactScore": 55,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObFduXzFwREZEYUx1LTJXUGN5Y3JrTW1QT01zN29taWpXa19rTWIzc1R4c3VoTzBIdkZiSElLVDgxQXNYOUVVbmJIQ2FoZWdUSkZManZ4Yk00czZSajBJZ3FTWkNXQW1lM1JYRHFTSjZWX1dQX0ctaWNHUWVrWERBcmlOdGtlZldrbEFXY0ZMelc2Y2xvS0JzTUcwcFMwR3UyeC1FN1hnSkdfdFF3SXV4bGFHeHhjYTItMHBvOW5JSHJNM1pRd2IzUV9FSHdJaS1hZnpmdGZWekpFeldCZFJFWFU3LTRkUmcycExLaTBUVEJqZ9IB6wFBVV95cUxOQVRZQUFSUExFa1pEajRqVlZGSDdTdHg5YU9DTXVLbHVWRDRlbTFtaTUyZVBQVmhPNk5wZUJhUmlYbUlVYXIwZm9zT29YWEtYMGlzWW9ZS1JWWVA1OGNqeWdad2dpeFlZVVBrSWlvN2VOYWRMbktQTVNnWWxTV2FVdlhVX0NsUFhkWVJMOXItTzdOWnZybWtORW9oejk4RFdXZXJqajg2V0ZNNHh5RFNIbmloSVlzUDh0X1NSWkdsZXJ2X1p0RnZpQW5nRHZkT0gtLTd1ZzZXdlRJcTVZU0ZmM1ZmQzE1bjZ4Qkdj?oc=5"
+          "name": "Excite エキサイト",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43TENLaDR1M1VSTEJNODlUeWkwTXNseXdSNUNOMjZrX1Rpc2E0RVhLTWxDVlhtUTRRbWJ5d1ZRVExwcVl6dU1lT1VMaElHYzM0eFk4NkRIeUo3TEpwQmJOTlo3TVE5YzNxUWZBYnNqT09sS2F1?oc=5"
+        },
+        {
+          "name": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yMTNnbnlUZmJ6d0pWcnk0NkFxVS1hQlF5NFFmOGpYb1hmakFCRUM4OFUtYXdLQnFZTWNRRHJ0X1kzS2JWUGcwUDZxOEFiWEhGVnNHS3dHbWdDaWVXWFhsbVR3YTNaNjFnRmNUOUpZT3RJQQ?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRmE5M2kwOEFlQXNRWGdqOU5iYVZlQ3JlUURVN3JNaE51emttX3dJWlMwT01fTjRjNUNFOVNtQTBIMHg4RTNrY1Q0QmdLa1NaZ3BtMjNmWFFSSzY3RTZ2czdjOGhZdTU1VENneXFibmYxci1IVXNHZVl3aTNKQmI3TW5OZGsxYmVtUjBhTExQb1VUeWVUeFhOMGRfaHpsZHNIS1NDeExhbHFXYnVxSi1CbFFVcm40V0VzdzVuOGdLVG04S0lPY0R4UGloYnZ0NmlhTkFVdEJCTGQwZUw4NlFGbDB3ONIBpwFBVV95cUxOc19HdGFXeG5jZk9DUzVqeURaNG1tYjlCdnl1STZLVTdvb05NM2xITlhvR2Zjei1nN1pPZ2FxcmV6clE3MVlzR0xNZ194QjEtdnhpSW5nNFBEcG1ZaW1JMW1XYXYzX2ZLODFHaUtjT3VtV3ZXYU5ESVlJOUt5d0l3eHF1Sm1PVDZqVDlCS2E4NkV3VTVuMjVKemNoTXBzbk1LTW10aS1jTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObFduXzFwREZEYUx1LTJXUGN5Y3JrTW1QT01zN29taWpXa19rTWIzc1R4c3VoTzBIdkZiSElLVDgxQXNYOUVVbmJIQ2FoZWdUSkZManZ4Yk00czZSajBJZ3FTWkNXQW1lM1JYRHFTSjZWX1dQX0ctaWNHUWVrWERBcmlOdGtlZldrbEFXY0ZMelc2Y2xvS0JzTUcwcFMwR3UyeC1FN1hnSkdfdFF3SXV4bGFHeHhjYTItMHBvOW5JSHJNM1pRd2IzUV9FSHdJaS1hZnpmdGZWekpFeldCZFJFWFU3LTRkUmcycExLaTBUVEJqZ9IB6wFBVV95cUxOQVRZQUFSUExFa1pEajRqVlZGSDdTdHg5YU9DTXVLbHVWRDRlbTFtaTUyZVBQVmhPNk5wZUJhUmlYbUlVYXIwZm9zT29YWEtYMGlzWW9ZS1JWWVA1OGNqeWdad2dpeFlZVVBrSWlvN2VOYWRMbktQTVNnWWxTV2FVdlhVX0NsUFhkWVJMOXItTzdOWnZybWtORW9oejk4RFdXZXJqajg2V0ZNNHh5RFNIbmloSVlzUDh0X1NSWkdsZXJ2X1p0RnZpQW5nRHZkT0gtLTd1ZzZXdlRJcTVZU0ZmM1ZmQzE1bjZ4Qkdj?oc=5"
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nY2RaSHhhaTA4TVVodGswcHhmei11QlVfRC1iZ1hxLWd0WGw2cmdfUVViSjQzYW1JWS03ak5vY29Tc0w5M2xkeHlSZGR0X2hYaGtLbnk2ZFJJQm94VFZ3WjBHS2ZGci1Vek5OZHJyM1dLMHNC?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE43TENLaDR1M1VSTEJNODlUeWkwTXNseXdSNUNOMjZrX1Rpc2E0RVhLTWxDVlhtUTRRbWJ5d1ZRVExwcVl6dU1lT1VMaElHYzM0eFk4NkRIeUo3TEpwQmJOTlo3TVE5YzNxUWZBYnNqT09sS2F1?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE43dEpXT21XSXh2U3JCSWE5U0tGNWdtZVdLalZiVFZPTERZdHItYTRkQjh2UUxhWExpSjBiVWZZeXRqNExvMzQ2b0NCaVoxRkhPQkRqU2lRY0N6aFN0c2dSbV9BVVZqZW5fNk5UZEVUYi1PVjRK?oc=5",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE5yMTNnbnlUZmJ6d0pWcnk0NkFxVS1hQlF5NFFmOGpYb1hmakFCRUM4OFUtYXdLQnFZTWNRRHJ0X1kzS2JWUGcwUDZxOEFiWEhGVnNHS3dHbWdDaWVXWFhsbVR3YTNaNjFnRmNUOUpZT3RJQQ?oc=5"
       ],
       "eventTitles": [
-        "Anthropic cofounder renews call for robust AI regulation - TechGig",
-        "Anthropic cofounder renews call for robust regulation of frontier AI - The Economic Times"
+        "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」を提供開始 - Excite エキサイト",
+        "SynX、企業の生成AI活用を安全面から支援する「生成AI利活用セキュリティ支援サービス」を提供開始｜Infoseekニュース - Infoseek"
+      ]
+    },
+    {
+      "id": "wired-ai-6ad227480242af4ebffe6d0b",
+      "rank": 10,
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "originalTitle": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "points": [
+        "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-18T10:30:00.000Z",
+      "url": "https://wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
+      "impactScore": 55,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty"
+      ],
+      "eventTitles": [
+        "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty"
       ]
     }
   ]
