@@ -1,0 +1,375 @@
+{
+  "edition": "2026-10-22T06:30:00+09:00",
+  "generatedAt": "2026-10-22T00:05:31.788Z",
+  "periodStart": "2026-10-19T12:05:31.788Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 41,
+  "freshSources": 38,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 1797,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2610-22-2000002482",
+      "rank": 1,
+      "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
+      "originalTitle": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
+      "summary": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。",
+      "points": [
+        "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-21T16:12:28.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2610/22/2000002482",
+      "impactScore": 90,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EQ1RtalpTLWFFaVczLUN0YW9oRmxNT3VROXJGS2NEaHhZeHFqX183RnYwbENuZnRiTGpkVEJqMTFHSXh3SlN1S0RHX2FPRklCQ1JiOUpiZEo5UzY1OG1xOWpleVliaG5yY3FNQnNrTThMS2FBMnlwV0Z3QmVHb2fSAX9BVV95cUxPRENUbWpaUy1hRWlXMy1DdGFvaEZsTU91UTlyRktjRGh4WXhxal9fN0Z2MGxDbmZ0YkxqZFRCajExR0l4d0pTdUtER19hT0ZJQkNSYjlKYmRKOVM2NThtcTlqZXlZYmhucmNxTUJza004TEthQTJ5cFdGd0JlR29n?oc=5"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTnhuTUFaUWJjVWhHZEVGOFRDQlRDTFF2WWh3eVUza3B6b1d3MWYtOTBDd1dhTHd6eTE0WG5aWjJfZThjOXplb3RJcXBtaFF5OTVoMlZjc1BlTXZIWUt4RGJqZGJhYlFRLTlhQw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EQ1RtalpTLWFFaVczLUN0YW9oRmxNT3VROXJGS2NEaHhZeHFqX183RnYwbENuZnRiTGpkVEJqMTFHSXh3SlN1S0RHX2FPRklCQ1JiOUpiZEo5UzY1OG1xOWpleVliaG5yY3FNQnNrTThMS2FBMnlwV0Z3QmVHb2fSAX9BVV95cUxPRENUbWpaUy1hRWlXMy1DdGFvaEZsTU91UTlyRktjRGh4WXhxal9fN0Z2MGxDbmZ0YkxqZFRCajExR0l4d0pTdUtER19hT0ZJQkNSYjlKYmRKOVM2NThtcTlqZXlZYmhucmNxTUJza004TEthQTJ5cFdGd0JlR29n?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2610/22/2000002482",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTnhuTUFaUWJjVWhHZEVGOFRDQlRDTFF2WWh3eVUza3B6b1d3MWYtOTBDd1dhTHd6eTE0WG5aWjJfZThjOXplb3RJcXBtaFF5OTVoMlZjc1BlTXZIWUt4RGJqZGJhYlFRLTlhQw?oc=5"
+      ],
+      "eventTitles": [
+        "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」 - Infoseek",
+        "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
+        "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」（1/2 ページ） - ITmedia"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-coordinated-disclosure-of-critical-vulnerabilities",
+      "rank": 2,
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "originalTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "points": [
+        "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "impactScore": 88,
+      "impactLabel": "特大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+      ],
+      "eventTitles": [
+        "Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
+      ]
+    },
+    {
+      "id": "mistral-https-mistral-ai-news-voxtral-3-",
+      "rank": 3,
+      "title": "Voxtral 3",
+      "originalTitle": "Voxtral 3",
+      "summary": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+      "points": [
+        "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use.",
+        "EU-hosted or self-deployed.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Mistral AI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-20T12:00:22.000Z",
+      "url": "https://mistral.ai/news/voxtral-3",
+      "impactScore": 87,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95bms3UGl3cTNERWhXR3Y5X0VkT3NGc0MzZFFpdm5JRjNJUHZ3dzRsZzVHT0pVTDdITG5xbC00STB1X2psUUI4blRMNTNyTTVwSVN1QndhSUlmVHBXbzRqNGJqNmJmSF81b3BkaWJjeXRPN3Rh?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE95bms3UGl3cTNERWhXR3Y5X0VkT3NGc0MzZFFpdm5JRjNJUHZ3dzRsZzVHT0pVTDdITG5xbC00STB1X2psUUI4blRMNTNyTTVwSVN1QndhSUlmVHBXbzRqNGJqNmJmSF81b3BkaWJjeXRPN3Rh?oc=5",
+        "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time",
+        "https://mistral.ai/news/voxtral-3"
+      ],
+      "eventTitles": [
+        "Mistral、音声Agent SDK「Voxtral 3」を発表 50言語超のリアルタイム対話に対応 - BigGo ファイナンス",
+        "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+        "Voxtral 3"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-openai-to-acquire-orchestra-bio",
+      "rank": 4,
+      "title": "OpenAI acquires Orchestra Bio",
+      "originalTitle": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "points": [
+        "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "impactScore": 86,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VzJYR0VqSmdXU0V0Zk4zS3BqUF9BaXZuSVAtU013LThCQ3V2bkJlYWJ6Y1R5YktDaWY4Y3dRelJkbENGWnhWM1JKV2lvc1Q1aHBEQWlDc0lZQ0VWc2xLSkdjX0xrWEhvcDJNU2I3QVk?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development"
+        },
+        {
+          "name": "株式会社インプレス",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwZnY4ek1nT3RDTFVEN2xDSDVQU0dZVUl6R3lvY0tVVE9iTXYyT0VWdnR2emE0UURvRFFjWXNSVkVsdkJpcmhOWHI1Q2Uxd0J1TFYtT3NVbHIzWFZOTkNySUhlOA?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VzJYR0VqSmdXU0V0Zk4zS3BqUF9BaXZuSVAtU013LThCQ3V2bkJlYWJ6Y1R5YktDaWY4Y3dRelJkbENGWnhWM1JKV2lvc1Q1aHBEQWlDc0lZQ0VWc2xLSkdjX0xrWEhvcDJNU2I3QVk?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DalNva1Brem9JNTZHMncyT3NXTUdZSG9DM1MtdEZwMDFmLTliMGJHeXgtNmZMWG1xMFdqdmVkNEt6c1FEMGRabnZWVHY2NzhVbHpldzVjTGh5RmpjWGtKTXlDd0NVVEU0UEoyWnhhQ1M?oc=5",
+        "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwZnY4ek1nT3RDTFVEN2xDSDVQU0dZVUl6R3lvY0tVVE9iTXYyT0VWdnR2emE0UURvRFFjWXNSVkVsdkJpcmhOWHI1Q2Uxd0J1TFYtT3NVbHIzWFZOTkNySUhlOA?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xS3VJcUNCbmhyMmgxNmowWHhyYi04M2huamdJZkJ2MHFTUjZfaFBKSkhnbGpaMk5qQ0sxb3kzaVo4aDVySGs1YmFZUm9RNDZ6bndrdmdJZW1BZjNDZHA4QUZBR05zalhYSEpVd0tWanlkdXdPQ2xV?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGNVMmhYNGtfWXdjcXZnNTdlbmhJN3c1V3RyS3dWWFp0eWZvYmxyZDhRakVnYjFiZld3bTdsLWt5Ylh5WUx1SlF3SzBFOXptc2dIUVFzNUdWWUtsLUE5NGVudGdzbk42T1RsVHUzSlRRYXI4MzdnMjJhMWVwalBtQg?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3WWJORFpDb2hHbTJrTjRNTVFGcHk2cUlUOGJNZXdlQkRlQm5SYi1oSl9rZkVZZlhrYXVHQndmdzdQanlUeEFMc0tVZGw1ekRSUG9LM0hGRklSYU5yZGtMSENhd0EzVGVJR2VDTFVuaXoyRWM?oc=5",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zdElhRzVJUVhQa2dJQVhYbGg5TFBudG1ic0JvYzlqR3A4Q09PUG1nV1lyUGZlTzNUMHlVaV9XMVRHd1pHX0VqSVVpejFGNnJYSnc?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jQy1WNUc5RFJQSkd3UDNNSUZWbEdIcFFJTkJ3VFZlcldWS2pfZFpxNVA5RnNaSWVMUnktanh4LVNCT280UHJCLW5CWTREeC1SSTh0LWZmNkIxN3FVN1NZSDZRMVhQQy1FZnp4bHhLR0JRU0xl?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGtxd2VtelY5QjlndWNORTJLWjdXM1NxR0xJeVFnOXJkRWNZbmd1bXVQekhHaGxKZkNOTXBjQ2Fpai0tRzJaYks0alhoekxFbDZkUzdzV2VzS1RKeERnQXk3LU5CTWxCY3JHTUNPaDE4RkhybUNQRUtqOFhVZ3dGT3p6SkxmRHNQOXd3N1hmZGYxZVdlWXVWWA?oc=5",
+        "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+        "https://openai.com/index/openai-to-acquire-orchestra-bio"
+      ],
+      "eventTitles": [
+        "OpenAIがGoogleクラウドとの連携を拡大、AI競合他社の関係が深まる 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "OpenAIが創薬AI強化に向けOrchestra Bioを買収 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+        "OpenAIが創薬AIで開発を加速、Orchestra Bioを買収 - 株式会社インプレス",
+        "OpenAIが創薬AI企業「Orchestra Bio」を買収、研究から製造・治験管理までAIで支援へ - XenoSpectrum",
+        "OpenAI、創薬AIのOrchestra Bioを買収 「Rosalind」に統合 - UQライフ",
+        "OpenAIが医薬品開発プラットフォームのOrchestra Bioを買収 - GIGAZINE",
+        "OpenAI、創薬AIのOrchestra Bioを買収 「Rosalind」に統合 - CNET Japan",
+        "OpenAI、Orchestra Bioを買収－AIエージェントを創薬プロセスに投入 - BigGo ファイナンス",
+        "OpenAI、Rosalindの生命科学向けツール拡充に向けOrchestra Bioを買収 - Unite.AI",
+        "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "OpenAI acquires Orchestra Bio"
+      ]
+    },
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99195",
+      "rank": 5,
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "originalTitle": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries , as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manu",
+      "points": [
+        "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libr",
+        "Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in early access on GitHub , providing a path for",
+        "These agents can connect to frontier models, including NVIDIA Cosmos and Nemotron, and foundational knowledge including computer-aided design, product lifecycle managemen"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-21T10:30:40.000Z",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation"
+        }
+      ],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
+        "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation",
+        "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help"
+      ],
+      "eventTitles": [
+        "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+        "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+        "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3180324",
+      "rank": 6,
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "originalTitle": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "points": [
+        "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-21T20:27:41.000Z",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai"
+      ],
+      "eventTitles": [
+        "Recursive launches Flint, a laptop coding model it says was largely built by AI"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-news-christopher-stubbs-joins-long-term-benefit-trust",
+      "rank": 7,
+      "title": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
+      "originalTitle": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
+      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+      "points": [
+        "Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
+        "He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+        "He has also advised the US government on national security and arms control."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "url": "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+      ],
+      "eventTitles": [
+        "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust"
+      ]
+    },
+    {
+      "id": "wired-ai-6ad7d96421d5362b857b93a4",
+      "rank": 8,
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "originalTitle": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "points": [
+        "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-21T12:35:00.000Z",
+      "url": "https://wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations"
+        }
+      ],
+      "eventUrls": [
+        "https://wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
+        "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations"
+      ],
+      "eventTitles": [
+        "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+        "Meta Muse exposes users' personal and business secrets when they share conversations"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-592e790776f1a784bac6fdbee94e1681b38d082b",
+      "rank": 9,
+      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "originalTitle": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "summary": "Building a multi-agent system is now pretty straightforward. Taking it to production is where the real challenges begin. Thanks to open source frameworks and cloud services, you can set up an agent in a matter of days. A few tool calls, a few lines of prompt, ",
+      "points": [
+        "Building a multi-agent system is now pretty straightforward.",
+        "Taking it to production is where the real challenges begin.",
+        "Thanks to open source frameworks and cloud services, you can set up an agent in a matter of days."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-21T23:36:47.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them"
+      ],
+      "eventTitles": [
+        "5 production challenges in multi-agent systems and how Deep Insight solved them"
+      ]
+    },
+    {
+      "id": "wired-ai-6ad8b88dcd0792bc5939d033",
+      "rank": 10,
+      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "originalTitle": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+      "points": [
+        "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites.",
+        "Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-21T14:26:19.000Z",
+      "url": "https://wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire"
+      ],
+      "eventTitles": [
+        "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire"
+      ]
+    }
+  ]
+}
