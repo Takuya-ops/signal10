@@ -1,7 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T23:08:56.852Z",
+  "updatedAt": "2026-10-23T23:56:27.162Z",
   "items": [
+    {
+      "id": "itmedia-ai-plus-https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "guid": "",
+      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "description": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "publishedAt": "2026-10-23T23:15:00.000Z",
+      "sourceId": "itmedia-ai-plus",
+      "sourceName": "ITmedia AI+",
+      "sourceType": "media",
+      "tier": 1,
+      "defaultCategory": "プロダクト",
+      "aiOnly": true
+    },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3181396",
       "guid": "https://techcrunch.com/?p=3181396",
@@ -14,6 +28,20 @@
       "sourceType": "media",
       "tier": 1,
       "defaultCategory": "ビジネス",
+      "aiOnly": true
+    },
+    {
+      "id": "google-news-genai:yahoo--e81a03e3ed6de4f9ebbd",
+      "guid": "CBMiiAFBVV95cUxQYXJIdGpoR0M1cW14TFByWUNNbFpiS3VGSmlfdmJKMEZ3ajlvYXQ1ZzA0LUlXdmRzY1NFREFTU2MzU3h6R2lkdnlYZHVoTDRuNk16M2xpanNGRm12dXNSeG1yTlhZdWdxSnlyVzd1WE1Pd3RkVkIxY2FHaVZmU1BLTUZ6Ym9nUFdP",
+      "title": "生成AIでの検索が過半数に。SEOの次に知っておきたい「GEO」の基本（Masumi｜ライター） - エキスパート - Yahoo!ニュース",
+      "description": "生成AIでの検索が過半数に。SEOの次に知っておきたい「GEO」の基本（Masumi｜ライター） - エキスパート Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXJIdGpoR0M1cW14TFByWUNNbFpiS3VGSmlfdmJKMEZ3ajlvYXQ1ZzA0LUlXdmRzY1NFREFTU2MzU3h6R2lkdnlYZHVoTDRuNk16M2xpanNGRm12dXNSeG1yTlhZdWdxSnlyVzd1WE1Pd3RkVkIxY2FHaVZmU1BLTUZ6Ym9nUFdP?oc=5",
+      "publishedAt": "2026-10-23T23:01:09.000Z",
+      "sourceId": "google-news-genai:yahoo-",
+      "sourceName": "Yahoo!ニュース",
+      "sourceType": "media",
+      "tier": 3,
+      "defaultCategory": "プロダクト",
       "aiOnly": true
     },
     {
@@ -123,6 +151,20 @@
       "publishedAt": "2026-10-23T22:04:44.000Z",
       "sourceId": "google-news-genai:-que",
       "sourceName": "新潮QUE",
+      "sourceType": "media",
+      "tier": 3,
+      "defaultCategory": "プロダクト",
+      "aiOnly": true
+    },
+    {
+      "id": "google-news-genai:-me-CBMiV0FVX3lxTE91dHlPYnYzVWVHVmFKcEV5OTBUM0gyZG8wNG52N0xqeUtVRE5nZ2FfamhWSHVOM2NkSEREbVJSSEJmR21vTFlyamZUU0tMVzRvX2Vud2pKYw",
+      "guid": "CBMiV0FVX3lxTE91dHlPYnYzVWVHVmFKcEV5OTBUM0gyZG8wNG52N0xqeUtVRE5nZ2FfamhWSHVOM2NkSEREbVJSSEJmR21vTFlyamZUU0tMVzRvX2Vud2pKYw",
+      "title": "生成AIを使い、車に傷がついたように加工された偽造写真（三井住友海上火災保険提供） - AI悪用の保険金不正増加 車写真加工で事故偽装 - 写真・画像(1/1) - 西日本新聞me",
+      "description": "生成AIを使い、車に傷がついたように加工された偽造写真（三井住友海上火災保険提供） - AI悪用の保険金不正増加 車写真加工で事故偽装 - 写真・画像(1/1) 西日本新聞me",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91dHlPYnYzVWVHVmFKcEV5OTBUM0gyZG8wNG52N0xqeUtVRE5nZ2FfamhWSHVOM2NkSEREbVJSSEJmR21vTFlyamZUU0tMVzRvX2Vud2pKYw?oc=5",
+      "publishedAt": "2026-10-23T22:02:54.000Z",
+      "sourceId": "google-news-genai:-me",
+      "sourceName": "西日本新聞me",
       "sourceType": "media",
       "tier": 3,
       "defaultCategory": "プロダクト",
@@ -3349,6 +3391,20 @@
       "aiOnly": true
     },
     {
+      "id": "google-news-genai:yahoo--32601ba9b9625b6ca52b",
+      "guid": "CBMijgFBVV95cUxPQWs1R3ZkN0QtTEpyVnZmY0NBU3o4QnU4azB0MlQ1QnJ3azJXbXBXZG5NTkV4TnhsQ2g3ME1kVnhwT2k4QW56R19FckRuVnZrMEl4X29zaExURms3b0V4YTlWby03VmJPdmZqR3FZWDdiQ0VBLW1hTjAyZURGazU2LVdNalFGUlNRSzFpRmZn",
+      "title": "政府職員18万人がAIエージェント活用へ--古川デジタル大臣は会見で何を語ったか - Yahoo!ニュース",
+      "description": "政府職員18万人がAIエージェント活用へ--古川デジタル大臣は会見で何を語ったか Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWs1R3ZkN0QtTEpyVnZmY0NBU3o4QnU4azB0MlQ1QnJ3azJXbXBXZG5NTkV4TnhsQ2g3ME1kVnhwT2k4QW56R19FckRuVnZrMEl4X29zaExURms3b0V4YTlWby03VmJPdmZqR3FZWDdiQ0VBLW1hTjAyZURGazU2LVdNalFGUlNRSzFpRmZn?oc=5",
+      "publishedAt": "2026-10-23T04:46:13.000Z",
+      "sourceId": "google-news-genai:yahoo-",
+      "sourceName": "Yahoo!ニュース",
+      "sourceType": "media",
+      "tier": 3,
+      "defaultCategory": "プロダクト",
+      "aiOnly": true
+    },
+    {
       "id": "google-news-labs:gigazine-279630b42405e4ff2bc7",
       "guid": "CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0",
       "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある - GIGAZINE",
@@ -3405,17 +3461,17 @@
       "aiOnly": true
     },
     {
-      "id": "google-news-labs:yahoo--9ea23649da49eee79706",
+      "id": "google-news-genai:yahoo--bfb54f740d7662f354be",
       "guid": "CBMijgFBVV95cUxQTHBIR2hIVVVjQzZxdmN6a21lTG5qN1F5RFAxd3N1NnRnUnpLcGRSR1VYNUR3OGhUSzZFYWhOajV4V1JZMVZRcFR2X0JVLUlrZEVfdThQejZiSndBXzJqSElKMkZrYk9qU2NlTFhrX1pWNnhwc1VuZXJJUWNieHNuazVHcnh4cWN4TG9PbW1R",
       "title": "MetaのパーソナルAIエージェント「Muse」が日本でも利用可能に、メルカリやチケットぴあとも連携予定 (窓の杜) - Yahoo!ニュース",
       "description": "MetaのパーソナルAIエージェント「Muse」が日本でも利用可能に、メルカリやチケットぴあとも連携予定 (窓の杜) Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHBIR2hIVVVjQzZxdmN6a21lTG5qN1F5RFAxd3N1NnRnUnpLcGRSR1VYNUR3OGhUSzZFYWhOajV4V1JZMVZRcFR2X0JVLUlrZEVfdThQejZiSndBXzJqSElKMkZrYk9qU2NlTFhrX1pWNnhwc1VuZXJJUWNieHNuazVHcnh4cWN4TG9PbW1R?oc=5",
       "publishedAt": "2026-10-23T04:25:00.000Z",
-      "sourceId": "google-news-labs:yahoo-",
+      "sourceId": "google-news-genai:yahoo-",
       "sourceName": "Yahoo!ニュース",
       "sourceType": "media",
       "tier": 3,
-      "defaultCategory": "モデル",
+      "defaultCategory": "プロダクト",
       "aiOnly": true
     },
     {
@@ -15305,17 +15361,17 @@
       "aiOnly": true
     },
     {
-      "id": "google-news-genai:mediamixi-CBMiR0FVX3lxTE8yUEJfMzhucDZsZXJHVjA1OTRIR3NnNktXOC1GSzE0NnlKSjNkYUN4Zm1UWWJHNGx1SGZ1UGNnMzFJaVcyeGFR",
+      "id": "google-news-labs:mediamixi-CBMiR0FVX3lxTE8yUEJfMzhucDZsZXJHVjA1OTRIR3NnNktXOC1GSzE0NnlKSjNkYUN4Zm1UWWJHNGx1SGZ1UGNnMzFJaVcyeGFR",
       "guid": "CBMiR0FVX3lxTE8yUEJfMzhucDZsZXJHVjA1OTRIR3NnNktXOC1GSzE0NnlKSjNkYUN4Zm1UWWJHNGx1SGZ1UGNnMzFJaVcyeGFR",
       "title": "Meta、パーソナルAIエージェント「Muse」を日本で提供開始 | ニュース | IT×エンタメの最前線を届ける - MEDIAMIXI",
       "description": "Meta、パーソナルAIエージェント「Muse」を日本で提供開始 | ニュース | IT×エンタメの最前線を届ける MEDIAMIXI",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yUEJfMzhucDZsZXJHVjA1OTRIR3NnNktXOC1GSzE0NnlKSjNkYUN4Zm1UWWJHNGx1SGZ1UGNnMzFJaVcyeGFR?oc=5",
       "publishedAt": "2026-10-23T02:38:18.000Z",
-      "sourceId": "google-news-genai:mediamixi",
+      "sourceId": "google-news-labs:mediamixi",
       "sourceName": "MEDIAMIXI",
       "sourceType": "media",
       "tier": 3,
-      "defaultCategory": "プロダクト",
+      "defaultCategory": "モデル",
       "aiOnly": true
     },
     {
@@ -15697,17 +15753,17 @@
       "aiOnly": true
     },
     {
-      "id": "google-news-labs:itmedia-1e5c206e120f457c9668",
+      "id": "google-news-genai:itmedia-3b4188fb9d090ef10003",
       "guid": "CBMiakFVX3lxTFBZbDc5bWc3SXVwUzc3U1ptZGlYYlZQTnV6VWMtQ29VVDZXYU9SREtyV3ZfU25SaU52NnRLcW1zOGRBcFNBcEVQLWhjZEN3Q3o2ZXYxU0tjSExIa0xQa3B5cWotaGQ0UzZIWnc",
       "title": "「Muse」日本で提供開始 MetaのAIエージェント、メルカリやマネフォ、ぴあと連携へ - ITmedia",
       "description": "「Muse」日本で提供開始 MetaのAIエージェント、メルカリやマネフォ、ぴあと連携へ ITmedia",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbDc5bWc3SXVwUzc3U1ptZGlYYlZQTnV6VWMtQ29VVDZXYU9SREtyV3ZfU25SaU52NnRLcW1zOGRBcFNBcEVQLWhjZEN3Q3o2ZXYxU0tjSExIa0xQa3B5cWotaGQ0UzZIWnc?oc=5",
       "publishedAt": "2026-10-23T01:33:41.000Z",
-      "sourceId": "google-news-labs:itmedia",
+      "sourceId": "google-news-genai:itmedia",
       "sourceName": "ITmedia",
       "sourceType": "media",
       "tier": 3,
-      "defaultCategory": "モデル",
+      "defaultCategory": "プロダクト",
       "aiOnly": true
     },
     {
@@ -16859,6 +16915,20 @@
       "aiOnly": true
     },
     {
+      "id": "google-news-global-genai:mashable-eaf986be750ddaf6c59d",
+      "guid": "CBMikwFBVV95cUxNeUlTM2JhR3FyZE15aEVPcGpRSGl6d3RUTGxEVW1rOGdSTnp4LTQ3SkY2WlB4Zm5IZWY5cFd6eEtrRndKS1RwOTRldGd6TFJiakd0VjAwb0kyVEI5SUVMZ2xSeDJLa0tscm96UWFwMHJkX3FLcWx2SzlMbjY4ZzRBYjZVLTF6VnZRS3Qtd0NlSy1qLWM",
+      "title": "EU consumer group calls for 'urgent investigations' of generative AI risks - Mashable",
+      "description": "EU consumer group calls for 'urgent investigations' of generative AI risks Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUlTM2JhR3FyZE15aEVPcGpRSGl6d3RUTGxEVW1rOGdSTnp4LTQ3SkY2WlB4Zm5IZWY5cFd6eEtrRndKS1RwOTRldGd6TFJiakd0VjAwb0kyVEI5SUVMZ2xSeDJLa0tscm96UWFwMHJkX3FLcWx2SzlMbjY4ZzRBYjZVLTF6VnZRS3Qtd0NlSy1qLWM?oc=5",
+      "publishedAt": "2026-10-22T21:00:00.000Z",
+      "sourceId": "google-news-global-genai:mashable",
+      "sourceName": "Mashable",
+      "sourceType": "media",
+      "tier": 3,
+      "defaultCategory": "プロダクト",
+      "aiOnly": true
+    },
+    {
       "id": "google-news-genai:--CBMiUkFVX3lxTFBYaE1Dd2xvZ0ZzbHU5V1lCdDZDSUlaUnB3N3MtOWRHNmFPTF90SGtWZGhVTW9qa3hlUTFDSUFpZ3RWd3IwemhtWm5ET0xNZ0JpT3c",
       "guid": "CBMiUkFVX3lxTFBYaE1Dd2xvZ0ZzbHU5V1lCdDZDSUlaUnB3N3MtOWRHNmFPTF90SGtWZGhVTW9qa3hlUTFDSUFpZ3RWd3IwemhtWm5ET0xNZ0JpT3c",
       "title": "人工知能(AI)エージェントが顧客の代わりに金融商品を比較し、資金を移す時代が迫り、国内金融圏に赤信号が灯った。 この間、消費者が訪ねて行かず金融会社が享受してきた年間5000億ウォン台の「楽戦性収益.. - 매일경제",
@@ -17956,6 +18026,20 @@
       "title": "Goa unveils AI policy 2026 - Daijiworld",
       "description": "Goa unveils AI policy 2026 Daijiworld",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13X29wLWJaWEVHLXVGbVdkblFBTHlWTFlXbDBLZnU0X0daMENLaHlMN3FrOE5mcDQxcUJjUENqYUxNUkZ3N180VEphYzlubEkyLVhseUVZWUhPRS0xVHNyS1YxWHJjcVJhN1E?oc=5",
+      "publishedAt": "2026-10-22T16:27:38.000Z",
+      "sourceId": "google-news-global-policy:daijiworld",
+      "sourceName": "Daijiworld",
+      "sourceType": "media",
+      "tier": 2,
+      "defaultCategory": "政策・社会",
+      "aiOnly": true
+    },
+    {
+      "id": "google-news-global-policy:daijiworld-b426a2bada6e6c60242c",
+      "guid": "CBMid0FVX3lxTE5pd2JmQzRkU0pWWXFxdDFYU3Q1WE45Tk1hTElmTHBQUjY4Xzc4MTF3el81SndFSm9pNmtWSEhFektqSUliM0ZySDJUMTh3RERMQTNTaU9LeXJwUndfQ0dxRmUtS1pMWDR3LUNHMzZsSzl2c28tNURv",
+      "title": "Goa unveils AI policy 2026 - Daijiworld",
+      "description": "Goa unveils AI policy 2026 Daijiworld",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pd2JmQzRkU0pWWXFxdDFYU3Q1WE45Tk1hTElmTHBQUjY4Xzc4MTF3el81SndFSm9pNmtWSEhFektqSUliM0ZySDJUMTh3RERMQTNTaU9LeXJwUndfQ0dxRmUtS1pMWDR3LUNHMzZsSzl2c28tNURv?oc=5",
       "publishedAt": "2026-10-22T16:27:38.000Z",
       "sourceId": "google-news-global-policy:daijiworld",
       "sourceName": "Daijiworld",
@@ -33709,6 +33793,20 @@
       "publishedAt": "2026-10-22T03:47:30.000Z",
       "sourceId": "google-news-global-genai:-",
       "sourceName": "아시아경제",
+      "sourceType": "media",
+      "tier": 3,
+      "defaultCategory": "プロダクト",
+      "aiOnly": true
+    },
+    {
+      "id": "google-news-global-genai:nasscom-569c30adb7b20afadc27",
+      "guid": "CBMiqAFBVV95cUxQbzJJVEZRWlZsTXVaenVVaGxiNFotcW4yd2RWbUNHLWh4U2VGZzlmekJrU2J5TEhfVVBCclRhV09kc2dwa3JFN09MOEtjQUw1bjR3MWZCR2ZtN29yTFpNazBoUEl3VnItN19iWENySm1MVm5GMDlUZEdsLUphT1d6ZDRRWkJzdWNCYnlaaFJPYThXWEZ0amlGcG5NbTBnbDluY1R6MVNfMVE",
+      "title": "Generative AI Trends 2026: Every Business Should Know - Nasscom",
+      "description": "Generative AI Trends 2026: Every Business Should Know Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzJJVEZRWlZsTXVaenVVaGxiNFotcW4yd2RWbUNHLWh4U2VGZzlmekJrU2J5TEhfVVBCclRhV09kc2dwa3JFN09MOEtjQUw1bjR3MWZCR2ZtN29yTFpNazBoUEl3VnItN19iWENySm1MVm5GMDlUZEdsLUphT1d6ZDRRWkJzdWNCYnlaaFJPYThXWEZ0amlGcG5NbTBnbDluY1R6MVNfMVE?oc=5",
+      "publishedAt": "2026-10-22T03:42:49.000Z",
+      "sourceId": "google-news-global-genai:nasscom",
+      "sourceName": "Nasscom",
       "sourceType": "media",
       "tier": 3,
       "defaultCategory": "プロダクト",
@@ -55902,104 +56000,6 @@
       "sourceType": "media",
       "tier": 3,
       "defaultCategory": "プロダクト",
-      "aiOnly": true
-    },
-    {
-      "id": "google-news-genai:https-kabu-ir-com--CBMiVEFVX3lxTE9sTUROLUo2dWJNeDViRUpBalNCVTVhcGI4RjlUaVRzOG4za1V3WkYxNEZjR0duVnRVTEFqTWlsVTk3WDlWSFdzcjdsamxXUzZTVTh1WA",
-      "guid": "CBMiVEFVX3lxTE9sTUROLUo2dWJNeDViRUpBalNCVTVhcGI4RjlUaVRzOG4za1V3WkYxNEZjR0duVnRVTEFqTWlsVTk3WDlWSFdzcjdsamxXUzZTVTh1WA",
-      "title": "ジャストシステム、「ＪＵＳＴ．ＤＢ」に生成ＡＩ新機能を搭載、１２月１５日から提供開始 - https://kabu-ir.com/",
-      "description": "ジャストシステム、「ＪＵＳＴ．ＤＢ」に生成ＡＩ新機能を搭載、１２月１５日から提供開始 https://kabu-ir.com/",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sTUROLUo2dWJNeDViRUpBalNCVTVhcGI4RjlUaVRzOG4za1V3WkYxNEZjR0duVnRVTEFqTWlsVTk3WDlWSFdzcjdsamxXUzZTVTh1WA?oc=5",
-      "publishedAt": "2026-10-20T03:33:16.000Z",
-      "sourceId": "google-news-genai:https-kabu-ir-com-",
-      "sourceName": "https://kabu-ir.com/",
-      "sourceType": "media",
-      "tier": 3,
-      "defaultCategory": "プロダクト",
-      "aiOnly": true
-    },
-    {
-      "id": "google-news-genai:campfire--05cd4bd3d766f920e8a0",
-      "guid": "CBMiY0FVX3lxTE1Bckxad0ZCcGZtQzVGdFRhai1ycDExMGRfQnNpQU5xaUNVQVViTkgtcDhiOVRDUW1LMlBvU1hTZ3V2RFNXQlpqREl5YlVreDliR0ZBMzNtaG1fSUh6c1hEUDR1bw",
-      "title": "【UP】日本型営業を変革する「セールスAIエージェントOS」ナレッジワークCAIO 山崎はずむさん-261019-ＩＴビジネスの原理実践編 - CAMPFIRE (キャンプファイヤー)",
-      "description": "【UP】日本型営業を変革する「セールスAIエージェントOS」ナレッジワークCAIO 山崎はずむさん-261019-ＩＴビジネスの原理実践編 CAMPFIRE (キャンプファイヤー)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Bckxad0ZCcGZtQzVGdFRhai1ycDExMGRfQnNpQU5xaUNVQVViTkgtcDhiOVRDUW1LMlBvU1hTZ3V2RFNXQlpqREl5YlVreDliR0ZBMzNtaG1fSUh6c1hEUDR1bw?oc=5",
-      "publishedAt": "2026-10-20T03:31:00.000Z",
-      "sourceId": "google-news-genai:campfire-",
-      "sourceName": "CAMPFIRE (キャンプファイヤー)",
-      "sourceType": "media",
-      "tier": 3,
-      "defaultCategory": "プロダクト",
-      "aiOnly": true
-    },
-    {
-      "id": "google-news-genai:--CBMiV0FVX3lxTE9tc2ZmRkxwVjVfcG5DRDRYbGMzVGR1WllKMGYzODdNeVFWN2JWNXp3b1d0bFdhQlVHeXlLYUd2T2dFSzk2b3FjQm1MVFBEUTlFUVJoV1hDbw",
-      "guid": "CBMiV0FVX3lxTE9tc2ZmRkxwVjVfcG5DRDRYbGMzVGR1WllKMGYzODdNeVFWN2JWNXp3b1d0bFdhQlVHeXlLYUd2T2dFSzk2b3FjQm1MVFBEUTlFUVJoV1hDbw",
-      "title": "博報堂、生成AI画像と既存著作物の類似度を可視化 確認ツールを企業向けに提供 - 株式会社ヴァリューズ",
-      "description": "博報堂、生成AI画像と既存著作物の類似度を可視化 確認ツールを企業向けに提供 株式会社ヴァリューズ",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tc2ZmRkxwVjVfcG5DRDRYbGMzVGR1WllKMGYzODdNeVFWN2JWNXp3b1d0bFdhQlVHeXlLYUd2T2dFSzk2b3FjQm1MVFBEUTlFUVJoV1hDbw?oc=5",
-      "publishedAt": "2026-10-20T03:20:24.000Z",
-      "sourceId": "google-news-genai:-",
-      "sourceName": "株式会社ヴァリューズ",
-      "sourceType": "media",
-      "tier": 3,
-      "defaultCategory": "プロダクト",
-      "aiOnly": true
-    },
-    {
-      "id": "google-news-global-policy:wtol-com-c00a3aa61b96c39add7f",
-      "guid": "CBMi5wFBVV95cUxNdTViMGxiQnJJNUFEVDV4cXUwdlJxRkk5SndPZm9jbzRyNkZaaHhBaEpwOFQxV09XQWRRTEVuUUxpRmd4SWExaHQyREZkRXNVQXFGV2hIRy1YVGdnRVZUTWxmUERGRS10UGNfczMyeWJQbUU1SzB6TlVRWlNfLUxMMVE0UEFvSXlMeHhST1hvc3ZSODhsV2xtT1pSUnp3NkJyVE8yTk9jd05iYnlLZ2FNY1k1R2VJQUZQNjdWT2FGRmxjallVX0hkOG5BRGFsYklEMjB1N3dkWHlIc1dVUEgzNTZOdFF6eGM",
-      "title": "Leaders debate how Toledo's new AI policy should apply to Flock technology - wtol.com",
-      "description": "Leaders debate how Toledo's new AI policy should apply to Flock technology wtol.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdTViMGxiQnJJNUFEVDV4cXUwdlJxRkk5SndPZm9jbzRyNkZaaHhBaEpwOFQxV09XQWRRTEVuUUxpRmd4SWExaHQyREZkRXNVQXFGV2hIRy1YVGdnRVZUTWxmUERGRS10UGNfczMyeWJQbUU1SzB6TlVRWlNfLUxMMVE0UEFvSXlMeHhST1hvc3ZSODhsV2xtT1pSUnp3NkJyVE8yTk9jd05iYnlLZ2FNY1k1R2VJQUZQNjdWT2FGRmxjallVX0hkOG5BRGFsYklEMjB1N3dkWHlIc1dVUEgzNTZOdFF6eGM?oc=5",
-      "publishedAt": "2026-10-20T03:19:00.000Z",
-      "sourceId": "google-news-global-policy:wtol-com",
-      "sourceName": "wtol.com",
-      "sourceType": "media",
-      "tier": 2,
-      "defaultCategory": "政策・社会",
-      "aiOnly": true
-    },
-    {
-      "id": "google-news-genai:usonar-CBMiTkFVX3lxTE9XWE1ZUUk3cm9leThGWVJoTWhFRWZZaC05VzNyb19pQmo3VXNaeWtnVkhoLUVncDIyZjc1TUZnRmRId29paEFSb194V2pCdw",
-      "guid": "CBMiTkFVX3lxTE9XWE1ZUUk3cm9leThGWVJoTWhFRWZZaC05VzNyb19pQmo3VXNaeWtnVkhoLUVncDIyZjc1TUZnRmRId29paEFSb194V2pCdw",
-      "title": "生成AI・LLMの精度は「データ整備」で決まる？企業が取るべき4つのステップを解説！ | ブログ | ユーソナー - uSonar",
-      "description": "生成AI・LLMの精度は「データ整備」で決まる？企業が取るべき4つのステップを解説！ | ブログ | ユーソナー uSonar",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XWE1ZUUk3cm9leThGWVJoTWhFRWZZaC05VzNyb19pQmo3VXNaeWtnVkhoLUVncDIyZjc1TUZnRmRId29paEFSb194V2pCdw?oc=5",
-      "publishedAt": "2026-10-20T03:13:03.000Z",
-      "sourceId": "google-news-genai:usonar",
-      "sourceName": "uSonar",
-      "sourceType": "media",
-      "tier": 3,
-      "defaultCategory": "プロダクト",
-      "aiOnly": true
-    },
-    {
-      "id": "google-news-asia-models:india-today-0992b6b5f11c19d4e98b",
-      "guid": "CBMi5gFBVV95cUxONWJUZ2hpOWZHVFU3U005MUc1Zzg4M1U2THFjdTVza0J0UjFndWtDWEgwRUZzM1B1WDF1UjVpSHdVbk9GdnowQTctOUVTbGdyM29OM2M5ZDlXMkJDM2g3Z0RFc3kwYUhpR3JfYmVJeUxmaE1SQnF5cjlTWWhEUndGNUR4c3d1dEhoRTFzSF9HQXA3dHZoOGpPMHF2c3pta2gxM1hOdWlfQzBKd25wODNlS3FTR09FYzk0WHVJdVdIMEdyU1l3aTFySjBoZVc3dUdZNXAwYXR6S293QzdtV3ZlTzR5NDhkUdIB6wFBVV95cUxNckhWWTNmWV9GYVVnSlc2ZkRGbl84VFRuMS1PWDByb2FQUDNXZGhEdG84MV9zMTRJVUVTX1JNWE52TzBndW5zU0x0VGFaR2sxQnV1VzNVQk4xVnZodzQyRFZhUFBGVGNHR05NRkhORG1EYXJLM1l6bkx3Smhkc19oa2VvMWF1TGdUcWhoQjVEX0RBSzlWWXd0Sl85UTIzNEhBNlNvcDBxSXhkTEJuNDhpSUdlSFhvWHBUaHpzc3R5N0xKTWZTMzZlQThQV2tHcndURXRTUzEyS2tod0xfcmlJbnBoOWI3WjlMX1BR",
-      "title": "US bans agencies from using Chinese AI DeepSeek, warns sensitive data may go to China - India Today",
-      "description": "US bans agencies from using Chinese AI DeepSeek, warns sensitive data may go to China India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWJUZ2hpOWZHVFU3U005MUc1Zzg4M1U2THFjdTVza0J0UjFndWtDWEgwRUZzM1B1WDF1UjVpSHdVbk9GdnowQTctOUVTbGdyM29OM2M5ZDlXMkJDM2g3Z0RFc3kwYUhpR3JfYmVJeUxmaE1SQnF5cjlTWWhEUndGNUR4c3d1dEhoRTFzSF9HQXA3dHZoOGpPMHF2c3pta2gxM1hOdWlfQzBKd25wODNlS3FTR09FYzk0WHVJdVdIMEdyU1l3aTFySjBoZVc3dUdZNXAwYXR6S293QzdtV3ZlTzR5NDhkUdIB6wFBVV95cUxNckhWWTNmWV9GYVVnSlc2ZkRGbl84VFRuMS1PWDByb2FQUDNXZGhEdG84MV9zMTRJVUVTX1JNWE52TzBndW5zU0x0VGFaR2sxQnV1VzNVQk4xVnZodzQyRFZhUFBGVGNHR05NRkhORG1EYXJLM1l6bkx3Smhkc19oa2VvMWF1TGdUcWhoQjVEX0RBSzlWWXd0Sl85UTIzNEhBNlNvcDBxSXhkTEJuNDhpSUdlSFhvWHBUaHpzc3R5N0xKTWZTMzZlQThQV2tHcndURXRTUzEyS2tod0xfcmlJbnBoOWI3WjlMX1BR?oc=5",
-      "publishedAt": "2026-10-20T03:12:37.000Z",
-      "sourceId": "google-news-asia-models:india-today",
-      "sourceName": "India Today",
-      "sourceType": "media",
-      "tier": 2,
-      "defaultCategory": "モデル",
-      "aiOnly": true
-    },
-    {
-      "id": "google-news-asia-models:the-times-of-india-3a3e30d1e296fa231fad",
-      "guid": "CBMi2wJBVV95cUxNbGpGMDF6V2R0VjNpSHpxVmF5SXZtVzcwNW1ZQTR5X194Vnpra1Vic0R1ZGZlYTVyeFo5TnAxdGdXbEwzbFNfb292NWlWSlJQc1F3OHNTVWgwMlR1UjlRcXZZUEYzMVowVWFBaXF0R0E0U0V0QzRQb0lJZEZZTGZoU0tmM21McTNqZVVBQ1hiZ0l4MGxNdVUtVDVnM2E1XzhQVURSUEQyOXNNMXhPcDFkMnJpWlRoWFBRWlpBSUEtTEdxSklGMS1sdlNldDdBRE81X3U5THdqQlROeWNlMXBVMW1nbFcwbGhNNVdPUlBBNW5WZUdkSXVjcldkRGFTVFRBWWFpN09TTk5TU2hPRUVxdW1FUTJrcTBQdDdqNkVYQ1BNaHJITkdQWGJtZHhjMVRsNnVSNmFpS29fdTZjREJZZ1NNSHlubWFRSjRMUkRIeHp4bkxRd0h0bnQtNNIB4AJBVV95cUxPV2dweXJ6NmRzTk5iY2RIekNvcWRXRzNMYzB3NjJsQll6LW9Lb3VLelRzTi1jbmRnM2FIQ2FCMUcyUlVnb0ZjeHVVWWdwaGNXUDA1TW9Eak4welhHR0dZR2ZkU1pXWjlLVlA0blRUUTRpSDRkaEcyejI5UDdiZWl5QzBrV1p2VjdyekttYUF3MkdKZkxDd0xEcXlIN1RpV0R3ZzhEOU1NcHJabTBmTTdEOHV4VkxnMGZrOE1Bck5UNjd3OVdTblNERkNxNWd5TVg2R0g4aXJuRUZ6THo5VTZPZnlBS0tNTGVYXzlBQTA1endoWW10SU9rWFlXemRWTjQ3d0NvQVB5ejg1ZUpMTlJSSEk2RHNCaXNFaGg5enowOFFMNDRkNURITmJEVGZkM0NIM0JLN09vN3JqSm9HMWRnaHNwUS1VQ3lFLUE2bFh3anU5VkhPekRZdVJYRVJiZmt6",
-      "title": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in l - The Times of India",
-      "description": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in l The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNbGpGMDF6V2R0VjNpSHpxVmF5SXZtVzcwNW1ZQTR5X194Vnpra1Vic0R1ZGZlYTVyeFo5TnAxdGdXbEwzbFNfb292NWlWSlJQc1F3OHNTVWgwMlR1UjlRcXZZUEYzMVowVWFBaXF0R0E0U0V0QzRQb0lJZEZZTGZoU0tmM21McTNqZVVBQ1hiZ0l4MGxNdVUtVDVnM2E1XzhQVURSUEQyOXNNMXhPcDFkMnJpWlRoWFBRWlpBSUEtTEdxSklGMS1sdlNldDdBRE81X3U5THdqQlROeWNlMXBVMW1nbFcwbGhNNVdPUlBBNW5WZUdkSXVjcldkRGFTVFRBWWFpN09TTk5TU2hPRUVxdW1FUTJrcTBQdDdqNkVYQ1BNaHJITkdQWGJtZHhjMVRsNnVSNmFpS29fdTZjREJZZ1NNSHlubWFRSjRMUkRIeHp4bkxRd0h0bnQtNNIB4AJBVV95cUxPV2dweXJ6NmRzTk5iY2RIekNvcWRXRzNMYzB3NjJsQll6LW9Lb3VLelRzTi1jbmRnM2FIQ2FCMUcyUlVnb0ZjeHVVWWdwaGNXUDA1TW9Eak4welhHR0dZR2ZkU1pXWjlLVlA0blRUUTRpSDRkaEcyejI5UDdiZWl5QzBrV1p2VjdyekttYUF3MkdKZkxDd0xEcXlIN1RpV0R3ZzhEOU1NcHJabTBmTTdEOHV4VkxnMGZrOE1Bck5UNjd3OVdTblNERkNxNWd5TVg2R0g4aXJuRUZ6THo5VTZPZnlBS0tNTGVYXzlBQTA1endoWW10SU9rWFlXemRWTjQ3d0NvQVB5ejg1ZUpMTlJSSEk2RHNCaXNFaGg5enowOFFMNDRkNURITmJEVGZkM0NIM0JLN09vN3JqSm9HMWRnaHNwUS1VQ3lFLUE2bFh3anU5VkhPekRZdVJYRVJiZmt6?oc=5",
-      "publishedAt": "2026-10-20T03:12:00.000Z",
-      "sourceId": "google-news-asia-models:the-times-of-india",
-      "sourceName": "The Times of India",
-      "sourceType": "media",
-      "tier": 2,
-      "defaultCategory": "モデル",
       "aiOnly": true
     }
   ]

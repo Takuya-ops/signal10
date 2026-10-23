@@ -1,0 +1,337 @@
+{
+  "edition": "2026-10-24T06:30:00+09:00",
+  "generatedAt": "2026-10-23T23:56:27.161Z",
+  "periodStart": "2026-10-21T11:56:27.161Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 42,
+  "freshSources": 39,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 2284,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "openai-https-openai-com-index-decisions-api",
+      "rank": 1,
+      "title": "Build more responsive apps with the Decisions API",
+      "originalTitle": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "points": [
+        "Fast, focused, low-cost decisions for any application.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "url": "https://openai.com/index/decisions-api",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01azBDRjRyV2pnLU9zemZTS3NtRjk2ajg4azNVd1NqdzBYUk1NaElGZFo1SDdZU2NhZy1mR1FRUG5JUWY5MjZ0RXNDd1l2SWhUaE1yVkVlVkcyMF9oeEVPTXR6d0hCSmxCeE8xcm4yd1NHbzFTS0VtcmxrNG02ZTQ?oc=5"
+        },
+        {
+          "name": "Real Sound｜リアルサウンド",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WMC1vOXhpbFFudHVwNFNWakNWMEdUci1XNktHTGdpYlVuOXV5MHEwWnZiRll5a01FRl9aTWNyX3N0STRtMEdPNV80Uk5wRVJwdDl1cjF0RU9JT19MZldnSNIBZkFVX3lxTE5PVlZsWU5HZ05KZ2owTzlSNjRDcmhSSDFTY3ZDblZaQVZhRnpEXzhZTjVkeHdnZlBuVGxIM05lLXlaWmp1c3dqbWlnQ0lWNmlNV1RVNDJMLVpNajg2MUJma05XUjN4QQ?oc=5"
+        },
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUTdna05uODExaVFIcXZETHFmNDVxWkJJTzI2WTJTSlkxQUt3OG5TS2Y4bEUzTlBrZXJhV0ZtaGNFdDhVb3kwM1JPUGE2V0lhZEdXaXVZYUl6aWsxYmlZRXBsMmNFdkI5SFVTRGFHUkQ1Yk5IVlJSVmFMc1JXdHZoeTlwaktCSDVXWXRhVF9Wdjk?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE01azBDRjRyV2pnLU9zemZTS3NtRjk2ajg4azNVd1NqdzBYUk1NaElGZFo1SDdZU2NhZy1mR1FRUG5JUWY5MjZ0RXNDd1l2SWhUaE1yVkVlVkcyMF9oeEVPTXR6d0hCSmxCeE8xcm4yd1NHbzFTS0VtcmxrNG02ZTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUs3bTNfTUxzZlNpMzlaQ3VuendxX3F1MTBNYTB2X2ZJd01TMFZGRnZlODV4OTBZMmdMMm4xMlUxYnpVTE4tNlFYUFM1VG5ZTlU2UlpHOTB4OGozX1VtcXB6c1RkckpJVG4wVWlXNjFTZ2pic09RSFNXaEpIWER2ZWt1dUMzeVhQZ2dxZjlR?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WMC1vOXhpbFFudHVwNFNWakNWMEdUci1XNktHTGdpYlVuOXV5MHEwWnZiRll5a01FRl9aTWNyX3N0STRtMEdPNV80Uk5wRVJwdDl1cjF0RU9JT19MZldnSNIBZkFVX3lxTE5PVlZsWU5HZ05KZ2owTzlSNjRDcmhSSDFTY3ZDblZaQVZhRnpEXzhZTjVkeHdnZlBuVGxIM05lLXlaWmp1c3dqbWlnQ0lWNmlNV1RVNDJMLVpNajg2MUJma05XUjN4QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUTdna05uODExaVFIcXZETHFmNDVxWkJJTzI2WTJTSlkxQUt3OG5TS2Y4bEUzTlBrZXJhV0ZtaGNFdDhVb3kwM1JPUGE2V0lhZEdXaXVZYUl6aWsxYmlZRXBsMmNFdkI5SFVTRGFHUkQ1Yk5IVlJSVmFMc1JXdHZoeTlwaktCSDVXWXRhVF9Wdjk?oc=5",
+        "https://openai.com/index/decisions-api"
+      ],
+      "eventTitles": [
+        "OpenAIの判断特化「Decisions API」が導入企業から大絶賛 NVIDIAが追加学習不要AIモデルの発表も【AIニュース3選】 - Yahoo!ニュース",
+        "OpenAIの判断特化「Decisions API」が導入企業から大絶賛 NVIDIAが追加学習不要AIモデルの発表も【AIニュース3選】 - Real Sound｜リアルサウンド",
+        "OpenAI、GPT-6 LunaとともにDecisions APIの一般提供を開始 - Unite.AI",
+        "Build more responsive apps with the Decisions API"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-scaling-storage-one-billion-users-part-two",
+      "rank": 2,
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "points": [
+        "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+      ],
+      "eventTitles": [
+        "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Oct-23-kimi-k31-pro-",
+      "rank": 3,
+      "title": "Introducing Kimi K3.1 Pro",
+      "originalTitle": "Introducing Kimi K3.1 Pro",
+      "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (exc",
+      "points": [
+        "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026",
+        "They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same).",
+        "The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-23T19:40:54.000Z",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/23/kimi-k31-pro"
+      ],
+      "eventTitles": [
+        "Introducing Kimi K3.1 Pro"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41876",
+      "rank": 4,
+      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+      "originalTitle": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+      "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts ",
+      "points": [
+        "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1.",
+        "During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it",
+        "An internal research model stopped such attacks on its own 67 percent of the time."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-23T17:19:49.000Z",
+      "url": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1"
+      ],
+      "eventTitles": [
+        "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2610-22-2000002490",
+      "rank": 5,
+      "title": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
+      "originalTitle": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
+      "summary": "Anthropicは常時稼働エージェント「Claude Duet」のリサーチプレビューを公開した。「Claude Opus 5.5」をベースに設計し、タスクの優先度などの判断力に優れるという。",
+      "points": [
+        "Anthropicは常時稼働エージェント「Claude Duet」のリサーチプレビューを公開した。「Claude Opus 5.5」をベースに設計し、タスクの優先度などの判断力に優れるという。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-22T01:43:38.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2610/22/2000002490",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5"
+        },
+        {
+          "name": "Real Sound｜リアルサウンド",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MeGhMVGNjenRFbTM1UWZja1dFVHVBSHQweWQ0b08zMXUxVTYtUXBMdFB0WV9Od3l2aTJUbGsyN3hkSmptTmRCZElHczdnQUFMUEZyRUxucnJXM3BzeXY3X9IBZkFVX3lxTFBocGdId1BTTmFHSlBsUERtV1pDNS1ibjdlZUkyY0RuSWVZMEZieFdHejlrSWVOSnJuUEhidzJYdnliNWR3R2tXUVRxbFpTUlFrRjctN1YyYWVYd3VWaUFsamYyZEZZZw?oc=5"
+        },
+        {
+          "name": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBReTZlbFM0YndVZFE0TE56Wk0xdHJDU2ZwSVVvekdrUXlmMGlFUGlxUDI3SkNvbXh5TnpqLWNTRV90ZVZVZTg3dHZ1S1dKT3NIRjc4Y2V6cWZlTDBVdGl6WmVXT0ZQYlluU2o1OEE2Y3dVdFR3ZEFibUlB0gF_QVVfeXFMUHljbUNHRG92OXM0Y1NRRXRDdWhpYUJyaWg0UmRKZWpkdzhKdlVMaU91SEVKaEdYbVQ0QTRlTlpHRXpBcXdYckhKZGJWX3BLNXFCbDFfbzNaWHFjcTh0eVhsbVZZUlA1VGdHOUdzVkpnSVdHMnIzS1cya3hCVjJ3MA?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MeGhMVGNjenRFbTM1UWZja1dFVHVBSHQweWQ0b08zMXUxVTYtUXBMdFB0WV9Od3l2aTJUbGsyN3hkSmptTmRCZElHczdnQUFMUEZyRUxucnJXM3BzeXY3X9IBZkFVX3lxTFBocGdId1BTTmFHSlBsUERtV1pDNS1ibjdlZUkyY0RuSWVZMEZieFdHejlrSWVOSnJuUEhidzJYdnliNWR3R2tXUVRxbFpTUlFrRjctN1YyYWVYd3VWaUFsamYyZEZZZw?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2610/22/2000002490",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBReTZlbFM0YndVZFE0TE56Wk0xdHJDU2ZwSVVvekdrUXlmMGlFUGlxUDI3SkNvbXh5TnpqLWNTRV90ZVZVZTg3dHZ1S1dKT3NIRjc4Y2V6cWZlTDBVdGl6WmVXT0ZQYlluU2o1OEE2Y3dVdFR3ZEFibUlB0gF_QVVfeXFMUHljbUNHRG92OXM0Y1NRRXRDdWhpYUJyaWg0UmRKZWpkdzhKdlVMaU91SEVKaEdYbVQ0QTRlTlpHRXpBcXdYckhKZGJWX3BLNXFCbDFfbzNaWHFjcTh0eVhsbVZZUlA1VGdHOUdzVkpnSVdHMnIzS1cya3hCVjJ3MA?oc=5"
+      ],
+      "eventTitles": [
+        "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+        "Anthropic、能動型AIエージェント『Claude Duet』発表 Claude Opus 5.5を基盤に先回りして操作 - Real Sound｜リアルサウンド",
+        "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
+        "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供 - Infoseek"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-openai-nask-ai-safety-security-partnership",
+      "rank": 6,
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "originalTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "points": [
+        "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      ],
+      "eventTitles": [
+        "OpenAI and Poland’s NASK partner to advance AI safety and security"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-alignment-assessment-ukaisi",
+      "rank": 7,
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "originalTitle": "An alignment assessment of the UK AISI cybertesting incident",
+      "summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
+      "points": [
+        "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations.",
+        "In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "url": "https://anthropic.com/research/alignment-assessment-ukaisi",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/research/alignment-assessment-ukaisi"
+      ],
+      "eventTitles": [
+        "An alignment assessment of the UK AISI cybertesting incident"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-24-2000002564",
+      "rank": 8,
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "originalTitle": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "summary": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
+      "points": [
+        "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-23T22:28:08.000Z",
+      "url": "https://itmedia.co.jp/news/article/2610/24/2000002564",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/24/2000002564"
+      ],
+      "eventTitles": [
+        "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-10-intel-gets-waiver-after-worries-fuzzy-us-ban-on-for",
+      "rank": 9,
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "originalTitle": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "summary": "US chip champion Intel was so confused by the US government ban on foreign-made robots that it requested and received a waiver “out of an abundance of caution.” The tech company wanted to make sure that it could continue using certain robotic vehicles in its U",
+      "points": [
+        "US chip champion Intel was so confused by the US government ban on foreign-made robots that it requested and received a waiver “out of an abundance of caution.” The tech ",
+        "The uncertainty surrounding the Federal Communications Commission ban on certain foreign-made robots was revealed in the agency’s decision to grant Intel’s waiver request",
+        "On October 22, the FCC published its order allowing Intel to continue using the foreign-made robots in US semiconductor manufacturing facilities for a period of one year."
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-23T17:18:31.000Z",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs"
+      ],
+      "eventTitles": [
+        "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-b1f9be62942b6b77e09ee44eda01d25e5a58cfc4",
+      "rank": 10,
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "originalTitle": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "summary": "Plant breeding decisions depend on data that spans genomics, field trials, imagery, environmental conditions, and model outputs. Bayer Crop Science runs hundreds of machine learning (ML) model configurations against this data across crops, regions, and teams, ",
+      "points": [
+        "Plant breeding decisions depend on data that spans genomics, field trials, imagery, environmental conditions, and model outputs.",
+        "Bayer Crop Science runs hundreds of machine learning (ML) model configurations against this data across crops, regions, and teams, and each run needs to be repeatable and",
+        "To meet that requirement, Bayer built the Connected Decision Engine (CDE), a system for deploying, orchestrating, monitoring, and reusing ML workflows."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-23T16:21:36.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations"
+      ],
+      "eventTitles": [
+        "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations"
+      ]
+    }
+  ]
+}
