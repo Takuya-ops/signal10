@@ -1,0 +1,391 @@
+{
+  "edition": "2026-10-23T06:30:00+09:00",
+  "generatedAt": "2026-10-23T00:05:15.963Z",
+  "periodStart": "2026-10-20T12:05:15.963Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 42,
+  "freshSources": 39,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 2221,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3180589",
+      "rank": 1,
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "originalTitle": "DeepSeek reportedly raises $15B days after US restrictions",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "points": [
+        "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S.",
+        "ordered federal agencies to remove its technology over national security concerns.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-22T13:11:13.000Z",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+      "impactScore": 83,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEhWbEtYc1o1RVZIQmk2MmFvUjVuZHNvdVJEN2pReVM4UWpiRHdMMjFGQndyMDBKMHVHOVFJTFlKVVlRZmZiY0d3aTFwM2QzZzdZVDV2WVBzbG50OXJabWdZQXdrdGZJUlJIdGE2Sjg5YjdKcTdJUV9GWnVnSDIwX0JFUXFBdG80UkhxTWxn?oc=5"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTBUemhFOTYwdFI0QVo1MUYzYjFPUjV5Nk1zMHRtN0toUGdSMEwtWVJsUERqcWs4djkzeDF2U1NPa01YMmVIQ2FKNTRTVnJsRS1jNDFodXMyV18wejFsQUtFMVJUbHFtMmJCQ3lvdlY3UHcxa2VrZTk3Qm9XNG5MdnhER0FFUlc3U2YxVS1jM3VqbnpkUXM4?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEhWbEtYc1o1RVZIQmk2MmFvUjVuZHNvdVJEN2pReVM4UWpiRHdMMjFGQndyMDBKMHVHOVFJTFlKVVlRZmZiY0d3aTFwM2QzZzdZVDV2WVBzbG50OXJabWdZQXdrdGZJUlJIdGE2Sjg5YjdKcTdJUV9GWnVnSDIwX0JFUXFBdG80UkhxTWxn?oc=5",
+        "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTBUemhFOTYwdFI0QVo1MUYzYjFPUjV5Nk1zMHRtN0toUGdSMEwtWVJsUERqcWs4djkzeDF2U1NPa01YMmVIQ2FKNTRTVnJsRS1jNDFodXMyV18wejFsQUtFMVJUbHFtMmJCQ3lvdlY3UHcxa2VrZTk3Qm9XNG5MdnhER0FFUlc3U2YxVS1jM3VqbnpkUXM4?oc=5"
+      ],
+      "eventTitles": [
+        "DeepSeek reportedly raises $15B days after US restrictions - Mezha.net",
+        "DeepSeek reportedly raises $15B days after US restrictions",
+        "DeepSeek reportedly raises $15B days after US restrictions - TechCrunch"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-cloudflare-cyber",
+      "rank": 2,
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "originalTitle": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "points": [
+        "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review.",
+        "Its developers use Codex to build faster and improve code quality.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "合同会社ロケットボーイズ",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWFsT0tUMjR3Zms1OHg0UEhsMTNTT0E0OTdhazI4LXBxTGJLbnF4TGhPVGxfRjFPNXdHNE56c1YydVVwZVJxUmQ2aExYOVRrT1hNekZIaERMU3ROallIMldNd3cyY1JqOS1haVJ2UXZpSXdvTXRZVDU2c05EZkZRbVk1cmYzbUpmNURQWVRKMDJGN1dyNmVoZEtwOUJManFiOHdpc0wtUE0wYVFIUk9tOQ?oc=5"
+        },
+        {
+          "name": "GIGAZINE",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Bc3Y5OUtYd2hlQndPQ2ZsNmZMNnNPem1vQURRRGU2NHAzd3U1OVdndVNyOEpEc3JjV3FGWGR5MzF2MTRKblhpV3UzeGc4c3NRcl91WHZreVljSU1BakxiMVdFU0NlekJNbkN0eHNzaw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWFsT0tUMjR3Zms1OHg0UEhsMTNTT0E0OTdhazI4LXBxTGJLbnF4TGhPVGxfRjFPNXdHNE56c1YydVVwZVJxUmQ2aExYOVRrT1hNekZIaERMU3ROallIMldNd3cyY1JqOS1haVJ2UXZpSXdvTXRZVDU2c05EZkZRbVk1cmYzbUpmNURQWVRKMDJGN1dyNmVoZEtwOUJManFiOHdpc0wtUE0wYVFIUk9tOQ?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Bc3Y5OUtYd2hlQndPQ2ZsNmZMNnNPem1vQURRRGU2NHAzd3U1OVdndVNyOEpEc3JjV3FGWGR5MzF2MTRKblhpV3UzeGc4c3NRcl91WHZreVljSU1BakxiMVdFU0NlekJNbkN0eHNzaw?oc=5",
+        "https://openai.com/index/cloudflare-cyber"
+      ],
+      "eventTitles": [
+        "PHP重大脆弱性「php2shell」をAIで発見、OpenAI・Wiz・Cloudflareが公開前の防御に協力 PHP Foundationは開示過程の混乱も説明|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+        "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明 - GIGAZINE",
+        "Cloudflare links vulnerability discovery to defense with OpenAI"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-8dd8e6bc35ad32eff8fd57bbe04f9c56274f46ed",
+      "rank": 3,
+      "title": "Amazon Polly delivers a major upgrade to its Generative engine",
+      "originalTitle": "Amazon Polly delivers a major upgrade to its Generative engine",
+      "summary": "Amazon Polly Generative engine now offers more natural and accurate speech output. We’re introducing an upgrade to the Amazon Polly Generative engine that delivers more expressive, more accurate speech output with low latency. The upgrade adds 14 new voices ac",
+      "points": [
+        "Amazon Polly Generative engine now offers more natural and accurate speech output.",
+        "We’re introducing an upgrade to the Amazon Polly Generative engine that delivers more expressive, more accurate speech output with low latency.",
+        "The upgrade adds 14 new voices across 9 locales, including general availability of Generative voices in Hindi and Finnish for the first time."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-22T18:06:35.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine"
+      ],
+      "eventTitles": [
+        "Amazon Polly delivers a major upgrade to its Generative engine"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-news-donating-agent-skills-to-the-agentic-ai-foundation",
+      "rank": 4,
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "originalTitle": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "points": [
+        "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "url": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "impactScore": 78,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills"
+        }
+      ],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+        "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+      ],
+      "eventTitles": [
+        "Donating Agent Skills to the Agentic AI Foundation"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-et-government-ea7af0221fe455f7fe4d",
+      "rank": 5,
+      "title": "Goa unveils AI policy 2026, launches state-level hackathon - ET Government",
+      "originalTitle": "Goa unveils AI policy 2026, launches state-level hackathon - ET Government",
+      "summary": "Goa unveils AI policy 2026, launches state-level hackathon ET Government",
+      "points": [
+        "Goa unveils AI policy 2026, launches state-level hackathon ET Government",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "ET Government",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-22T16:06:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlg2NWtWR2JKaS1MMkJEaVlNUkgyOEFZdkpDN21md1NhLWpwakcyeDh2X1VpSjNwLU5LZkRKQ2llMVZwYXBOeTVqY3pGMXk3Z2d0aTdNU2hVSWNQb3BqeXBSWnRCN1UwM2xlNDBvSDAzY1ZMS0pQSmhaUlowSjMxMDVTYXNkS3RxN3RtblI1QXVYTE9vUnVCY2FEZGhxT1FSeWljaVVjLTBNaEEtMzNJNnFENU1DMTRXSEJWRkpmOTk2d0VLMUHSAcoBQVVfeXFMTW51T1M3QXl4alhlTEdNSHVvTWRqTk5FQjRCZEl6MHdNMHN5TnlqaTNwVUtsUXZPUWV5UXVVSGd2RWlrWnpXSmRpc0M3RTlnNkRoM3pfcFppMVlqRDdsRDlWamtERDAxVlU1Zkd3dGxVZ0hwdVM5Z3NyY3M5cE04LXZDc2FsNGhuMEtmZEhrUWlzRVh0YlBoc0ZsMFp3SFpjQVhkQUxqdlVBRzUxWmU2YUhpZk5wSDNFVGRVVFoxMjZHOTVxbEQwc2VCZw?oc=5",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ET Government",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYUZMUDc3LVppSFkxT1JmdHRCTmNHUTVaaVZaUHJPQWJUX1A5UUxiY1hYaE9SbUowNC16bU5tVmZQcnZ2VUNEaEtlTkw3T0FVTGRQZjVsU0RDRHdWbl9vQkhlLTQxX0lJb0ZQOXNVTFNQMElucVl5VWxFWUtldUpOMzhJR0F5TWtlLVJKcEJTRVBoMXZ5NnVDdmtfRmRXM2h6R1c2LUtIdUpYZWZQTHoyYlA1dVhVMV80R294c2pUbWM1U0xQcXd3eE5TenlDREQ1Y3doVHgzbXRqeWtDbDBnb3hVRjhSMjg2czVKaFg0amZPQTdOeHBTcVdGeWFMUEnSAcoBQVVfeXFMTW51T1M3QXl4alhlTEdNSHVvTWRqTk5FQjRCZEl6MHdNMHN5TnlqaTNwVUtsUXZPUWV5UXVVSGd2RWlrWnpXSmRpc0M3RTlnNkRoM3pfcFppMVlqRDdsRDlWamtERDAxVlU1Zkd3dGxVZ0hwdVM5Z3NyY3M5cE04LXZDc2FsNGhuMEtmZEhrUWlzRVh0YlBoc0ZsMFp3SFpjQVhkQUxqdlVBRzUxWmU2YUhpZk5wSDNFVGRVVFoxMjZHOTVxbEQwc2VCZw?oc=5"
+        },
+        {
+          "name": "Rediff MoneyWiz",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXJtbUVncUlhQnlJX2RmUWFSYnpaakQwNFdkeWtnek1ZUVd1X2w4R2gybDZaUXhYWVBqU090cEFSWXVDT3BrSEQzcG1aQ195cU9VQWFiUTJFU1Z6WjNjd3FBUDExekJGT0I1c2t5NEhmVUM1NHNSSXVDYUJpcXBHc2s4cWRyTzR4ZFljSWV3T2hMdHdHckRDblFIWUtnTUEwVmhtWURB0gGrAUFVX3lxTE43YTk5OEo2MGN3ODBfZERya3hMLUJpVEdMZXhQekdqOF9hU2tDaGlGN0lSVlhsQWE2YTE0TGwtdnotRGZSZnJDWjRhQ2dDRjNDZ1g0aDdHdU1QM0U3VnR1N1A4a2RfTEFONk1ldl9CazEwTWkyc3U3OG5hTjkxeHhISUVGRzkwdEotOWZUWEM0cWRHU192Tk5pS242OEhqRHNOd3NsNHBYcEdoYw?oc=5"
+        },
+        {
+          "name": "Goa News Hub",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlZnNWgyY1Nvd1hEN0tBbmxHQVBzZzUzUVllZzBhT0dlSWhRN3ZMdTlLc0Q0S1Q3TWNhSllPeDM1a3lHb3BUa2s5QTF2dEU1REZBSGNLaXpVMmxfQW5UVktJZUh6LUpwT0lnQnFaRXd0UmFmZmFJZzd0ZzdVU1lHZjRmNFpuWDRy?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlg2NWtWR2JKaS1MMkJEaVlNUkgyOEFZdkpDN21md1NhLWpwakcyeDh2X1VpSjNwLU5LZkRKQ2llMVZwYXBOeTVqY3pGMXk3Z2d0aTdNU2hVSWNQb3BqeXBSWnRCN1UwM2xlNDBvSDAzY1ZMS0pQSmhaUlowSjMxMDVTYXNkS3RxN3RtblI1QXVYTE9vUnVCY2FEZGhxT1FSeWljaVVjLTBNaEEtMzNJNnFENU1DMTRXSEJWRkpmOTk2d0VLMUHSAcoBQVVfeXFMTW51T1M3QXl4alhlTEdNSHVvTWRqTk5FQjRCZEl6MHdNMHN5TnlqaTNwVUtsUXZPUWV5UXVVSGd2RWlrWnpXSmRpc0M3RTlnNkRoM3pfcFppMVlqRDdsRDlWamtERDAxVlU1Zkd3dGxVZ0hwdVM5Z3NyY3M5cE04LXZDc2FsNGhuMEtmZEhrUWlzRVh0YlBoc0ZsMFp3SFpjQVhkQUxqdlVBRzUxWmU2YUhpZk5wSDNFVGRVVFoxMjZHOTVxbEQwc2VCZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYUZMUDc3LVppSFkxT1JmdHRCTmNHUTVaaVZaUHJPQWJUX1A5UUxiY1hYaE9SbUowNC16bU5tVmZQcnZ2VUNEaEtlTkw3T0FVTGRQZjVsU0RDRHdWbl9vQkhlLTQxX0lJb0ZQOXNVTFNQMElucVl5VWxFWUtldUpOMzhJR0F5TWtlLVJKcEJTRVBoMXZ5NnVDdmtfRmRXM2h6R1c2LUtIdUpYZWZQTHoyYlA1dVhVMV80R294c2pUbWM1U0xQcXd3eE5TenlDREQ1Y3doVHgzbXRqeWtDbDBnb3hVRjhSMjg2czVKaFg0amZPQTdOeHBTcVdGeWFMUEnSAcoBQVVfeXFMTW51T1M3QXl4alhlTEdNSHVvTWRqTk5FQjRCZEl6MHdNMHN5TnlqaTNwVUtsUXZPUWV5UXVVSGd2RWlrWnpXSmRpc0M3RTlnNkRoM3pfcFppMVlqRDdsRDlWamtERDAxVlU1Zkd3dGxVZ0hwdVM5Z3NyY3M5cE04LXZDc2FsNGhuMEtmZEhrUWlzRVh0YlBoc0ZsMFp3SFpjQVhkQUxqdlVBRzUxWmU2YUhpZk5wSDNFVGRVVFoxMjZHOTVxbEQwc2VCZw?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXJtbUVncUlhQnlJX2RmUWFSYnpaakQwNFdkeWtnek1ZUVd1X2w4R2gybDZaUXhYWVBqU090cEFSWXVDT3BrSEQzcG1aQ195cU9VQWFiUTJFU1Z6WjNjd3FBUDExekJGT0I1c2t5NEhmVUM1NHNSSXVDYUJpcXBHc2s4cWRyTzR4ZFljSWV3T2hMdHdHckRDblFIWUtnTUEwVmhtWURB0gGrAUFVX3lxTE43YTk5OEo2MGN3ODBfZERya3hMLUJpVEdMZXhQekdqOF9hU2tDaGlGN0lSVlhsQWE2YTE0TGwtdnotRGZSZnJDWjRhQ2dDRjNDZ1g0aDdHdU1QM0U3VnR1N1A4a2RfTEFONk1ldl9CazEwTWkyc3U3OG5hTjkxeHhISUVGRzkwdEotOWZUWEM0cWRHU192Tk5pS242OEhqRHNOd3NsNHBYcEdoYw?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlZnNWgyY1Nvd1hEN0tBbmxHQVBzZzUzUVllZzBhT0dlSWhRN3ZMdTlLc0Q0S1Q3TWNhSllPeDM1a3lHb3BUa2s5QTF2dEU1REZBSGNLaXpVMmxfQW5UVktJZUh6LUpwT0lnQnFaRXd0UmFmZmFJZzd0ZzdVU1lHZjRmNFpuWDRy?oc=5"
+      ],
+      "eventTitles": [
+        "Goa unveils AI policy 2026, launches state-level hackathon - ET Government",
+        "Goa Launches AI Policy 2026, Hackathon & Tech Conclave - Rediff MoneyWiz",
+        "GOA UNVEILS AI POLICY 2026, LAUNCHES STATE-LEVEL HACKATHON - Goa News Hub"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-23-2000002530",
+      "rank": 6,
+      "title": "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon",
+      "originalTitle": "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon",
+      "summary": "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。",
+      "points": [
+        "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-22T22:03:38.000Z",
+      "url": "https://itmedia.co.jp/news/article/2610/23/2000002530",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/23/2000002530"
+      ],
+      "eventTitles": [
+        "PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-23-2000002531",
+      "rank": 7,
+      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+      "originalTitle": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+      "summary": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。",
+      "points": [
+        "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-22T22:45:34.000Z",
+      "url": "https://itmedia.co.jp/news/article/2610/23/2000002531",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBILVFnbllxWlE2TG4tbC1ITzRQdnNYN1A5NWlaQjFxMkFlRjMxSWRhWjBmSFJBaVZhVVpYM19TeEVUMGR1aUh6ZUI4R1VxbDdwR3B2dGlwWEFuMXBZb0ZEQ01PeXdJU0w2TGc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/23/2000002531",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBILVFnbllxWlE2TG4tbC1ITzRQdnNYN1A5NWlaQjFxMkFlRjMxSWRhWjBmSFJBaVZhVVpYM19TeEVUMGR1aUh6ZUI4R1VxbDdwR3B2dGlwWEFuMXBZb0ZEQ01PeXdJU0w2TGc?oc=5"
+      ],
+      "eventTitles": [
+        "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+        "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告 - ITmedia"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-the-star-33b7486a55c4b6754232",
+      "rank": 8,
+      "title": "Researchers: AI agents on Tencent Cloud try to break into Alibaba’s Amap - The Star",
+      "originalTitle": "Researchers: AI agents on Tencent Cloud try to break into Alibaba’s Amap - The Star",
+      "summary": "Researchers: AI agents on Tencent Cloud try to break into Alibaba’s Amap The Star",
+      "points": [
+        "Researchers: AI agents on Tencent Cloud try to break into Alibaba’s Amap The Star",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "The Star",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-22T04:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXM5TUduQWpXeUNEMGNzVEhmSmw4NUkyNVhKdDNyZ3FaVU1LU2ZKbFlhWmhTQWZfTmM3Tk5xdm1fX2ljS1I2R05xSHpPa3lEYnFGNTZhd0RkZE5RR1hMelNISzIyeVhRUWp1UkFza3lPcFpTRDloUFl5ME9CTjVCdjY2YUxMQi1nVm1sVVRJRVp4SUVPNWtmSy0xRE1vSE1wTUx6YnVIOG9md0RVd2ljY0JTN0tranBLNzI0bW5DdEU?oc=5",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "digitimes",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1VjRlpIVUw1Q1RCcVpzQmtqaXV5WWpQTko1d0JaOHF2VEstUm5hcnUwZk4zQnh2QTBpdkZoaDAzSFFlb05PaFNZY0VneW9PMGd2VTFHN2lGM3o0SG51bGx3WlFEdHRhRzNOb015bWtxdGNmd3JxTVRlNDlhenE3LXdxc3NCNGJNaGUtR1dDQ05CTkE?oc=5"
+        },
+        {
+          "name": "TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQRm9DME1teTlvVWFMUWIzOG5iSmtOMkc5d0lNVG56SlJVUzRCRmU2dzVOcE9ZbXowakdvZ1ZwbVlrc0IzOE1obFl2MVlWcGFiZTZiYVRhbE5PY25ZYjdJVFN6TVQxcnlhNG5vLUxyZ0NYajV6blVWb2NJMWlTZGVpMGMtMWpNblZKZ2pkcGdtQWxfU2JNMno2bzVjTDZ3NmJoRlltNVNsRzd4d2pPRnhCd1hPQ0RNS2tEbzdrMThmVmZ1c3VMYXZIVmdQNDlSSnJiQi04a2VpNEwxN24zcGlCVGFha2VDX2JCOHJjaGJpcVhiWVNkNGUtcVg2c2pLbVlQSWZrUjdnbFFVbzBtczNicGV5ZC1PU1I5TjZld1NXMVhFTGR1U3k0NFZqV0V6ZTlGSFgxSTdiSzBJN25zOFlwSmx5YkUzZ0pZMWtsMlRFY1hXam0zcXNFcUlwbDk5dVVa?oc=5"
+        },
+        {
+          "name": "InfotechLead",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYkxwTThxOThUMEdXOXd0bWo3U21wNWF1MTVzbHVoOXBWMVc3SmVMU3V1alA2VFhoSE1RbnYyQkZLcHBmTnZ0MG1lWmxkTGYya1NZYlBya21xdV9qN0haeG1oaGdJU00tX2lEYVJWbE1SZFJxSDNseWIxRXBYUjNWbkpYSUhoVFZYVGI5NmdoNDAyYVZnNVQ5THgyU3FISjBnc0hBMTZxY0dJQTBoQ2VlUmpkNk5wT2hjNVBHSjZ6VEM0b3NqbERZNWxNdUI0LXlnSjFhdtIB3AFBVV95cUxNSERKUWVKUXhmcHVTVXV0TFYzbFlPX1h6d19RRzlTT05sX0FrMUpfUmFBSnZKNl9YcDVmeXV5WEZuVTdjcko3Z3g5OXpCeWRaRlB6ZDhWdm9vWm1TTzF6Y2hzSG1POXVfVHZ4TlVqUld1N0piQWlIdVBnSTA4bDM2dG15ZWxRcG1IZUFtNXA4cDVDQjFNOHl0ZktleHJ2RlBYOEJSY255RWdKMUJYd3FvMWlGRkxkUDZQSjRnSldGX3ZMQnU3TGtSa1N6YXlLV3ViTzllUHdvTzZLSkR2?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXM5TUduQWpXeUNEMGNzVEhmSmw4NUkyNVhKdDNyZ3FaVU1LU2ZKbFlhWmhTQWZfTmM3Tk5xdm1fX2ljS1I2R05xSHpPa3lEYnFGNTZhd0RkZE5RR1hMelNISzIyeVhRUWp1UkFza3lPcFpTRDloUFl5ME9CTjVCdjY2YUxMQi1nVm1sVVRJRVp4SUVPNWtmSy0xRE1vSE1wTUx6YnVIOG9md0RVd2ljY0JTN0tranBLNzI0bW5DdEU?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1VjRlpIVUw1Q1RCcVpzQmtqaXV5WWpQTko1d0JaOHF2VEstUm5hcnUwZk4zQnh2QTBpdkZoaDAzSFFlb05PaFNZY0VneW9PMGd2VTFHN2lGM3o0SG51bGx3WlFEdHRhRzNOb015bWtxdGNmd3JxTVRlNDlhenE3LXdxc3NCNGJNaGUtR1dDQ05CTkE?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQRm9DME1teTlvVWFMUWIzOG5iSmtOMkc5d0lNVG56SlJVUzRCRmU2dzVOcE9ZbXowakdvZ1ZwbVlrc0IzOE1obFl2MVlWcGFiZTZiYVRhbE5PY25ZYjdJVFN6TVQxcnlhNG5vLUxyZ0NYajV6blVWb2NJMWlTZGVpMGMtMWpNblZKZ2pkcGdtQWxfU2JNMno2bzVjTDZ3NmJoRlltNVNsRzd4d2pPRnhCd1hPQ0RNS2tEbzdrMThmVmZ1c3VMYXZIVmdQNDlSSnJiQi04a2VpNEwxN24zcGlCVGFha2VDX2JCOHJjaGJpcVhiWVNkNGUtcVg2c2pLbVlQSWZrUjdnbFFVbzBtczNicGV5ZC1PU1I5TjZld1NXMVhFTGR1U3k0NFZqV0V6ZTlGSFgxSTdiSzBJN25zOFlwSmx5YkUzZ0pZMWtsMlRFY1hXam0zcXNFcUlwbDk5dVVa?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYkxwTThxOThUMEdXOXd0bWo3U21wNWF1MTVzbHVoOXBWMVc3SmVMU3V1alA2VFhoSE1RbnYyQkZLcHBmTnZ0MG1lWmxkTGYya1NZYlBya21xdV9qN0haeG1oaGdJU00tX2lEYVJWbE1SZFJxSDNseWIxRXBYUjNWbkpYSUhoVFZYVGI5NmdoNDAyYVZnNVQ5THgyU3FISjBnc0hBMTZxY0dJQTBoQ2VlUmpkNk5wT2hjNVBHSjZ6VEM0b3NqbERZNWxNdUI0LXlnSjFhdtIB3AFBVV95cUxNSERKUWVKUXhmcHVTVXV0TFYzbFlPX1h6d19RRzlTT05sX0FrMUpfUmFBSnZKNl9YcDVmeXV5WEZuVTdjcko3Z3g5OXpCeWRaRlB6ZDhWdm9vWm1TTzF6Y2hzSG1POXVfVHZ4TlVqUld1N0piQWlIdVBnSTA4bDM2dG15ZWxRcG1IZUFtNXA4cDVDQjFNOHl0ZktleHJ2RlBYOEJSY255RWdKMUJYd3FvMWlGRkxkUDZQSjRnSldGX3ZMQnU3TGtSa1N6YXlLV3ViTzllUHdvTzZLSkR2?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVNzMDU1dW1vamJoNEdTUjItYVBycTBlVWl0TnRhdUJPVzB5bTFpRmNwNjVVVFVoaHhZX0tKa3MzYnExUEJrMDBlejhlM3d1T3dFWXM4MGNOS2gweUE0a19rdVZMUEF0MHl5MXhaVmREb01WN0toZnlYUHlINl9Qa3V2UHo5YlVLNjl6NFp3SzV5NVNqTEZMY1gyZmZYMF9TdTVxVHBLWS1hT2Q3REhmVFVUV2h0TUN5NjZiMXNLMkc3U2lRYWo4LU91QTNmRTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0JPZFhiZEVBdWxfc1Bvemt4TWp5Uzk3WHR3QUxaWGtaM0pIV2VJOHpHQ0RnZDR4QUpBNUg5am5yWndPY0w1UDNScnUyNjM1alZaTFBnd3pCa0pBY0kxbFNaRGN5NHowTzZROWFCeExqcjdaV0NVYWtweURDT0tmTzNnOVB3d0NhR2RJTEcyM0Q?oc=5"
+      ],
+      "eventTitles": [
+        "Researchers: AI agents on Tencent Cloud try to break into Alibaba’s Amap - The Star",
+        "How ByteDance, Alibaba, Tencent are testing the boundaries of US AI chip restrictions - digitimes",
+        "'Some agents exhibited unintended web-browsing behavior': Tencent admits AI agents it was testing made more than 2,600 attempts in 11 days to slip past Alibaba's map defenses, just to find out which zoo gate people use - TechRadar",
+        "ByteDance, Alibaba and Tencent Place $35 Billion Nvidia AI Chip Orders as China Faces GPU Shortage - InfotechLead",
+        "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
+        "ByteDance, Alibaba, Tencent place over US$35 billion worth of Nvidia chip orders - The Standard (HK)",
+        "Tencent、クラウド上のAIエージェントがAlibabaのAmapデータへのアクセスを2,600回以上試みたと発表 - Mezha.net"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-security-2026-10-hackers-got-a-four-day-head-start-on-epic-php",
+      "rank": 9,
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "originalTitle": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "summary": "Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governments and companies rush to secure their systems. The world’s largest cloud computing provid",
+      "points": [
+        "Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governme",
+        "The world’s largest cloud computing provider on Wednesday said it had identified an attempt by hackers to exploit the bug four days before the weakness was disclosed to t",
+        "Amazon added the flaws were “now being broadly exploited in the wild.” Read full article Comments"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-22T15:25:02.000Z",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability"
+      ],
+      "eventTitles": [
+        "Hackers got a four-day head start on epic PHP2Shell vulnerability"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-123e9274ff10d780d0521efd9bdc03cfb23cff08",
+      "rank": 10,
+      "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "originalTitle": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "summary": "Companies getting real results from AI aren’t only using foundation models (FMs) off the shelf. They’re customizing open-weight models using post-training techniques such as reinforcement learning. A model trained on your business context, product catalog, or ",
+      "points": [
+        "Companies getting real results from AI aren’t only using foundation models (FMs) off the shelf.",
+        "They’re customizing open-weight models using post-training techniques such as reinforcement learning.",
+        "A model trained on your business context, product catalog, or clinical vocabulary will be more accurate for your task and cost less to run."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-22T18:00:04.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [
+        {
+          "name": "AWS Machine Learning",
+          "url": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai"
+        }
+      ],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
+        "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai",
+        "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai",
+        "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod"
+      ],
+      "eventTitles": [
+        "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+        "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+        "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
+        "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod"
+      ]
+    }
+  ]
+}
