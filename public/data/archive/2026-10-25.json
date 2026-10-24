@@ -1,0 +1,311 @@
+{
+  "edition": "2026-10-25T06:30:00+09:00",
+  "generatedAt": "2026-10-24T23:31:01.600Z",
+  "periodStart": "2026-10-22T11:31:01.600Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 36,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 1298,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41914",
+      "rank": 1,
+      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+      "originalTitle": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+      "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a Mac",
+      "points": [
+        "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first.",
+        "Dessa is designed to recognize emotions, sarcasm, and pauses in real time.",
+        "The model runs locally on a MacBook Pro M4 Max but isn't publicly available yet."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-24T14:09:46.000Z",
+      "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss",
+      "impactScore": 63,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss"
+      ],
+      "eventTitles": [
+        "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3162590",
+      "rank": 2,
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "points": [
+        "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "impactScore": 62,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it"
+      ],
+      "eventTitles": [
+        "The AI graveyard: a running list of projects and startups that didn’t make it"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3181243",
+      "rank": 3,
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "points": [
+        "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of ne",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"
+      ],
+      "eventTitles": [
+        "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
+      ]
+    },
+    {
+      "id": "wired-ai-6ad927eedb675d3d17a94c9a",
+      "rank": 4,
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "originalTitle": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "points": [
+        "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language.",
+        "Then the AI-assisted attacks began.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "url": "https://wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable"
+      ],
+      "eventTitles": [
+        "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41846",
+      "rank": 5,
+      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+      "originalTitle": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Goog",
+      "points": [
+        "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable c",
+        "The article Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine appeared first on The Decoder .",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-22T17:50:09.000Z",
+      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "財経新聞",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4dEZINXZlRlVpZTRkclk1WEdTN0hxT2U1OXZ4cjFMNzVfUzdGTlZ2VU1faFl1dUM3S0d6ckFMOGpmWlRkdHF1Q0Q1RUE4Vk9ZdDBZd3RZc214VjYyaTJDelVpY1kxMVdr0gFoQVVfeXFMUHh0Rkg1dmVGVWllNGRyWTVYR1M3SHFPZTU5dnhyMUw3NV9TN0ZOVnZVTV9oWXV1QzdLR3pyQUw4amZaVGR0cXVDRDVFQThWT1l0MFl3dFlzbXhWNjJpMkN6VWljWTExV2s?oc=5"
+        },
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3JhbWNsSm82Wi1fZVdEWWk2SUluNzFJd05ZanVId2hRRi13ZUpWSURMWGRvN3lHYVB2THZxbzkwc0JBQmIwSzJpRHlhTy13cjYtMGJOQjcxYTdZQ2VYX0duVXljRkVQRGJ0WVlEUkZSUTdMZE5oVXBtZXNTb1pLSUI4akdiZnY3MnVMYk9LOUhaV1FPbGtKMHdGa2Nsdw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4dEZINXZlRlVpZTRkclk1WEdTN0hxT2U1OXZ4cjFMNzVfUzdGTlZ2VU1faFl1dUM3S0d6ckFMOGpmWlRkdHF1Q0Q1RUE4Vk9ZdDBZd3RZc214VjYyaTJDelVpY1kxMVdr0gFoQVVfeXFMUHh0Rkg1dmVGVWllNGRyWTVYR1M3SHFPZTU5dnhyMUw3NV9TN0ZOVnZVTV9oWXV1QzdLR3pyQUw4amZaVGR0cXVDRDVFQThWT1l0MFl3dFlzbXhWNjJpMkN6VWljWTExV2s?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3JhbWNsSm82Wi1fZVdEWWk2SUluNzFJd05ZanVId2hRRi13ZUpWSURMWGRvN3lHYVB2THZxbzkwc0JBQmIwSzJpRHlhTy13cjYtMGJOQjcxYTdZQ2VYX0duVXljRkVQRGJ0WVlEUkZSUTdMZE5oVXBtZXNTb1pLSUI4akdiZnY3MnVMYk9LOUhaV1FPbGtKMHdGa2Nsdw?oc=5",
+        "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine"
+      ],
+      "eventTitles": [
+        "Google Cloud、AIエージェント向け「Agent Compute Engine」発表 認証情報を実行環境から分離 - 財経新聞",
+        "Google、AIエージェントごとにmicroVMを割り当てる「Agent Compute Engine」を発表 - Pasquale Pillitteri",
+        "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3181490",
+      "rank": 6,
+      "title": "Block’s new voice model sounds eerily human",
+      "originalTitle": "Block’s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "points": [
+        "Block said that the voice model can run locally on a MacBook M4 Max",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "impactScore": 57,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
+      ],
+      "eventTitles": [
+        "Block’s new voice model sounds eerily human"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3173132",
+      "rank": 7,
+      "title": "Here are the top AI agents that can live in your text messages",
+      "originalTitle": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "points": [
+        "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "impactScore": 57,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages"
+      ],
+      "eventTitles": [
+        "Here are the top AI agents that can live in your text messages"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41882",
+      "rank": 8,
+      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
+      "originalTitle": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
+      "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above ",
+      "points": [
+        "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significan",
+        "OpenAI redacted large portions of the 61-page report, and only a summary is publicly available.",
+        "The article Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring appeared first on The Decoder ."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-23T18:00:32.000Z",
+      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring",
+      "impactScore": 57,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring"
+      ],
+      "eventTitles": [
+        "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-securing-our-frontier-model-training-environment",
+      "rank": 9,
+      "title": "Securing our frontier model training environment",
+      "originalTitle": "Securing our frontier model training environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "points": [
+        "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "impactScore": 57,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/securing-our-frontier-model-training-environment"
+      ],
+      "eventTitles": [
+        "Securing our frontier model training environment"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41908",
+      "rank": 10,
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "originalTitle": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through si",
+      "points": [
+        "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open in",
+        "In controlled tests, AI agents still found ways to communicate covertly through side channels.",
+        "The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to contain."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-24T11:12:36.000Z",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "impactScore": 56,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache"
+      ],
+      "eventTitles": [
+        "OpenAI's isolated AI agents found ways to talk to each other through CPU cache"
+      ]
+    }
+  ]
+}
