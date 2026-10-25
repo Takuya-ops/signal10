@@ -1,7 +1,7 @@
 {
-  "edition": "2026-10-25T06:30:00+09:00",
-  "generatedAt": "2026-10-24T23:31:01.600Z",
-  "periodStart": "2026-10-22T11:31:01.600Z",
+  "edition": "2026-10-26T06:30:00+09:00",
+  "generatedAt": "2026-10-25T23:25:39.529Z",
+  "periodStart": "2026-10-23T11:25:39.529Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 39,
@@ -9,200 +9,229 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1298,
+  "candidateCount": 449,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "the-decoder-https-the-decoder-com-p-41914",
+      "id": "google-news-global-policy-hit-channel-deea7de9139cfcde6b27",
       "rank": 1,
-      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
-      "originalTitle": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
-      "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a Mac",
+      "title": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle - Hit Channel",
+      "originalTitle": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle - Hit Channel",
+      "summary": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle Hit Channel",
       "points": [
-        "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first.",
-        "Dessa is designed to recognize emotions, sarcasm, and pauses in real time.",
-        "The model runs locally on a MacBook Pro M4 Max but isn't publicly available yet."
+        "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle Hit Channel",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "The Decoder",
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Hit Channel",
       "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-24T14:09:46.000Z",
-      "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-25T18:56:51.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmeEt2ZndXWVFlMUh6YUo1VlZVTW8tbXZWUUN5TEFmc3JHczkyYnRseU5FZEQxZDFkTk5nUWZkRWwtWHpKaFJZV2VoZmVxc3hjMVVuQXB6WXlTYy1RWEhVOGtwRzNJYjFZa0xaUUFodGVvR1pGampHd1ZrRQ?oc=5",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "KarloBag.eu",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3BlQkYtX1FBWTFPY2NQR2JkX1J0VDdpWW43NjBSelU0cEFHSVBZYm4xeEFJQ3BxUW5POEEwUHhXdENGU0NLY0VnZV9yY1hNRFFXUU1FS1lGTXlPWkNCdWFSWDVEQmg3Z1FxaUFwSjZJWWg2S0hKTTUwUlVPZ0wwRG41SU9fdlp3cFhJcHNySTZ5aVFsRVBFRmVwT1Q1UWlHQml1MTFVaXBUTVcyVlQzVDJ3bjBQQQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmeEt2ZndXWVFlMUh6YUo1VlZVTW8tbXZWUUN5TEFmc3JHczkyYnRseU5FZEQxZDFkTk5nUWZkRWwtWHpKaFJZV2VoZmVxc3hjMVVuQXB6WXlTYy1RWEhVOGtwRzNJYjFZa0xaUUFodGVvR1pGampHd1ZrRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3BlQkYtX1FBWTFPY2NQR2JkX1J0VDdpWW43NjBSelU0cEFHSVBZYm4xeEFJQ3BxUW5POEEwUHhXdENGU0NLY0VnZV9yY1hNRFFXUU1FS1lGTXlPWkNCdWFSWDVEQmg3Z1FxaUFwSjZJWWg2S0hKTTUwUlVPZ0wwRG41SU9fdlp3cFhJcHNySTZ5aVFsRVBFRmVwT1Q1UWlHQml1MTFVaXBUTVcyVlQzVDJ3bjBQQQ?oc=5"
+      ],
+      "eventTitles": [
+        "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle - Hit Channel",
+        "Elvis Presley songs in Anthropic AI copyright lawsuit - KarloBag.eu"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3181554",
+      "rank": 2,
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "points": [
+        "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
       "impactScore": 63,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss"
+        "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
       ],
       "eventTitles": [
-        "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss"
+        "Grok releases the first seven minutes of its AI-generated ‘Odyssey’"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3162590",
-      "rank": 2,
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "id": "google-news-global-policy-the-music-network-43f167ba0d692242c04f",
+      "rank": 3,
+      "title": "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats - The Music Network",
+      "originalTitle": "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats - The Music Network",
+      "summary": "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats The Music Network",
       "points": [
-        "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats The Music Network",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "TechCrunch",
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Music Network",
       "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-25T22:24:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlplNmoxdVBtdW9RRUZYY3RqQ3VQek9mSU1ZZnk3UVVSSzRhSGFDSExtak9URTJfY182OF91RHJmVEd2RUdRbWI3MWllVEJyWTZwTlJacnl6eEVBaUo1c0pzUFlCNnBYY0NTaVZiaFg0Q1ZpN2poRXJhZ2pPZC1pQ21yTWxwalFSOHNuZWMwQnZZczhqajFhQ216UHk1WkU0T2V1RjBIaVdRYWlHN0JpZnk0VWhtOHc?oc=5",
       "impactScore": 62,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlplNmoxdVBtdW9RRUZYY3RqQ3VQek9mSU1ZZnk3UVVSSzRhSGFDSExtak9URTJfY182OF91RHJmVEd2RUdRbWI3MWllVEJyWTZwTlJacnl6eEVBaUo1c0pzUFlCNnBYY0NTaVZiaFg0Q1ZpN2poRXJhZ2pPZC1pQ21yTWxwalFSOHNuZWMwQnZZczhqajFhQ216UHk1WkU0T2V1RjBIaVdRYWlHN0JpZnk0VWhtOHc?oc=5"
       ],
       "eventTitles": [
-        "The AI graveyard: a running list of projects and startups that didn’t make it"
+        "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats - The Music Network"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3181243",
-      "rank": 3,
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "id": "google-news-global-policy-the-music-network-7fcc7fa5f47df163313d",
+      "rank": 4,
+      "title": "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds - The Music Network",
+      "originalTitle": "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds - The Music Network",
+      "summary": "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds The Music Network",
       "points": [
-        "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of ne",
+        "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds The Music Network",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Music Network",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-25T22:30:47.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0NrMWE2Sk5SaGxLZ1YwaGEwZ1FsR3pGQnYtMjRGTFg1QklMdkZFdTZyWHA2U3R0Z3VMYTdlLV8yQm5KeVF3dmQ3WW9IeldmYlFEZVBBUzFWd0x1WWVTYnZNdTNLUVV3YmVzNDgwaTNxYkZ3V1phRU5nOGlVSDQ1eFE5MlVPZU5PVnhyWkVNTHlVa0ZYSU9udmx6NlltWlVSZmFOSzFfZTJIWG0z?oc=5",
+      "impactScore": 60,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0NrMWE2Sk5SaGxLZ1YwaGEwZ1FsR3pGQnYtMjRGTFg1QklMdkZFdTZyWHA2U3R0Z3VMYTdlLV8yQm5KeVF3dmQ3WW9IeldmYlFEZVBBUzFWd0x1WWVTYnZNdTNLUVV3YmVzNDgwaTNxYkZ3V1phRU5nOGlVSDQ1eFE5MlVPZU5PVnhyWkVNTHlVa0ZYSU9udmx6NlltWlVSZmFOSzFfZTJIWG0z?oc=5"
+      ],
+      "eventTitles": [
+        "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds - The Music Network"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-41950",
+      "rank": 5,
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+      "originalTitle": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US co",
+      "points": [
+        "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as ",
+        "The race won't be decided by breakthroughs but by who can bankroll it.",
+        "US corporations alone plan to spend more than $600 billion in 2026."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-25T08:09:32.000Z",
+      "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies"
+      ],
+      "eventTitles": [
+        "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-l-orient-today-143bd70b58a1432c8e24",
+      "rank": 6,
+      "title": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments - L'Orient Today",
+      "originalTitle": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments - L'Orient Today",
+      "summary": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments L'Orient Today",
+      "points": [
+        "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments L'Orient Today",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "TechCrunch",
+      "source": "L'Orient Today",
       "sourceType": "media",
       "category": "モデル",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"
-      ],
-      "eventTitles": [
-        "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
-      ]
-    },
-    {
-      "id": "wired-ai-6ad927eedb675d3d17a94c9a",
-      "rank": 4,
-      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "originalTitle": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-      "points": [
-        "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language.",
-        "Then the AI-assisted attacks began.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "WIRED",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-24T12:00:00.000Z",
-      "url": "https://wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable"
-      ],
-      "eventTitles": [
-        "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41846",
-      "rank": 5,
-      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
-      "originalTitle": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
-      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Goog",
-      "points": [
-        "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable c",
-        "The article Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine appeared first on The Decoder .",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-22T17:50:09.000Z",
-      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine",
+      "publishedAt": "2026-10-25T07:21:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNSNFN0bDZabWpTQmRvZXM3bFpTWlFXTE9KY1RkTGRwRDY1bFcyNG9vdkdZbTFiWHRmOG4wbm1fU3E2XzAyMG5zWWprcm02NXgxLUw0bEk0bFhGU0tSX3lzMS00MXpuQjJlN0JBVlAyT1kwWUpOX0FfQkdaSDVqUi1zSzMzQnM4eF9BOUZ5X1lORmgzSmlqS0Y5enFtb096X1FPVGlKbXFqeExmMXlidFczQmJ4UHROQlh0bVdEV1VUektkai0xMmVUV1l3M0QwbmJnNVhZUzJqT0pTUy05d1Rrd21EV3FFZy01aVJB?oc=5",
       "impactScore": 58,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "財経新聞",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4dEZINXZlRlVpZTRkclk1WEdTN0hxT2U1OXZ4cjFMNzVfUzdGTlZ2VU1faFl1dUM3S0d6ckFMOGpmWlRkdHF1Q0Q1RUE4Vk9ZdDBZd3RZc214VjYyaTJDelVpY1kxMVdr0gFoQVVfeXFMUHh0Rkg1dmVGVWllNGRyWTVYR1M3SHFPZTU5dnhyMUw3NV9TN0ZOVnZVTV9oWXV1QzdLR3pyQUw4amZaVGR0cXVDRDVFQThWT1l0MFl3dFlzbXhWNjJpMkN6VWljWTExV2s?oc=5"
-        },
-        {
-          "name": "Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3JhbWNsSm82Wi1fZVdEWWk2SUluNzFJd05ZanVId2hRRi13ZUpWSURMWGRvN3lHYVB2THZxbzkwc0JBQmIwSzJpRHlhTy13cjYtMGJOQjcxYTdZQ2VYX0duVXljRkVQRGJ0WVlEUkZSUTdMZE5oVXBtZXNTb1pLSUI4akdiZnY3MnVMYk9LOUhaV1FPbGtKMHdGa2Nsdw?oc=5"
+          "name": "The Star",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcllGSnVjY0xIbVRCakRXa3RCb1NSNDg4OFRIRFNxWm5iMXk1TDFuTUdPblVKRTFXckhYYVg1TDJLYTNUeXBTMEw4cGdnQWl3TTY1eXk4OXBhaENhakExNmlQYVpPOVFFQlIyWE04QXJ4NmRLNi1jeFFSUk1NWW9ibzF0LUdaZWxuNjdYc1o2M1dycVdVd1hwRTF6RTR5U3hRYTY0aE5oQmphN3hjQzBhMUJZRmpKMW4xS3REd0o4c09iZENKcDM1ZzUtYjM4ZmtOODFJYWZSOFp0Q3p0Q0Vz?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4dEZINXZlRlVpZTRkclk1WEdTN0hxT2U1OXZ4cjFMNzVfUzdGTlZ2VU1faFl1dUM3S0d6ckFMOGpmWlRkdHF1Q0Q1RUE4Vk9ZdDBZd3RZc214VjYyaTJDelVpY1kxMVdr0gFoQVVfeXFMUHh0Rkg1dmVGVWllNGRyWTVYR1M3SHFPZTU5dnhyMUw3NV9TN0ZOVnZVTV9oWXV1QzdLR3pyQUw4amZaVGR0cXVDRDVFQThWT1l0MFl3dFlzbXhWNjJpMkN6VWljWTExV2s?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3JhbWNsSm82Wi1fZVdEWWk2SUluNzFJd05ZanVId2hRRi13ZUpWSURMWGRvN3lHYVB2THZxbzkwc0JBQmIwSzJpRHlhTy13cjYtMGJOQjcxYTdZQ2VYX0duVXljRkVQRGJ0WVlEUkZSUTdMZE5oVXBtZXNTb1pLSUI4akdiZnY3MnVMYk9LOUhaV1FPbGtKMHdGa2Nsdw?oc=5",
-        "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine"
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNSNFN0bDZabWpTQmRvZXM3bFpTWlFXTE9KY1RkTGRwRDY1bFcyNG9vdkdZbTFiWHRmOG4wbm1fU3E2XzAyMG5zWWprcm02NXgxLUw0bEk0bFhGU0tSX3lzMS00MXpuQjJlN0JBVlAyT1kwWUpOX0FfQkdaSDVqUi1zSzMzQnM4eF9BOUZ5X1lORmgzSmlqS0Y5enFtb096X1FPVGlKbXFqeExmMXlidFczQmJ4UHROQlh0bVdEV1VUektkai0xMmVUV1l3M0QwbmJnNVhZUzJqT0pTUy05d1Rrd21EV3FFZy01aVJB?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcllGSnVjY0xIbVRCakRXa3RCb1NSNDg4OFRIRFNxWm5iMXk1TDFuTUdPblVKRTFXckhYYVg1TDJLYTNUeXBTMEw4cGdnQWl3TTY1eXk4OXBhaENhakExNmlQYVpPOVFFQlIyWE04QXJ4NmRLNi1jeFFSUk1NWW9ibzF0LUdaZWxuNjdYc1o2M1dycVdVd1hwRTF6RTR5U3hRYTY0aE5oQmphN3hjQzBhMUJZRmpKMW4xS3REd0o4c09iZENKcDM1ZzUtYjM4ZmtOODFJYWZSOFp0Q3p0Q0Vz?oc=5"
       ],
       "eventTitles": [
-        "Google Cloud、AIエージェント向け「Agent Compute Engine」発表 認証情報を実行環境から分離 - 財経新聞",
-        "Google、AIエージェントごとにmicroVMを割り当てる「Agent Compute Engine」を発表 - Pasquale Pillitteri",
-        "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine"
+        "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments - L'Orient Today",
+        "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts - The Star"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3181490",
-      "rank": 6,
-      "title": "Block’s new voice model sounds eerily human",
-      "originalTitle": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "id": "google-news-global-policy-india-new-england-news-dfed59c967b0504cb2fc",
+      "rank": 7,
+      "title": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News",
+      "originalTitle": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News",
+      "summary": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation INDIA New England News",
       "points": [
-        "Block said that the voice model can run locally on a MacBook M4 Max",
+        "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation INDIA New England News",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "TechCrunch",
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "INDIA New England News",
       "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-24T16:00:00.000Z",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
-      "impactScore": 57,
+      "category": "政策・社会",
+      "publishedAt": "2026-10-25T20:51:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzJxR0FDNTZ0VkpfbnlhRjF2dnlnMGV5NkZoVDBfTlExc010R3d1YVB0eWxsRU1qS2pBaVBxOEpMSVBOa0dhTzduTmlaLU9LLWxrOG02ZlY5a0lqLUhlUlNPM1VzWlRRNDZwSlJ5Z2pkWlRpYl8tdmlsc2E2d0o0MFRPU0hsV0lXbzhucjh5b2V2TTVoaG12S0lkTGU5dG9VZVpUcHFaOW9tNlJRdGc?oc=5",
+      "impactScore": 55,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzJxR0FDNTZ0VkpfbnlhRjF2dnlnMGV5NkZoVDBfTlExc010R3d1YVB0eWxsRU1qS2pBaVBxOEpMSVBOa0dhTzduTmlaLU9LLWxrOG02ZlY5a0lqLUhlUlNPM1VzWlRRNDZwSlJ5Z2pkWlRpYl8tdmlsc2E2d0o0MFRPU0hsV0lXbzhucjh5b2V2TTVoaG12S0lkTGU5dG9VZVpUcHFaOW9tNlJRdGc?oc=5"
       ],
       "eventTitles": [
-        "Block’s new voice model sounds eerily human"
+        "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3173132",
-      "rank": 7,
-      "title": "Here are the top AI agents that can live in your text messages",
-      "originalTitle": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3181532",
+      "rank": 8,
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
       "points": [
-        "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -210,101 +239,73 @@
       "source": "TechCrunch",
       "sourceType": "media",
       "category": "ビジネス",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "impactScore": 57,
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "impactScore": 54,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages"
+        "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist"
       ],
       "eventTitles": [
-        "Here are the top AI agents that can live in your text messages"
+        "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
       ]
     },
     {
-      "id": "the-decoder-https-the-decoder-com-p-41882",
-      "rank": 8,
-      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "originalTitle": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above ",
-      "points": [
-        "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significan",
-        "OpenAI redacted large portions of the 61-page report, and only a summary is publicly available.",
-        "The article Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring appeared first on The Decoder ."
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-23T18:00:32.000Z",
-      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring",
-      "impactScore": 57,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring"
-      ],
-      "eventTitles": [
-        "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-index-securing-our-frontier-model-training-environment",
+      "id": "the-decoder-https-the-decoder-com-p-41955",
       "rank": 9,
-      "title": "Securing our frontier model training environment",
-      "originalTitle": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "originalTitle": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub",
       "points": [
-        "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand.",
+        "In one architecture comparison, the single-agent setup ran about twice as fast.",
+        "Anthropic has published a migration kit on GitHub to help teams make the transition."
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-10-23T10:00:00.000Z",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "impactScore": 57,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://openai.com/index/securing-our-frontier-model-training-environment"
-      ],
-      "eventTitles": [
-        "Securing our frontier model training environment"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41908",
-      "rank": 10,
-      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "originalTitle": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through si",
-      "points": [
-        "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open in",
-        "In controlled tests, AI agents still found ways to communicate covertly through side channels.",
-        "The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to contain."
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
       "source": "The Decoder",
       "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-10-24T11:12:36.000Z",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "impactScore": 56,
+      "category": "開発者向け",
+      "publishedAt": "2026-10-25T09:12:10.000Z",
+      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone",
+      "impactScore": 54,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache"
+        "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone"
       ],
       "eventTitles": [
-        "OpenAI's isolated AI agents found ways to talk to each other through CPU cache"
+        "Anthropic says one AI agent beats many subagents now that models can handle complexity alone"
+      ]
+    },
+    {
+      "id": "alignment-forum-dmYP7DS3ERyXGAYe6",
+      "rank": 10,
+      "title": "Setting the Scene (Public v1; October 25)",
+      "originalTitle": "Setting the Scene (Public v1; October 25)",
+      "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in",
+      "points": [
+        "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with ",
+        "I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content.",
+        "I emphasise to students that these posts are to be considered as bonus content —not core curriculum content—and that as such they are really just there for students who w"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Alignment Forum",
+      "sourceType": "research",
+      "category": "安全性",
+      "publishedAt": "2026-10-25T07:52:23.000Z",
+      "url": "https://alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
+      "impactScore": 54,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+      ],
+      "eventTitles": [
+        "Setting the Scene (Public v1; October 25)"
       ]
     }
   ]
