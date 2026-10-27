@@ -1,311 +1,325 @@
 {
-  "edition": "2026-10-26T06:30:00+09:00",
-  "generatedAt": "2026-10-25T23:25:39.529Z",
-  "periodStart": "2026-10-23T11:25:39.529Z",
+  "edition": "2026-10-27T06:30:00+09:00",
+  "generatedAt": "2026-10-27T00:40:29.782Z",
+  "periodStart": "2026-10-24T12:40:29.782Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 39,
-  "freshSources": 36,
+  "successfulSources": 41,
+  "freshSources": 38,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 449,
+  "candidateCount": 961,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-news-global-policy-hit-channel-deea7de9139cfcde6b27",
+      "id": "openai-https-openai-com-index-gpt-6-1-sol-coderabbit-code-security",
       "rank": 1,
-      "title": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle - Hit Channel",
-      "originalTitle": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle - Hit Channel",
-      "summary": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle Hit Channel",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "originalTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
       "points": [
-        "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle Hit Channel",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases.",
+        "Its security agent helps developers review findings and proposed fixes.",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "Hit Channel",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-25T18:56:51.000Z",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmeEt2ZndXWVFlMUh6YUo1VlZVTW8tbXZWUUN5TEFmc3JHczkyYnRseU5FZEQxZDFkTk5nUWZkRWwtWHpKaFJZV2VoZmVxc3hjMVVuQXB6WXlTYy1RWEhVOGtwRzNJYjFZa0xaUUFodGVvR1pGampHd1ZrRQ?oc=5",
-      "impactScore": 65,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "KarloBag.eu",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3BlQkYtX1FBWTFPY2NQR2JkX1J0VDdpWW43NjBSelU0cEFHSVBZYm4xeEFJQ3BxUW5POEEwUHhXdENGU0NLY0VnZV9yY1hNRFFXUU1FS1lGTXlPWkNCdWFSWDVEQmg3Z1FxaUFwSjZJWWg2S0hKTTUwUlVPZ0wwRG41SU9fdlp3cFhJcHNySTZ5aVFsRVBFRmVwT1Q1UWlHQml1MTFVaXBUTVcyVlQzVDJ3bjBQQQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmeEt2ZndXWVFlMUh6YUo1VlZVTW8tbXZWUUN5TEFmc3JHczkyYnRseU5FZEQxZDFkTk5nUWZkRWwtWHpKaFJZV2VoZmVxc3hjMVVuQXB6WXlTYy1RWEhVOGtwRzNJYjFZa0xaUUFodGVvR1pGampHd1ZrRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3BlQkYtX1FBWTFPY2NQR2JkX1J0VDdpWW43NjBSelU0cEFHSVBZYm4xeEFJQ3BxUW5POEEwUHhXdENGU0NLY0VnZV9yY1hNRFFXUU1FS1lGTXlPWkNCdWFSWDVEQmg3Z1FxaUFwSjZJWWg2S0hKTTUwUlVPZ0wwRG41SU9fdlp3cFhJcHNySTZ5aVFsRVBFRmVwT1Q1UWlHQml1MTFVaXBUTVcyVlQzVDJ3bjBQQQ?oc=5"
-      ],
-      "eventTitles": [
-        "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle - Hit Channel",
-        "Elvis Presley songs in Anthropic AI copyright lawsuit - KarloBag.eu"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3181554",
-      "rank": 2,
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "points": [
-        "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-25T21:31:16.000Z",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-      "impactScore": 63,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
-      ],
-      "eventTitles": [
-        "Grok releases the first seven minutes of its AI-generated ‘Odyssey’"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-the-music-network-43f167ba0d692242c04f",
-      "rank": 3,
-      "title": "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats - The Music Network",
-      "originalTitle": "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats - The Music Network",
-      "summary": "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats The Music Network",
-      "points": [
-        "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats The Music Network",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "The Music Network",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-25T22:24:31.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlplNmoxdVBtdW9RRUZYY3RqQ3VQek9mSU1ZZnk3UVVSSzRhSGFDSExtak9URTJfY182OF91RHJmVEd2RUdRbWI3MWllVEJyWTZwTlJacnl6eEVBaUo1c0pzUFlCNnBYY0NTaVZiaFg0Q1ZpN2poRXJhZ2pPZC1pQ21yTWxwalFSOHNuZWMwQnZZczhqajFhQ216UHk1WkU0T2V1RjBIaVdRYWlHN0JpZnk0VWhtOHc?oc=5",
-      "impactScore": 62,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlplNmoxdVBtdW9RRUZYY3RqQ3VQek9mSU1ZZnk3UVVSSzRhSGFDSExtak9URTJfY182OF91RHJmVEd2RUdRbWI3MWllVEJyWTZwTlJacnl6eEVBaUo1c0pzUFlCNnBYY0NTaVZiaFg0Q1ZpN2poRXJhZ2pPZC1pQ21yTWxwalFSOHNuZWMwQnZZczhqajFhQ216UHk1WkU0T2V1RjBIaVdRYWlHN0JpZnk0VWhtOHc?oc=5"
-      ],
-      "eventTitles": [
-        "Australian Screen Composers Launch ‘Human Made’ Campaign Against AI Copyright Threats - The Music Network"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-the-music-network-7fcc7fa5f47df163313d",
-      "rank": 4,
-      "title": "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds - The Music Network",
-      "originalTitle": "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds - The Music Network",
-      "summary": "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds The Music Network",
-      "points": [
-        "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds The Music Network",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "The Music Network",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-25T22:30:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0NrMWE2Sk5SaGxLZ1YwaGEwZ1FsR3pGQnYtMjRGTFg1QklMdkZFdTZyWHA2U3R0Z3VMYTdlLV8yQm5KeVF3dmQ3WW9IeldmYlFEZVBBUzFWd0x1WWVTYnZNdTNLUVV3YmVzNDgwaTNxYkZ3V1phRU5nOGlVSDQ1eFE5MlVPZU5PVnhyWkVNTHlVa0ZYSU9udmx6NlltWlVSZmFOSzFfZTJIWG0z?oc=5",
-      "impactScore": 60,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0NrMWE2Sk5SaGxLZ1YwaGEwZ1FsR3pGQnYtMjRGTFg1QklMdkZFdTZyWHA2U3R0Z3VMYTdlLV8yQm5KeVF3dmQ3WW9IeldmYlFEZVBBUzFWd0x1WWVTYnZNdTNLUVV3YmVzNDgwaTNxYkZ3V1phRU5nOGlVSDQ1eFE5MlVPZU5PVnhyWkVNTHlVa0ZYSU9udmx6NlltWlVSZmFOSzFfZTJIWG0z?oc=5"
-      ],
-      "eventTitles": [
-        "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds - The Music Network"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41950",
-      "rank": 5,
-      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "originalTitle": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US co",
-      "points": [
-        "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as ",
-        "The race won't be decided by breakthroughs but by who can bankroll it.",
-        "US corporations alone plan to spend more than $600 billion in 2026."
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-10-25T08:09:32.000Z",
-      "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies"
-      ],
-      "eventTitles": [
-        "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-l-orient-today-143bd70b58a1432c8e24",
-      "rank": 6,
-      "title": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments - L'Orient Today",
-      "originalTitle": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments - L'Orient Today",
-      "summary": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments L'Orient Today",
-      "points": [
-        "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments L'Orient Today",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "L'Orient Today",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-10-25T07:21:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNSNFN0bDZabWpTQmRvZXM3bFpTWlFXTE9KY1RkTGRwRDY1bFcyNG9vdkdZbTFiWHRmOG4wbm1fU3E2XzAyMG5zWWprcm02NXgxLUw0bEk0bFhGU0tSX3lzMS00MXpuQjJlN0JBVlAyT1kwWUpOX0FfQkdaSDVqUi1zSzMzQnM4eF9BOUZ5X1lORmgzSmlqS0Y5enFtb096X1FPVGlKbXFqeExmMXlidFczQmJ4UHROQlh0bVdEV1VUektkai0xMmVUV1l3M0QwbmJnNVhZUzJqT0pTUy05d1Rrd21EV3FFZy01aVJB?oc=5",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "The Star",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcllGSnVjY0xIbVRCakRXa3RCb1NSNDg4OFRIRFNxWm5iMXk1TDFuTUdPblVKRTFXckhYYVg1TDJLYTNUeXBTMEw4cGdnQWl3TTY1eXk4OXBhaENhakExNmlQYVpPOVFFQlIyWE04QXJ4NmRLNi1jeFFSUk1NWW9ibzF0LUdaZWxuNjdYc1o2M1dycVdVd1hwRTF6RTR5U3hRYTY0aE5oQmphN3hjQzBhMUJZRmpKMW4xS3REd0o4c09iZENKcDM1ZzUtYjM4ZmtOODFJYWZSOFp0Q3p0Q0Vz?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNSNFN0bDZabWpTQmRvZXM3bFpTWlFXTE9KY1RkTGRwRDY1bFcyNG9vdkdZbTFiWHRmOG4wbm1fU3E2XzAyMG5zWWprcm02NXgxLUw0bEk0bFhGU0tSX3lzMS00MXpuQjJlN0JBVlAyT1kwWUpOX0FfQkdaSDVqUi1zSzMzQnM4eF9BOUZ5X1lORmgzSmlqS0Y5enFtb096X1FPVGlKbXFqeExmMXlidFczQmJ4UHROQlh0bVdEV1VUektkai0xMmVUV1l3M0QwbmJnNVhZUzJqT0pTUy05d1Rrd21EV3FFZy01aVJB?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcllGSnVjY0xIbVRCakRXa3RCb1NSNDg4OFRIRFNxWm5iMXk1TDFuTUdPblVKRTFXckhYYVg1TDJLYTNUeXBTMEw4cGdnQWl3TTY1eXk4OXBhaENhakExNmlQYVpPOVFFQlIyWE04QXJ4NmRLNi1jeFFSUk1NWW9ibzF0LUdaZWxuNjdYc1o2M1dycVdVd1hwRTF6RTR5U3hRYTY0aE5oQmphN3hjQzBhMUJZRmpKMW4xS3REd0o4c09iZENKcDM1ZzUtYjM4ZmtOODFJYWZSOFp0Q3p0Q0Vz?oc=5"
-      ],
-      "eventTitles": [
-        "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments - L'Orient Today",
-        "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts - The Star"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-india-new-england-news-dfed59c967b0504cb2fc",
-      "rank": 7,
-      "title": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News",
-      "originalTitle": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News",
-      "summary": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation INDIA New England News",
-      "points": [
-        "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation INDIA New England News",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "INDIA New England News",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-25T20:51:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzJxR0FDNTZ0VkpfbnlhRjF2dnlnMGV5NkZoVDBfTlExc010R3d1YVB0eWxsRU1qS2pBaVBxOEpMSVBOa0dhTzduTmlaLU9LLWxrOG02ZlY5a0lqLUhlUlNPM1VzWlRRNDZwSlJ5Z2pkWlRpYl8tdmlsc2E2d0o0MFRPU0hsV0lXbzhucjh5b2V2TTVoaG12S0lkTGU5dG9VZVpUcHFaOW9tNlJRdGc?oc=5",
-      "impactScore": 55,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzJxR0FDNTZ0VkpfbnlhRjF2dnlnMGV5NkZoVDBfTlExc010R3d1YVB0eWxsRU1qS2pBaVBxOEpMSVBOa0dhTzduTmlaLU9LLWxrOG02ZlY5a0lqLUhlUlNPM1VzWlRRNDZwSlJ5Z2pkWlRpYl8tdmlsc2E2d0o0MFRPU0hsV0lXbzhucjh5b2V2TTVoaG12S0lkTGU5dG9VZVpUcHFaOW9tNlJRdGc?oc=5"
-      ],
-      "eventTitles": [
-        "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3181532",
-      "rank": 8,
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "points": [
-        "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-10-25T16:57:32.000Z",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "impactScore": 54,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist"
-      ],
-      "eventTitles": [
-        "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-41955",
-      "rank": 9,
-      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "originalTitle": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub",
-      "points": [
-        "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand.",
-        "In one architecture comparison, the single-agent setup ran about twice as fast.",
-        "Anthropic has published a migration kit on GitHub to help teams make the transition."
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-25T09:12:10.000Z",
-      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone",
-      "impactScore": 54,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone"
-      ],
-      "eventTitles": [
-        "Anthropic says one AI agent beats many subagents now that models can handle complexity alone"
-      ]
-    },
-    {
-      "id": "alignment-forum-dmYP7DS3ERyXGAYe6",
-      "rank": 10,
-      "title": "Setting the Scene (Public v1; October 25)",
-      "originalTitle": "Setting the Scene (Public v1; October 25)",
-      "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about and debate in AI safety early. I expect the topics I cover in",
-      "points": [
-        "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with ",
-        "I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content.",
-        "I emphasise to students that these posts are to be considered as bonus content —not core curriculum content—and that as such they are really just there for students who w"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Alignment Forum",
-      "sourceType": "research",
+      "source": "OpenAI",
+      "sourceType": "official",
       "category": "安全性",
-      "publishedAt": "2026-10-25T07:52:23.000Z",
-      "url": "https://alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
-      "impactScore": 54,
+      "publishedAt": "2026-10-26T13:45:00.000Z",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "impactScore": 100,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra"
+        },
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+        },
+        {
+          "name": "shiritomo",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xcGxRbmJDZzI5YTZVYjZIYTd1RjhRVThaNmI0dDVUWVhNNVgwc3pQMTdyZFhVU0w3VTFxd21YRF9kdw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+        "https://openai.com/index/introducing-gpt-6-1-terra",
+        "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xcGxRbmJDZzI5YTZVYjZIYTd1RjhRVThaNmI0dDVUWVhNNVgwc3pQMTdyZFhVU0w3VTFxd21YRF9kdw?oc=5",
+        "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models",
+        "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+      ],
+      "eventTitles": [
+        "GPT-6.1 Terra",
+        "Introducing GPT-6.1 Terra",
+        "OpenAIの新AI「GPT-6.1 Terra」、価格半額以下・速度3倍で最上位モデルに迫る性能 - shiritomo",
+        "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+        "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
+      ]
+    },
+    {
+      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1147672",
+      "rank": 2,
+      "title": "Will the real Anthropic please stand up",
+      "originalTitle": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are f",
+      "points": [
+        "This story originally appeared in The Algorithm, our weekly newsletter on AI.",
+        "To get stories like this in your inbox first, sign up here .",
+        "After weeks of frenzied speculation, Anthropic has filed its IPO prospectus."
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "MIT Technology Review",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-26T17:45:43.000Z",
+      "url": "https://technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
+      ],
+      "eventTitles": [
+        "Will the real Anthropic please stand up"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-building-scientific-understanding-with-academic-communities",
+      "rank": 3,
+      "title": "Working with academic communities to build scientific understanding",
+      "originalTitle": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "points": [
+        "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-10-26T14:30:00.000Z",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+      ],
+      "eventTitles": [
+        "Working with academic communities to build scientific understanding"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-26-2000002573",
+      "rank": 4,
+      "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+      "originalTitle": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+      "summary": "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
+      "points": [
+        "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-26T01:10:56.000Z",
+      "url": "https://itmedia.co.jp/news/article/2610/26/2000002573",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pcVFNMVYtRDIzZnlBZHQwYVNJX2IzWTREQV81X2dyVVcxU2dYZnJLVkdfdlZIdG1SU1BtWkt2cXVHNTN4MW9qX09iMEI3Q2JyUnBudG5oS2VtZEdaU294dTVLaDhjb2psYnc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/26/2000002573",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pcVFNMVYtRDIzZnlBZHQwYVNJX2IzWTREQV81X2dyVVcxU2dYZnJLVkdfdlZIdG1SU1BtWkt2cXVHNTN4MW9qX09iMEI3Q2JyUnBudG5oS2VtZEdaU294dTVLaDhjb2psYnc?oc=5"
+      ],
+      "eventTitles": [
+        "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+        "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表 - ITmedia"
+      ]
+    },
+    {
+      "id": "ieee-spectrum-ai-https-spectrum-ieee-org-ieee-xplore-digital-library-ai",
+      "rank": 5,
+      "title": "IEEE Xplore Digital Library Adds AI Assistant",
+      "originalTitle": "IEEE Xplore Digital Library Adds AI Assistant",
+      "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings",
+      "points": [
+        "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library .",
+        "The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more.",
+        "Researchers who use the AI suite to search the digital library receive answers grounded in verified scientific results, ensuring a high level of accuracy and trust."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "IEEE Spectrum",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T18:00:03.000Z",
+      "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+      "impactScore": 68,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25"
+        "https://spectrum.ieee.org/ieee-xplore-digital-library-ai"
       ],
       "eventTitles": [
-        "Setting the Scene (Public v1; October 25)"
+        "IEEE Xplore Digital Library Adds AI Assistant"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-openai-cut-incident-investigation",
+      "rank": 6,
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "originalTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "points": [
+        "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes.",
+        "Explore faster security analysis, code refactoring, and daily workflows.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/openai-cut-incident-investigation"
+      ],
+      "eventTitles": [
+        "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-apple-2026-10-apple-releases-ios-and-macos-27-2-with-new-siri-",
+      "rank": 7,
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "originalTitle": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "summary": "Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on. Let's start with iOS 27.2. This update is heavily focused on Siri AI. It adds a memory feature to Siri, so it can \"recall your past co",
+      "points": [
+        "Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on.",
+        "Let's start with iOS 27.2.",
+        "This update is heavily focused on Siri AI."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T20:04:16.000Z",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo"
+      ],
+      "eventTitles": [
+        "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo"
+      ]
+    },
+    {
+      "id": "google-ai-https-blog-google-products-and-platforms-products-education-ai-quests-polar-peaks-",
+      "rank": 8,
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "originalTitle": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "points": [
+        "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Google AI",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks"
+      ],
+      "eventTitles": [
+        "Our newest AI Quest: Mapping the human brain"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-10-boston-dynamics-employees-want-to-block-sale-of-rob",
+      "rank": 9,
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "originalTitle": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "summary": "Hundreds of employees at the US robotics firm Boston Dynamics signed a petition calling for executives to halt a sale of the company’s robot dogs to US Immigration and Customs Enforcement—but executives stood by the deal, while saying the robots would not be w",
+      "points": [
+        "Hundreds of employees at the US robotics firm Boston Dynamics signed a petition calling for executives to halt a sale of the company’s robot dogs to US Immigration and Cu",
+        "On September 25, the Department of Homeland Security contract awarded $1.3 million to a Connecticut company called Radeco to provide ICE with modified versions of Boston ",
+        "But Boston Dynamics workers sent the petition letter with more than 300 signatures—half of them anonymous—to the company’s executives in early September and shared copies"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-26T18:50:41.000Z",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice",
+      "impactScore": 64,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice"
+      ],
+      "eventTitles": [
+        "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-5e1286dfb4f90dcf4a044cccd75a633bcf5c972a",
+      "rank": 10,
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "originalTitle": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "summary": "This post builds enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS Cloud Development Kit (AWS CDK). To see why that’s worth building, it helps to start with where ordinary Retrieval Augmented Generation (RAG) breaks down. Mos",
+      "points": [
+        "This post builds enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS Cloud Development Kit (AWS CDK).",
+        "To see why that’s worth building, it helps to start with where ordinary Retrieval Augmented Generation (RAG) breaks down.",
+        "Most RAG systems start the same way: they embed the question, fetch the nearest chunks from one index, hand them to a model, and return the answer."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T17:15:14.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
+      "impactScore": 64,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk"
+      ],
+      "eventTitles": [
+        "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK"
       ]
     }
   ]

@@ -1,0 +1,326 @@
+{
+  "edition": "2026-10-27T06:30:00+09:00",
+  "generatedAt": "2026-10-27T00:40:29.782Z",
+  "periodStart": "2026-10-24T12:40:29.782Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 41,
+  "freshSources": 38,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 961,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "openai-https-openai-com-index-gpt-6-1-sol-coderabbit-code-security",
+      "rank": 1,
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "originalTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "points": [
+        "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases.",
+        "Its security agent helps developers review findings and proposed fixes.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-26T13:45:00.000Z",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "impactScore": 100,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra"
+        },
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+        },
+        {
+          "name": "shiritomo",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xcGxRbmJDZzI5YTZVYjZIYTd1RjhRVThaNmI0dDVUWVhNNVgwc3pQMTdyZFhVU0w3VTFxd21YRF9kdw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+        "https://openai.com/index/introducing-gpt-6-1-terra",
+        "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xcGxRbmJDZzI5YTZVYjZIYTd1RjhRVThaNmI0dDVUWVhNNVgwc3pQMTdyZFhVU0w3VTFxd21YRF9kdw?oc=5",
+        "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models",
+        "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+      ],
+      "eventTitles": [
+        "GPT-6.1 Terra",
+        "Introducing GPT-6.1 Terra",
+        "OpenAIの新AI「GPT-6.1 Terra」、価格半額以下・速度3倍で最上位モデルに迫る性能 - shiritomo",
+        "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+        "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
+      ]
+    },
+    {
+      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1147672",
+      "rank": 2,
+      "title": "Will the real Anthropic please stand up",
+      "originalTitle": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are f",
+      "points": [
+        "This story originally appeared in The Algorithm, our weekly newsletter on AI.",
+        "To get stories like this in your inbox first, sign up here .",
+        "After weeks of frenzied speculation, Anthropic has filed its IPO prospectus."
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "MIT Technology Review",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-26T17:45:43.000Z",
+      "url": "https://technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
+      ],
+      "eventTitles": [
+        "Will the real Anthropic please stand up"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-building-scientific-understanding-with-academic-communities",
+      "rank": 3,
+      "title": "Working with academic communities to build scientific understanding",
+      "originalTitle": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "points": [
+        "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-10-26T14:30:00.000Z",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+      ],
+      "eventTitles": [
+        "Working with academic communities to build scientific understanding"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2610-26-2000002573",
+      "rank": 4,
+      "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+      "originalTitle": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+      "summary": "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
+      "points": [
+        "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-26T01:10:56.000Z",
+      "url": "https://itmedia.co.jp/news/article/2610/26/2000002573",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pcVFNMVYtRDIzZnlBZHQwYVNJX2IzWTREQV81X2dyVVcxU2dYZnJLVkdfdlZIdG1SU1BtWkt2cXVHNTN4MW9qX09iMEI3Q2JyUnBudG5oS2VtZEdaU294dTVLaDhjb2psYnc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/26/2000002573",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pcVFNMVYtRDIzZnlBZHQwYVNJX2IzWTREQV81X2dyVVcxU2dYZnJLVkdfdlZIdG1SU1BtWkt2cXVHNTN4MW9qX09iMEI3Q2JyUnBudG5oS2VtZEdaU294dTVLaDhjb2psYnc?oc=5"
+      ],
+      "eventTitles": [
+        "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+        "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表 - ITmedia"
+      ]
+    },
+    {
+      "id": "ieee-spectrum-ai-https-spectrum-ieee-org-ieee-xplore-digital-library-ai",
+      "rank": 5,
+      "title": "IEEE Xplore Digital Library Adds AI Assistant",
+      "originalTitle": "IEEE Xplore Digital Library Adds AI Assistant",
+      "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings",
+      "points": [
+        "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library .",
+        "The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more.",
+        "Researchers who use the AI suite to search the digital library receive answers grounded in verified scientific results, ensuring a high level of accuracy and trust."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "IEEE Spectrum",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T18:00:03.000Z",
+      "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://spectrum.ieee.org/ieee-xplore-digital-library-ai"
+      ],
+      "eventTitles": [
+        "IEEE Xplore Digital Library Adds AI Assistant"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-openai-cut-incident-investigation",
+      "rank": 6,
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "originalTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "points": [
+        "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes.",
+        "Explore faster security analysis, code refactoring, and daily workflows.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/openai-cut-incident-investigation"
+      ],
+      "eventTitles": [
+        "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-apple-2026-10-apple-releases-ios-and-macos-27-2-with-new-siri-",
+      "rank": 7,
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "originalTitle": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "summary": "Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on. Let's start with iOS 27.2. This update is heavily focused on Siri AI. It adds a memory feature to Siri, so it can \"recall your past co",
+      "points": [
+        "Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on.",
+        "Let's start with iOS 27.2.",
+        "This update is heavily focused on Siri AI."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T20:04:16.000Z",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo"
+      ],
+      "eventTitles": [
+        "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo"
+      ]
+    },
+    {
+      "id": "google-ai-https-blog-google-products-and-platforms-products-education-ai-quests-polar-peaks-",
+      "rank": 8,
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "originalTitle": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "points": [
+        "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Google AI",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks"
+      ],
+      "eventTitles": [
+        "Our newest AI Quest: Mapping the human brain"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-10-boston-dynamics-employees-want-to-block-sale-of-rob",
+      "rank": 9,
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "originalTitle": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "summary": "Hundreds of employees at the US robotics firm Boston Dynamics signed a petition calling for executives to halt a sale of the company’s robot dogs to US Immigration and Customs Enforcement—but executives stood by the deal, while saying the robots would not be w",
+      "points": [
+        "Hundreds of employees at the US robotics firm Boston Dynamics signed a petition calling for executives to halt a sale of the company’s robot dogs to US Immigration and Cu",
+        "On September 25, the Department of Homeland Security contract awarded $1.3 million to a Connecticut company called Radeco to provide ICE with modified versions of Boston ",
+        "But Boston Dynamics workers sent the petition letter with more than 300 signatures—half of them anonymous—to the company’s executives in early September and shared copies"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-26T18:50:41.000Z",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice",
+      "impactScore": 64,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice"
+      ],
+      "eventTitles": [
+        "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-5e1286dfb4f90dcf4a044cccd75a633bcf5c972a",
+      "rank": 10,
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "originalTitle": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "summary": "This post builds enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS Cloud Development Kit (AWS CDK). To see why that’s worth building, it helps to start with where ordinary Retrieval Augmented Generation (RAG) breaks down. Mos",
+      "points": [
+        "This post builds enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS Cloud Development Kit (AWS CDK).",
+        "To see why that’s worth building, it helps to start with where ordinary Retrieval Augmented Generation (RAG) breaks down.",
+        "Most RAG systems start the same way: they embed the question, fetch the nearest chunks from one index, hand them to a model, and return the answer."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-26T17:15:14.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
+      "impactScore": 64,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk"
+      ],
+      "eventTitles": [
+        "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK"
+      ]
+    }
+  ]
+}
