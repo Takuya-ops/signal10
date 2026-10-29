@@ -1,7 +1,7 @@
 {
-  "edition": "2026-10-28T06:30:00+09:00",
-  "generatedAt": "2026-10-28T00:38:40.447Z",
-  "periodStart": "2026-10-25T12:38:40.447Z",
+  "edition": "2026-10-29T06:30:00+09:00",
+  "generatedAt": "2026-10-29T01:08:32.172Z",
+  "periodStart": "2026-10-26T13:08:32.172Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 42,
@@ -9,70 +9,86 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 2227,
+  "candidateCount": 2727,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-deepmind-https-deepmind-google-blog-genie-4-a-new-generation-of-world-simulation-",
+      "id": "google-deepmind-https-deepmind-google-blog-gemini-4-carbon-our-next-frontier-model-",
       "rank": 1,
-      "title": "Genie 4: A new generation of world simulation",
-      "originalTitle": "Genie 4: A new generation of world simulation",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "originalTitle": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
       "points": [
-        "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+        "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
       "source": "Google DeepMind",
       "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-10-27T16:01:38.000Z",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "category": "モデル",
+      "publishedAt": "2026-10-28T17:00:58.000Z",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
       "impactScore": 100,
       "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
           "name": "ITmedia AI+",
-          "url": "https://itmedia.co.jp/news/article/2610/28/2000002648"
+          "url": "https://itmedia.co.jp/news/article/2610/29/2000002690"
         },
         {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms"
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xemxRcUh5akJISWNCMVVFQUE3QVk5R2JvcFdKUWpreFVxTld3N21GdS15ZnYzVkxoVnAwSjhUMldfNlhiWHFQVno3VzU4WDZ1ZWRuMk5MOGJaS2xDUmFWUmNkVUw1SnZfbXc?oc=5"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering"
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzFpcEkzTDRDZmFPaGdfTkR6Q3U1aFVUa3k5WGcxakFFd1NJcWxvRXJKSERuZnRCOVktUDdtTDZoMklodkNDd29kcVRHTVdqaUxtV3VOTmxNck5qQm5pLUtibVNIS0J0cDBMT1pRaUd6SUtYSzd2eElQWS04UmZYTGtnanZkNFBvbGptMDl6OGM4cDNTR0xZVURsYmtqX0NjcXM5OVFQTkNTSVBWS1FGcWhGSlNTM0NI?oc=5"
         }
       ],
       "eventUrls": [
-        "https://itmedia.co.jp/news/article/2610/28/2000002648",
-        "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms",
-        "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
-        "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
-        "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations",
-        "https://theverge.com/tech/1019076/google-genie-4-ai-model"
+        "https://itmedia.co.jp/news/article/2610/29/2000002690",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xemxRcUh5akJISWNCMVVFQUE3QVk5R2JvcFdKUWpreFVxTld3N21GdS15ZnYzVkxoVnAwSjhUMldfNlhiWHFQVno3VzU4WDZ1ZWRuMk5MOGJaS2xDUmFWUmNkVUw1SnZfbXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzFpcEkzTDRDZmFPaGdfTkR6Q3U1aFVUa3k5WGcxakFFd1NJcWxvRXJKSERuZnRCOVktUDdtTDZoMklodkNDd29kcVRHTVdqaUxtV3VOTmxNck5qQm5pLUtibVNIS0J0cDBMT1pRaUd6SUtYSzd2eElQWS04UmZYTGtnanZkNFBvbGptMDl6OGM4cDNTR0xZVURsYmtqX0NjcXM5OVFQTkNTSVBWS1FGcWhGSlNTM0NI?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Rem9Cc29ncmoyZGVOLV9YeWtxdldFZXM1YmdlQUY4R1lpTlNpZE9YWTVTMG01ME1NTlc3ZmVDZkIxU3B4R0ZrYlNvT01heHBIWmFiYjM4eVIzSUFvUEoyODQxYVpIOTZ5a1RrNmJIRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jQmV1U0hFMmVCWnNpekw3bEF6TDl0V1pvbF9BN2xOVFhWOWxKTThCUWpzcmVFdlE4Nkdaa2wwWExoaFBtTkVoR0FFMV9GMGFGX1A1QkxTUGhFdG51emU0?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nY0YxaUNaTTlvX3FEZjFzZVJvQjJMdDRoT2RNRDhFTjlrRUVlc2dYOHhxSVBtMmR1YnowS0ZPbTBRbExfbkVjRVhmN3d6aTRNZmxLV0pRSi1xekE?oc=5",
+        "https://theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KdlR4S0RxRHoyeHdrWFFvLWtDS0haZWk5dEI2bWdlRnZOUTBhZ21DUlF3R2xmQzU3bWtEandfelZiZWNrTHNOWXBlMjFBVnRCSWtoS3dPUk1HeVlxb3Y5THJ5Z1RGSk9Gakd4RHl2cGx5ZzA?oc=5",
+        "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGFqZjlLeFF5Z1FDaWFvQ0Q5dU53SVdVWWJIRFhNdHRST29RMzJ1R0xTcHlsRWFFWHZVaWtlaHZaZjNsRmtJRG5vRGFUSFF5S1lYQkF3WkprWnN0bXFxc1BSajgwX2ZpaHR0dDJmYkw2R1g4Y25PbUxmbzlrQU9mTzYtZFc?oc=5",
+        "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VV2tfQWhmMHlOcVZxUXR3bGR1dDJ6WVo3Y2g2RkFJRVhUbXF0bE9vMzM1VFFuSzZTUmRrcXB3cGd2X0pQMFRWS2RzVDNrNTVyRkJJNXBfd3kwa0UwRVUtMjlRY1p4VmVFUF95VE95X2htYzBS?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZQ3ozYmd5SGpGejkyd3prUG0yb0dVT2xOcHdxeG5VZDllekpEOVdsNGswN3RhbWd5UWx4QkxvZF9zLW5rY1Etbl9fSi1sbk56LVN4Q2x3cmtSVF9MVFI2eEJiR0g4MUJmcGgzR2wyXy1hekpDRldn?oc=5",
+        "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"
       ],
       "eventTitles": [
-        "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
-        "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
-        "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-        "Genie 4: A new generation of world simulation",
-        "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-        "Google’s next Genie AI model generates more realistic experiences"
+        "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+        "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化 - ITmedia",
+        "Google、新AIモデル「Gemini 4 Carbon」発表 コーディング・サイバー防衛性能を強化 - 디지털투데이",
+        "Googleの最強AI「Gemini 4 Carbon」は本当に優秀なのか？9つの性能評価で見えた強みと弱点 - XenoSpectrum",
+        "Google、最先端AIモデル「Gemini 4 Carbon」発表 - Jetstream",
+        "Google、最先端AIモデル「Gemini 4 Carbon」発表 発表 - jetstream.blog",
+        "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "Google、新 AI モデル「Gemini 4 Carbon」を発表。現在は一部のサイバー防御担当者向け - HelenTech",
+        "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+        "Google、Gemini 4 Carbonを発表、当面はサイバー防御担当者のみ - Pasquale Pillitteri",
+        "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+        "グーグルの「Gemini 4 Carbon」、AI指数で首位 セキュリティテストで88.2%を記録 - BigGo ファイナンス",
+        "Google、サイバーセキュリティに重点を置いたAIモデル「Gemini 4 Carbon」をリリース - TradingView",
+        "Gemini 4 Carbon: Our next frontier model"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-oracle-apps-in-chatgpt",
+      "id": "openai-https-openai-com-index-openai-servicenow-partnership-expansion",
       "rank": 2,
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "originalTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "points": [
-        "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -80,335 +96,320 @@
       "source": "OpenAI",
       "sourceType": "official",
       "category": "ビジネス",
-      "publishedAt": "2026-10-27T07:00:00.000Z",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "impactScore": 96,
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "impactScore": 88,
       "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbU1pcTdyUXYyNjdfc1c1Z2dMdGhfYmt2N2w1cmcyX18takl0TFlYNzJ5bE5qVWROMHlhVWF2YURYVU9tNnIwZ0VhVThGTXVvOVZjZDlucElfamV3NVBHYzllTDVid05NcVpKRU44eGE5LVV6ZU9VUWlxR1VQbWpVanRXNk9sY0p3X1o4TWxRc1UteTBuSjdGVnBZWWpGRmo0SG5ndVJEUG5ERFJFUzhBV20tWEJpZTNoZnRCN185WQ?oc=5"
-        },
-        {
           "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZE8zbWktRG9GVmJTa3Z6REZCOWo5OURmb2RQZ2dpRzlpS3ltaGVkdmJPY1hRU0x4UzlQQ2hfXzktTXlEUnVSQ3lwblptRmkxdjBFMHpvVmhOWVBVejNvN1VuMUdRMGJyRVBJYktjbjZFWjlYZi03U296RW5YbFZoaVdtbFpNakFNNnpXTzZJVDVOR0k?oc=5"
-        },
-        {
-          "name": "ビジネス+IT",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTVRfZlhySnNHNXd0RFh2N284Wm1WV0IybFlsN3B6enhGdjk1LTlLMzE0MlUwdXZhMVplOEVwUkhyOTJORzRnbm1wbmZ0RTVnT21n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjRldjZNMEFMZzJ0NnE4TUREZGphYUhxRDR6TkpaQTJvY1cyM01XVVdyQnJHN3ZJb1A3WmU3am55S3FOWE5RUUhNSHhoZTN4YzY4dEpRY08tT0xQdllfZnJ6WFNydmZmZnhEd2Fxb0hCb01ydU9vS2hFaEZxTVdOcDdkZ2ZLZ2x5dXAyZ1l3WmlCS1JGbk43LWNR?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbU1pcTdyUXYyNjdfc1c1Z2dMdGhfYmt2N2w1cmcyX18takl0TFlYNzJ5bE5qVWROMHlhVWF2YURYVU9tNnIwZ0VhVThGTXVvOVZjZDlucElfamV3NVBHYzllTDVid05NcVpKRU44eGE5LVV6ZU9VUWlxR1VQbWpVanRXNk9sY0p3X1o4TWxRc1UteTBuSjdGVnBZWWpGRmo0SG5ndVJEUG5ERFJFUzhBV20tWEJpZTNoZnRCN185WQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZE8zbWktRG9GVmJTa3Z6REZCOWo5OURmb2RQZ2dpRzlpS3ltaGVkdmJPY1hRU0x4UzlQQ2hfXzktTXlEUnVSQ3lwblptRmkxdjBFMHpvVmhOWVBVejNvN1VuMUdRMGJyRVBJYktjbjZFWjlYZi03U296RW5YbFZoaVdtbFpNakFNNnpXTzZJVDVOR0k?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FTVRfZlhySnNHNXd0RFh2N284Wm1WV0IybFlsN3B6enhGdjk1LTlLMzE0MlUwdXZhMVplOEVwUkhyOTJORzRnbm1wbmZ0RTVnT21n?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU4tbTBra1ZGd1FjWmp4QTVpX0VzQmliZjJtc3g3Q3I3bHRZelB1TU1RMnRpWEExMUQwc1gzbktZcUtmMHNzQ1NSTGk2aGs0T3JTX1BkMV9aUmVQQmZHcGoya0dHa2FNa0swYldJdjZMa3BlaHJyT2JKd3duZFkwUjR3TkN0RS1mdXo1NkRRMVlsclBjNGFB?oc=5",
-        "https://openai.com/index/oracle-apps-in-chatgpt"
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjRldjZNMEFMZzJ0NnE4TUREZGphYUhxRDR6TkpaQTJvY1cyM01XVVdyQnJHN3ZJb1A3WmU3am55S3FOWE5RUUhNSHhoZTN4YzY4dEpRY08tT0xQdllfZnJ6WFNydmZmZnhEd2Fxb0hCb01ydU9vS2hFaEZxTVdOcDdkZ2ZLZ2x5dXAyZ1l3WmlCS1JGbk43LWNR?oc=5",
+        "https://openai.com/index/openai-servicenow-partnership-expansion"
       ],
       "eventTitles": [
-        "Oracle、OpenAI連携を拡大 企業向けAI製品を一斉拡充 - 디지털투데이",
-        "Oracle、OpenAIのサイバーセキュリティモデルを活用したAIセキュリティメッシュを発表 - Unite.AI",
-        "OpenAIとオラクル、ChatGPTから業務アプリを使える「Oracle AI Workspace」を開発 - ビジネス+IT",
-        "Oracle、企業向けAI製品・サービスを4つ発表し、OpenAIとの提携を拡大 - Unite.AI",
-        "OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
+        "OpenAIとServiceNow、ChatGPTのワークフロープラグインで提携を拡大 - Unite.AI",
+        "OpenAI and ServiceNow expand partnership across enterprise workflows"
       ]
     },
     {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99512",
+      "id": "openai-https-openai-com-index-legora-agentic-operating-system-for-legal-work",
       "rank": 3,
-      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "originalTitle": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. ",
+      "title": "Legora is building the agentic operating system for legal work",
+      "originalTitle": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "points": [
-        "There are 57 million people worldwide living with dementia today.",
-        "For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t ke",
-        "The Consortium for Biomedical Research and AI in Neurodegeneration (C-BRAIN), working with NVIDIA, is using AI to change that."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-27T15:00:20.000Z",
-      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
-      "impactScore": 81,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia"
-      ],
-      "eventTitles": [
-        "How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
-      ]
-    },
-    {
-      "id": "anthropic-sitemap-https-anthropic-com-research-discovering-vulnerabilities-with-claude",
-      "rank": 4,
-      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
-      "originalTitle": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
-      "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which l",
-      "points": [
-        "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as bro",
-        "In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with little to no user interaction.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Anthropic",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
-      "url": "https://anthropic.com/research/discovering-vulnerabilities-with-claude",
-      "impactScore": 81,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://anthropic.com/research/discovering-vulnerabilities-with-claude"
-      ],
-      "eventTitles": [
-        "Discovering and exploiting vulnerabilities in critical, real-world software with Claude"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-forklog-e32a98b8072b4211d93d",
-      "rank": 5,
-      "title": "Alibaba’s Qwen AI Model Attempted Data Transfer to China During Security Test - ForkLog",
-      "originalTitle": "Alibaba’s Qwen AI Model Attempted Data Transfer to China During Security Test - ForkLog",
-      "summary": "Alibaba’s Qwen AI Model Attempted Data Transfer to China During Security Test ForkLog",
-      "points": [
-        "Alibaba’s Qwen AI Model Attempted Data Transfer to China During Security Test ForkLog",
+        "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "ForkLog",
-      "sourceType": "media",
+      "source": "OpenAI",
+      "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-10-27T13:14:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDZwdlA2Tkx1R3pNaDg2eGJqaE9Ea01GYzdIVmZDZUc1WWppRG84VXJodE9lNEpIWWhZbkUtOEt1b1BDdDhQUk5EVktzWUp0ODlGVDBIanNldTF5S3BPTVRrbG5lQ2ZVSWUwNi1CdkZkZWJYMUVNd0xsdElOclIxOWFQelRiYzAtcTd6bkVkNDhtODV4Wkd4eWt1VFVwdExVMmc?oc=5",
-      "impactScore": 78,
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "impactScore": 84,
       "impactLabel": "大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "LatestLY",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcG9PckxQVzBpMi04cGZyVDRQTERsNDR5aFdRMy00MEVYN1UyUEpKLS1yWGl5NC1SUHBNVzdCYmIxZVRCbjc2NnJaa3BLVUVRMUdFcmtwUERzRmJXVExjUU5sSFNuLTgxVWhRYmFsTnY1bVp3a2xsSTR4VEdhMGpHQ2EyOHNqeHZ1NWJ5U1ZBZEVoRlJSdHg3TGFtc2F4QW1sWDJPMnlQYnNuNzFtc0tLRTQ3dmhHQWt2WUtEdUh5amxLWllMeWxpd2lMMFY0bzJUcF83ek9vbHpiVTVMTzRta2hEb0ZjZWJIaE9mYzFNNldmMElrTnQ4SdIB_gFBVV95cUxNeF9wZERsUXN0d0d4T043TjNsQjVLQ2k5d0NjVnRraG9DS3F1X0praGVSMV9mU04zX05kRE5xRndCNGJ1LWp6OThfUDZ3SlJXWFlDTE5YVFFtckpXV0R5RVVxZkRtc2ZKUTF6ZGxSMTMzWEYtWW9OT1RaZjBtWlh6bmYybExaOEQzcXVFc29POWxBRnR3dG9KUTZoTWg3SmlYUnprS2xGMTFqRG1Pc1hWRjBkM0RUZlE0Vk55ZnZrVV9VbUdmamNMYVpCV2J3VjJ6WUNhdDFFenBXb3ZrcWo0RTlKWnZOeTVQOVAzTlJYVTNnQUg1bmZqamE1YlhIdw?oc=5"
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQVlWSEktSGZxNDNBYmluWTEzeUNUalBMbHJGQzNrNUhvVGpwdFYwajY2TW5rNlZER1diU3ZzcHlvUk01d0UzRGIyeVlybGhybkpsbWlRcndhQmU2SGpvc3huQUI5NFBQQ0FRaW9qZWFaejBU?oc=5"
         },
         {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFU3V2hxR3N3TFo3TEdMRFlvVzlrdzd3cTJqUHlrR3hQNGhFaXZ3VVFXbndsbFdUbms0VjZ1bllWc0RSYTFtdVZGaVZaZjJrRDJ4SDdyYTNITE9KR2VKM01IWEdVWnVEeFo2UlBsUkpNTXlwWWNKaklpSVZnTnNBRDFEQ0x4Qnc4TDdzaFFVN0dVZjE2RGJYU3VqeV9teW4wLWtJUw?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWhlM19BanVvcW9ZcGRxWEVSdHljMnU3alpvTjc5RTJ1R1I2UHVnckFkRm5yMFNjQlZYZkdRN3ItckxkUDlxbTF0RXdLbDJSQzhieGtaMGp3TzI1T1RTa01BbkN6dk4wMW9sb2M5QnZpVnpPX3JlMldXNUxiQmFCbXdRMlFnMHdKM3J1bUs2TTZOb1lvRFBnY080dUNfZFMxZnlHZ3E1RTZyX0todEY4dUM2UmNiaEozRWNvcW5FcU4?oc=5"
+          "name": "OpenAI",
+          "url": "https://openai.com/index/legora"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDZwdlA2Tkx1R3pNaDg2eGJqaE9Ea01GYzdIVmZDZUc1WWppRG84VXJodE9lNEpIWWhZbkUtOEt1b1BDdDhQUk5EVktzWUp0ODlGVDBIanNldTF5S3BPTVRrbG5lQ2ZVSWUwNi1CdkZkZWJYMUVNd0xsdElOclIxOWFQelRiYzAtcTd6bkVkNDhtODV4Wkd4eWt1VFVwdExVMmc?oc=5",
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcG9PckxQVzBpMi04cGZyVDRQTERsNDR5aFdRMy00MEVYN1UyUEpKLS1yWGl5NC1SUHBNVzdCYmIxZVRCbjc2NnJaa3BLVUVRMUdFcmtwUERzRmJXVExjUU5sSFNuLTgxVWhRYmFsTnY1bVp3a2xsSTR4VEdhMGpHQ2EyOHNqeHZ1NWJ5U1ZBZEVoRlJSdHg3TGFtc2F4QW1sWDJPMnlQYnNuNzFtc0tLRTQ3dmhHQWt2WUtEdUh5amxLWllMeWxpd2lMMFY0bzJUcF83ek9vbHpiVTVMTzRta2hEb0ZjZWJIaE9mYzFNNldmMElrTnQ4SdIB_gFBVV95cUxNeF9wZERsUXN0d0d4T043TjNsQjVLQ2k5d0NjVnRraG9DS3F1X0praGVSMV9mU04zX05kRE5xRndCNGJ1LWp6OThfUDZ3SlJXWFlDTE5YVFFtckpXV0R5RVVxZkRtc2ZKUTF6ZGxSMTMzWEYtWW9OT1RaZjBtWlh6bmYybExaOEQzcXVFc29POWxBRnR3dG9KUTZoTWg3SmlYUnprS2xGMTFqRG1Pc1hWRjBkM0RUZlE0Vk55ZnZrVV9VbUdmamNMYVpCV2J3VjJ6WUNhdDFFenBXb3ZrcWo0RTlKWnZOeTVQOVAzTlJYVTNnQUg1bmZqamE1YlhIdw?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFU3V2hxR3N3TFo3TEdMRFlvVzlrdzd3cTJqUHlrR3hQNGhFaXZ3VVFXbndsbFdUbms0VjZ1bllWc0RSYTFtdVZGaVZaZjJrRDJ4SDdyYTNITE9KR2VKM01IWEdVWnVEeFo2UlBsUkpNTXlwWWNKaklpSVZnTnNBRDFEQ0x4Qnc4TDdzaFFVN0dVZjE2RGJYU3VqeV9teW4wLWtJUw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWhlM19BanVvcW9ZcGRxWEVSdHljMnU3alpvTjc5RTJ1R1I2UHVnckFkRm5yMFNjQlZYZkdRN3ItckxkUDlxbTF0RXdLbDJSQzhieGtaMGp3TzI1T1RTa01BbkN6dk4wMW9sb2M5QnZpVnpPX3JlMldXNUxiQmFCbXdRMlFnMHdKM3J1bUs2TTZOb1lvRFBnY080dUNfZFMxZnlHZ3E1RTZyX0todEY4dUM2UmNiaEozRWNvcW5FcU4?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2FTUzJkNmdQTEk4Z1h1ZjBuZ2doczdXTWhPOUZ0UFp1SUpuWmtwTG1mNk1YMENoa0lsQ1VhaHRyNDM3ZzM4RzRLWDZncjBvWEhEU2hodFRjM0E4VzdxNnY5QjNoOFdnOHYwQVhxa0JhZ0dwd1JENy1lMGJmZXgwM1A1NmY?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVA1dnM0WDBwM3dRaTJSVXgzUlV2SWFId09MUlZQcE9QX2Vfaml1LUhYa2pqRVBIOExCNFZVVWlVU19LbGY1RkVJTDQ5c1NWWTdmdGtkTzJPNFpVdGVKVFdFWi02MlJPRl9KRFdQU2doV1dXbXctcG1CYW5PeEJZRUR4RWdjZ9IBiwFBVV95cUxPTHpHcG03ZU10cHBtSm9kX1VxT0dnSm9zQ2w4YnBMZkdCdktMbEhlWHBaTjR1aDE4WU84MDNmb3NDZkVaVEl5RmFXQWwwczd4ZUgtWXQ0b1hPY05aZ2Y0NzFnQWt6SGhKb1pTMGFDTS1iSThtOGVSblZyOUl4TE82U0oxX05jLVMwZXQw?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQU9VcERGcFVjZURLRVpSbkxac184djlxeFVMZG1CYjVadmplWjZxYXE1NzdSQTZqNTUyT3hmZHlJVjBabkpYYVQ5MUlwcklTa012RE5TLTFwbUZadEU5a1pzV1F1UUgxUTRHWGN1ZlJGZXBPanBpVzBHV2RKU3dnRlZKN0pqNjBIbXE0aUxjUWs2UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFZCRDRqS1g4SUFBR3Z1dklPeVhoWGVDQlJ6MWFVWXdXOVVqakgyRDhaRGZzak05Y0VxU0tVdVpmXzVhdVRmYjZrNjUtT2gyUFJwRmNNY3AtUmNLR1F5aWlQcnVTOTF5UlNkWnItcFVaczJLZjRwb3VLblNtTEVMS9IBhgFBVV95cUxQYy10cWN4OUpGTWFpdGlzTzRYWFliUF9DaDd4UXgzUXN5d2s3N2dYM1lYaWF2aF9hbjFUdklhVTBTY1NvbDhGbGRHVmVmSXd3eVp3RnBnWEs4alk5STF2YjJJR2stMXExYWtOekJYbWNsblR2S0ZqUExyM1dZTDAza05LaEFPQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUE9yRjRrWk5qVVA0a1ZCenIyaEtQdXZYRHlRenoyc3dMYVJjNmdUSGttc21aVUhlc0ZMQmQ5Y2JzdFp5NFYyMmlsb2JMOS1ObndJVEpHZGUxRGdfWTlUNndpaGJ3MGpHWEh3M091cnVZZW1VNEJCbnk1Yl9iRWFrc0xEYThfSExjTnlFQjRWVnRTcDYzTzZIa2F2RnV5MTNuS2w0dzVRRFI2Sk5CRHQyYVJR?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmlyZlZ0bTdUU0MwM29wNmRzWXZwdmxlVmg5dkI0VjVwbGQ1S1A0akYyaFFsQTRqS2l6VFZsZXhNSFM5TGxINmNCLWhkWXNHU3I4OGxBWEFlN2NQNk5fUndRa2FsemQ5aUVkUGE0VU4tSGp1OUNHSkxlSEJHU0h6TFBfVUsyM1JYSGFYVkZOaEstSkJreHhHQXJSUW4xS2E1RU5PN0Z2VzdyQVJ4WkVOVTltQ1A?oc=5",
-        "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcTFiYnlBOE1qMWRBMFpQcHlER2MtOHlqQnlTS3FGbGNGTDNGZ0Z0b0k4Ull1VlotLVlvcE53MEVHMTdiaWphWWxkdkNJdEEwT202TGZROHJSbEF6SWtoeHRuT295OW9pN2ttM2RBMmVXZGZ5SDM4ZGNfOS12VUlHcXJueGVORGxyZURFaWN6NzZsLXNqaTlkdC1LTHRBUmlaT2F3VmcwdG9LdGZXTTVlYkUyRVlfMmJXMXNwM1AzWFVTeU5rNVBuTjRMdVZLaHNHNmZKb1pzRkpHSWtvUm1qQ2lEMlUxVEJDekZYQVlnNEpGX2Y4N1UxQktIN3BuNWlya3Zv0gH8AUFVX3lxTE5UbmIxY2hvRjRXM21UV0pJaDRFLTVTVDBtS1RPR2FLbnFTWlVDOVlQeUhMVUhRajZlWm51eVVuUVE3Vk1NVVdJMTRaaGNmLU5wM3dWVHcwNnRNU0JDZG5zc3RfUDFJQ0RkVGtDRGdXLU5NUXl3SjVYQ2hJYl9TeDBHdFBua2tZell4RTVOQVloQ3VYNkR6VHhfdjVyM1NLOHk3TVV1WXhyVHNYZXJ5WXpWb2F2Vi1qNHFkT3RUZnVMZDA5emR0Q2lmd19BMHk5bVJOWkxRbmdfaGZYQkc3WC1Ra09lMTZZUHk3ZXIycEZtalppTWdiQmRBRUl4Rw?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWUNxblJSeUhzLTRZZ3JYQnhTVmpIaHV5TE5zV3NNaDFUVURHU1cxci1uSmRra185d0c1OUE4Sl8tOFdFR0k5Y3hNRHFrN3JYOGJpQUtxRE1uMmV1LUw1V1dOdWhDYU52RXBRUFdn0gFuQVVfeXFMTmhZQ3FuUlJ5SHMtNFlnclhCeFNWakhodXlMTnNXc01oMVRVREdTVzFyLW5KZGtrXzl3RzU5QThKXy04V0VHSTljeE1EcWs3clg4YmlBS3FETW4yZXUtTDVXV051aENhTnZFcFFQV2c?oc=5"
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQVlWSEktSGZxNDNBYmluWTEzeUNUalBMbHJGQzNrNUhvVGpwdFYwajY2TW5rNlZER1diU3ZzcHlvUk01d0UzRGIyeVlybGhybkpsbWlRcndhQmU2SGpvc3huQUI5NFBQQ0FRaW9qZWFaejBU?oc=5",
+        "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "https://openai.com/index/legora"
       ],
       "eventTitles": [
-        "Alibaba’s Qwen AI Model Attempted Data Transfer to China During Security Test - ForkLog",
-        "Alibaba Qwen AI Model 'Qwen3.8-Flash-Next' Attempts Unauthorised File Upload to Server in Beijing During - LatestLY",
-        "Alibaba AI Model Tried to Reach Beijing Server in Security Test - GuruFocus",
-        "Alibaba AI Model Tried to Reach Beijing Server in Security Test - TradingView",
-        "Alibaba’s Qwen AI Found Trying to Upload on Chinese Cloud Server - WinBuzzer",
-        "Alibaba’s Qwen AI Model Attempts to Upload Files to China While Performing Cybersecurity Tasks - GBHackers News",
-        "Alibaba’s Qwen AI promised no tools, then tried uploading to Beijing - Martin Cid Magazine",
-        "Alibaba's Qwen AI Said It Wouldn't Execute Commands, Then Tried to Send Data to China - CyberSecurityNews",
-        "Alibaba AI model tried to send data to Beijing server, Cohere says - CSO Online",
-        "Did Alibaba's Qwen AI Model Try to 'Call Home' to Beijing? Cohere Finds a Troubling Security Clue - International Business Times, Singapore Edition",
-        "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says - The Economic Times",
-        "Alibaba’s Qwen AI Model Attempts to Send Data to China Without User Permission - Cyber Press"
+        "OpenAI、リーガルAIのLegoraを称賛―5.5億ドル調達・88億ドル評価額の直後に - BigGo ファイナンス",
+        "Legora is building the agentic operating system for legal work"
       ]
     },
     {
-      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-10-no-human-at-the-helm-delaware-plan-would-l",
-      "rank": 6,
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "originalTitle": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "summary": "A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday. C",
+      "id": "google-news-asia-models-inkorr-a477b89999656c4904fd",
+      "rank": 4,
+      "title": "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters - Inkorr",
+      "originalTitle": "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters - Inkorr",
+      "summary": "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters Inkorr",
       "points": [
-        "A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the ",
-        "James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday.",
-        "Comer, chairman of the House Committee on Oversight and Government Reform, told Meyer that the committee \"seeks assistance obtaining documents related to your state admin"
+        "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters Inkorr",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "Ars Technica",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Inkorr",
       "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-27T21:50:04.000Z",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
-      "impactScore": 76,
+      "category": "安全性",
+      "publishedAt": "2026-10-28T17:02:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjl0SlhpdEd2UnJUVEwxbWxjSmZLeGNrRjJSMlFEUlBGOU1GMThYS2t2UTA5Vmx1MlR3cDhDRV95dEYwZUFuZHREaUs3V2ZhWkdNTkp2bWRXOEd2OElhY3Zadmx0QkxVUlQzY1pwUWFCczBBWGNIbndwRF9Gc3hCUzNtcERZaWV3QnRnOFJPUTVBM1Z6cFJteE9mLUpTamwwSnZVZXlyQ3dyZWRGbTFXUVpR0gG3AUFVX3lxTE16dHdRTFlLdzlUMVhvbVVuYWF2d2RpNFFxX3dMTFR4LVhxVmx0Q2JWZWVUMndHcUM2Q2FNS2RlSm9QLVAyUG9kWjNMWE5TR3FLWUdTdmVEVy16VVhQMDZCSWdzQXdlcFY0SVFRWEg4TGNNWDUtSWh4Z2JPMjlZSVpzWk9hanYxay1yQ1FMRWZiUlhkNW9hSlZMVU4wMGhwZndTTTNIalQzZnZPMXZLaW5TekI3OXdHcw?oc=5",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Bloom Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHVRUXg0YXhCY1FIQTBiNFV4djdQd0lyZ2Q1cWpUb3htQlB4cWFrYmZtdnJibDlRQlpmZ0Z3Z3BGX1ZvcnB1VzIteXN0cWhtTzBVVEE2NmZvMUlOdW0zVWdrakVVQzRmMGFxOWo3Njd3REFzaXpNYkFUbzdiTW13bkZxUzQtZnVlVGw0d3JjSmg?oc=5"
+        },
+        {
+          "name": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGtzWUQyRzY2WHBQUENJcjhJanZoYmhwTEVkcFlaMVRFSVRWT3Z2SjY2NU9GV1pVNF9ENVA2aUdYZ0hOY2F5dzd2MmtFaVN1WmEzNUtyM29ra09fVlV2Zy1DUTFNaEtVWHhnVm9CdFVmN1lmNDVmVlJUbGtfTC1uc1VESGRsS045RGxLSW5RRmpCS0ltVnFoSUtfdW4xNHNhS0c5LUx6aUtCdDlKMHJuWVFaYjNVX3BFUHhFRGJTR05qV2ExaXk0OEJB?oc=5"
+        },
+        {
+          "name": "AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFVvVkJUMFRvdVdIMGZSWmxKWDY4TU0xaXNzOEo0YlFSQTNXWXFYWHZUZ1dRYjhLd1hLVmFiTURJSU11bTJHVTRlNi1DbUItY2t5RFR4VnV5aFI1a2cxTkRybVFBczlXbktZMVloeXFlS3Fsd2RqaXlFc3pWbm5KQzJtcnE1cVZBaWc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjl0SlhpdEd2UnJUVEwxbWxjSmZLeGNrRjJSMlFEUlBGOU1GMThYS2t2UTA5Vmx1MlR3cDhDRV95dEYwZUFuZHREaUs3V2ZhWkdNTkp2bWRXOEd2OElhY3Zadmx0QkxVUlQzY1pwUWFCczBBWGNIbndwRF9Gc3hCUzNtcERZaWV3QnRnOFJPUTVBM1Z6cFJteE9mLUpTamwwSnZVZXlyQ3dyZWRGbTFXUVpR0gG3AUFVX3lxTE16dHdRTFlLdzlUMVhvbVVuYWF2d2RpNFFxX3dMTFR4LVhxVmx0Q2JWZWVUMndHcUM2Q2FNS2RlSm9QLVAyUG9kWjNMWE5TR3FLWUdTdmVEVy16VVhQMDZCSWdzQXdlcFY0SVFRWEg4TGNNWDUtSWh4Z2JPMjlZSVpzWk9hanYxay1yQ1FMRWZiUlhkNW9hSlZMVU4wMGhwZndTTTNIalQzZnZPMXZLaW5TekI3OXdHcw?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHVRUXg0YXhCY1FIQTBiNFV4djdQd0lyZ2Q1cWpUb3htQlB4cWFrYmZtdnJibDlRQlpmZ0Z3Z3BGX1ZvcnB1VzIteXN0cWhtTzBVVEE2NmZvMUlOdW0zVWdrakVVQzRmMGFxOWo3Njd3REFzaXpNYkFUbzdiTW13bkZxUzQtZnVlVGw0d3JjSmg?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGtzWUQyRzY2WHBQUENJcjhJanZoYmhwTEVkcFlaMVRFSVRWT3Z2SjY2NU9GV1pVNF9ENVA2aUdYZ0hOY2F5dzd2MmtFaVN1WmEzNUtyM29ra09fVlV2Zy1DUTFNaEtVWHhnVm9CdFVmN1lmNDVmVlJUbGtfTC1uc1VESGRsS045RGxLSW5RRmpCS0ltVnFoSUtfdW4xNHNhS0c5LUx6aUtCdDlKMHJuWVFaYjNVX3BFUHhFRGJTR05qV2ExaXk0OEJB?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFVvVkJUMFRvdVdIMGZSWmxKWDY4TU0xaXNzOEo0YlFSQTNXWXFYWHZUZ1dRYjhLd1hLVmFiTURJSU11bTJHVTRlNi1DbUItY2t5RFR4VnV5aFI1a2cxTkRybVFBczlXbktZMVloeXFlS3Fsd2RqaXlFc3pWbm5KQzJtcnE1cVZBaWc?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUZ1OUJkbmZ2RElvaWxZTFlhWHozQlVWRjVYOExVWllrOW9ieGcydExUNWZCd1RxYXpGZ1NEcDZ1cERwNVBGbU02Y09HQjlYVmxoOElVb3ZMdG1fendTQ0VLVDc0SHdva3g0NnJyem9FTXc4cmtuSWFOVXdReXlrd2pEalRMSmlCNFJ1SjB0WGdHWFMwUFJ1cm53dU1sSkFnUV9MVEJWSk5yYlZvemE3bXNsV0t3bHRob1IteU1pbw?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajktWXZjZmFUOWJzcjdYbktGcUh3Sm45X09xdEpjTUNqTmNTOUNzc1RWcWVHRUhwXzNSdHBDbU9IamJ0Q0ZEQldKQmZMMVVUUXFkNWptX0d3X2ZZR1QyNGhSOUZwbkZrSHVuVEY1S3ZWWk85S3AwUmpZaVJMck1JVlVjbFNEa0ZZdkxZN05sZE9pRUdHNmlmYzBmUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUVud193eDRXVzJfbmUwWVY2a0Z5T25VRy11MWJBdGQzMkptdVBWc0tpcmVIUjY4QzktWTUtLWhHWjl1OTBmbV9scnBXdWdRUUxGVzRqejh6WERSWUs1WlNnNHIyZXMtYUhBVWhmUkR3TG55SFdKT3lFeFlCcFo5VHZfYWNjbThw?oc=5",
+        "https://arxiv.org/abs/2610.35671"
+      ],
+      "eventTitles": [
+        "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters - Inkorr",
+        "DeepSeek AI Disables Shutdown Software in 39% of Safety Tests - Bloom Pakistan",
+        "DeepSeek V4.1 Flash Killed Competing Agent Process To Seize Compute, Audit Finds - Tech Times",
+        "Research Sheds New Light On DeepSeek’s Safety Risks - AOL.co.uk",
+        "Fangcun AI safety check finds DeepSeek V4.1-Flash-1017 safer but task-biased - NewsBytes",
+        "DeepSeek shutdown test: Fangcun AI’s safety findings - NeoTeo",
+        "Research Sheds New Light On DeepSeek’s Safety Risks - Gizmodo",
+        "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42085",
+      "rank": 5,
+      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "originalTitle": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents ",
+      "points": [
+        "Google is opening up Android Studio to third-party AI agents.",
+        "Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex.",
+        "Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-28T16:59:59.000Z",
+      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "スマホダイジェスト",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiYjF2NjRfZkhuRllLRHNkZTNXbUo5UHN4MFEySzVXODk5dHMxQ3NzRWdZM0hHN3FlM09tSUp3TVpBcjE4Tkdoag?oc=5"
+        },
+        {
+          "name": "HelenTech",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWURWRGJMXzVkMW5XNk9tZTk1TW5hbTFZbVJIQ3VhS3dtVWdTNFNNb0hnemFyb0RmTEE0Z1BnNm1mak54VnFXNTdHeUZLemxoMlZYN21HTzV5bHhiQkJ2MFhUMkd5cFdrbnhrMlJudXFRaXh6XzBUYmxMMnI?oc=5"
+        },
+        {
+          "name": "テクノエッジ TechnoEdge",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mU3FJbFh0eFkyb0VGQm1VU0hqXzlpMTJ1eUg3Q1pWTmxtWFR2V1ByUVNCcGI2a0E1R0R2RHVoVTBWVWR5R18xaVN6c1Q4WjNVemZNUWRlX3ZacGZuTlh3RE9HalFRa0U?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
+        "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiYjF2NjRfZkhuRllLRHNkZTNXbUo5UHN4MFEySzVXODk5dHMxQ3NzRWdZM0hHN3FlM09tSUp3TVpBcjE4Tkdoag?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWURWRGJMXzVkMW5XNk9tZTk1TW5hbTFZbVJIQ3VhS3dtVWdTNFNNb0hnemFyb0RmTEE0Z1BnNm1mak54VnFXNTdHeUZLemxoMlZYN21HTzV5bHhiQkJ2MFhUMkd5cFdrbnhrMlJudXFRaXh6XzBUYmxMMnI?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mU3FJbFh0eFkyb0VGQm1VU0hqXzlpMTJ1eUg3Q1pWTmxtWFR2V1ByUVNCcGI2a0E1R0R2RHVoVTBWVWR5R18xaVN6c1Q4WjNVemZNUWRlX3ZacGZuTlh3RE9HalFRa0U?oc=5"
+      ],
+      "eventTitles": [
+        "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+        "GoogleのAndroid向けAIコーディング性能ランキング、Gemini 4 ArgonはClaudeやGPT-6に後れ - スマホダイジェスト",
+        "Google、Gemini 4 Argon の活用例 8 つを紹介。3D ゲームの制作から NASA のデータ整理まで - HelenTech",
+        "Android/Google TVの“広告やおすすめ枠”を消してApple TV風シンプルUIにするOSS無料ツール「CleanYourTV」（生成AIクローズアップ） - テクノエッジ TechnoEdge"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3182884",
+      "rank": 6,
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "originalTitle": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "points": [
+        "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-28T21:48:37.000Z",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+        "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+      ],
+      "eventTitles": [
+        "Google expands AI Search ads globally as core ad growth slows",
+        "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Oct-28-ted-sanders-",
+      "rank": 7,
+      "title": "Quoting Ted Sanders",
+      "originalTitle": "Quoting Ted Sanders",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just",
+      "points": [
+        "In general, LLM performance is incredibly multidimensional.",
+        "There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes.",
+        "Despite that complexity, much of the variation in performance is explained by just a single variable: model size."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-28T23:23:21.000Z",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "impactScore": 72,
       "impactLabel": "大",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses"
+        "https://simonwillison.net/2026/Oct/28/ted-sanders"
       ],
       "eventTitles": [
-        "\"No human at the helm\": Delaware plan would let AI agents run entire businesses"
+        "Quoting Ted Sanders"
       ]
     },
     {
-      "id": "google-news-asia-models-benzinga-0d5c575fecea6f723f23",
-      "rank": 7,
-      "title": "Cohere Flags Alibaba AI For Sending Data to China: 'Something That Should Never Happen' - Benzinga",
-      "originalTitle": "Cohere Flags Alibaba AI For Sending Data to China: 'Something That Should Never Happen' - Benzinga",
-      "summary": "Cohere Flags Alibaba AI For Sending Data to China: 'Something That Should Never Happen' Benzinga",
-      "points": [
-        "Cohere Flags Alibaba AI For Sending Data to China: 'Something That Should Never Happen' Benzinga",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Benzinga",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-27T21:02:54.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMG1nVmpUalVXdEx0R29JNUhNM0R5TTN1Ny1QS3JTbW1QbE5aNDJqV3poZG5lckRzRTQyT2t6dFU1VG1oUmVUeFFMaUxCXzRfQjZCZVhkZVFtTHFQWTkxb0k4c1Rxd2sydUVER0ZSQjBxU3hrdjdMTGxZeXgxV1ZaSkx3Z3NyNVdkMWJsRXlVVU9OVEh1aHlnb0RFLS14RkJ5eTd1eDVBUGN3bEZKNmpBa3ZYcGtXOWtoQWM2ODZnbDRYdzR3UVF5TlNFTjRfd01GNHlkRXhES1FXRV8yYkx3Qjl3?oc=5",
-      "impactScore": 76,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "BankInfoSecurity",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGQ4TkwxYWY4aU96aG16WGFYLXlNb1ExSEx4bWRHcXB4X1V2bExweFlXM0RXaW52NTNYYThuTmtMdnVPSjdieXgxVlc4d2IwSzZQRno5U0g3TGltOFV2dWhJU3R1UE1YY051ZnRMMjJYTWQ4YXlFOF9rZ1lGbXJjV0RGdzhrOWtmS3c3dm5ESWtFWVpkejVjY2hjNk4?oc=5"
-        },
-        {
-          "name": "Analytics Insight",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTN4SHF6NXB5X00zRDl6XzRFS1V3eEdESUZvYTBuZEpPVWlhejhTZ05YSEpBSjRzcmw1Vm91cTdEaGR3WFpaaW1MNVY0ZkN5RnVjUTJ5Rmt5MGdnSDQ4eVNheEdwZllmeWFxSGZXcFRaMnh4eTJ1eHZiVlZiSUtEZUV0QmJUcmNJSXJPanQzdHdXbnpfM3lpd2c4OGZHa3NqTUpkYjZkV1lndEpi0gGsAUFVX3lxTE51M3hIcXo1cHlfTTNEOXpfNEVLVXd4R0RJRm9hMG5kSk9VaWF6OFNnTlhISkFKNHNybDVWb3VxN0RoZHdYWlppbUw1VjRmQ3lGdWNRMnlGa3kwZ2dINDh5U2F4R3BmWWZ5YXFIZldwVFoyeHh5MnV4dmJWVmJJS0RlRXRCYlRyY0lJck9qdDN0d1duel8zeWl3Zzg4Zkdrc2pNSmRiNmRXWWd0SmI?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMG1nVmpUalVXdEx0R29JNUhNM0R5TTN1Ny1QS3JTbW1QbE5aNDJqV3poZG5lckRzRTQyT2t6dFU1VG1oUmVUeFFMaUxCXzRfQjZCZVhkZVFtTHFQWTkxb0k4c1Rxd2sydUVER0ZSQjBxU3hrdjdMTGxZeXgxV1ZaSkx3Z3NyNVdkMWJsRXlVVU9OVEh1aHlnb0RFLS14RkJ5eTd1eDVBUGN3bEZKNmpBa3ZYcGtXOWtoQWM2ODZnbDRYdzR3UVF5TlNFTjRfd01GNHlkRXhES1FXRV8yYkx3Qjl3?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGQ4TkwxYWY4aU96aG16WGFYLXlNb1ExSEx4bWRHcXB4X1V2bExweFlXM0RXaW52NTNYYThuTmtMdnVPSjdieXgxVlc4d2IwSzZQRno5U0g3TGltOFV2dWhJU3R1UE1YY051ZnRMMjJYTWQ4YXlFOF9rZ1lGbXJjV0RGdzhrOWtmS3c3dm5ESWtFWVpkejVjY2hjNk4?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTN4SHF6NXB5X00zRDl6XzRFS1V3eEdESUZvYTBuZEpPVWlhejhTZ05YSEpBSjRzcmw1Vm91cTdEaGR3WFpaaW1MNVY0ZkN5RnVjUTJ5Rmt5MGdnSDQ4eVNheEdwZllmeWFxSGZXcFRaMnh4eTJ1eHZiVlZiSUtEZUV0QmJUcmNJSXJPanQzdHdXbnpfM3lpd2c4OGZHa3NqTUpkYjZkV1lndEpi0gGsAUFVX3lxTE51M3hIcXo1cHlfTTNEOXpfNEVLVXd4R0RJRm9hMG5kSk9VaWF6OFNnTlhISkFKNHNybDVWb3VxN0RoZHdYWlppbUw1VjRmQ3lGdWNRMnlGa3kwZ2dINDh5U2F4R3BmWWZ5YXFIZldwVFoyeHh5MnV4dmJWVmJJS0RlRXRCYlRyY0lJck9qdDN0d1duel8zeWl3Zzg4Zkdrc2pNSmRiNmRXWWd0SmI?oc=5"
-      ],
-      "eventTitles": [
-        "Cohere Flags Alibaba AI For Sending Data to China: 'Something That Should Never Happen' - Benzinga",
-        "Cohere Flags Data Exfiltration Risk in Alibaba AI Model - BankInfoSecurity",
-        "Cohere Flags Qwen AI: 1 in 100,000 Actions Tried Data Transfer - Analytics Insight"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3181989",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2610-29-2000002685",
       "rank": 8,
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "originalTitle": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "title": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
+      "originalTitle": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
+      "summary": "�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB",
       "points": [
-        "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not e",
+        "�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "TechCrunch",
+      "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "モデル",
-      "publishedAt": "2026-10-27T01:12:21.000Z",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
-      "impactScore": 75,
-      "impactLabel": "大",
+      "publishedAt": "2026-10-28T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2610/29/2000002685",
+      "impactScore": 69,
+      "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXlMU3Z6Uzg5ekpVT2ZXX1FGNTIxR0NJalVzM04tcEh1UDdMZzI0X053dVYyUVBkU3BNVW9pU3ZwTGJjMGRSZXRBeFRPQjdYZlBlSXQyaVYxODFnbkNpeVoyZ0ZNOVl6QjE1S2pNWS1HTjFEOE5zWTh3SjFvd3Y0NXA5OEdhd1g3blYwc0VqYkExY081T2tESk9wQktEYnpQVXY0?oc=5"
-        },
-        {
-          "name": "Cyber Magazine",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOU9aSmppTk9hNXprc0tkQjJ1NFNMN3FZOWFnRy0zdktuZGxaaHZsVFZTaFZGNS1uRHRwU1R5SVpnM2FjcG5HV2NSZWw2TW1ndnpKbUwyaTNkRHpKeFpmbDJDNnZxWWJGR1Z1ZUxYRnkyUFQzUlJabGUxMUhadmtUSkdzeURFLUZUUGhvaDRCZw?oc=5"
-        },
-        {
-          "name": "Analytics India Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW92NnhqbjNPMWJDOFRxUFRsdHF6LUhCcXJKXzZ1YUtYSHQ3UzR1TzQ2MnZPSW1mTlh4bGw4MUZqbU5yOEx3UzlrWE5NY3pnNk9RS2RIWlA3VFM0SlhBcERkYllaQVBqeEN6cjd0eDJBR1NaVWU4QUo3UjdtemhUa3NyMk1UMFg1U3c0Y080N1FnTnJBendzRk42VUhzVi15eVFMMG1rUEdfVUpxMGVfdlBuRQ?oc=5"
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tY3pPY3phWlVzNWtUVXlsUFRrWTJfZzZ0blBuTl9WWGhKTWlBZ1lSTEoxT2pIc1FtbzBtYXRRQnRFOW5ONnhDbzlLNFBzbUNUOHE3OW9HbGlaVWxMZENEdmc2Ql9jek9Ca0NibklDbklwS3RrYVk4N05yQ2Noa3c?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXlMU3Z6Uzg5ekpVT2ZXX1FGNTIxR0NJalVzM04tcEh1UDdMZzI0X053dVYyUVBkU3BNVW9pU3ZwTGJjMGRSZXRBeFRPQjdYZlBlSXQyaVYxODFnbkNpeVoyZ0ZNOVl6QjE1S2pNWS1HTjFEOE5zWTh3SjFvd3Y0NXA5OEdhd1g3blYwc0VqYkExY081T2tESk9wQktEYnpQVXY0?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOU9aSmppTk9hNXprc0tkQjJ1NFNMN3FZOWFnRy0zdktuZGxaaHZsVFZTaFZGNS1uRHRwU1R5SVpnM2FjcG5HV2NSZWw2TW1ndnpKbUwyaTNkRHpKeFpmbDJDNnZxWWJGR1Z1ZUxYRnkyUFQzUlJabGUxMUhadmtUSkdzeURFLUZUUGhvaDRCZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW92NnhqbjNPMWJDOFRxUFRsdHF6LUhCcXJKXzZ1YUtYSHQ3UzR1TzQ2MnZPSW1mTlh4bGw4MUZqbU5yOEx3UzlrWE5NY3pnNk9RS2RIWlA3VFM0SlhBcERkYllaQVBqeEN6cjd0eDJBR1NaVWU4QUo3UjdtemhUa3NyMk1UMFg1U3c0Y080N1FnTnJBendzRk42VUhzVi15eVFMMG1rUEdfVUpxMGVfdlBuRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUE5rUFA0WWdqUzY3aVQtV3pTS2FoU3R1WTBqZDZjcDZ0Nlc2WXJZcVJpd3BYSDlaZUFuM2tpSGlmSzVkQ1VENE5RSExIUGRHaXlCRTlsYTlkNkFTVjJBSGRudEF0MHh1aXBkUW9QZE93bm8wenBsVnZ4bXVUNjg3Z2Y2SlJIdnBjbFhuZUVwbWRwdnM?oc=5",
-        "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFN6MDd0bXJNOTIycHhtMnF1Uk1PVjFuaURPbHhYMkdBR1JVbWc2QjkxRVJSYmg4ZzZkQjRGd0ZMaDN6S0RtUXRhTFUxdUJOSzFHWGNjeXd2YmlqN09rZGtfWmQ1XzlIYWFvOFhfSURhYmR4VUJtTnNiZkFXQjBUdlNyMk4xTmVOaHNKVmhPTHNSRERCLS03MG55Q0steWc?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkQ5cnFlNGwtaHpEdEttTWZtdlZSSGZ5S2ozN1BxbXFTVmlBekVmTG9uT2VNWG9rT3ZtcVhqSllUR0poZ1ZEQnZySnU1UDE5Y0RFME9KVkFGb0xpSjJkOEw3MDBVdENoZ0ZKVGxkNWR5LXJKeTF5eEs3c0pGRHVFUGJSSzBvWHZ1MWtNb1VnRHY3MnZMZmxfMHkxN3NrNDhYSUh4RHV1MTZBd1pORjF3RmhWQ2dQdHZQbDVFYVFITG4wcjNSRF9zLTJyQmg?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tY3pPY3phWlVzNWtUVXlsUFRrWTJfZzZ0blBuTl9WWGhKTWlBZ1lSTEoxT2pIc1FtbzBtYXRRQnRFOW5ONnhDbzlLNFBzbUNUOHE3OW9HbGlaVWxMZENEdmc2Ql9jek9Ca0NibklDbklwS3RrYVk4N05yQ2Noa3c?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2610/29/2000002685"
       ],
       "eventTitles": [
-        "Cohere catches Alibaba AI model trying to upload file to Beijing server - The Globe and Mail",
-        "Cohere: Alibaba Qwen Model Tried to Send Data to Beijing - Cyber Magazine",
-        "Cohere Says Alibaba’s Qwen Model Tried to Upload Test File to Beijing Server - Analytics India Magazine",
-        "Cohere: Alibaba's Qwen Attempted a Connection to Beijing - Brief IA",
-        "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-        "Cohere says Alibaba’s Qwen model tried to send a file to Beijing - TechCrunch",
-        "Cohere says Alibaba AI model tried to secretly send data to Beijing server during test - 디지털투데이"
+        "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も（ITmedia NEWS） - Yahoo!ニュース",
+        "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も"
       ]
     },
     {
-      "id": "anthropic-sitemap-https-anthropic-com-news-expanding-partnership-gsa",
+      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_video-038-p-3182776",
       "rank": 9,
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "originalTitle": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "originalTitle": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
       "points": [
-        "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "The PHP scare may have faded from your feed, but the cleanup is far from over.",
+        "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline",
+        "According to researchers who found the […]"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Anthropic",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
-      "url": "https://anthropic.com/news/expanding-partnership-gsa",
-      "impactScore": 73,
-      "impactLabel": "大",
-      "verification": "公式発表",
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-28T19:05:46.000Z",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://anthropic.com/news/expanding-partnership-gsa"
+        "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse"
       ],
       "eventTitles": [
-        "Expanding our partnership with GSA to bring Claude to all levels of government"
+        "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-check-point-daybreak",
+      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_podcast-038-p-3182774",
       "rank": 10,
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "originalTitle": "How Check Point accelerates vulnerability research with Daybreak",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "originalTitle": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
       "points": [
-        "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses ",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "The PHP scare may have faded from your feed, but the cleanup is far from over.",
+        "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline",
+        "According to researchers who found the […]"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-10-27T00:00:00.000Z",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "impactScore": 71,
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-28T18:50:39.000Z",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+      "impactScore": 69,
       "impactLabel": "中",
-      "verification": "公式発表",
+      "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/check-point-daybreak"
+        "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto"
       ],
       "eventTitles": [
-        "How Check Point accelerates vulnerability research with Daybreak"
+        "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO"
       ]
     }
   ]

@@ -1,0 +1,416 @@
+{
+  "edition": "2026-10-29T06:30:00+09:00",
+  "generatedAt": "2026-10-29T01:08:32.172Z",
+  "periodStart": "2026-10-26T13:08:32.172Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 42,
+  "freshSources": 39,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 2727,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-gemini-4-carbon-our-next-frontier-model-",
+      "rank": 1,
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "originalTitle": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+      "points": [
+        "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-28T17:00:58.000Z",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "impactScore": 100,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2610/29/2000002690"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xemxRcUh5akJISWNCMVVFQUE3QVk5R2JvcFdKUWpreFVxTld3N21GdS15ZnYzVkxoVnAwSjhUMldfNlhiWHFQVno3VzU4WDZ1ZWRuMk5MOGJaS2xDUmFWUmNkVUw1SnZfbXc?oc=5"
+        },
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzFpcEkzTDRDZmFPaGdfTkR6Q3U1aFVUa3k5WGcxakFFd1NJcWxvRXJKSERuZnRCOVktUDdtTDZoMklodkNDd29kcVRHTVdqaUxtV3VOTmxNck5qQm5pLUtibVNIS0J0cDBMT1pRaUd6SUtYSzd2eElQWS04UmZYTGtnanZkNFBvbGptMDl6OGM4cDNTR0xZVURsYmtqX0NjcXM5OVFQTkNTSVBWS1FGcWhGSlNTM0NI?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2610/29/2000002690",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xemxRcUh5akJISWNCMVVFQUE3QVk5R2JvcFdKUWpreFVxTld3N21GdS15ZnYzVkxoVnAwSjhUMldfNlhiWHFQVno3VzU4WDZ1ZWRuMk5MOGJaS2xDUmFWUmNkVUw1SnZfbXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzFpcEkzTDRDZmFPaGdfTkR6Q3U1aFVUa3k5WGcxakFFd1NJcWxvRXJKSERuZnRCOVktUDdtTDZoMklodkNDd29kcVRHTVdqaUxtV3VOTmxNck5qQm5pLUtibVNIS0J0cDBMT1pRaUd6SUtYSzd2eElQWS04UmZYTGtnanZkNFBvbGptMDl6OGM4cDNTR0xZVURsYmtqX0NjcXM5OVFQTkNTSVBWS1FGcWhGSlNTM0NI?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Rem9Cc29ncmoyZGVOLV9YeWtxdldFZXM1YmdlQUY4R1lpTlNpZE9YWTVTMG01ME1NTlc3ZmVDZkIxU3B4R0ZrYlNvT01heHBIWmFiYjM4eVIzSUFvUEoyODQxYVpIOTZ5a1RrNmJIRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jQmV1U0hFMmVCWnNpekw3bEF6TDl0V1pvbF9BN2xOVFhWOWxKTThCUWpzcmVFdlE4Nkdaa2wwWExoaFBtTkVoR0FFMV9GMGFGX1A1QkxTUGhFdG51emU0?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nY0YxaUNaTTlvX3FEZjFzZVJvQjJMdDRoT2RNRDhFTjlrRUVlc2dYOHhxSVBtMmR1YnowS0ZPbTBRbExfbkVjRVhmN3d6aTRNZmxLV0pRSi1xekE?oc=5",
+        "https://theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KdlR4S0RxRHoyeHdrWFFvLWtDS0haZWk5dEI2bWdlRnZOUTBhZ21DUlF3R2xmQzU3bWtEandfelZiZWNrTHNOWXBlMjFBVnRCSWtoS3dPUk1HeVlxb3Y5THJ5Z1RGSk9Gakd4RHl2cGx5ZzA?oc=5",
+        "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGFqZjlLeFF5Z1FDaWFvQ0Q5dU53SVdVWWJIRFhNdHRST29RMzJ1R0xTcHlsRWFFWHZVaWtlaHZaZjNsRmtJRG5vRGFUSFF5S1lYQkF3WkprWnN0bXFxc1BSajgwX2ZpaHR0dDJmYkw2R1g4Y25PbUxmbzlrQU9mTzYtZFc?oc=5",
+        "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VV2tfQWhmMHlOcVZxUXR3bGR1dDJ6WVo3Y2g2RkFJRVhUbXF0bE9vMzM1VFFuSzZTUmRrcXB3cGd2X0pQMFRWS2RzVDNrNTVyRkJJNXBfd3kwa0UwRVUtMjlRY1p4VmVFUF95VE95X2htYzBS?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZQ3ozYmd5SGpGejkyd3prUG0yb0dVT2xOcHdxeG5VZDllekpEOVdsNGswN3RhbWd5UWx4QkxvZF9zLW5rY1Etbl9fSi1sbk56LVN4Q2x3cmtSVF9MVFI2eEJiR0g4MUJmcGgzR2wyXy1hekpDRldn?oc=5",
+        "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"
+      ],
+      "eventTitles": [
+        "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+        "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化 - ITmedia",
+        "Google、新AIモデル「Gemini 4 Carbon」発表 コーディング・サイバー防衛性能を強化 - 디지털투데이",
+        "Googleの最強AI「Gemini 4 Carbon」は本当に優秀なのか？9つの性能評価で見えた強みと弱点 - XenoSpectrum",
+        "Google、最先端AIモデル「Gemini 4 Carbon」発表 - Jetstream",
+        "Google、最先端AIモデル「Gemini 4 Carbon」発表 発表 - jetstream.blog",
+        "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "Google、新 AI モデル「Gemini 4 Carbon」を発表。現在は一部のサイバー防御担当者向け - HelenTech",
+        "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+        "Google、Gemini 4 Carbonを発表、当面はサイバー防御担当者のみ - Pasquale Pillitteri",
+        "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+        "グーグルの「Gemini 4 Carbon」、AI指数で首位 セキュリティテストで88.2%を記録 - BigGo ファイナンス",
+        "Google、サイバーセキュリティに重点を置いたAIモデル「Gemini 4 Carbon」をリリース - TradingView",
+        "Gemini 4 Carbon: Our next frontier model"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-openai-servicenow-partnership-expansion",
+      "rank": 2,
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "points": [
+        "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "impactScore": 88,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjRldjZNMEFMZzJ0NnE4TUREZGphYUhxRDR6TkpaQTJvY1cyM01XVVdyQnJHN3ZJb1A3WmU3am55S3FOWE5RUUhNSHhoZTN4YzY4dEpRY08tT0xQdllfZnJ6WFNydmZmZnhEd2Fxb0hCb01ydU9vS2hFaEZxTVdOcDdkZ2ZLZ2x5dXAyZ1l3WmlCS1JGbk43LWNR?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjRldjZNMEFMZzJ0NnE4TUREZGphYUhxRDR6TkpaQTJvY1cyM01XVVdyQnJHN3ZJb1A3WmU3am55S3FOWE5RUUhNSHhoZTN4YzY4dEpRY08tT0xQdllfZnJ6WFNydmZmZnhEd2Fxb0hCb01ydU9vS2hFaEZxTVdOcDdkZ2ZLZ2x5dXAyZ1l3WmlCS1JGbk43LWNR?oc=5",
+        "https://openai.com/index/openai-servicenow-partnership-expansion"
+      ],
+      "eventTitles": [
+        "OpenAIとServiceNow、ChatGPTのワークフロープラグインで提携を拡大 - Unite.AI",
+        "OpenAI and ServiceNow expand partnership across enterprise workflows"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-legora-agentic-operating-system-for-legal-work",
+      "rank": 3,
+      "title": "Legora is building the agentic operating system for legal work",
+      "originalTitle": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "points": [
+        "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "impactScore": 84,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQVlWSEktSGZxNDNBYmluWTEzeUNUalBMbHJGQzNrNUhvVGpwdFYwajY2TW5rNlZER1diU3ZzcHlvUk01d0UzRGIyeVlybGhybkpsbWlRcndhQmU2SGpvc3huQUI5NFBQQ0FRaW9qZWFaejBU?oc=5"
+        },
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/legora"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQVlWSEktSGZxNDNBYmluWTEzeUNUalBMbHJGQzNrNUhvVGpwdFYwajY2TW5rNlZER1diU3ZzcHlvUk01d0UzRGIyeVlybGhybkpsbWlRcndhQmU2SGpvc3huQUI5NFBQQ0FRaW9qZWFaejBU?oc=5",
+        "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "https://openai.com/index/legora"
+      ],
+      "eventTitles": [
+        "OpenAI、リーガルAIのLegoraを称賛―5.5億ドル調達・88億ドル評価額の直後に - BigGo ファイナンス",
+        "Legora is building the agentic operating system for legal work"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-inkorr-a477b89999656c4904fd",
+      "rank": 4,
+      "title": "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters - Inkorr",
+      "originalTitle": "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters - Inkorr",
+      "summary": "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters Inkorr",
+      "points": [
+        "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters Inkorr",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Inkorr",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-28T17:02:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjl0SlhpdEd2UnJUVEwxbWxjSmZLeGNrRjJSMlFEUlBGOU1GMThYS2t2UTA5Vmx1MlR3cDhDRV95dEYwZUFuZHREaUs3V2ZhWkdNTkp2bWRXOEd2OElhY3Zadmx0QkxVUlQzY1pwUWFCczBBWGNIbndwRF9Gc3hCUzNtcERZaWV3QnRnOFJPUTVBM1Z6cFJteE9mLUpTamwwSnZVZXlyQ3dyZWRGbTFXUVpR0gG3AUFVX3lxTE16dHdRTFlLdzlUMVhvbVVuYWF2d2RpNFFxX3dMTFR4LVhxVmx0Q2JWZWVUMndHcUM2Q2FNS2RlSm9QLVAyUG9kWjNMWE5TR3FLWUdTdmVEVy16VVhQMDZCSWdzQXdlcFY0SVFRWEg4TGNNWDUtSWh4Z2JPMjlZSVpzWk9hanYxay1yQ1FMRWZiUlhkNW9hSlZMVU4wMGhwZndTTTNIalQzZnZPMXZLaW5TekI3OXdHcw?oc=5",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Bloom Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHVRUXg0YXhCY1FIQTBiNFV4djdQd0lyZ2Q1cWpUb3htQlB4cWFrYmZtdnJibDlRQlpmZ0Z3Z3BGX1ZvcnB1VzIteXN0cWhtTzBVVEE2NmZvMUlOdW0zVWdrakVVQzRmMGFxOWo3Njd3REFzaXpNYkFUbzdiTW13bkZxUzQtZnVlVGw0d3JjSmg?oc=5"
+        },
+        {
+          "name": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGtzWUQyRzY2WHBQUENJcjhJanZoYmhwTEVkcFlaMVRFSVRWT3Z2SjY2NU9GV1pVNF9ENVA2aUdYZ0hOY2F5dzd2MmtFaVN1WmEzNUtyM29ra09fVlV2Zy1DUTFNaEtVWHhnVm9CdFVmN1lmNDVmVlJUbGtfTC1uc1VESGRsS045RGxLSW5RRmpCS0ltVnFoSUtfdW4xNHNhS0c5LUx6aUtCdDlKMHJuWVFaYjNVX3BFUHhFRGJTR05qV2ExaXk0OEJB?oc=5"
+        },
+        {
+          "name": "AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFVvVkJUMFRvdVdIMGZSWmxKWDY4TU0xaXNzOEo0YlFSQTNXWXFYWHZUZ1dRYjhLd1hLVmFiTURJSU11bTJHVTRlNi1DbUItY2t5RFR4VnV5aFI1a2cxTkRybVFBczlXbktZMVloeXFlS3Fsd2RqaXlFc3pWbm5KQzJtcnE1cVZBaWc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjl0SlhpdEd2UnJUVEwxbWxjSmZLeGNrRjJSMlFEUlBGOU1GMThYS2t2UTA5Vmx1MlR3cDhDRV95dEYwZUFuZHREaUs3V2ZhWkdNTkp2bWRXOEd2OElhY3Zadmx0QkxVUlQzY1pwUWFCczBBWGNIbndwRF9Gc3hCUzNtcERZaWV3QnRnOFJPUTVBM1Z6cFJteE9mLUpTamwwSnZVZXlyQ3dyZWRGbTFXUVpR0gG3AUFVX3lxTE16dHdRTFlLdzlUMVhvbVVuYWF2d2RpNFFxX3dMTFR4LVhxVmx0Q2JWZWVUMndHcUM2Q2FNS2RlSm9QLVAyUG9kWjNMWE5TR3FLWUdTdmVEVy16VVhQMDZCSWdzQXdlcFY0SVFRWEg4TGNNWDUtSWh4Z2JPMjlZSVpzWk9hanYxay1yQ1FMRWZiUlhkNW9hSlZMVU4wMGhwZndTTTNIalQzZnZPMXZLaW5TekI3OXdHcw?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHVRUXg0YXhCY1FIQTBiNFV4djdQd0lyZ2Q1cWpUb3htQlB4cWFrYmZtdnJibDlRQlpmZ0Z3Z3BGX1ZvcnB1VzIteXN0cWhtTzBVVEE2NmZvMUlOdW0zVWdrakVVQzRmMGFxOWo3Njd3REFzaXpNYkFUbzdiTW13bkZxUzQtZnVlVGw0d3JjSmg?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGtzWUQyRzY2WHBQUENJcjhJanZoYmhwTEVkcFlaMVRFSVRWT3Z2SjY2NU9GV1pVNF9ENVA2aUdYZ0hOY2F5dzd2MmtFaVN1WmEzNUtyM29ra09fVlV2Zy1DUTFNaEtVWHhnVm9CdFVmN1lmNDVmVlJUbGtfTC1uc1VESGRsS045RGxLSW5RRmpCS0ltVnFoSUtfdW4xNHNhS0c5LUx6aUtCdDlKMHJuWVFaYjNVX3BFUHhFRGJTR05qV2ExaXk0OEJB?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFVvVkJUMFRvdVdIMGZSWmxKWDY4TU0xaXNzOEo0YlFSQTNXWXFYWHZUZ1dRYjhLd1hLVmFiTURJSU11bTJHVTRlNi1DbUItY2t5RFR4VnV5aFI1a2cxTkRybVFBczlXbktZMVloeXFlS3Fsd2RqaXlFc3pWbm5KQzJtcnE1cVZBaWc?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUZ1OUJkbmZ2RElvaWxZTFlhWHozQlVWRjVYOExVWllrOW9ieGcydExUNWZCd1RxYXpGZ1NEcDZ1cERwNVBGbU02Y09HQjlYVmxoOElVb3ZMdG1fendTQ0VLVDc0SHdva3g0NnJyem9FTXc4cmtuSWFOVXdReXlrd2pEalRMSmlCNFJ1SjB0WGdHWFMwUFJ1cm53dU1sSkFnUV9MVEJWSk5yYlZvemE3bXNsV0t3bHRob1IteU1pbw?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajktWXZjZmFUOWJzcjdYbktGcUh3Sm45X09xdEpjTUNqTmNTOUNzc1RWcWVHRUhwXzNSdHBDbU9IamJ0Q0ZEQldKQmZMMVVUUXFkNWptX0d3X2ZZR1QyNGhSOUZwbkZrSHVuVEY1S3ZWWk85S3AwUmpZaVJMck1JVlVjbFNEa0ZZdkxZN05sZE9pRUdHNmlmYzBmUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUVud193eDRXVzJfbmUwWVY2a0Z5T25VRy11MWJBdGQzMkptdVBWc0tpcmVIUjY4QzktWTUtLWhHWjl1OTBmbV9scnBXdWdRUUxGVzRqejh6WERSWUs1WlNnNHIyZXMtYUhBVWhmUkR3TG55SFdKT3lFeFlCcFo5VHZfYWNjbThw?oc=5",
+        "https://arxiv.org/abs/2610.35671"
+      ],
+      "eventTitles": [
+        "Enhanced AI Security in DeepSeek V4.1-Flash-1017 Comes with New Safety Concerns Due to Weakened Filters - Inkorr",
+        "DeepSeek AI Disables Shutdown Software in 39% of Safety Tests - Bloom Pakistan",
+        "DeepSeek V4.1 Flash Killed Competing Agent Process To Seize Compute, Audit Finds - Tech Times",
+        "Research Sheds New Light On DeepSeek’s Safety Risks - AOL.co.uk",
+        "Fangcun AI safety check finds DeepSeek V4.1-Flash-1017 safer but task-biased - NewsBytes",
+        "DeepSeek shutdown test: Fangcun AI’s safety findings - NeoTeo",
+        "Research Sheds New Light On DeepSeek’s Safety Risks - Gizmodo",
+        "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42085",
+      "rank": 5,
+      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "originalTitle": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents ",
+      "points": [
+        "Google is opening up Android Studio to third-party AI agents.",
+        "Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex.",
+        "Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-28T16:59:59.000Z",
+      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "スマホダイジェスト",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiYjF2NjRfZkhuRllLRHNkZTNXbUo5UHN4MFEySzVXODk5dHMxQ3NzRWdZM0hHN3FlM09tSUp3TVpBcjE4Tkdoag?oc=5"
+        },
+        {
+          "name": "HelenTech",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWURWRGJMXzVkMW5XNk9tZTk1TW5hbTFZbVJIQ3VhS3dtVWdTNFNNb0hnemFyb0RmTEE0Z1BnNm1mak54VnFXNTdHeUZLemxoMlZYN21HTzV5bHhiQkJ2MFhUMkd5cFdrbnhrMlJudXFRaXh6XzBUYmxMMnI?oc=5"
+        },
+        {
+          "name": "テクノエッジ TechnoEdge",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mU3FJbFh0eFkyb0VGQm1VU0hqXzlpMTJ1eUg3Q1pWTmxtWFR2V1ByUVNCcGI2a0E1R0R2RHVoVTBWVWR5R18xaVN6c1Q4WjNVemZNUWRlX3ZacGZuTlh3RE9HalFRa0U?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
+        "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiYjF2NjRfZkhuRllLRHNkZTNXbUo5UHN4MFEySzVXODk5dHMxQ3NzRWdZM0hHN3FlM09tSUp3TVpBcjE4Tkdoag?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWURWRGJMXzVkMW5XNk9tZTk1TW5hbTFZbVJIQ3VhS3dtVWdTNFNNb0hnemFyb0RmTEE0Z1BnNm1mak54VnFXNTdHeUZLemxoMlZYN21HTzV5bHhiQkJ2MFhUMkd5cFdrbnhrMlJudXFRaXh6XzBUYmxMMnI?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mU3FJbFh0eFkyb0VGQm1VU0hqXzlpMTJ1eUg3Q1pWTmxtWFR2V1ByUVNCcGI2a0E1R0R2RHVoVTBWVWR5R18xaVN6c1Q4WjNVemZNUWRlX3ZacGZuTlh3RE9HalFRa0U?oc=5"
+      ],
+      "eventTitles": [
+        "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+        "GoogleのAndroid向けAIコーディング性能ランキング、Gemini 4 ArgonはClaudeやGPT-6に後れ - スマホダイジェスト",
+        "Google、Gemini 4 Argon の活用例 8 つを紹介。3D ゲームの制作から NASA のデータ整理まで - HelenTech",
+        "Android/Google TVの“広告やおすすめ枠”を消してApple TV風シンプルUIにするOSS無料ツール「CleanYourTV」（生成AIクローズアップ） - テクノエッジ TechnoEdge"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3182884",
+      "rank": 6,
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "originalTitle": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "points": [
+        "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-28T21:48:37.000Z",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+        "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+      ],
+      "eventTitles": [
+        "Google expands AI Search ads globally as core ad growth slows",
+        "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Oct-28-ted-sanders-",
+      "rank": 7,
+      "title": "Quoting Ted Sanders",
+      "originalTitle": "Quoting Ted Sanders",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just",
+      "points": [
+        "In general, LLM performance is incredibly multidimensional.",
+        "There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes.",
+        "Despite that complexity, much of the variation in performance is explained by just a single variable: model size."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-28T23:23:21.000Z",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/28/ted-sanders"
+      ],
+      "eventTitles": [
+        "Quoting Ted Sanders"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2610-29-2000002685",
+      "rank": 8,
+      "title": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
+      "originalTitle": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
+      "summary": "�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB",
+      "points": [
+        "�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-28T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2610/29/2000002685",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tY3pPY3phWlVzNWtUVXlsUFRrWTJfZzZ0blBuTl9WWGhKTWlBZ1lSTEoxT2pIc1FtbzBtYXRRQnRFOW5ONnhDbzlLNFBzbUNUOHE3OW9HbGlaVWxMZENEdmc2Ql9jek9Ca0NibklDbklwS3RrYVk4N05yQ2Noa3c?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tY3pPY3phWlVzNWtUVXlsUFRrWTJfZzZ0blBuTl9WWGhKTWlBZ1lSTEoxT2pIc1FtbzBtYXRRQnRFOW5ONnhDbzlLNFBzbUNUOHE3OW9HbGlaVWxMZENEdmc2Ql9jek9Ca0NibklDbklwS3RrYVk4N05yQ2Noa3c?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2610/29/2000002685"
+      ],
+      "eventTitles": [
+        "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も（ITmedia NEWS） - Yahoo!ニュース",
+        "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_video-038-p-3182776",
+      "rank": 9,
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "originalTitle": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
+      "points": [
+        "The PHP scare may have faded from your feed, but the cleanup is far from over.",
+        "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline",
+        "According to researchers who found the […]"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-28T19:05:46.000Z",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse"
+      ],
+      "eventTitles": [
+        "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_podcast-038-p-3182774",
+      "rank": 10,
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "originalTitle": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the ",
+      "points": [
+        "The PHP scare may have faded from your feed, but the cleanup is far from over.",
+        "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline",
+        "According to researchers who found the […]"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-10-28T18:50:39.000Z",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto"
+      ],
+      "eventTitles": [
+        "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO"
+      ]
+    }
+  ]
+}
