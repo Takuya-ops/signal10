@@ -1,7 +1,7 @@
 {
-  "edition": "2026-10-30T06:30:00+09:00",
-  "generatedAt": "2026-10-30T01:13:27.544Z",
-  "periodStart": "2026-10-27T13:13:27.544Z",
+  "edition": "2026-10-31T06:30:00+09:00",
+  "generatedAt": "2026-10-31T00:56:09.773Z",
+  "periodStart": "2026-10-28T12:56:09.773Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 39,
@@ -9,405 +9,319 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 9,
-  "candidateCount": 1794,
+  "candidateCount": 851,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "mistral-https-mistral-ai-news-mistral-large-4-oss-",
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99597",
       "rank": 1,
-      "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
-      "originalTitle": "Le Chonk: Built for Coders, Trusted by Defenders.",
-      "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "originalTitle": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it i",
       "points": [
-        "The weights of Mistral Large 4 (Le Chonk) are now open.",
-        "A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this",
+        "Some scientists have suggested that extraterrestrial civilizations, if they exist, could be billions of years older than humanity.",
+        "Such civilizations might have developed technologies far beyond humanity’s, including forms of AI."
       ],
       "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "Mistral AI",
+      "source": "NVIDIA",
       "sourceType": "official",
       "category": "開発者向け",
-      "publishedAt": "2026-10-29T12:00:07.000Z",
-      "url": "https://mistral.ai/news/mistral-large-4-oss",
-      "impactScore": 100,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkc4RThhZnVKb2tsNVl6TTlTbEl3QUYzRzVaS1FpZC0wWmRFWVhGWTRtVUF0NjlkajUtTjdzMjlWczlZLTAtX0hTLXBGTjMtdVRZclhGb2NSVGs1a1p2WTBYM25ILXB5UEFEWGpTRDQ5eU1kSFQ3T1k0YUNCaS1qUkxpaHhmZkN4UThWcFA2bw?oc=5"
-        },
-        {
-          "name": "IndexBox",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktCWWNSQ0RSTG9LOHZnNXgtZXpicUQ1cjRfUFE3a2NBVkw3LVZiNlhuVGFqVm9VTVNVYXdBcFZ1YzlLWFRxbkpLbFNEVXhORUdENW1xUm9pdy05ZGpmZzBWQkZIVUZCQ3J0VmVhQXgyMVE1Zk91bE5ZRkZ1NzVKejYzMHFJcnNRMGlnZGNvZHIxa09XQVB4Y2NSSXNDSEQyOFE?oc=5"
-        },
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall"
-        }
-      ],
+      "publishedAt": "2026-10-30T15:00:10.000Z",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkc4RThhZnVKb2tsNVl6TTlTbEl3QUYzRzVaS1FpZC0wWmRFWVhGWTRtVUF0NjlkajUtTjdzMjlWczlZLTAtX0hTLXBGTjMtdVRZclhGb2NSVGs1a1p2WTBYM25ILXB5UEFEWGpTRDQ5eU1kSFQ3T1k0YUNCaS1qUkxpaHhmZkN4UThWcFA2bw?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktCWWNSQ0RSTG9LOHZnNXgtZXpicUQ1cjRfUFE3a2NBVkw3LVZiNlhuVGFqVm9VTVNVYXdBcFZ1YzlLWFRxbkpLbFNEVXhORUdENW1xUm9pdy05ZGpmZzBWQkZIVUZCQ3J0VmVhQXgyMVE1Zk91bE5ZRkZ1NzVKejYzMHFJcnNRMGlnZGNvZHIxa09XQVB4Y2NSSXNDSEQyOFE?oc=5",
-        "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall",
-        "https://news.google.com/rss/articles/CBMivAJBVV95cUxQWEdKQkNaQlV5WVJTVk00TzV3c2dZSGRlNXNHSlRMYzNybndaVXEzemxFMGl1cjFycmowXzR4R2ViaEVzNUstbjFjYmc2UFpmRC1kZUhLUzFsdXRFNk4yWU1wOUZTWE9oVFRGYmVWSnV2NDgwWERsOGFrVkQ5LW1ac1RWUlY1bnI5VnpUV1hHTnl0UUdXcy1kaHBkbVRzS1ZWTlZDRjNsYzQ0WURfVklMdWZMRlZUSGlZVFRZWHk2MEh2dkUzVkdnTy1PTnJGTE1ZVDZpSG5VUGdpaDdhNzBQcGdBVUwtZTZlVDRkNkRETXFWLURRdzNVSjlHMWs1XzZYMlF4eXJwZlI0U1AtV0pibzBrc0tqeUNiS1g5UWpRTEF6N2tHUWZGMlNRRHhoUVRYNGNNMnBBcThfZmFC?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXNtLWItbGh2QzA3VHJlZFcyOUNxcjM1ejZmTXRSZ3F3cF9VZnJ3Wl8xM2ZBOHhSM3NVZEUyTXRlQkVfT1pxdVU3RUNSNHhwRW94czNJT00zSHhhZW5nQWpVOUo1X0o5bVJBYzdZUGVrYlpCX0NJNGl4SGZ2cWgtcDU5UXQzWEJXZGVKeTltWDB4bzQ0YTNuYTF3Zjc?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IbHVkQ0lya1NQc0NVVnVkTVlia2JieUFpWm1wUU1yVC1CcjZPQVNnNmdqUThpZk15aTJsQnBBeHdZZ2dQeGdjWHpqS09DWnBsQTgxTl9tMEk3Ui1EMWFfeXFoTS1qZEpKSzN2S0dvVHdFa20t?oc=5",
-        "https://wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity",
-        "https://mistral.ai/news/mistral-large-4-oss",
-        "https://huggingface.co/blog/mistral-large4"
+        "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals"
       ],
       "eventTitles": [
-        "Mistral、Large 4 Le Chonk のオープンウェイトを Hugging Face で公開 - Pasquale Pillitteri",
-        "Mistral Large 4「Le Chonk」：コーディングとサイバー防衛のためのオープンウェイトAI - ニュースと統計 - IndexBox",
-        "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
-        "MistralのLe Chonkは無料、自宅で動かすには2万2299ドルのMac - Martin Cid Magazine",
-        "Mistralの1兆パラメータモデル「Le Chonk」のチェックポイントがHugging Faceで公開 - Unite.AI",
-        "Mistral、「Le Chonk」オープンウェイトモデルを公開、サイバーセキュリティ分野で中国製AIに対抗 - BigGo ファイナンス",
-        "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-        "Le Chonk: Built for Coders, Trusted by Defenders.",
-        "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+        "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3182981",
+      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-fujifilm-to-boost-tape-production-5x-as-ai-fue",
       "rank": 2,
-      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "originalTitle": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "originalTitle": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape. Fujifilm attributes the surge in archiving dema",
       "points": [
-        "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items.",
-        "You can also manage subscriptions.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-10-29T13:00:00.000Z",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
-      "impactScore": 80,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "MarkeZine",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03X1ZJSEg5YjVhR2d1VVZJLUV3VURnZXZQakw4UVdETXI0dVlyQU93QUVSMlJkNFpPeWJaZHQtTTZfLXlGaU1LbWtULXZmbVU?oc=5"
-        },
-        {
-          "name": "AppBank",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoRXNYdW5aRmxERUdXaGNjenhVSnZlOUY2S0YyMjZ0dGlSNzRlWHRVZ3BqRE5oZWVXMi05bWFPSVNZWkhRcUlobGVHOVREZVUzTi1wRU5JUW1NWXQ3V3Q2S1pyR3pNd29GRlE?oc=5"
-        },
-        {
-          "name": "AMP[アンプ]",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2RUpUbG8xZ2VvYjVpb0htZHo1YXBTcDdJOHNFLXpqSzRKTnNPNWs1NHJuRy05ZEk3Y2RVVGtJaGNqUENTaDZUWExzTDBqMDFSZTNPZEMzeTBuczIyYkE?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03X1ZJSEg5YjVhR2d1VVZJLUV3VURnZXZQakw4UVdETXI0dVlyQU93QUVSMlJkNFpPeWJaZHQtTTZfLXlGaU1LbWtULXZmbVU?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoRXNYdW5aRmxERUdXaGNjenhVSnZlOUY2S0YyMjZ0dGlSNzRlWHRVZ3BqRE5oZWVXMi05bWFPSVNZWkhRcUlobGVHOVREZVUzTi1wRU5JUW1NWXQ3V3Q2S1pyR3pNd29GRlE?oc=5",
-        "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2RUpUbG8xZ2VvYjVpb0htZHo1YXBTcDdJOHNFLXpqSzRKTnNPNWs1NHJuRy05ZEk3Y2RVVGtJaGNqUENTaDZUWExzTDBqMDFSZTNPZEMzeTBuczIyYkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSFc1T0JGOU52NzVpbmRVQVBNdF94ZXVuX1d6dlkxX1AxeVM0eXpZblR0WFJWZWhaVW5xb1JoWGdRNTZEYl9Za09JVEh5R2Q2Y2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NZmw2SXZVUUlPV1J4RFpkT3haU0d5ZnlaUF8tRjE3Z1VnOVBfT0JHQU03OC12eEViRWE5LVZQSWpyZko0SXRKM0VvcGN6ZWw2REFzLUtkcHU?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTzB6bDlPNnBaR2xhZm8xZ0RYOUdEMzBvR3lfOTR6VlJVZXVtX3U3VnJCSzdsMlBPRlZ1SXR2Znc2T252eHR2aE1renJUMFJEZktieXk4RDlCdmM?oc=5",
-        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LbW1UYmMyYWNONWxoQ04yYWRDTVlHQ1hnLXR6UVppSVdsbGdYYi1SMnlpaDhBMjJCaHR4Wl9SeFlkb3FENm8w?oc=5",
-        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IT0hmeUx5SEtQeFFHbmwwMzJxRl9XU1dGbHc5VkVFOWZxVjFMc3RFX1lpYWpCUmJNRjNxS1hCa0dFV3ZwQUV5QmlIWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByVjFqbHRYbkZRVE13VGZiQzZsQm5ERUI4ZGRmS1hGVHluejYzSWpWMVhMOVhldEU1dEdLa0JQc1lfUUFObXRaLVc0NzZNeDBwY0tLdEwyRFZweE5pZmZEVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSFhGM2NicHEyai1fTE12YVduLXhNc2hsWHBBSEhCaUswc1U2dmsycmladVIxdHAyc2c0alBFWk1LVWFEVkdnRkFMODdNS29IZndiTlZHNlVGQjEtdTRkdThYLW5LRVhBTnoxZEhodnZDZ3B2bmJTTm5QczBHM014b2VpTTRYQ194N1lWNXVMS3JsaWIyakpSckJkWUE1TWRwTjBORlBjZmR0Mnl5Zng2OWlCcUdGR2Y2aHJPcGxhbDYxQlROZmR2Ty1ySUJMU1FrMTUwaFV2M2NadWtXNmZaOWs5QmdFSmx6dWNKYTBEUTE5XzNldmlVZ2RXb2lYcEhBdGFaZkdSWVl1dHJmVVl1c0NOd2ZwX251MEdVUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xelhrRTJsMU1vUDNwUmg0ZkowZFJmVU9mamZIdDNUUDVFNEFBU3ViS3lacjQyX3ZFcVV2VWhvTTE1amtPRnZlZG9yOFY2c29QS3c?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RbHk5dHhKY3BtQXZndlZybmIwem5oN2pJWVVkSzdXY0FSUEV5YnJTbFFfaDNydWQtNDRRRU9ady13Uk0ybWFHcm5NUWdRa3Y2a3BTblhfVzVPVW52OWVaUXd1SmJRcXE3STQ1MVdn?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kZnMxYU1MWmY1bDdUTHAyWmw1UE9EbWNFLWtGYkktX3B0RGpsS2JKSEY3Rkp0S1NmaFVlcXVveFYySURadVVGd0V2S3ZwdUc0c0JpTzlFaHAxenI2TjVWN19vN0RuOXJmZ2JqUzNCa0cyQXdndmlEd05iMEt3N1E?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUY0FKWmU2SXJpcHJBcENsSmlzWEFiRG90ZDlPaHZGRnEtRGJ4eWRJNXYwMk9kMExKUmdIX1dnMDB2cjRyWEpIdTEzR1lpOERoR1BLSGVKOEpxdkx5cUtfa2p6bEZIRmlydFpJekpqMHJRdXFHLUdxRGthd1JhSkU?oc=5",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pQ05rd2tYUF9XRVloZjl0OFAxSWQwNXVjZWdNUEZtT0FHMU5obkZ5cks5eVlwUVRXZVByOTNER056OUhYaEJiZWFmdVdzMERqUXI3Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xQllVanNaZkJkTUNQcXB4SjdvQXhpd1hHa2FHNEdUS3VmRWk3UDdsejBnNjVOYklzZDQ4bU4zOUhXbmZ6bUtMeVVXeVBFOTlhZXRFVllMakU?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3RGODFIOTRxVmx1MFFid3BwX3BpNTR3ZUZKZnoyWEVVSWVKajFBTEtTUHNuX1NqNnNuamlmcW45dGVlMnFQMDZwYkVyRm9vcEhtbmNqQUFMQk14MURvU25WcEczb2c5U0haU0hTcEpLSDlCT19hQ25LYkxaU0FJcWJYZ25zNVNS?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnMxVGt0ZE50aXFzSV9wVDlEelhSdEZFT09US2dzSTl2NTZIcU1kYVBFaTE3MlpIRUFuVjlCdVJSem5sZXZSckp0eEVsNnd1Slg5VkgzS1VSWW5FVlhRZTkzTmJqOFV2YXZKZjBDVXJyZWNMQUFnSG45MmV1Nks0aA?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZ1dNdnRSa21oRTRVMThSUEduVElCY1pZSjdZdm1RdHF0eWdIaWdkOE1GNXp4S3U0dGFTLU4wa2tfYWJScV8zZ2tOcHlkUU9hVzNpUWRoOXU4bjhnTDk2c3FtT0V5M2RZX2VBTGM4TVlRb2xzYnIxbUU4eFRXNFU?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPLU85YjQ1Y3Z4SzZZU0p3Z0N2Q1BJQkRQTzNKUlY0NGdrVVA0d25yNHVJX3FfY3hlQ1llTmlUd0tEeW5GelYxRExqUW1Ib1YxMWpsTloxbVhLTUl6R2NORnlvOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjYWhqOVhsQWpRVFI0VmxsSmRqcEg4dmg3ai1JU1owX195M2JBVDlOWDZZNjlhMFF1ZnFGb0Y2Y3lCLXFwSFNPREhjblo0SjFNenBjSlFYTTJzLXpORTVqN3k5OW9Jdw?oc=5"
-      ],
-      "eventTitles": [
-        "Amazon、生成AI搭載の「Alexa+」早期アクセスを国内で開始 プライム会員は追加料金なし：commercezine - MarkeZine",
-        "Amazon、生成AI搭載「Alexa+」の早期アクセスを開始！ 会話・スマートホーム・買い物まで試せる24の使い方 - AppBank",
-        "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-        "Amazon、生成AI搭載「Alexa+」を日本で提供開始 プライム会員は追加料金なし、自然会話やタスク実行に対応 - AMP[アンプ]",
-        "「寒いな」の一言でエアコンを調整！ Amazonの生成AI「Alexa+」が日本上陸、買い物や予定管理もサポート - DXマガジン",
-        "「はじめまして、Alexa+」 Amazonが、生成Aiを搭載した、自然な会話ができるパーソナルアシスタントの国内提供を開始。プライム会員は無料で利用できる - Stereo Sound",
-        "Amazon、生成AI搭載「Alexa+」を日本で提供開始！プライム会員は追加料金なし - OREFOLDER",
-        "Amazon、生成AI搭載「Alexa+」を国内で提供開始 プライム会員は追加料金なしで利用可能に - MEDIAMIXI",
-        "Amazonが生成AI搭載の次世代AIアシスタント「Alexa＋」の日本での早期アクセスを開始 対応スマートスピーカー2機種も発売 - ガジェット通信",
-        "生成AIで進化した「Alexa+」が日本上陸、Amazonプライム会員は追加料金なし - エルミタージュ秋葉原",
-        "Amazon、生成AI「Alexa+」の国内提供を開始 | スマートニュース - SmartNews",
-        "生成AIベースの「Alexa+」日本上陸、月額3000円もAmazonプライム会員は無料 何ができる？ - CNET Japan",
-        "生成AIベースの「Alexa+」日本上陸、月額3000円もAmazonプライム会員は無料 何ができる？ - au Webポータル",
-        "生成AIベースの「Alexa+」日本上陸、月額3000円もAmazonプライム会員は無料 何ができる？ - Yahoo!ニュース",
-        "Amazon、日本人の空気まで読む生成AI「Alexa+」を国内解禁、対応デバイスも同時発表だ（アスキー） - Yahoo!ニュース",
-        "Amazon、日本人の空気まで読む生成AI「Alexa+」を国内解禁、対応デバイスも同時発表だ - ASCII.jp",
-        "Amazon Launches Generative AI \"Alexa+\" in Japan, Capable of Reading Japanese Nuances, Alongside New Compatible Devices - ASCII.jp",
-        "Amazon、生成AI搭載Alexa+のために設計された「Echo Time」と「Echo Dot」を発表 - About Amazon Japan",
-        "Amazon、生成AI搭載の次世代パーソナルアシスタント、「Alexa+」を国内で提供開始 - About Amazon Japan",
-        "Amazon、生成AIアシスタント「Alexa＋」を国内投入。プライム会員は追加料金なし、本日から早期アクセス開始（PHILE WEB） - Yahoo!ニュース",
-        "Amazon、“生成AI”アシスタント「Alexa＋」日本上陸。早期アクセス無料 - AV Watch",
-        "Amazon、生成AIアシスタント「Alexa＋」を国内投入。プライム会員は追加料金なし、本日から早期アクセス開始 - PHILE WEB"
-      ]
-    },
-    {
-      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1147824",
-      "rank": 3,
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "originalTitle": "We urgently need to monitor AI agents’ actions in real time",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI ",
-      "points": [
-        "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test.",
-        "They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-        "Around the same time, another OpenAI agent accessed private files from an Australian government website."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "MIT Technology Review",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "url": "https://technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
-      "impactScore": 79,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time"
-      ],
-      "eventTitles": [
-        "We urgently need to monitor AI agents’ actions in real time"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-the-times-of-india-97b8dbf8ba8d2af3a331",
-      "rank": 4,
-      "title": "NY enacts ban on 'unsafe' chatbot with kids as states push AI regulation boundaries - The Times of India",
-      "originalTitle": "NY enacts ban on 'unsafe' chatbot with kids as states push AI regulation boundaries - The Times of India",
-      "summary": "NY enacts ban on 'unsafe' chatbot with kids as states push AI regulation boundaries The Times of India",
-      "points": [
-        "NY enacts ban on 'unsafe' chatbot with kids as states push AI regulation boundaries The Times of India",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "The Times of India",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-10-30T00:19:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZlRMRmhxeEl4Sm5ZcmpXZElCLW96c2NZQ01RX1NWSXh2cG1pWTQ3Q19LUmE5QndQck9tVlJsYV9SQU5STEkxNUlJVFl6VHBpZllSSGRzUG5rMkFFTl9wQ0VWYlpINWRES1ptelQwV1lScV9sTXF0X2pQQ2JVMlNEWHJ6YnExX2pneU15Y20zVEg5N01TUkRsSUhlb0lmdXJFQ01oaWVqS183dUlyTWVCSTV4TU9tcU5pUFNuX2VFazFzeG45LWxXMWYwZXNoVS0zMGM0c2dyMkFZcXZ4MjBuMTI0ZWhacEnSAewBQVVfeXFMUERhRC14TFdVbE8xMmpqSFk3ejRmV2hZakV2eWkzcEc4ZGJJQlVWaUdqSVFoT3BOSmRUV2ZBNFJMa21KTTMxYXRjLU9pY2s5ekxLdDJFa0NqQmZsSFk1ZDR0SVNVTFQyanJiTE9kV1dkMHJ6aXVSMGdMeDRNX3Atc2Rsb3dYWW1sMTFfYmNKSFcyOFk3OUNKOTVoYTJvMlprOXl1NVp6Z3o4LUx1RDdEbW1ONFh4S0ZaYUZmOXQ0a0xNU3EzdjROMXJZUXdmR0ZraDNjUmVhd0tZaWQ1MWx0MGJ1ZkpVb09yUm1iaFM?oc=5",
-      "impactScore": 78,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Broadband Breakfast",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVFRcV9Mdk9XczdrYmVJcUVLR0xzN2xXaUtNNl82cU0wbXhnaG53SDdEcGlkaTluZmU1ZW5qWHZfbzF6NWRKQ1YxZ1hrdXJRc2JSN25VT0NRcExlU0RpYm0xNHNnLUR6bHI0cDFwVklTOWpPbVRjYUhmVEZyQ1lsZ2tlakdPYVBtWUtPQkFJWXF3WDhKYUtvS3JYVVd0LW1lOW5IRVdBaGN6eFdmWWpfMFA0Rm1IeUdKOXlYZ3E5SQ?oc=5"
-        },
-        {
-          "name": "The Star",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONlJqX19RbTRRUFRMR3puUEhCTmNhVXoyWjJiai1xMHlrVXo4aVpMZFA0OC1VOVkzNTBjS21ROEJqY2ttQlVaellTRUxrRDFhb2JXNUtwMm9fT2lvMHdFd2lLaWNyeFFZMENUTXNYV210cG4yWG5QRUdSWFJXY01hbUN4eVY5eFpMTFlORGwwSkw2c3lXMFRpRVlWWmk2UzRqcVh4YWItajJ1VlI2OElMVGdyRWtkTXhrX29HWUJsdE16QlJ4Q1hiWC1nSFVqdXdZMzVrb3VfRFV6THF3X3g0WnFVeTJ0ekp4alg3Ng?oc=5"
-        },
-        {
-          "name": "The Seattle Times",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlAwZFdFdTlTV01xRmJzUHZtR2ZoVWQyWDgxSG4xVUVWSDJuWUNHNEU0ZVZ4UFBJb1RmN2Y3RVRiYzVyQ2Z3RzdDcFo0ZDhnWXZveXRyRlUyOGRldUk1akNocXRjOGdxaHFhcEFJQmJyNmRTcEhua3dIZzZQc1hQWDNCOThMeEpvb2hiQUFRc2tPNUhIc1hqc1hnMUszVng4RmVid25JZ21SWDJsdFB4bXotdjJVNzF0QTY4QW5PbmcxN0tWaXVGTFNXRUxuZmds?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZlRMRmhxeEl4Sm5ZcmpXZElCLW96c2NZQ01RX1NWSXh2cG1pWTQ3Q19LUmE5QndQck9tVlJsYV9SQU5STEkxNUlJVFl6VHBpZllSSGRzUG5rMkFFTl9wQ0VWYlpINWRES1ptelQwV1lScV9sTXF0X2pQQ2JVMlNEWHJ6YnExX2pneU15Y20zVEg5N01TUkRsSUhlb0lmdXJFQ01oaWVqS183dUlyTWVCSTV4TU9tcU5pUFNuX2VFazFzeG45LWxXMWYwZXNoVS0zMGM0c2dyMkFZcXZ4MjBuMTI0ZWhacEnSAewBQVVfeXFMUERhRC14TFdVbE8xMmpqSFk3ejRmV2hZakV2eWkzcEc4ZGJJQlVWaUdqSVFoT3BOSmRUV2ZBNFJMa21KTTMxYXRjLU9pY2s5ekxLdDJFa0NqQmZsSFk1ZDR0SVNVTFQyanJiTE9kV1dkMHJ6aXVSMGdMeDRNX3Atc2Rsb3dYWW1sMTFfYmNKSFcyOFk3OUNKOTVoYTJvMlprOXl1NVp6Z3o4LUx1RDdEbW1ONFh4S0ZaYUZmOXQ0a0xNU3EzdjROMXJZUXdmR0ZraDNjUmVhd0tZaWQ1MWx0MGJ1ZkpVb09yUm1iaFM?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVFRcV9Mdk9XczdrYmVJcUVLR0xzN2xXaUtNNl82cU0wbXhnaG53SDdEcGlkaTluZmU1ZW5qWHZfbzF6NWRKQ1YxZ1hrdXJRc2JSN25VT0NRcExlU0RpYm0xNHNnLUR6bHI0cDFwVklTOWpPbVRjYUhmVEZyQ1lsZ2tlakdPYVBtWUtPQkFJWXF3WDhKYUtvS3JYVVd0LW1lOW5IRVdBaGN6eFdmWWpfMFA0Rm1IeUdKOXlYZ3E5SQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONlJqX19RbTRRUFRMR3puUEhCTmNhVXoyWjJiai1xMHlrVXo4aVpMZFA0OC1VOVkzNTBjS21ROEJqY2ttQlVaellTRUxrRDFhb2JXNUtwMm9fT2lvMHdFd2lLaWNyeFFZMENUTXNYV210cG4yWG5QRUdSWFJXY01hbUN4eVY5eFpMTFlORGwwSkw2c3lXMFRpRVlWWmk2UzRqcVh4YWItajJ1VlI2OElMVGdyRWtkTXhrX29HWUJsdE16QlJ4Q1hiWC1nSFVqdXdZMzVrb3VfRFV6THF3X3g0WnFVeTJ0ekp4alg3Ng?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlAwZFdFdTlTV01xRmJzUHZtR2ZoVWQyWDgxSG4xVUVWSDJuWUNHNEU0ZVZ4UFBJb1RmN2Y3RVRiYzVyQ2Z3RzdDcFo0ZDhnWXZveXRyRlUyOGRldUk1akNocXRjOGdxaHFhcEFJQmJyNmRTcEhua3dIZzZQc1hQWDNCOThMeEpvb2hiQUFRc2tPNUhIc1hqc1hnMUszVng4RmVid25JZ21SWDJsdFB4bXotdjJVNzF0QTY4QW5PbmcxN0tWaXVGTFNXRUxuZmds?oc=5",
-        "https://news.google.com/rss/articles/CBMioAJBVV95cUxOS0ZkQW5wQXJQa1llLVItdXk0UU5NTF9FLXV5X3d1UW9nOHJyTDJ6UmFYeXllWmVINnNYb1ZjNTd4dFhleWNTRUJnOUxrT1pjdXIyVDllZVA0SHhzYm93V1dqb3B6SklVRkw4di1jMm02TGt4UGZpdG5wUnhTaXdlbGhYYnJHN1Z1cjJyNVhDQ3VtVFlJdTN4REtlWHRGZHE1NFB3YktpMEZWWFVZdnoycU84TmF5ZXR0bTFHOFlBaHF1YWRTOWhlUHpoMDg3LU5NYVEyNlVIaUlqdlFnOEc5ZUhSU2FRRDRJZzlTN0NCcmVVSWFQZ0ZULWZGd2ZKdEhtend5WEpUb0FlTU9SRzJYWDRjZF9TQnFOSnM5T3lCZEQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeC1DUEk5WElxTlAzMWh1SExycEt3WTJ3RzlHOExFbGxCa3BleE1NeTFKWjBpckZpWmp4SXVSendyZldwYzRtbG9abURYMmNuUlJzenBXaDNTWXhUMGlzSWlQZUVickNkMVRlLU8yTmRGdGNKWUFuTzBsMEVIODBFM195YWZPdXM2NFpmZmJtWUx0b0t5a3hKRXpOd3dDLWEtV0luU0RxNU80UXIzX05Sam84bUowWG45RWxCWFpKckVrQ3lfX1F0VXJNQVhMeDB1Y0lmaQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTV8waVZ6bDdGaTVtMFNwUzlmY0NUanlRckZpRHBxeGtxTkw1M1NWZkpHcFZhZzhVNC04MFJXOTRxMTIzSzF1WU9idTFaaDA1azNSaFQ0a1RUeGJmS3dsVm5yZEFXVFNsSUpqbWt0M25NZEJod21zRmh4S2ZRU3kwS004bVpNUmNzNHZBOFpZNEx2WS00ZUhkbmRnd19xVVd0T19PQnRKNmF5aWx0X1ZvX0VvcElYY1BBdHFESGU4RTR6Ty1ZZ0tQSm4zNy1WS0hJM0liOWtJMmJoTktvMnFxX1djeWtjbFpjUTdNOFhwZnJqanI2Y216S2xNcnBnSkM5N1lmY2U0dk1YRm1paDNHTXQ3b3lNdw?oc=5"
-      ],
-      "eventTitles": [
-        "NY enacts ban on 'unsafe' chatbot with kids as states push AI regulation boundaries - The Times of India",
-        "New York Enacts Ban on 'Unsafe' Chatbot Behavior With Kids as Some States Push AI Regulation - Broadband Breakfast",
-        "New York enacts ban on 'unsafe' chatbot behaviour with kids as states push AI regulation boundaries - The Star",
-        "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries - The Seattle Times",
-        "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries - Toronto Star",
-        "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries - Your Valley",
-        "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries - Bozeman Daily Chronicle"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3182668",
-      "rank": 5,
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "originalTitle": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "points": [
-        "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-      "impactScore": 78,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity"
-      ],
-      "eventTitles": [
-        "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3183122",
-      "rank": 6,
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "originalTitle": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "points": [
-        "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely",
+        "Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing \"exponential growth\" in data needs worldwide.",
+        "The 5x increase in production capacity will be measured against fiscal year 2025 production levels."
       ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "TechCrunch",
+      "source": "Ars Technica",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-10-29T19:14:36.000Z",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
-      "impactScore": 76,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Mezha.net",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWh6VTROWHNuUDlPTkZNVmJfVTE0blFLZWVUVHR0ZXI0bE1CeG9yU1FIM25uT0N1NGtfUHRpdGh6S2ZGdkRBcVNRWVM4SnQwT3RDR05tZ2xOc19rbnlWRmhJNEMtbVZiN25sdXNjcTIyV1VRMWI2bU1xRXl1TFkydkhxbF9RbnpncG85MTlUYnJpSHNzdmExZXRn?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWh6VTROWHNuUDlPTkZNVmJfVTE0blFLZWVUVHR0ZXI0bE1CeG9yU1FIM25uT0N1NGtfUHRpdGh6S2ZGdkRBcVNRWVM4SnQwT3RDR05tZ2xOc19rbnlWRmhJNEMtbVZiN25sdXNjcTIyV1VRMWI2bU1xRXl1TFkydkhxbF9RbnpncG85MTlUYnJpSHNzdmExZXRn?oc=5"
-      ],
-      "eventTitles": [
-        "Meta quietly launches an AI fashion app called Style Sketch",
-        "Meta、AIファッションアプリStyle Sketchをひそかに公開 - Mezha.net"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3183214",
-      "rank": 7,
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "originalTitle": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "points": [
-        "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-10-29T19:56:19.000Z",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
-      "impactScore": 75,
+      "publishedAt": "2026-10-30T17:38:19.000Z",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+      "impactScore": 78,
       "impactLabel": "大",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt"
+        "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand"
       ],
       "eventTitles": [
-        "OpenAI-backed Thrive Holdings acquires ADT"
+        "Fujifilm to boost tape production 5x as AI fuels archiving demand"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-how-we-detect-frontier-model-misalignment",
-      "rank": 8,
-      "title": "How we detect frontier model misalignment",
-      "originalTitle": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "id": "aws-machine-learning-698175f4da06f51671986617198b154f2e828670",
+      "rank": 3,
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "originalTitle": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US) , providing access to OpenAI’s frontier models through two components. Work completes complex, multi-step tasks and delivers review-ready results, and Codex is a coding agent for d",
       "points": [
-        "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US) , providing access to OpenAI’s frontier models through two components.",
+        "Work completes complex, multi-step tasks and delivers review-ready results, and Codex is a coding agent for developing, testing, and reviewing software.",
+        "This walkthrough is intended for organizations whose security architecture requires model inference to use AWS GovCloud (US) identities, endpoints, and Regional controls."
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
       "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "impactScore": 72,
+      "category": "開発者向け",
+      "publishedAt": "2026-10-30T17:27:45.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "impactScore": 75,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us"
       ],
       "eventTitles": [
-        "How we detect frontier model misalignment"
+        "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-updated-model-spec",
-      "rank": 9,
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "originalTitle": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "id": "ars-technica-ai-https-arstechnica-com-security-2026-10-anthropic-vs-code-extension-on-cursor-backdoo",
+      "rank": 4,
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "originalTitle": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "summary": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extensio",
       "points": [
-        "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "url": "https://openai.com/index/updated-model-spec",
-      "impactScore": 71,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://openai.com/index/updated-model-spec"
-      ],
-      "eventTitles": [
-        "An updated Model Spec for more capable and beneficial AI"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-trump-declares-robot-imports-a-national-securi",
-      "rank": 10,
-      "title": "Trump declares robot imports a national security threat",
-      "originalTitle": "Trump declares robot imports a national security threat",
-      "summary": "President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while holding out the possibility of imposing new tariffs on such robot imports in the future. Is",
-      "points": [
-        "President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while h",
-        "Issued on October 28, Trump’s presidential proclamation represents heightened government scrutiny of foreign-made industrial robots that could complicate the manufacturin",
-        "Those companies include Detroit automakers General Motors and Ford, electric vehicle manufacturer Tesla , and aerospace and defense giants like Boeing and Lockheed Martin"
+        "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday.",
+        "Anthropic so far has yet to warn customers of the incident.",
+        "The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday."
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
       "source": "Ars Technica",
       "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-10-29T19:07:53.000Z",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
-      "impactScore": 70,
+      "publishedAt": "2026-10-30T21:09:54.000Z",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours"
+      ],
+      "eventTitles": [
+        "Anthropic VS code extension on Cursor backdoored for nearly 12 hours"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42165",
+      "rank": 5,
+      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+      "originalTitle": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+      "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safegu",
+      "points": [
+        "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users.",
+        "It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested.",
+        "The article Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours appeared first on The Decoder ."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-30T12:22:18.000Z",
+      "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours",
+      "impactScore": 71,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat"
+        "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours"
       ],
       "eventTitles": [
-        "Trump declares robot imports a national security threat"
+        "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-d83c80cde37528e374033f116e48863ebb80f55e",
+      "rank": 6,
+      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+      "originalTitle": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+      "summary": "With the launch of AWS Batch support for Amazon SageMaker Training jobs, customers gained a new fully managed way to queue, schedule, and retry machine learning (ML) training workloads without building their own infrastructure. Instead, they use the queuing an",
+      "points": [
+        "With the launch of AWS Batch support for Amazon SageMaker Training jobs, customers gained a new fully managed way to queue, schedule, and retry machine learning (ML) trai",
+        "Instead, they use the queuing and scheduling features of AWS Batch.",
+        "As organizations scale their artificial intelligence and machine learning (AI/ML) operations and onboard more teams, coordinating access to shared graphics processing uni"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-29T16:58:57.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [
+        {
+          "name": "AWS Machine Learning",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks"
+        }
+      ],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+        "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks"
+      ],
+      "eventTitles": [
+        "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+        "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-ad-hoc-news-de-ee3eeb5f4d05f7792398",
+      "rank": 7,
+      "title": "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
+      "originalTitle": "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
+      "summary": "Alibaba Group stock: Cloud launch adds Amsterdam partners ad-hoc-news.de",
+      "points": [
+        "Alibaba Group stock: Cloud launch adds Amsterdam partners ad-hoc-news.de",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ad-hoc-news.de",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-30T14:42:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFA3ZkRYRnh2dGVsbzRDS0dmRWR5NHpENHRfcmVnM0JydEpDMkxhYjA4Z1ZWMEtrUWdsZUVjeHQ0OVVjanUyM0cwcTZ6SmRFaHJvRWdmb3c1SDQzclg5SElOcHE0M3dZSGZoVWxNRklHRmhBOF9jNHpGdmpYU2l6R1dUTHFaS3ZOeFVzZnFwb3NiSnBTNHZ2VnJZWmd5YUtPdVpQLW5YUEt0WGhSa0o4R2hjX1VKR2s4NHhF?oc=5",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkFVRWhDTlQ2QXV1TXdjZ1d4eHRBNmpCTFFWTmNEWlZZSjF1eENHY2tXR1hYeG82d1ptX21LYUdUY0c0YmpLeU9tQ2RkU2hkWjY5YnVLQ2VhOGNVTEprMFRWQmtHQl9Kc1pxV01rNUlzdzVDNEo3U28wbzlxVnR3NzE2TXBENVRCSDVNNTdyaUJvcmVhQVhWWVA4djAyaGV5aTEyNUR4S3Z2UE9JaV9nSHVLbVN2a3VKektKRU9R?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHhRM2U3UjhRRDVwckVrYXdsSlFFZFZhMTlYM0NZYUZtLU9SQUJIbkdycElxQm1KclhpWW5nWXpHVkQwWjRpY21wOUxRWTVEYkdoeFlpSnNoY0g3TXRyWHI4N3lZUmxUaUZBWVBuSmVTYXBFbXRja2tLaTJOSVVrX0xOWHdFUm52RkFKeXlHYlFIOENpcE0wMFF3WFBZMlhtRlE?oc=5"
+        },
+        {
+          "name": "Data Centre Magazine",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmxQWjVnUjY3NmgwVm9ERXBYT2FOTWtYd0diZjF4SFBDbnNUQzN3cllweF9tOHNZMF9aU0xNTkFpNUtldGMxRG5QUXlGTlRGQkk0TXZLZkl3MzFkNTBqQUpuSnV4Q1l3bjhzNzg5WU05UHRzclYxakJ4NE90Rlp3RFp5RzRkYV9HVUZSZldmd1RSTEp3TWJBOGZn?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFA3ZkRYRnh2dGVsbzRDS0dmRWR5NHpENHRfcmVnM0JydEpDMkxhYjA4Z1ZWMEtrUWdsZUVjeHQ0OVVjanUyM0cwcTZ6SmRFaHJvRWdmb3c1SDQzclg5SElOcHE0M3dZSGZoVWxNRklHRmhBOF9jNHpGdmpYU2l6R1dUTHFaS3ZOeFVzZnFwb3NiSnBTNHZ2VnJZWmd5YUtPdVpQLW5YUEt0WGhSa0o4R2hjX1VKR2s4NHhF?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkFVRWhDTlQ2QXV1TXdjZ1d4eHRBNmpCTFFWTmNEWlZZSjF1eENHY2tXR1hYeG82d1ptX21LYUdUY0c0YmpLeU9tQ2RkU2hkWjY5YnVLQ2VhOGNVTEprMFRWQmtHQl9Kc1pxV01rNUlzdzVDNEo3U28wbzlxVnR3NzE2TXBENVRCSDVNNTdyaUJvcmVhQVhWWVA4djAyaGV5aTEyNUR4S3Z2UE9JaV9nSHVLbVN2a3VKektKRU9R?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHhRM2U3UjhRRDVwckVrYXdsSlFFZFZhMTlYM0NZYUZtLU9SQUJIbkdycElxQm1KclhpWW5nWXpHVkQwWjRpY21wOUxRWTVEYkdoeFlpSnNoY0g3TXRyWHI4N3lZUmxUaUZBWVBuSmVTYXBFbXRja2tLaTJOSVVrX0xOWHdFUm52RkFKeXlHYlFIOENpcE0wMFF3WFBZMlhtRlE?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmxQWjVnUjY3NmgwVm9ERXBYT2FOTWtYd0diZjF4SFBDbnNUQzN3cllweF9tOHNZMF9aU0xNTkFpNUtldGMxRG5QUXlGTlRGQkk0TXZLZkl3MzFkNTBqQUpuSnV4Q1l3bjhzNzg5WU05UHRzclYxakJ4NE90Rlp3RFp5RzRkYV9HVUZSZldmd1RSTEp3TWJBOGZn?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlFeWJxUEVldUY0OUtGa1VPNG1QcnNPakh6SkFWUjNDTGNRLTEwRkdPNFk2dGswdWt4VGJCNm1DdF9ud3laMEVrb3ZMOXNmWS1STVlYZmY1a1h1NW5aQ0tlRzEwRGtmRGljUUpKQjBral95ZkZZV3NFc3hTdXVpRW5rSGhmQldLSnl4Ujhtamp4MHJEMVhsdG5LZms0amQxNVh1dzNwOVTSAVZBVV95cUxQcHBWcHhVbU9PcEs2ZVZqSlFLNEFRWG8wcFAwNUdGTGFXNFkyMkxubm51LWRQdDVTOVljeGlOZXhyOFRwcktqQ0VidW1hRmNaSWVKY1FwZw?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2MwS0piOWh6OUdPWm5lU3NxeU9zbkdZT0NvbWg5ZXZ5SnBudHBSRlU2WTJ6bVMtSEYwejJrRWp6R05OaE5yaVlVTXNDYVoyMHNsa1pia0QxZmJjeW4yMWh5MXFIQjZTNzVKSWIyd3BtS055eUJ1NG5MZEhfTTNBbWRVM3N1SDRDS3lJTldoOFJCZ0g4X01HNTM0enRadkdnQTBOQ2d0Zld3M0p1?oc=5"
+      ],
+      "eventTitles": [
+        "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
+        "Alibaba Stocks Decline With Amsterdam AI Cloud Capacity Added - TradingView",
+        "Alibaba Stocks Decline With Amsterdam AI Cloud Capacity Added - Yahoo Finance",
+        "Alibaba Cloud Opens Amsterdam Region with Two Data Centres - Data Centre Magazine",
+        "PM for completing Alibaba Group-backed AI, digitalisation projects - Business Recorder",
+        "PM for completing Alibaba Group-backed AI, digitalisation projects - Investify"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-community-safety-report-and-new-protections-for-teens",
+      "rank": 8,
+      "title": "Community safety report and new protections for teens",
+      "originalTitle": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "points": [
+        "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+      ],
+      "eventTitles": [
+        "Community safety report and new protections for teens"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-5542e879e541b56f1c06a9f2c71c7c3f37f6d5e3",
+      "rank": 9,
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "originalTitle": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "summary": "Cost management for generative AI is a shared responsibility between the teams that build applications and the teams accountable for cloud spend. Many teams start by comparing per-model token rates and asking application teams to shorten prompts. Those steps h",
+      "points": [
+        "Cost management for generative AI is a shared responsibility between the teams that build applications and the teams accountable for cloud spend.",
+        "Many teams start by comparing per-model token rates and asking application teams to shorten prompts.",
+        "Those steps help, but they don’t answer the questions that finance and engineering leaders ask as usage scales: which team spent this, on which workload, and was that spe"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-30T22:42:24.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams"
+      ],
+      "eventTitles": [
+        "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-united-airlines-ceo-doubts-supersonic-airliner",
+      "rank": 10,
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "originalTitle": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado factory dedicated to making gas turbines for AI data centers. But Boom may be facing turb",
+      "points": [
+        "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado",
+        "But Boom may be facing turbulence after early backers for both ventures have questioned the company’s delivery timeline or backed out entirely.",
+        "One of the company’s first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom’s original plan to deliver the first Overture supersonic airliner i"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-30T21:41:54.000Z",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029"
+      ],
+      "eventTitles": [
+        "Supersonic airliner in doubt as company shifts to powering AI data centers"
       ]
     }
   ]

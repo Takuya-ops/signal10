@@ -1,0 +1,328 @@
+{
+  "edition": "2026-10-31T06:30:00+09:00",
+  "generatedAt": "2026-10-31T00:56:09.773Z",
+  "periodStart": "2026-10-28T12:56:09.773Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 9,
+  "candidateCount": 851,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99597",
+      "rank": 1,
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "originalTitle": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it i",
+      "points": [
+        "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this",
+        "Some scientists have suggested that extraterrestrial civilizations, if they exist, could be billions of years older than humanity.",
+        "Such civilizations might have developed technologies far beyond humanity’s, including forms of AI."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-30T15:00:10.000Z",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals"
+      ],
+      "eventTitles": [
+        "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-fujifilm-to-boost-tape-production-5x-as-ai-fue",
+      "rank": 2,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "originalTitle": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape. Fujifilm attributes the surge in archiving dema",
+      "points": [
+        "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely",
+        "Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing \"exponential growth\" in data needs worldwide.",
+        "The 5x increase in production capacity will be measured against fiscal year 2025 production levels."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-30T17:38:19.000Z",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+      "impactScore": 78,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand"
+      ],
+      "eventTitles": [
+        "Fujifilm to boost tape production 5x as AI fuels archiving demand"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-698175f4da06f51671986617198b154f2e828670",
+      "rank": 3,
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "originalTitle": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US) , providing access to OpenAI’s frontier models through two components. Work completes complex, multi-step tasks and delivers review-ready results, and Codex is a coding agent for d",
+      "points": [
+        "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US) , providing access to OpenAI’s frontier models through two components.",
+        "Work completes complex, multi-step tasks and delivers review-ready results, and Codex is a coding agent for developing, testing, and reviewing software.",
+        "This walkthrough is intended for organizations whose security architecture requires model inference to use AWS GovCloud (US) identities, endpoints, and Regional controls."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-30T17:27:45.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us"
+      ],
+      "eventTitles": [
+        "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-security-2026-10-anthropic-vs-code-extension-on-cursor-backdoo",
+      "rank": 4,
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "originalTitle": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "summary": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extensio",
+      "points": [
+        "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday.",
+        "Anthropic so far has yet to warn customers of the incident.",
+        "The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-10-30T21:09:54.000Z",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours"
+      ],
+      "eventTitles": [
+        "Anthropic VS code extension on Cursor backdoored for nearly 12 hours"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42165",
+      "rank": 5,
+      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+      "originalTitle": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+      "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safegu",
+      "points": [
+        "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users.",
+        "It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested.",
+        "The article Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours appeared first on The Decoder ."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-30T12:22:18.000Z",
+      "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours"
+      ],
+      "eventTitles": [
+        "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-d83c80cde37528e374033f116e48863ebb80f55e",
+      "rank": 6,
+      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+      "originalTitle": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+      "summary": "With the launch of AWS Batch support for Amazon SageMaker Training jobs, customers gained a new fully managed way to queue, schedule, and retry machine learning (ML) training workloads without building their own infrastructure. Instead, they use the queuing an",
+      "points": [
+        "With the launch of AWS Batch support for Amazon SageMaker Training jobs, customers gained a new fully managed way to queue, schedule, and retry machine learning (ML) trai",
+        "Instead, they use the queuing and scheduling features of AWS Batch.",
+        "As organizations scale their artificial intelligence and machine learning (AI/ML) operations and onboard more teams, coordinating access to shared graphics processing uni"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-29T16:58:57.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [
+        {
+          "name": "AWS Machine Learning",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks"
+        }
+      ],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+        "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks"
+      ],
+      "eventTitles": [
+        "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+        "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-ad-hoc-news-de-ee3eeb5f4d05f7792398",
+      "rank": 7,
+      "title": "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
+      "originalTitle": "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
+      "summary": "Alibaba Group stock: Cloud launch adds Amsterdam partners ad-hoc-news.de",
+      "points": [
+        "Alibaba Group stock: Cloud launch adds Amsterdam partners ad-hoc-news.de",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ad-hoc-news.de",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-30T14:42:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFA3ZkRYRnh2dGVsbzRDS0dmRWR5NHpENHRfcmVnM0JydEpDMkxhYjA4Z1ZWMEtrUWdsZUVjeHQ0OVVjanUyM0cwcTZ6SmRFaHJvRWdmb3c1SDQzclg5SElOcHE0M3dZSGZoVWxNRklHRmhBOF9jNHpGdmpYU2l6R1dUTHFaS3ZOeFVzZnFwb3NiSnBTNHZ2VnJZWmd5YUtPdVpQLW5YUEt0WGhSa0o4R2hjX1VKR2s4NHhF?oc=5",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkFVRWhDTlQ2QXV1TXdjZ1d4eHRBNmpCTFFWTmNEWlZZSjF1eENHY2tXR1hYeG82d1ptX21LYUdUY0c0YmpLeU9tQ2RkU2hkWjY5YnVLQ2VhOGNVTEprMFRWQmtHQl9Kc1pxV01rNUlzdzVDNEo3U28wbzlxVnR3NzE2TXBENVRCSDVNNTdyaUJvcmVhQVhWWVA4djAyaGV5aTEyNUR4S3Z2UE9JaV9nSHVLbVN2a3VKektKRU9R?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHhRM2U3UjhRRDVwckVrYXdsSlFFZFZhMTlYM0NZYUZtLU9SQUJIbkdycElxQm1KclhpWW5nWXpHVkQwWjRpY21wOUxRWTVEYkdoeFlpSnNoY0g3TXRyWHI4N3lZUmxUaUZBWVBuSmVTYXBFbXRja2tLaTJOSVVrX0xOWHdFUm52RkFKeXlHYlFIOENpcE0wMFF3WFBZMlhtRlE?oc=5"
+        },
+        {
+          "name": "Data Centre Magazine",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmxQWjVnUjY3NmgwVm9ERXBYT2FOTWtYd0diZjF4SFBDbnNUQzN3cllweF9tOHNZMF9aU0xNTkFpNUtldGMxRG5QUXlGTlRGQkk0TXZLZkl3MzFkNTBqQUpuSnV4Q1l3bjhzNzg5WU05UHRzclYxakJ4NE90Rlp3RFp5RzRkYV9HVUZSZldmd1RSTEp3TWJBOGZn?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFA3ZkRYRnh2dGVsbzRDS0dmRWR5NHpENHRfcmVnM0JydEpDMkxhYjA4Z1ZWMEtrUWdsZUVjeHQ0OVVjanUyM0cwcTZ6SmRFaHJvRWdmb3c1SDQzclg5SElOcHE0M3dZSGZoVWxNRklHRmhBOF9jNHpGdmpYU2l6R1dUTHFaS3ZOeFVzZnFwb3NiSnBTNHZ2VnJZWmd5YUtPdVpQLW5YUEt0WGhSa0o4R2hjX1VKR2s4NHhF?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkFVRWhDTlQ2QXV1TXdjZ1d4eHRBNmpCTFFWTmNEWlZZSjF1eENHY2tXR1hYeG82d1ptX21LYUdUY0c0YmpLeU9tQ2RkU2hkWjY5YnVLQ2VhOGNVTEprMFRWQmtHQl9Kc1pxV01rNUlzdzVDNEo3U28wbzlxVnR3NzE2TXBENVRCSDVNNTdyaUJvcmVhQVhWWVA4djAyaGV5aTEyNUR4S3Z2UE9JaV9nSHVLbVN2a3VKektKRU9R?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHhRM2U3UjhRRDVwckVrYXdsSlFFZFZhMTlYM0NZYUZtLU9SQUJIbkdycElxQm1KclhpWW5nWXpHVkQwWjRpY21wOUxRWTVEYkdoeFlpSnNoY0g3TXRyWHI4N3lZUmxUaUZBWVBuSmVTYXBFbXRja2tLaTJOSVVrX0xOWHdFUm52RkFKeXlHYlFIOENpcE0wMFF3WFBZMlhtRlE?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmxQWjVnUjY3NmgwVm9ERXBYT2FOTWtYd0diZjF4SFBDbnNUQzN3cllweF9tOHNZMF9aU0xNTkFpNUtldGMxRG5QUXlGTlRGQkk0TXZLZkl3MzFkNTBqQUpuSnV4Q1l3bjhzNzg5WU05UHRzclYxakJ4NE90Rlp3RFp5RzRkYV9HVUZSZldmd1RSTEp3TWJBOGZn?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlFeWJxUEVldUY0OUtGa1VPNG1QcnNPakh6SkFWUjNDTGNRLTEwRkdPNFk2dGswdWt4VGJCNm1DdF9ud3laMEVrb3ZMOXNmWS1STVlYZmY1a1h1NW5aQ0tlRzEwRGtmRGljUUpKQjBral95ZkZZV3NFc3hTdXVpRW5rSGhmQldLSnl4Ujhtamp4MHJEMVhsdG5LZms0amQxNVh1dzNwOVTSAVZBVV95cUxQcHBWcHhVbU9PcEs2ZVZqSlFLNEFRWG8wcFAwNUdGTGFXNFkyMkxubm51LWRQdDVTOVljeGlOZXhyOFRwcktqQ0VidW1hRmNaSWVKY1FwZw?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2MwS0piOWh6OUdPWm5lU3NxeU9zbkdZT0NvbWg5ZXZ5SnBudHBSRlU2WTJ6bVMtSEYwejJrRWp6R05OaE5yaVlVTXNDYVoyMHNsa1pia0QxZmJjeW4yMWh5MXFIQjZTNzVKSWIyd3BtS055eUJ1NG5MZEhfTTNBbWRVM3N1SDRDS3lJTldoOFJCZ0g4X01HNTM0enRadkdnQTBOQ2d0Zld3M0p1?oc=5"
+      ],
+      "eventTitles": [
+        "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
+        "Alibaba Stocks Decline With Amsterdam AI Cloud Capacity Added - TradingView",
+        "Alibaba Stocks Decline With Amsterdam AI Cloud Capacity Added - Yahoo Finance",
+        "Alibaba Cloud Opens Amsterdam Region with Two Data Centres - Data Centre Magazine",
+        "PM for completing Alibaba Group-backed AI, digitalisation projects - Business Recorder",
+        "PM for completing Alibaba Group-backed AI, digitalisation projects - Investify"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-community-safety-report-and-new-protections-for-teens",
+      "rank": 8,
+      "title": "Community safety report and new protections for teens",
+      "originalTitle": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "points": [
+        "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+      ],
+      "eventTitles": [
+        "Community safety report and new protections for teens"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-5542e879e541b56f1c06a9f2c71c7c3f37f6d5e3",
+      "rank": 9,
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "originalTitle": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "summary": "Cost management for generative AI is a shared responsibility between the teams that build applications and the teams accountable for cloud spend. Many teams start by comparing per-model token rates and asking application teams to shorten prompts. Those steps h",
+      "points": [
+        "Cost management for generative AI is a shared responsibility between the teams that build applications and the teams accountable for cloud spend.",
+        "Many teams start by comparing per-model token rates and asking application teams to shorten prompts.",
+        "Those steps help, but they don’t answer the questions that finance and engineering leaders ask as usage scales: which team spent this, on which workload, and was that spe"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-30T22:42:24.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams"
+      ],
+      "eventTitles": [
+        "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-united-airlines-ceo-doubts-supersonic-airliner",
+      "rank": 10,
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "originalTitle": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado factory dedicated to making gas turbines for AI data centers. But Boom may be facing turb",
+      "points": [
+        "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado",
+        "But Boom may be facing turbulence after early backers for both ventures have questioned the company’s delivery timeline or backed out entirely.",
+        "One of the company’s first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom’s original plan to deliver the first Overture supersonic airliner i"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-10-30T21:41:54.000Z",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029"
+      ],
+      "eventTitles": [
+        "Supersonic airliner in doubt as company shifts to powering AI data centers"
+      ]
+    }
+  ]
+}
