@@ -1,327 +1,330 @@
 {
-  "edition": "2026-10-31T06:30:00+09:00",
-  "generatedAt": "2026-10-31T00:56:09.773Z",
-  "periodStart": "2026-10-28T12:56:09.773Z",
+  "edition": "2026-11-01T06:30:00+09:00",
+  "generatedAt": "2026-11-01T00:17:55.438Z",
+  "periodStart": "2026-10-29T12:17:55.438Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 39,
-  "freshSources": 35,
+  "successfulSources": 40,
+  "freshSources": 36,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 9,
-  "candidateCount": 851,
+  "candidateCount": 1131,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99597",
+      "id": "google-news-asia-models-anadolu-ajans--b84c991ef8e8bcd4de15",
       "rank": 1,
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "originalTitle": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it i",
+      "title": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market - Anadolu Ajansı",
+      "originalTitle": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market - Anadolu Ajansı",
+      "summary": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market Anadolu Ajansı",
       "points": [
-        "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this",
-        "Some scientists have suggested that extraterrestrial civilizations, if they exist, could be billions of years older than humanity.",
-        "Such civilizations might have developed technologies far beyond humanity’s, including forms of AI."
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-30T15:00:10.000Z",
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
-      "impactScore": 81,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals"
-      ],
-      "eventTitles": [
-        "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-fujifilm-to-boost-tape-production-5x-as-ai-fue",
-      "rank": 2,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "originalTitle": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "summary": "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape. Fujifilm attributes the surge in archiving dema",
-      "points": [
-        "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely",
-        "Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing \"exponential growth\" in data needs worldwide.",
-        "The 5x increase in production capacity will be measured against fiscal year 2025 production levels."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-30T17:38:19.000Z",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-      "impactScore": 78,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand"
-      ],
-      "eventTitles": [
-        "Fujifilm to boost tape production 5x as AI fuels archiving demand"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-698175f4da06f51671986617198b154f2e828670",
-      "rank": 3,
-      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
-      "originalTitle": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
-      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US) , providing access to OpenAI’s frontier models through two components. Work completes complex, multi-step tasks and delivers review-ready results, and Codex is a coding agent for d",
-      "points": [
-        "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US) , providing access to OpenAI’s frontier models through two components.",
-        "Work completes complex, multi-step tasks and delivers review-ready results, and Codex is a coding agent for developing, testing, and reviewing software.",
-        "This walkthrough is intended for organizations whose security architecture requires model inference to use AWS GovCloud (US) identities, endpoints, and Regional controls."
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-30T17:27:45.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
-      "impactScore": 75,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us"
-      ],
-      "eventTitles": [
-        "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-security-2026-10-anthropic-vs-code-extension-on-cursor-backdoo",
-      "rank": 4,
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "originalTitle": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "summary": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extensio",
-      "points": [
-        "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday.",
-        "Anthropic so far has yet to warn customers of the incident.",
-        "The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-10-30T21:09:54.000Z",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours"
-      ],
-      "eventTitles": [
-        "Anthropic VS code extension on Cursor backdoored for nearly 12 hours"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-42165",
-      "rank": 5,
-      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
-      "originalTitle": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
-      "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safegu",
-      "points": [
-        "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users.",
-        "It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested.",
-        "The article Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours appeared first on The Decoder ."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-30T12:22:18.000Z",
-      "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours",
-      "impactScore": 71,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours"
-      ],
-      "eventTitles": [
-        "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-d83c80cde37528e374033f116e48863ebb80f55e",
-      "rank": 6,
-      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "originalTitle": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "summary": "With the launch of AWS Batch support for Amazon SageMaker Training jobs, customers gained a new fully managed way to queue, schedule, and retry machine learning (ML) training workloads without building their own infrastructure. Instead, they use the queuing an",
-      "points": [
-        "With the launch of AWS Batch support for Amazon SageMaker Training jobs, customers gained a new fully managed way to queue, schedule, and retry machine learning (ML) trai",
-        "Instead, they use the queuing and scheduling features of AWS Batch.",
-        "As organizations scale their artificial intelligence and machine learning (AI/ML) operations and onboard more teams, coordinating access to shared graphics processing uni"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-29T16:58:57.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
-      "impactScore": 68,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [
-        {
-          "name": "AWS Machine Learning",
-          "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks"
-        }
-      ],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
-        "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks"
-      ],
-      "eventTitles": [
-        "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-        "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-ad-hoc-news-de-ee3eeb5f4d05f7792398",
-      "rank": 7,
-      "title": "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
-      "originalTitle": "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
-      "summary": "Alibaba Group stock: Cloud launch adds Amsterdam partners ad-hoc-news.de",
-      "points": [
-        "Alibaba Group stock: Cloud launch adds Amsterdam partners ad-hoc-news.de",
+        "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market Anadolu Ajansı",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "ad-hoc-news.de",
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anadolu Ajansı",
       "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-10-30T14:42:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFA3ZkRYRnh2dGVsbzRDS0dmRWR5NHpENHRfcmVnM0JydEpDMkxhYjA4Z1ZWMEtrUWdsZUVjeHQ0OVVjanUyM0cwcTZ6SmRFaHJvRWdmb3c1SDQzclg5SElOcHE0M3dZSGZoVWxNRklHRmhBOF9jNHpGdmpYU2l6R1dUTHFaS3ZOeFVzZnFwb3NiSnBTNHZ2VnJZWmd5YUtPdVpQLW5YUEt0WGhSa0o4R2hjX1VKR2s4NHhF?oc=5",
-      "impactScore": 67,
+      "category": "モデル",
+      "publishedAt": "2026-10-31T17:38:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWxtSWxQWFFKLVc1dUZCdGtGOElTdFlWeTJZV0FWZ0MzbXBzbkpNSzNmclhleVlWblpHeElhSHhNMDZtcHlKWjBZTVFEQk9MRDJlcWZDWFZQYzlUZDdGcVBDTVk0RndNdC1iVG9taW9vY0FCdTF6WWVzSjdhQVp1Yk1jUkQ4QU9jZjdCTlRCZmZmZTBranBrSzh0cDcydmVWVmpYQ21SOXFyYUkyTUZFU0VVZzdXUnY0S2Q0bzE5ZU1XcGRxVUh2bDdyNHM2RGV3MUlJUVVBS3g1S28?oc=5",
+      "impactScore": 70,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkFVRWhDTlQ2QXV1TXdjZ1d4eHRBNmpCTFFWTmNEWlZZSjF1eENHY2tXR1hYeG82d1ptX21LYUdUY0c0YmpLeU9tQ2RkU2hkWjY5YnVLQ2VhOGNVTEprMFRWQmtHQl9Kc1pxV01rNUlzdzVDNEo3U28wbzlxVnR3NzE2TXBENVRCSDVNNTdyaUJvcmVhQVhWWVA4djAyaGV5aTEyNUR4S3Z2UE9JaV9nSHVLbVN2a3VKektKRU9R?oc=5"
+          "name": "US Muslims",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTlFTbjB0alRyalpQd1k1Yng0Q2JQRzZ4cVJITnhMZ3JRU1RLaDhlQUhVWjlUaThna0dubEt2blFDNDQyMmpFUXdZVnVmUEtLVDMxQU9xT0o4N0dMWXZraERVZlBtN3N2TC1qM0owWTBXM0REUjlfTF9pcXJlUkppTUZ6ZF9HcEZiOU1yVWd4TTBlX2E2aENzWmRZVEtHOFhCd0RBRHEwTm9SWS0xMUN6d2FhS0FsX2hpS1N3b0dOb29CUDE5RTRYZ3hmbXbSAcwBQVVfeXFMTk5RU24wdGpUcmpaUHdZNWJ4NENiUEc2eHFSSE54TGdyUVNUS2g4ZUFIVVo5VGk4Z2tHbmxLdm5RQzQ0MjJqRVF3WVZ1ZlBLS1QzMUFPcU9KODdHTFl2a2hEVWZQbTdzdkwtajNKMFkwVzNERFI5X0xfaXFyZVJKaU1GemRfR3BGYjlNclVneE0wZV9hNmhDc1pkWVRLRzhYQndEQURxME5vUlktMTFDendhYUtBbF9oaUtTd29HTm9vQlAxOUU0WGd4Zm12?oc=5"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHhRM2U3UjhRRDVwckVrYXdsSlFFZFZhMTlYM0NZYUZtLU9SQUJIbkdycElxQm1KclhpWW5nWXpHVkQwWjRpY21wOUxRWTVEYkdoeFlpSnNoY0g3TXRyWHI4N3lZUmxUaUZBWVBuSmVTYXBFbXRja2tLaTJOSVVrX0xOWHdFUm52RkFKeXlHYlFIOENpcE0wMFF3WFBZMlhtRlE?oc=5"
+          "name": "CGTN",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkk2TGZPVVEzeHloNmNWdVhoS2pPV1MtbXRVV2M1dDB3b0VpSGJWb3c0ekJWTDlrcUt6R1Fyd0R6UkJSVEZmZDF0TFVOVk1BaGJoQ3c5Z1pMUG9DRmNuNk5xb3pTUEJ6OUFRR01RSVR5MmFaV1ItR2lzR2VGWGVpRXFFc3hkLTJHM2hUY3FRZEwwSGxSSEJld002T2VOZVVhY2EweTRuOS1xVE5Sa1RiVGxtZ1Jyd2dLY0FPYnl5eGtuSFRfcUpubTVNRmQ1dw?oc=5"
         },
         {
-          "name": "Data Centre Magazine",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmxQWjVnUjY3NmgwVm9ERXBYT2FOTWtYd0diZjF4SFBDbnNUQzN3cllweF9tOHNZMF9aU0xNTkFpNUtldGMxRG5QUXlGTlRGQkk0TXZLZkl3MzFkNTBqQUpuSnV4Q1l3bjhzNzg5WU05UHRzclYxakJ4NE90Rlp3RFp5RzRkYV9HVUZSZldmd1RSTEp3TWJBOGZn?oc=5"
+          "name": "Menafn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXZtbWd2UFptX1dCbkNuNWs2OUowQ2hPU3MxZHZGSEliQUpMbVR1cGlwTS0yb1RzU2JuZEFVbXlIeWdqMjBKUWFWUGxvNHlXRmh0dnVKZlBFRXJoSXBkYzJYYTJJNWxFRUVFSmRZZXItaWhSZlB0Q0ZaYTRWLTdBM1A1Q0dYN0VzdnpLeloxRmxodlI2bHlUekZCbHo4U19tb1lTMWd0N2VhV2dPalJQZDB4VQ?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFA3ZkRYRnh2dGVsbzRDS0dmRWR5NHpENHRfcmVnM0JydEpDMkxhYjA4Z1ZWMEtrUWdsZUVjeHQ0OVVjanUyM0cwcTZ6SmRFaHJvRWdmb3c1SDQzclg5SElOcHE0M3dZSGZoVWxNRklHRmhBOF9jNHpGdmpYU2l6R1dUTHFaS3ZOeFVzZnFwb3NiSnBTNHZ2VnJZWmd5YUtPdVpQLW5YUEt0WGhSa0o4R2hjX1VKR2s4NHhF?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkFVRWhDTlQ2QXV1TXdjZ1d4eHRBNmpCTFFWTmNEWlZZSjF1eENHY2tXR1hYeG82d1ptX21LYUdUY0c0YmpLeU9tQ2RkU2hkWjY5YnVLQ2VhOGNVTEprMFRWQmtHQl9Kc1pxV01rNUlzdzVDNEo3U28wbzlxVnR3NzE2TXBENVRCSDVNNTdyaUJvcmVhQVhWWVA4djAyaGV5aTEyNUR4S3Z2UE9JaV9nSHVLbVN2a3VKektKRU9R?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHhRM2U3UjhRRDVwckVrYXdsSlFFZFZhMTlYM0NZYUZtLU9SQUJIbkdycElxQm1KclhpWW5nWXpHVkQwWjRpY21wOUxRWTVEYkdoeFlpSnNoY0g3TXRyWHI4N3lZUmxUaUZBWVBuSmVTYXBFbXRja2tLaTJOSVVrX0xOWHdFUm52RkFKeXlHYlFIOENpcE0wMFF3WFBZMlhtRlE?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmxQWjVnUjY3NmgwVm9ERXBYT2FOTWtYd0diZjF4SFBDbnNUQzN3cllweF9tOHNZMF9aU0xNTkFpNUtldGMxRG5QUXlGTlRGQkk0TXZLZkl3MzFkNTBqQUpuSnV4Q1l3bjhzNzg5WU05UHRzclYxakJ4NE90Rlp3RFp5RzRkYV9HVUZSZldmd1RSTEp3TWJBOGZn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlFeWJxUEVldUY0OUtGa1VPNG1QcnNPakh6SkFWUjNDTGNRLTEwRkdPNFk2dGswdWt4VGJCNm1DdF9ud3laMEVrb3ZMOXNmWS1STVlYZmY1a1h1NW5aQ0tlRzEwRGtmRGljUUpKQjBral95ZkZZV3NFc3hTdXVpRW5rSGhmQldLSnl4Ujhtamp4MHJEMVhsdG5LZms0amQxNVh1dzNwOVTSAVZBVV95cUxQcHBWcHhVbU9PcEs2ZVZqSlFLNEFRWG8wcFAwNUdGTGFXNFkyMkxubm51LWRQdDVTOVljeGlOZXhyOFRwcktqQ0VidW1hRmNaSWVKY1FwZw?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2MwS0piOWh6OUdPWm5lU3NxeU9zbkdZT0NvbWg5ZXZ5SnBudHBSRlU2WTJ6bVMtSEYwejJrRWp6R05OaE5yaVlVTXNDYVoyMHNsa1pia0QxZmJjeW4yMWh5MXFIQjZTNzVKSWIyd3BtS055eUJ1NG5MZEhfTTNBbWRVM3N1SDRDS3lJTldoOFJCZ0g4X01HNTM0enRadkdnQTBOQ2d0Zld3M0p1?oc=5"
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWxtSWxQWFFKLVc1dUZCdGtGOElTdFlWeTJZV0FWZ0MzbXBzbkpNSzNmclhleVlWblpHeElhSHhNMDZtcHlKWjBZTVFEQk9MRDJlcWZDWFZQYzlUZDdGcVBDTVk0RndNdC1iVG9taW9vY0FCdTF6WWVzSjdhQVp1Yk1jUkQ4QU9jZjdCTlRCZmZmZTBranBrSzh0cDcydmVWVmpYQ21SOXFyYUkyTUZFU0VVZzdXUnY0S2Q0bzE5ZU1XcGRxVUh2bDdyNHM2RGV3MUlJUVVBS3g1S28?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTlFTbjB0alRyalpQd1k1Yng0Q2JQRzZ4cVJITnhMZ3JRU1RLaDhlQUhVWjlUaThna0dubEt2blFDNDQyMmpFUXdZVnVmUEtLVDMxQU9xT0o4N0dMWXZraERVZlBtN3N2TC1qM0owWTBXM0REUjlfTF9pcXJlUkppTUZ6ZF9HcEZiOU1yVWd4TTBlX2E2aENzWmRZVEtHOFhCd0RBRHEwTm9SWS0xMUN6d2FhS0FsX2hpS1N3b0dOb29CUDE5RTRYZ3hmbXbSAcwBQVVfeXFMTk5RU24wdGpUcmpaUHdZNWJ4NENiUEc2eHFSSE54TGdyUVNUS2g4ZUFIVVo5VGk4Z2tHbmxLdm5RQzQ0MjJqRVF3WVZ1ZlBLS1QzMUFPcU9KODdHTFl2a2hEVWZQbTdzdkwtajNKMFkwVzNERFI5X0xfaXFyZVJKaU1GemRfR3BGYjlNclVneE0wZV9hNmhDc1pkWVRLRzhYQndEQURxME5vUlktMTFDendhYUtBbF9oaUtTd29HTm9vQlAxOUU0WGd4Zm12?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkk2TGZPVVEzeHloNmNWdVhoS2pPV1MtbXRVV2M1dDB3b0VpSGJWb3c0ekJWTDlrcUt6R1Fyd0R6UkJSVEZmZDF0TFVOVk1BaGJoQ3c5Z1pMUG9DRmNuNk5xb3pTUEJ6OUFRR01RSVR5MmFaV1ItR2lzR2VGWGVpRXFFc3hkLTJHM2hUY3FRZEwwSGxSSEJld002T2VOZVVhY2EweTRuOS1xVE5Sa1RiVGxtZ1Jyd2dLY0FPYnl5eGtuSFRfcUpubTVNRmQ1dw?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXZtbWd2UFptX1dCbkNuNWs2OUowQ2hPU3MxZHZGSEliQUpMbVR1cGlwTS0yb1RzU2JuZEFVbXlIeWdqMjBKUWFWUGxvNHlXRmh0dnVKZlBFRXJoSXBkYzJYYTJJNWxFRUVFSmRZZXItaWhSZlB0Q0ZaYTRWLTdBM1A1Q0dYN0VzdnpLeloxRmxodlI2bHlUekZCbHo4U19tb1lTMWd0N2VhV2dPalJQZDB4VQ?oc=5"
       ],
       "eventTitles": [
-        "Alibaba Group stock: Cloud launch adds Amsterdam partners - ad-hoc-news.de",
-        "Alibaba Stocks Decline With Amsterdam AI Cloud Capacity Added - TradingView",
-        "Alibaba Stocks Decline With Amsterdam AI Cloud Capacity Added - Yahoo Finance",
-        "Alibaba Cloud Opens Amsterdam Region with Two Data Centres - Data Centre Magazine",
-        "PM for completing Alibaba Group-backed AI, digitalisation projects - Business Recorder",
-        "PM for completing Alibaba Group-backed AI, digitalisation projects - Investify"
+        "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market - Anadolu Ajansı",
+        "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market - US Muslims",
+        "Alibaba's Qwen AI model to integrate into Apple Intelligence in landmark partnership - CGTN",
+        "Alibaba's Qwen AI Model To Integrate Into Apple Intelligence In Landmark Partnership - Menafn"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-community-safety-report-and-new-protections-for-teens",
-      "rank": 8,
-      "title": "Community safety report and new protections for teens",
-      "originalTitle": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-01-2000002776",
+      "rank": 2,
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "originalTitle": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
       "points": [
-        "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+        "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "impactScore": 67,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-      ],
-      "eventTitles": [
-        "Community safety report and new protections for teens"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-5542e879e541b56f1c06a9f2c71c7c3f37f6d5e3",
-      "rank": 9,
-      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "originalTitle": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "summary": "Cost management for generative AI is a shared responsibility between the teams that build applications and the teams accountable for cloud spend. Many teams start by comparing per-model token rates and asking application teams to shorten prompts. Those steps h",
-      "points": [
-        "Cost management for generative AI is a shared responsibility between the teams that build applications and the teams accountable for cloud spend.",
-        "Many teams start by comparing per-model token rates and asking application teams to shorten prompts.",
-        "Those steps help, but they don’t answer the questions that finance and engineering leaders ask as usage scales: which team spent this, on which workload, and was that spe"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-10-30T22:42:24.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
-      "impactScore": 66,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams"
-      ],
-      "eventTitles": [
-        "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-gadgets-2026-10-united-airlines-ceo-doubts-supersonic-airliner",
-      "rank": 10,
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "originalTitle": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado factory dedicated to making gas turbines for AI data centers. But Boom may be facing turb",
-      "points": [
-        "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado",
-        "But Boom may be facing turbulence after early backers for both ventures have questioned the company’s delivery timeline or backed out entirely.",
-        "One of the company’s first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom’s original plan to deliver the first Overture supersonic airliner i"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "Ars Technica",
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
       "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-10-30T21:41:54.000Z",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
-      "impactScore": 66,
+      "category": "プロダクト",
+      "publishedAt": "2026-10-31T23:31:07.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/01/2000002776",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52eWZmWUxMMWtjZDc4bG41dE9wVzZsN3dVdkJsbWZFN0dwbWcyRVRSQ2d2a3ZRLVpjWjZHQWhYUFlvUXRKZlZjeUdndjN3cFhyaWVUZFVkNW16eGhUOUhGTEgzWU5zZ1BDa2c?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/01/2000002776",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE52eWZmWUxMMWtjZDc4bG41dE9wVzZsN3dVdkJsbWZFN0dwbWcyRVRSQ2d2a3ZRLVpjWjZHQWhYUFlvUXRKZlZjeUdndjN3cFhyaWVUZFVkNW16eGhUOUhGTEgzWU5zZ1BDa2c?oc=5"
+      ],
+      "eventTitles": [
+        "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+        "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明 - ITmedia"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3184013",
+      "rank": 3,
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "originalTitle": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "points": [
+        "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-10-31T21:17:03.000Z",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+      "impactScore": 60,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029"
+        "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward"
       ],
       "eventTitles": [
-        "Supersonic airliner in doubt as company shifts to powering AI data centers"
+        "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42195",
+      "rank": 4,
+      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "originalTitle": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 bill",
+      "points": [
+        "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year.",
+        "The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone.",
+        "The article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared first on The Decoder ."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-10-31T10:43:58.000Z",
+      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams",
+      "impactScore": 60,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams"
+      ],
+      "eventTitles": [
+        "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-south-china-morning-post-e00c0ab7ced3cf6fb7f6",
+      "rank": 5,
+      "title": "Apple to launch iPhone AI features in China in December via Alibaba partnership - South China Morning Post",
+      "originalTitle": "Apple to launch iPhone AI features in China in December via Alibaba partnership - South China Morning Post",
+      "summary": "Apple to launch iPhone AI features in China in December via Alibaba partnership South China Morning Post",
+      "points": [
+        "Apple to launch iPhone AI features in China in December via Alibaba partnership South China Morning Post",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "South China Morning Post",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-10-31T10:02:17.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2tkN3NFenBvWmVSMHFlWEJGWnlfeWpyVzFQQzhoUllDZ3ljS05venFUT1ZnT3pQai13c3hmUHU0RTlESklTekVvU2VuTXJXeDF0Z1k4THFicC1ybU0wcVk5MVBuNmdaMXVCUlZ3dTBPcmtLTVBjTnBKV2lHZEFGRmlKU0loWWttaWlXbDM3QkxLS1RkaHhic04xYm5FWGcyWWxDZDZFT01kVXl5WTFWQUtrcW1uZU020gG4AUFVX3lxTFA4YTg1dUhJeDhZajg5NTFxU29RRWNNeVZzZXRxMmpoUjZ3QTNuWktwS0FQVkxvbUQ3YjQ1NGcwa3hVRDE3TnNOTmVhdXk5QTVuYUhuMGgxR0tmWHZGbDdKV09tdnhWQWhJWTdnaW9mNmhZRWowaV9wQmdvZTRTa3FzdExZakVlTHpXT0RGNGxYS0RpeXd1emlfYXBqVkVCMk1MUjJhbmlQdV90M2RqN3FiakNEM3VYU2w?oc=5",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Next Web",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SlFjakozeGNOOGRlWEVSSjZTeDFhMTdQUm1sVGRZbUJIZnNMYTl1aEtsblJ2X0lrbXhUVHJUV1VEX2REV1FNRXVuamJ0MC1naF9vQ210bjAtdk8wWlBDVGhLTVRSRGVvWG9kU05rLVNhUmpON0NLYmczYjc1YnM?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2tkN3NFenBvWmVSMHFlWEJGWnlfeWpyVzFQQzhoUllDZ3ljS05venFUT1ZnT3pQai13c3hmUHU0RTlESklTekVvU2VuTXJXeDF0Z1k4THFicC1ybU0wcVk5MVBuNmdaMXVCUlZ3dTBPcmtLTVBjTnBKV2lHZEFGRmlKU0loWWttaWlXbDM3QkxLS1RkaHhic04xYm5FWGcyWWxDZDZFT01kVXl5WTFWQUtrcW1uZU020gG4AUFVX3lxTFA4YTg1dUhJeDhZajg5NTFxU29RRWNNeVZzZXRxMmpoUjZ3QTNuWktwS0FQVkxvbUQ3YjQ1NGcwa3hVRDE3TnNOTmVhdXk5QTVuYUhuMGgxR0tmWHZGbDdKV09tdnhWQWhJWTdnaW9mNmhZRWowaV9wQmdvZTRTa3FzdExZakVlTHpXT0RGNGxYS0RpeXd1emlfYXBqVkVCMk1MUjJhbmlQdV90M2RqN3FiakNEM3VYU2w?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SlFjakozeGNOOGRlWEVSSjZTeDFhMTdQUm1sVGRZbUJIZnNMYTl1aEtsblJ2X0lrbXhUVHJUV1VEX2REV1FNRXVuamJ0MC1naF9vQ210bjAtdk8wWlBDVGhLTVRSRGVvWG9kU05rLVNhUmpON0NLYmczYjc1YnM?oc=5"
+      ],
+      "eventTitles": [
+        "Apple to launch iPhone AI features in China in December via Alibaba partnership - South China Morning Post",
+        "Apple confirms its AI features reach China in December, with Qwen - The Next Web"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai-oai-arXiv-org-2610-35229v2",
+      "rank": 6,
+      "title": "Joint Latent Reasoning and Observation for Agentic Video Understanding",
+      "originalTitle": "Joint Latent Reasoning and Observation for Agentic Video Understanding",
+      "summary": "arXiv:2610.35229v2 Announce Type: replace-cross Abstract: Effective video agents must learn not only how to answer, but also where to look next. Transferring this capability to smaller models is challenging because each observation serves two purposes: support",
+      "points": [
+        "arXiv:2610.35229v2 Announce Type: replace-cross Abstract: Effective video agents must learn not only how to answer, but also where to look next.",
+        "Transferring this capability to smaller models is challenging because each observation serves two purposes: supporting an answer and guiding the search for further eviden",
+        "Textual descriptions may capture what is currently visible while omitting cues needed for subsequent acquisition."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "arXiv cs.AI",
+      "sourceType": "research",
+      "category": "研究",
+      "publishedAt": "2026-10-31T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.35229",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arxiv.org/abs/2610.35229"
+      ],
+      "eventTitles": [
+        "Joint Latent Reasoning and Observation for Agentic Video Understanding"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai-oai-arXiv-org-2610-37851v1",
+      "rank": 7,
+      "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+      "originalTitle": "Evaluating and improving AI agents for sequencing protocol understanding",
+      "summary": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing c",
+      "points": [
+        "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and gen",
+        "We introduce LibStructBench, a document-grounded benchmark for reconstructing sequencing-library structures and molecular workflows.",
+        "Our experiments show that frontier agents often produce approximately correct reconstructions but remain unreliable at exact reconstruction, particularly in molecular-sta"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "arXiv cs.AI",
+      "sourceType": "research",
+      "category": "研究",
+      "publishedAt": "2026-10-31T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.37851",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arxiv.org/abs/2610.37851"
+      ],
+      "eventTitles": [
+        "Evaluating and improving AI agents for sequencing protocol understanding"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai-oai-arXiv-org-2610-37905v1",
+      "rank": 8,
+      "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "originalTitle": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies ",
+      "points": [
+        "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings.",
+        "Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring missing company facts, and verifying tha",
+        "Existing financial question-answering evaluations provide limited evidence of these interactive capabilities."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "arXiv cs.AI",
+      "sourceType": "research",
+      "category": "研究",
+      "publishedAt": "2026-10-31T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.37905",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arxiv.org/abs/2610.37905"
+      ],
+      "eventTitles": [
+        "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai-oai-arXiv-org-2610-37919v1",
+      "rank": 9,
+      "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+      "originalTitle": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+      "summary": "arXiv:2610.37919v1 Announce Type: new Abstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not s",
+      "points": [
+        "arXiv:2610.37919v1 Announce Type: new Abstract: Large language model agents are increasingly used for scientific discovery.",
+        "However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not separate empirical evidence from pr",
+        "We introduce SciGame, a controlled benchmark that converts scientific literature into structured scientific cards."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "arXiv cs.AI",
+      "sourceType": "research",
+      "category": "研究",
+      "publishedAt": "2026-10-31T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.37919",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arxiv.org/abs/2610.37919"
+      ],
+      "eventTitles": [
+        "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai-oai-arXiv-org-2610-37935v1",
+      "rank": 10,
+      "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+      "originalTitle": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+      "summary": "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored a",
+      "points": [
+        "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in contin",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "arXiv cs.AI",
+      "sourceType": "research",
+      "category": "モデル",
+      "publishedAt": "2026-10-31T04:00:00.000Z",
+      "url": "https://arxiv.org/abs/2610.37935",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arxiv.org/abs/2610.37935"
+      ],
+      "eventTitles": [
+        "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning"
       ]
     }
   ]
