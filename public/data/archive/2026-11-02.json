@@ -1,0 +1,325 @@
+{
+  "edition": "2026-11-02T06:30:00+09:00",
+  "generatedAt": "2026-11-02T00:58:12.049Z",
+  "periodStart": "2026-10-30T12:58:12.049Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 9,
+  "candidateCount": 910,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "itmedia-ai-plus-https-kn-itmedia-co-jp-kn-article-2611-02-2000002740",
+      "rank": 1,
+      "title": "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化",
+      "originalTitle": "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化",
+      "summary": "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプランを提供する。",
+      "points": [
+        "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプランを提供する。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-01T22:00:00.000Z",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740",
+      "impactScore": 62,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740"
+      ],
+      "eventTitles": [
+        "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-02-2000002777",
+      "rank": 2,
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
+      "originalTitle": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃",
+      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
+      "points": [
+        "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-01T22:00:23.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/02/2000002777",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jc1JmbXl0WkFCRGNrVFlLUjhrdjYyU2haZ1V3ZTRPSDRWRmM2Nm9uSHAxUldaX2NqMjNkZUlobFd4TlYxQllOXzJRMjJqck5JS3NIWHpjSjF3X09ZTEVqUXBpd3NJQzdXZV9xV25GQU1tY3pJd0c00gF8QVVfeXFMT0tTMV95eEpvZ1JpTG1SWUx5Yk9oOGJ6WXZRMUR5RVlfQzZSM0hPTzZmVmZDSHdOZ2tzb1IySWhHQzZyN0ZuUlVKRy1GU2psMEdMbC1tN3VsSERqTVhsSGlSR0RobkFjbno1SEVNZkEwMGhfanJxLTBIZ0N6bw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jc1JmbXl0WkFCRGNrVFlLUjhrdjYyU2haZ1V3ZTRPSDRWRmM2Nm9uSHAxUldaX2NqMjNkZUlobFd4TlYxQllOXzJRMjJqck5JS3NIWHpjSjF3X09ZTEVqUXBpd3NJQzdXZV9xV25GQU1tY3pJd0c00gF8QVVfeXFMT0tTMV95eEpvZ1JpTG1SWUx5Yk9oOGJ6WXZRMUR5RVlfQzZSM0hPTzZmVmZDSHdOZ2tzb1IySWhHQzZyN0ZuUlVKRy1GU2psMEdMbC1tN3VsSERqTVhsSGlSR0RobkFjbno1SEVNZkEwMGhfanJxLTBIZ0N6bw?oc=5",
+        "https://itmedia.co.jp/news/article/2611/02/2000002777"
+      ],
+      "eventTitles": [
+        "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃 - Infoseek",
+        "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42274",
+      "rank": 3,
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "originalTitle": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the mo",
+      "points": [
+        "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the",
+        "This could put mentally vulnerable users at risk.",
+        "Anthropic's Claude, the model its makers anthropomorphize the most, was the only one that consistently refused to play along."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-01T14:36:49.000Z",
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners"
+      ],
+      "eventTitles": [
+        "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners"
+      ]
+    },
+    {
+      "id": "wired-ai-6ae100238620da29e32c576d",
+      "rank": 4,
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "originalTitle": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "points": [
+        "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-01T10:30:00.000Z",
+      "url": "https://wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences"
+      ],
+      "eventTitles": [
+        "Chatbots Are Leading Hikers Astray, With Dangerous Consequences"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Oct-31-datasette-llm-",
+      "rank": 5,
+      "title": "datasette-llm 0.1a9",
+      "originalTitle": "datasette-llm 0.1a9",
+      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can ",
+      "points": [
+        "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying ",
+        "It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datase",
+        "Tags: datasette , llm , datasette-agent"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-10-31T22:10:01.000Z",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Oct/31/datasette-llm"
+      ],
+      "eventTitles": [
+        "datasette-llm 0.1a9"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-cryptonews-net-CBMiVkFVX3lxTFBoazBUMDBOcjBDV3IxcEZ0TjdaenpMamU0aURwdEFCODBnO",
+      "rank": 6,
+      "title": "DeepSeek developing AI agent requiring less human input: Report - Cryptonews.net",
+      "originalTitle": "DeepSeek developing AI agent requiring less human input: Report - Cryptonews.net",
+      "summary": "DeepSeek developing AI agent requiring less human input: Report Cryptonews.net",
+      "points": [
+        "DeepSeek developing AI agent requiring less human input: Report Cryptonews.net",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Cryptonews.net",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-01T21:27:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoazBUMDBOcjBDV3IxcEZ0TjdaenpMamU0aURwdEFCODBnOUNkc3VMUU5IdTh5QVVQWVlHWTlWS19YMzI3eEV6STlvTWY1Ykx4ZTVPODB3?oc=5",
+      "impactScore": 57,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmdLTFcyVllyUGhWamlJRm1FMk5uOU1CTmlJeEozdXRvZjd2UWN1M0xMMzBTd1JrdFU0eXdxb2lQdTNUWWxhb0pfRDJud1pERnpfVUhVckNvYmllc3oySEhidTA0Z3VtQ255MFlhWkRkSy11OC0tV1hYQ1I4OGJuVk1RMmJqdHV5dVdqTWZjZHBKNkdBWTBBZ091WmpQdzQya3p0XzczYk5Zck13ZEU4X3VtbkNQczEtVU13TzBLQVVsX2cy?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoazBUMDBOcjBDV3IxcEZ0TjdaenpMamU0aURwdEFCODBnOUNkc3VMUU5IdTh5QVVQWVlHWTlWS19YMzI3eEV6STlvTWY1Ykx4ZTVPODB3?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmdLTFcyVllyUGhWamlJRm1FMk5uOU1CTmlJeEozdXRvZjd2UWN1M0xMMzBTd1JrdFU0eXdxb2lQdTNUWWxhb0pfRDJud1pERnpfVUhVckNvYmllc3oySEhidTA0Z3VtQ255MFlhWkRkSy11OC0tV1hYQ1I4OGJuVk1RMmJqdHV5dVdqTWZjZHBKNkdBWTBBZ091WmpQdzQya3p0XzczYk5Zck13ZEU4X3VtbkNQczEtVU13TzBLQVVsX2cy?oc=5"
+      ],
+      "eventTitles": [
+        "DeepSeek developing AI agent requiring less human input: Report - Cryptonews.net",
+        "DeepSeek developing AI agent requiring less human input: Report - TradingView"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42278",
+      "rank": 7,
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "originalTitle": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language ",
+      "points": [
+        "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro.",
+        "Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the ",
+        "The approach works, but it needs about ten times the compute."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-01T14:56:44.000Z",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would",
+      "impactScore": 57,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would"
+      ],
+      "eventTitles": [
+        "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-bol-news-bc5efc574331862c4245",
+      "rank": 8,
+      "title": "DeepSeek unveils prototype of new AI agent - Bol News",
+      "originalTitle": "DeepSeek unveils prototype of new AI agent - Bol News",
+      "summary": "DeepSeek unveils prototype of new AI agent Bol News",
+      "points": [
+        "DeepSeek unveils prototype of new AI agent Bol News",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Bol News",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-01T17:49:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaLUJXWkhZX1UyZjgweGY1TjlYNGJEczBxekhLMnRLRnpRRExFN3Z5WmdLMGs5T1l4SUZuZ2FoY3hPN1kzbDBkM0hLeHFoUUEyMDBUaDJUQVd1cVJNTWZVMDc2VW5UVFNRalF0NS0zWTRrNFhyQWdHVzRUUXYzZw?oc=5",
+      "impactScore": 56,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaLUJXWkhZX1UyZjgweGY1TjlYNGJEczBxekhLMnRLRnpRRExFN3Z5WmdLMGs5T1l4SUZuZ2FoY3hPN1kzbDBkM0hLeHFoUUEyMDBUaDJUQVd1cVJNTWZVMDc2VW5UVFNRalF0NS0zWTRrNFhyQWdHVzRUUXYzZw?oc=5"
+      ],
+      "eventTitles": [
+        "DeepSeek unveils prototype of new AI agent - Bol News"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42177",
+      "rank": 9,
+      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "originalTitle": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions to",
+      "points": [
+        "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results.",
+        "Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too.",
+        "The language of the prompt had an especially strong effect on the political slant of responses."
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-01T12:33:01.000Z",
+      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds",
+      "impactScore": 56,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds"
+      ],
+      "eventTitles": [
+        "Chinese AI models are politically complex, not just government mouthpieces, study finds"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-www-techbarrista-com-d39ac8dfc065c18b5d1e",
+      "rank": 10,
+      "title": "Hackers Use DeepSeek AI to Target Over 200 Organisations - www.techbarrista.com",
+      "originalTitle": "Hackers Use DeepSeek AI to Target Over 200 Organisations - www.techbarrista.com",
+      "summary": "Hackers Use DeepSeek AI to Target Over 200 Organisations www.techbarrista.com",
+      "points": [
+        "Hackers Use DeepSeek AI to Target Over 200 Organisations www.techbarrista.com",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "www.techbarrista.com",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tR2VXRUtlZVpJMzNZY1RHNTludm5XbkZDdTRMT1V6b0dUWFRlTzBBZm5vUFpkVVZycHpJYnhNUVUtVUpvMnBwR2lXdWR2cnBUbXJ2ZkMxbXZKaG9pYTZnTU1fS1l0TWo0cmJqTUxVYlBXWjlBU0E?oc=5",
+      "impactScore": 55,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Security Boulevard",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWHE0ZDQycWRwczRKMVF0WlU5N2hVVHFlNkpmUDV2T3ludmpHOXZnMjVBSHRQWm52Ui1OellScmVwZVJoY1p0aXdSZzJKRWYzTV8tWU5vT0NVdzRQaG10dHpMTnBxWEM0UFhFRTdxdjhISEp4UkR1cGxn?oc=5"
+        },
+        {
+          "name": "JBKlutse",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00TDNNMFlqSjVnb2Z0NGNFbDduVE9FeXprOF8tXzN1Q2RiVWg0Q0pEWkdzU3hCVHNLaWtycUNIZDdSZzBsTnAzS3p0X0tvSVRkM0NMMjRudm9IWnk2NTFIeFdLYWFoY3ZTd1dGLWFtR0VZWFJpVHhZ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tR2VXRUtlZVpJMzNZY1RHNTludm5XbkZDdTRMT1V6b0dUWFRlTzBBZm5vUFpkVVZycHpJYnhNUVUtVUpvMnBwR2lXdWR2cnBUbXJ2ZkMxbXZKaG9pYTZnTU1fS1l0TWo0cmJqTUxVYlBXWjlBU0E?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWHE0ZDQycWRwczRKMVF0WlU5N2hVVHFlNkpmUDV2T3ludmpHOXZnMjVBSHRQWm52Ui1OellScmVwZVJoY1p0aXdSZzJKRWYzTV8tWU5vT0NVdzRQaG10dHpMTnBxWEM0UFhFRTdxdjhISEp4UkR1cGxn?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE00TDNNMFlqSjVnb2Z0NGNFbDduVE9FeXprOF8tXzN1Q2RiVWg0Q0pEWkdzU3hCVHNLaWtycUNIZDdSZzBsTnAzS3p0X0tvSVRkM0NMMjRudm9IWnk2NTFIeFdLYWFoY3ZTd1dGLWFtR0VZWFJpVHhZ?oc=5"
+      ],
+      "eventTitles": [
+        "Hackers Use DeepSeek AI to Target Over 200 Organisations - www.techbarrista.com",
+        "Chinese Hackers Use DeepSeek AI to Target More Than 200 Organizations - Security Boulevard",
+        "AI Security Alert: Chinese Hackers Used DeepSeek - JBKlutse"
+      ]
+    }
+  ]
+}
