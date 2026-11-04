@@ -1,0 +1,305 @@
+{
+  "edition": "2026-11-04T06:30:00+09:00",
+  "generatedAt": "2026-11-04T01:34:36.074Z",
+  "periodStart": "2026-11-01T13:34:36.074Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 40,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 9,
+  "candidateCount": 1300,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99615",
+      "rank": 1,
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "originalTitle": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digi",
+      "points": [
+        "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services ",
+        "Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments in ",
+        "Building on initiatives announced at GTC Berlin , NVIDIA and its partners are expanding physical AI and AI agents to cities worldwide."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-03T07:00:12.000Z",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
+      "impactScore": 89,
+      "impactLabel": "特大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications"
+      ],
+      "eventTitles": [
+        "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-243ff9e7da7a3c94f7f227ce021754f4345e7b3d",
+      "rank": 2,
+      "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "originalTitle": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "summary": "Kimi K3 is a multi-modal, open-weight foundation model (FM) that provider Moonshot AI reported achieved frontier-level coding and general agentic intelligence at release. In addition to global and US-based inference, Amazon Bedrock now supports in-country infe",
+      "points": [
+        "Kimi K3 is a multi-modal, open-weight foundation model (FM) that provider Moonshot AI reported achieved frontier-level coding and general agentic intelligence at release.",
+        "In addition to global and US-based inference, Amazon Bedrock now supports in-country inference in India for Kimi K3: unblocking local workloads with strict data residency",
+        "Customers like Ultrahuman are already seeing the benefits in production: “Jade, an AI Health and Wellness assistant in the Ultrahuman app, answers questions in plain lang"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-03T16:32:54.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock"
+      ],
+      "eventTitles": [
+        "Introducing India-based inference for Kimi K3 on Amazon Bedrock"
+      ]
+    },
+    {
+      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1147934",
+      "rank": 3,
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "originalTitle": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desir",
+      "points": [
+        "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules.",
+        "As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t ",
+        "Until now, this work has mostly focused on trying to peer into an AI’s “brain” to understand what it is “thinking,” or training models to hew to values that we hold dear."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "MIT Technology Review",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-03T10:43:41.000Z",
+      "url": "https://technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment"
+      ],
+      "eventTitles": [
+        "How “reverse game theory” could keep AI agents in check"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42340",
+      "rank": 4,
+      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+      "originalTitle": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. ",
+      "points": [
+        "Anthropic released Message Threads for the Messages API.",
+        "Instead of resending the entire conversation with every turn, agents now only transmit what's changed.",
+        "For requests between 500,000 and one million tokens, time to first token drops by about 35 percent."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-03T12:35:49.000Z",
+      "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "https://ai-hikari-ai.com/",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3eGw1XzdSeXhFNFliREU2cEdTU1ZndmdLamJudkM0elk1UWNGNzFxbm1sVE0xbFBIVWlkbmlqSVpzUjJqb2xCWXBsVHBrT0U4TV9odXJycVhtaVdDaVhIUnR1V3k0YlJwVHZiWHE2RzBhMzhOcElmN1pvSUI?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3eGw1XzdSeXhFNFliREU2cEdTU1ZndmdLamJudkM0elk1UWNGNzFxbm1sVE0xbFBIVWlkbmlqSVpzUjJqb2xCWXBsVHBrT0U4TV9odXJycVhtaVdDaVhIUnR1V3k0YlJwVHZiWHE2RzBhMzhOcElmN1pvSUI?oc=5"
+      ],
+      "eventTitles": [
+        "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+        "Anthropicが「Message Threads」ベータ版を公開｜長時間AIエージェントの応答開始が最大35%高速化——久留米・福岡の中小企業向けAI活用ガイド - https://ai-hikari-ai.com/"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-cisco-cyber",
+      "rank": 5,
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "originalTitle": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "points": [
+        "Cisco combines network intelligence with OpenAI models to strengthen enterprise security.",
+        "Learn how it is building more adaptive defenses.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "url": "https://openai.com/index/cisco-cyber",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/cisco-cyber"
+      ],
+      "eventTitles": [
+        "How Cisco defends at machine speed with OpenAI"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-agentic-cheminformatics-with-google-antigravity-",
+      "rank": 6,
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "originalTitle": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "points": [
+        "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-03T17:01:49.000Z",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity"
+      ],
+      "eventTitles": [
+        "Agentic cheminformatics with Google Antigravity"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3184842",
+      "rank": 7,
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "originalTitle": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "points": [
+        "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-03T21:43:08.000Z",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom"
+      ],
+      "eventTitles": [
+        "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d",
+      "rank": 8,
+      "title": "Building ultra-low-latency voice AI applications on AWS",
+      "originalTitle": "Building ultra-low-latency voice AI applications on AWS",
+      "summary": "Conversational AI is transforming how humans interact with technology. From virtual assistants and AI-powered contact centers to real-time translation and accessibility tools, voice-first interfaces are rapidly becoming the default mode of interaction for mill",
+      "points": [
+        "Conversational AI is transforming how humans interact with technology.",
+        "From virtual assistants and AI-powered contact centers to real-time translation and accessibility tools, voice-first interfaces are rapidly becoming the default mode of i",
+        "Yet delivering a truly natural voice experience remains one of the hardest challenges in AI infrastructure."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-03T16:40:54.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws"
+      ],
+      "eventTitles": [
+        "Building ultra-low-latency voice AI applications on AWS"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-rewarding-defenders-with-bigger-bug-bounties",
+      "rank": 9,
+      "title": "Rewarding defenders with bigger bug bounties",
+      "originalTitle": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "points": [
+        "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+      ],
+      "eventTitles": [
+        "Rewarding defenders with bigger bug bounties"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-1350dc3292e99da0becbb3e875f11092aaa597f1",
+      "rank": 10,
+      "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "originalTitle": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "summary": "AI agents that interact with enterprise APIs on behalf of users need to maintain user identity throughout the request chain. Without identity propagation, API calls arrive at downstream services as the application itself rather than the user who initiated the ",
+      "points": [
+        "AI agents that interact with enterprise APIs on behalf of users need to maintain user identity throughout the request chain.",
+        "Without identity propagation, API calls arrive at downstream services as the application itself rather than the user who initiated the action.",
+        "This breaks audit trails, bypasses user-level access controls, and violates the principle of least privilege."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-03T16:47:40.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway"
+      ],
+      "eventTitles": [
+        "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
+      ]
+    }
+  ]
+}

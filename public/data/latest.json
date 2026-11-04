@@ -1,221 +1,258 @@
 {
-  "edition": "2026-11-03T06:30:00+09:00",
-  "generatedAt": "2026-11-03T03:01:19.061Z",
-  "periodStart": "2026-10-31T15:01:19.061Z",
+  "edition": "2026-11-04T06:30:00+09:00",
+  "generatedAt": "2026-11-04T01:34:36.074Z",
+  "periodStart": "2026-11-01T13:34:36.074Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 41,
-  "freshSources": 36,
+  "successfulSources": 40,
+  "freshSources": 35,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 9,
-  "candidateCount": 938,
+  "candidateCount": 1300,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "openai-https-openai-com-index-lifeval",
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99615",
       "rank": 1,
-      "title": "LifeVal",
-      "originalTitle": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "originalTitle": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digi",
       "points": [
-        "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services ",
+        "Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments in ",
+        "Building on initiatives announced at GTC Berlin , NVIDIA and its partners are expanding physical AI and AI agents to cities worldwide."
       ],
       "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "OpenAI",
+      "source": "NVIDIA",
       "sourceType": "official",
       "category": "研究",
-      "publishedAt": "2026-11-02T09:00:00.000Z",
-      "url": "https://openai.com/index/lifeval",
-      "impactScore": 80,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1Z2RUo4dmJDNkZYbVVMVm91NGdfUW9pb3FJbmdMV2NIRzRZbHRfVEt4anhpNFdxYU1WYnUwZV9pZ1dGdkQ3em1tejdRQ0VudUZYckVxT0x0OXRxc0FLYS1MaG0zX2VVdzF5QVlzUmJTcjM1RTNTV3F6UWZmNUM5UFZuNjdYVE9tNEFNR0RpTHFndw?oc=5"
-        }
-      ],
+      "publishedAt": "2026-11-03T07:00:12.000Z",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
+      "impactScore": 89,
+      "impactLabel": "特大",
+      "verification": "公式発表",
+      "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1Z2RUo4dmJDNkZYbVVMVm91NGdfUW9pb3FJbmdMV2NIRzRZbHRfVEt4anhpNFdxYU1WYnUwZV9pZ1dGdkQ3em1tejdRQ0VudUZYckVxT0x0OXRxc0FLYS1MaG0zX2VVdzF5QVlzUmJTcjM1RTNTV3F6UWZmNUM5UFZuNjdYVE9tNEFNR0RpTHFndw?oc=5",
-        "https://openai.com/index/lifeval"
+        "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications"
       ],
       "eventTitles": [
-        "OpenAIのLifeVal評価、AIの日常的な実務タスク能力を検証 - Unite.AI",
-        "LifeVal"
+        "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-grid-protectors-program",
+      "id": "aws-machine-learning-243ff9e7da7a3c94f7f227ce021754f4345e7b3d",
       "rank": 2,
-      "title": "Introducing the Grid Protectors Program",
-      "originalTitle": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "originalTitle": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "summary": "Kimi K3 is a multi-modal, open-weight foundation model (FM) that provider Moonshot AI reported achieved frontier-level coding and general agentic intelligence at release. In addition to global and US-based inference, Amazon Bedrock now supports in-country infe",
       "points": [
-        "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-11-02T15:00:00.000Z",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVRMUHBZQ3NYRWRuS1BtV25oeEoxVkNWWVZ5TVh3bTZXZnc3ams3LVlzU0NaWTBGaF93ZW1XR0IzelRNaFE1elRCTXlMTEFIR2pES1R2YjVTRE0tdEMydllabGREQnMyVXdCdmprakZOZ1lGM0FoNXhXTzFBa0VkQko4cExqWmd4ZE96QjBn?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVRMUHBZQ3NYRWRuS1BtV25oeEoxVkNWWVZ5TVh3bTZXZnc3ams3LVlzU0NaWTBGaF93ZW1XR0IzelRNaFE1elRCTXlMTEFIR2pES1R2YjVTRE0tdEMydllabGREQnMyVXdCdmprakZOZ1lGM0FoNXhXTzFBa0VkQko4cExqWmd4ZE96QjBn?oc=5",
-        "https://openai.com/index/grid-protectors-program"
-      ],
-      "eventTitles": [
-        "OpenAI、計算処理キャンパス向け「Grid Protectors Program」を開始 - Unite.AI",
-        "Introducing the Grid Protectors Program"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-mashable-sea-c254595f0110ee5a108c",
-      "rank": 3,
-      "title": "DeepSeek Harness' new Creator Mode creates plugins from prompts - Mashable SEA",
-      "originalTitle": "DeepSeek Harness' new Creator Mode creates plugins from prompts - Mashable SEA",
-      "summary": "DeepSeek Harness' new Creator Mode creates plugins from prompts Mashable SEA",
-      "points": [
-        "DeepSeek Harness' new Creator Mode creates plugins from prompts Mashable SEA",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Mashable SEA",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-11-03T01:11:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPal9qRjdNLVZtTGhOWE1ETWFycTJsR2NhVlpwbFFhenpIbGpTS2lQOWc0OW9yY2VWUVM5NmNTdHdZdkc5dUtNTWkzMnJmTzdCQ3pYeDJGZVpkNmRUU1N4QnBNaXhzeU8tYmFUS2tjQU9QUjhLQmZvQUhEQ0hMdlZ5MFJmSnVQaEZJblB6OHFQRjBSdzBBU0RRcHZmSEphbHc?oc=5",
-      "impactScore": 76,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0tTZ3c1MHRILWV0NE9xeFFWaVUyMFNGcU1yUGdGUUxpbVFRaDVaZjJlOTZJU3NzUlBMbW9NbFNfUW9DeFJ1Z09fNmxVbEc3amdhUkQ1TmdmaERDMktMZzlNVGFsd01xcWVGQldmYnVaOTNXVWFYQVNoc2ZzV2trTm1QTFNGbTFwU1E?oc=5"
-        },
-        {
-          "name": "FourWeekMBA",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa1U2WVRRYS1Od21qbzZHSkdGeTRRWDN3U2VyUEl6S0NNa3Bfck1FYWJGb1M3bEIydXhLdkNKN3k1OU9MZVA5MUljd3V0YzZjODIzaVJnbXhrRGJ0VHdweFFuQXFINHhHZTJJaU5EbnV4UC1zd2ZxVTNZWDc2UUR2Y3k0bFl5ZTdYXy1pcg?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJicHpmUFp0QkVIcWJGSk14ekpmQkxFU0Fxd2l6MndNc2tSU1lROHo0dHQwUk1YcjJmUUU4R2g5NXM1WTlnaXpUZ1FTQXAtbXFLT1ZnVmJwRklLRUFacmNKTUVIb0Z6eWd2RUVMVVc3ZTVYcXhtTmlhdjE0WkVHT1VvOXlrTmdXaVpoRGVodm1raG5iamlXbnhncDJlRmpRRTU1ZGZ5TFNFQQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPal9qRjdNLVZtTGhOWE1ETWFycTJsR2NhVlpwbFFhenpIbGpTS2lQOWc0OW9yY2VWUVM5NmNTdHdZdkc5dUtNTWkzMnJmTzdCQ3pYeDJGZVpkNmRUU1N4QnBNaXhzeU8tYmFUS2tjQU9QUjhLQmZvQUhEQ0hMdlZ5MFJmSnVQaEZJblB6OHFQRjBSdzBBU0RRcHZmSEphbHc?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0tTZ3c1MHRILWV0NE9xeFFWaVUyMFNGcU1yUGdGUUxpbVFRaDVaZjJlOTZJU3NzUlBMbW9NbFNfUW9DeFJ1Z09fNmxVbEc3amdhUkQ1TmdmaERDMktMZzlNVGFsd01xcWVGQldmYnVaOTNXVWFYQVNoc2ZzV2trTm1QTFNGbTFwU1E?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa1U2WVRRYS1Od21qbzZHSkdGeTRRWDN3U2VyUEl6S0NNa3Bfck1FYWJGb1M3bEIydXhLdkNKN3k1OU9MZVA5MUljd3V0YzZjODIzaVJnbXhrRGJ0VHdweFFuQXFINHhHZTJJaU5EbnV4UC1zd2ZxVTNZWDc2UUR2Y3k0bFl5ZTdYXy1pcg?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJicHpmUFp0QkVIcWJGSk14ekpmQkxFU0Fxd2l6MndNc2tSU1lROHo0dHQwUk1YcjJmUUU4R2g5NXM1WTlnaXpUZ1FTQXAtbXFLT1ZnVmJwRklLRUFacmNKTUVIb0Z6eWd2RUVMVVc3ZTVYcXhtTmlhdjE0WkVHT1VvOXlrTmdXaVpoRGVodm1raG5iamlXbnhncDJlRmpRRTU1ZGZ5TFNFQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjFqU3NxMzNFTTU5Rmxna003cUpRcXFKYkczX0EzLTJIUFI0VVl6LWhRN1ZFZnFjdHRreG1rZ3kzdFEtM2xfRHl3ZTdDaDE2dTUzbTB2WHJfcVROZFBFYmthM2ZFQXpDaE8wa2phTXdTQ1ludmJxeDE0RGQ5bjJJOGxRdUVJUmc2dWJ6MVRpNF9OdVFZSi1n?oc=5"
-      ],
-      "eventTitles": [
-        "DeepSeek Harness' new Creator Mode creates plugins from prompts - Mashable SEA",
-        "DeepSeek Harness Adds Plugin-Creation Entry for Creator Mode - Unite.AI",
-        "DeepSeek’s Harness Gets Creator Mode at 269K GitHub Stars - FourWeekMBA",
-        "DeepSeek Boosts AI Agent Offering With New Creator Mode - Bloomberg.com",
-        "DeepSeek V5 shows up as three names in Harness tests, but there is no official release - Pasquale Pillitteri"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-index-qodo-codex-plugin",
-      "rank": 4,
-      "title": "Qodo builds context into AI code review with Codex",
-      "originalTitle": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "points": [
-        "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-02T00:00:00.000Z",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "impactScore": 73,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMUpzdVhHdnRzTjZhUWd6RFFKRm5jTWgtdW5VMlBjVWphcEtJbUoxYzdzUkxtYnFReDNfYk4xMVFyN1h5MlU0VVI4d1BnMUFiMWJQSEdkOWlnMjRZSC1FUkNRdmxzSUxVMWNNUmVyR24tN3p1N0NVdzNQa3ZwdmNzb25DUXA0bzVoSndOSll4dUZlQkg2?oc=5"
-        },
-        {
-          "name": "X",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIRjFNUHp5RlV1OTdEOXdIQXB6cVNmWVJ6NTJyb3hZdzdLanJEeWdTTXU4MHd0SFZucFhGMk04TndoclViN2ppeVE3R3pXd0lTa1pqM2xvcw?oc=5"
-        },
-        {
-          "name": "Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQalFXVUVYSzVwdzVkRzJQZVlUS05IeTZvb0RtSG1ZeGg5enBHQlp1Nkl6Z1E3Zlc5OU5WaUR5Yy1SV1RNMnozNnhzWHV3WFprYUlIcncyX3drdG9PNVJjYmRpTkJyQWt4S3ExYmlhdXhraHFsaDJkTGQ4TS1CNDEyTHhLY3o5eTJteUlPclZGNDN1bk9tUVdLNGw3Zw?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMUpzdVhHdnRzTjZhUWd6RFFKRm5jTWgtdW5VMlBjVWphcEtJbUoxYzdzUkxtYnFReDNfYk4xMVFyN1h5MlU0VVI4d1BnMUFiMWJQSEdkOWlnMjRZSC1FUkNRdmxzSUxVMWNNUmVyR24tN3p1N0NVdzNQa3ZwdmNzb25DUXA0bzVoSndOSll4dUZlQkg2?oc=5",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIRjFNUHp5RlV1OTdEOXdIQXB6cVNmWVJ6NTJyb3hZdzdLanJEeWdTTXU4MHd0SFZucFhGMk04TndoclViN2ppeVE3R3pXd0lTa1pqM2xvcw?oc=5",
-        "https://openai.com/index/qodo-codex-plugin",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQalFXVUVYSzVwdzVkRzJQZVlUS05IeTZvb0RtSG1ZeGg5enBHQlp1Nkl6Z1E3Zlc5OU5WaUR5Yy1SV1RNMnozNnhzWHV3WFprYUlIcncyX3drdG9PNVJjYmRpTkJyQWt4S3ExYmlhdXhraHFsaDJkTGQ4TS1CNDEyTHhLY3o5eTJteUlPclZGNDN1bk9tUVdLNGw3Zw?oc=5"
-      ],
-      "eventTitles": [
-        "OpenAI、12月からChatGPTとCodexの共通利用枠を設定 - Unite.AI",
-        "OpenAI、ChatGPTとCodexの利用制限を12月から統合 - X",
-        "Qodo builds context into AI code review with Codex",
-        "OpenAI、12月からChatGPTとCodexの利用上限を一本化と確認 - Pasquale Pillitteri"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-7f22d91d237dea8bc76d43cd708cd0a6ac2b6478",
-      "rank": 5,
-      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-      "originalTitle": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-      "summary": "When a qualified aerospace component goes obsolete or hits a long lead time, an engineer spends days cross-referencing specifications across vendor datasheets, interface control documents (ICDs), and qualification records before documenting a substitution just",
-      "points": [
-        "When a qualified aerospace component goes obsolete or hits a long lead time, an engineer spends days cross-referencing specifications across vendor datasheets, interface ",
-        "An incorrect substitution on a flight-critical component can cause mission failure, yet the evidence trail behind each decision is often spread across email and undocumen",
-        "A previous post, Manufacturing intelligence with Amazon Nova Multimodal Embeddings , showed how the model retrieves answers locked inside engineering diagrams, thermal pl"
+        "Kimi K3 is a multi-modal, open-weight foundation model (FM) that provider Moonshot AI reported achieved frontier-level coding and general agentic intelligence at release.",
+        "In addition to global and US-based inference, Amazon Bedrock now supports in-country inference in India for Kimi K3: unblocking local workloads with strict data residency",
+        "Customers like Ultrahuman are already seeing the benefits in production: “Jade, an AI Health and Wellness assistant in the Ultrahuman app, answers questions in plain lang"
       ],
       "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
       "source": "AWS Machine Learning",
       "sourceType": "official",
       "category": "開発者向け",
-      "publishedAt": "2026-11-02T17:01:16.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
-      "impactScore": 71,
+      "publishedAt": "2026-11-03T16:32:54.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock"
+      ],
+      "eventTitles": [
+        "Introducing India-based inference for Kimi K3 on Amazon Bedrock"
+      ]
+    },
+    {
+      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1147934",
+      "rank": 3,
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "originalTitle": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desir",
+      "points": [
+        "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules.",
+        "As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t ",
+        "Until now, this work has mostly focused on trying to peer into an AI’s “brain” to understand what it is “thinking,” or training models to hew to values that we hold dear."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "MIT Technology Review",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-03T10:43:41.000Z",
+      "url": "https://technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment"
+      ],
+      "eventTitles": [
+        "How “reverse game theory” could keep AI agents in check"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42340",
+      "rank": 4,
+      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+      "originalTitle": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. ",
+      "points": [
+        "Anthropic released Message Threads for the Messages API.",
+        "Instead of resending the entire conversation with every turn, agents now only transmit what's changed.",
+        "For requests between 500,000 and one million tokens, time to first token drops by about 35 percent."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-03T12:35:49.000Z",
+      "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "https://ai-hikari-ai.com/",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3eGw1XzdSeXhFNFliREU2cEdTU1ZndmdLamJudkM0elk1UWNGNzFxbm1sVE0xbFBIVWlkbmlqSVpzUjJqb2xCWXBsVHBrT0U4TV9odXJycVhtaVdDaVhIUnR1V3k0YlJwVHZiWHE2RzBhMzhOcElmN1pvSUI?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3eGw1XzdSeXhFNFliREU2cEdTU1ZndmdLamJudkM0elk1UWNGNzFxbm1sVE0xbFBIVWlkbmlqSVpzUjJqb2xCWXBsVHBrT0U4TV9odXJycVhtaVdDaVhIUnR1V3k0YlJwVHZiWHE2RzBhMzhOcElmN1pvSUI?oc=5"
+      ],
+      "eventTitles": [
+        "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+        "Anthropicが「Message Threads」ベータ版を公開｜長時間AIエージェントの応答開始が最大35%高速化——久留米・福岡の中小企業向けAI活用ガイド - https://ai-hikari-ai.com/"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-cisco-cyber",
+      "rank": 5,
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "originalTitle": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "points": [
+        "Cisco combines network intelligence with OpenAI models to strengthen enterprise security.",
+        "Learn how it is building more adaptive defenses.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "url": "https://openai.com/index/cisco-cyber",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/cisco-cyber"
+      ],
+      "eventTitles": [
+        "How Cisco defends at machine speed with OpenAI"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-agentic-cheminformatics-with-google-antigravity-",
+      "rank": 6,
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "originalTitle": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "points": [
+        "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-03T17:01:49.000Z",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "impactScore": 70,
       "impactLabel": "中",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore"
+        "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity"
       ],
       "eventTitles": [
-        "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore"
+        "Agentic cheminformatics with Google Antigravity"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-dan-driscoll-joins-openai",
-      "rank": 6,
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "originalTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3184842",
+      "rank": 7,
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "originalTitle": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "points": [
-        "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
+        "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-03T21:43:08.000Z",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom"
+      ],
+      "eventTitles": [
+        "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d",
+      "rank": 8,
+      "title": "Building ultra-low-latency voice AI applications on AWS",
+      "originalTitle": "Building ultra-low-latency voice AI applications on AWS",
+      "summary": "Conversational AI is transforming how humans interact with technology. From virtual assistants and AI-powered contact centers to real-time translation and accessibility tools, voice-first interfaces are rapidly becoming the default mode of interaction for mill",
+      "points": [
+        "Conversational AI is transforming how humans interact with technology.",
+        "From virtual assistants and AI-powered contact centers to real-time translation and accessibility tools, voice-first interfaces are rapidly becoming the default mode of i",
+        "Yet delivering a truly natural voice experience remains one of the hardest challenges in AI infrastructure."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-03T16:40:54.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws"
+      ],
+      "eventTitles": [
+        "Building ultra-low-latency voice AI applications on AWS"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-rewarding-defenders-with-bigger-bug-bounties",
+      "rank": 9,
+      "title": "Rewarding defenders with bigger bug bounties",
+      "originalTitle": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "points": [
+        "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -223,129 +260,45 @@
       "source": "OpenAI",
       "sourceType": "official",
       "category": "安全性",
-      "publishedAt": "2026-11-02T00:00:00.000Z",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "impactScore": 71,
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "impactScore": 69,
       "impactLabel": "中",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/dan-driscoll-joins-openai"
+        "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
       ],
       "eventTitles": [
-        "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
+        "Rewarding defenders with bigger bug bounties"
       ]
     },
     {
-      "id": "simon-willison-https-simonwillison-net-2026-Nov-2-llm-",
-      "rank": 7,
-      "title": "llm 0.37",
-      "originalTitle": "llm 0.37",
-      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it ",
-      "points": [
-        "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.",
-        "I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints.",
-        "I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna ."
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Simon Willison",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-11-02T23:49:30.000Z",
-      "url": "https://simonwillison.net/2026/Nov/2/llm",
-      "impactScore": 70,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://simonwillison.net/2026/Nov/2/llm"
-      ],
-      "eventTitles": [
-        "llm 0.37"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3184280",
-      "rank": 8,
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "originalTitle": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "points": [
-        "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own cu",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-11-02T19:19:17.000Z",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
-      "impactScore": 70,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping"
-      ],
-      "eventTitles": [
-        "New York Times and other outlets sue web browser Brave over alleged content scraping"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-apple-2026-11-apples-roaming-home-robot-may-do-facetime-switch",
-      "rank": 9,
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "originalTitle": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "summary": "Apple’s new CEO, John Ternus, is apparently pushing the tech company’s development of household robots—and the first to debut may be a home robot designed to autonomously roam around while supporting FaceTime calls and switching lights on whenever a person ent",
-      "points": [
-        "Apple’s new CEO, John Ternus, is apparently pushing the tech company’s development of household robots—and the first to debut may be a home robot designed to autonomously",
-        "People who worked on Apple’s robotic projects told The Information that the AI-driven home robot, code-named J595, could be named HomeView Ultra in line with Apple’s new ",
-        "The company is reportedly aiming to launch the robotic product with a possible price tag of $1,000 or more by 2027, although development delays may push that back to 2028"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-02T18:32:21.000Z",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat",
-      "impactScore": 70,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat"
-      ],
-      "eventTitles": [
-        "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights"
-      ]
-    },
-    {
-      "id": "google-ai-https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-october-2026-",
+      "id": "aws-machine-learning-1350dc3292e99da0becbb3e875f11092aaa597f1",
       "rank": 10,
-      "title": "The latest AI news we announced in October 2026",
-      "originalTitle": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
+      "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "originalTitle": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "summary": "AI agents that interact with enterprise APIs on behalf of users need to maintain user identity throughout the request chain. Without identity propagation, API calls arrive at downstream services as the application itself rather than the user who initiated the ",
       "points": [
-        "Here are Google’s latest AI updates from October 2026",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "AI agents that interact with enterprise APIs on behalf of users need to maintain user identity throughout the request chain.",
+        "Without identity propagation, API calls arrive at downstream services as the application itself rather than the user who initiated the action.",
+        "This breaks audit trails, bypasses user-level access controls, and violates the principle of least privilege."
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Google AI",
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
       "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-02T17:45:00.000Z",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "impactScore": 70,
+      "category": "開発者向け",
+      "publishedAt": "2026-11-03T16:47:40.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "impactScore": 67,
       "impactLabel": "中",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026"
+        "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway"
       ],
       "eventTitles": [
-        "The latest AI news we announced in October 2026"
+        "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
       ]
     }
   ]
