@@ -1,0 +1,379 @@
+{
+  "edition": "2026-11-05T06:30:00+09:00",
+  "generatedAt": "2026-11-05T01:36:10.127Z",
+  "periodStart": "2026-11-02T13:36:10.127Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 41,
+  "freshSources": 36,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 9,
+  "candidateCount": 1426,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3185181",
+      "rank": 1,
+      "title": "Meta acquires AI coding startup Conductor",
+      "originalTitle": "Meta acquires AI coding startup Conductor",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "points": [
+        "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-04T21:10:56.000Z",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "impactScore": 85,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1ExR0lIbGhfckRoSzB3bW5JZTgyaElNRGdmT1dYbTFkTlg2NUJjUHZ2Y3RsWFRFUlNzYThqZlpHVmFKbDQ0QTZZQUkyZEVrTjdwWlpKcGhYLV9Ua2JaM0hQOERSMVJXNFRiRHpUcUZsSmhhaXhpcm0zYTVMVFgwbzY1aF9MTGZrR0MzUnU1akpIWHM1N0pXX3N3TQ?oc=5"
+        },
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVNpNi1zaFFJTWZVQlpQamkyTWJ4VmduY0M3WEgwWUx4TVFJbHVsTlVPV3FVTVJIUDhSNC1vaDdFVkl6NFl4dWV5VkdzdkdJUF9OMEtoZklXTVl4Ynp3dHJ1Ymg2ZlM3QUh4NE9nMlRzeUdRUXBJTXRxOUJESXIwZl9aTEVqb05BTmNQQ1pLeXFTdGhrRkVrWjR5eXBEMEds?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1ExR0lIbGhfckRoSzB3bW5JZTgyaElNRGdmT1dYbTFkTlg2NUJjUHZ2Y3RsWFRFUlNzYThqZlpHVmFKbDQ0QTZZQUkyZEVrTjdwWlpKcGhYLV9Ua2JaM0hQOERSMVJXNFRiRHpUcUZsSmhhaXhpcm0zYTVMVFgwbzY1aF9MTGZrR0MzUnU1akpIWHM1N0pXX3N3TQ?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVNpNi1zaFFJTWZVQlpQamkyTWJ4VmduY0M3WEgwWUx4TVFJbHVsTlVPV3FVTVJIUDhSNC1vaDdFVkl6NFl4dWV5VkdzdkdJUF9OMEtoZklXTVl4Ynp3dHJ1Ymg2ZlM3QUh4NE9nMlRzeUdRUXBJTXRxOUJESXIwZl9aTEVqb05BTmNQQ1pLeXFTdGhrRkVrWjR5eXBEMEds?oc=5"
+      ],
+      "eventTitles": [
+        "Meta acquires AI coding startup Conductor",
+        "Meta、AIコーディングスタートアップのConductorを買収 - Axios - Moomoo",
+        "Meta、開発者向けツールを強化するためAIコーディング・スタートアップのConductorを買収 - Mezha.net"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-openai-to-acquire-pierre",
+      "rank": 2,
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "originalTitle": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "points": [
+        "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-04T14:30:00.000Z",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "impactScore": 84,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents",
+        "https://openai.com/index/openai-to-acquire-pierre"
+      ],
+      "eventTitles": [
+        "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+        "OpenAI to acquire Pierre Computer Company, Inc."
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-11-big-tech-claims-voters-ai-backlash-is-anti",
+      "rank": 3,
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "originalTitle": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "summary": "Donald Trump’s big, rapid American AI buildout now faces a major slowdown as voters in yesterday’s elections overwhelmingly supported candidates and measures that favored increasing restrictions on AI and data centers nationwide. One resource from a polling fi",
+      "points": [
+        "Donald Trump’s big, rapid American AI buildout now faces a major slowdown as voters in yesterday’s elections overwhelmingly supported candidates and measures that favored",
+        "One resource from a polling firm, called Redbud Consulting, tracked data center initiatives on the ballot and reported that out of 44 measures across 10 states seeking to",
+        "Those measures included dozens of moratoriums and bans."
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-04T20:55:50.000Z",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech"
+      ],
+      "eventTitles": [
+        "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_video-038-p-3185186",
+      "rank": 4,
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "originalTitle": "Open source AI is booming. Hugging Face explains who profits.",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture val",
+      "points": [
+        "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
+        "But as increasingly capable models become more freely available, how do companies capture value?",
+        "And with Chinese open models gaining ground, can American players keep up?"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-04T19:30:04.000Z",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits"
+      ],
+      "eventTitles": [
+        "Open source AI is booming. Hugging Face explains who profits."
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-post_type-tc_podcast-038-p-3185167",
+      "rank": 5,
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "originalTitle": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture val",
+      "points": [
+        "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
+        "But as increasingly capable models become more freely available, how do companies capture value?",
+        "And with Chinese open models gaining ground, can American players keep up?"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-04T18:44:57.000Z",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs"
+      ],
+      "eventTitles": [
+        "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-04-2000002863",
+      "rank": 6,
+      "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
+      "originalTitle": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
+      "summary": "Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「zkSNARK」を活用しており、研究用プロトタイプとして関連コードなどを公開した。",
+      "points": [
+        "Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「zkSNARK」を活用しており、研究用プロトタイプとして関連コードなどを公開した。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-04T01:40:15.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2611/04/2000002863",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2xqaFBROWR5dkFicVV1YWNmUG90dUVSM2NSbnlSNVJHa0NOX0VweWhUM3lhQkdjNGZTUGNJOXRCUWhRZVNZcEhFenJpcGVhMlZOZ0dRU2ZIVmhsWkplekZmREMxVWR6VHVjT3RUaDJhQVVTT0FHcnNqYmZ1Y0tQdw?oc=5"
+        },
+        {
+          "name": "GIGAZINE",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04bks0VjdEeEppMVVxVGoxT0txMnI1VGhUV0lTMTJDd19EQXIwUFdTaVI0QlBlMW5QZV9vYUU5WEwwOENqQllwTmVnRTJHOWJhVnRQR1EzZC1LRndVa0hfUHFjSFpub2c?oc=5"
+        },
+        {
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91SzhSNHpxQnNFYnNGVDFBSlV3emE3TVl0UWRZUmx4dzVCRHp4dmhhcndxek52aWxXV2hFX2dDbm9KbmRHdFc2VnQ1djJyZ2pmTlJPN0o3eF9xY0hraXJTZXZTcE04NkRXVDRzdHBJSFlJNlF6SkNUaU9RVlFLbWM?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2xqaFBROWR5dkFicVV1YWNmUG90dUVSM2NSbnlSNVJHa0NOX0VweWhUM3lhQkdjNGZTUGNJOXRCUWhRZVNZcEhFenJpcGVhMlZOZ0dRU2ZIVmhsWkplekZmREMxVWR6VHVjT3RUaDJhQVVTT0FHcnNqYmZ1Y0tQdw?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOV80VDNreVhUSXctMndVOTNMMUFYTElja1Z5bzRaSEcwSG9xb1R1NmtPYUQwNlpTTVlCWVdYTDVQd0Y5RGN5bGFReVUwWkRvaHJOWUVXMnR0VGNXT2JsTExWNG5xaXpOeHpVR19ZOTBZNTZ2cl9tNzd6NHRmelhoQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04bks0VjdEeEppMVVxVGoxT0txMnI1VGhUV0lTMTJDd19EQXIwUFdTaVI0QlBlMW5QZV9vYUU5WEwwOENqQllwTmVnRTJHOWJhVnRQR1EzZC1LRndVa0hfUHFjSFpub2c?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE91SzhSNHpxQnNFYnNGVDFBSlV3emE3TVl0UWRZUmx4dzVCRHp4dmhhcndxek52aWxXV2hFX2dDbm9KbmRHdFc2VnQ1djJyZ2pmTlJPN0o3eF9xY0hraXJTZXZTcE04NkRXVDRzdHBJSFlJNlF6SkNUaU9RVlFLbWM?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZ2hZSHEweTJ1M2tGOXFoQXdrSzFJNjJzYzNaWGhYZ25CVmFKaUlGRWoweWJUVnd4am9vcWZyTng0MGY4TmRJVDBiY0FlZUxwYlJHVHhmOHpQSG0xc3BaQkJQaEl1QVk2UXFlNDdEaGVCQnNxQUQtSVlyT3RkZjDSAX9BVV95cUxNTmdoWUhxMHkydTNrRjlxaEF3a0sxSTYyc2MzWlhoWGduQlZhSmlJRkVqMHliVFZ3eGpvb3Fmck54NDBmOE5kSVQwYmNBZWVMcGJSR1R4Zjh6UEhtMXNwWkJCUGhJdUFZNlFxZTQ3RGhlQkJzcUFELUlZck90ZGYw?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2611/04/2000002863",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GZzdWV29BcDFNNWowUFlPR2JpaUxPVWVGNHZDVUZCN2pJd3dYZHpibHA1amFsdHFwLWhFbWZKXzlOcXdNT004TXdwODZxLTQzWEFFNmpmajhQQkxvZ1g2bXlZMkVzeUVvbG5oNA?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVN2VnYtT255ZC02TGVVMmxkMllXdktYX3RXbWN4ZHhVNDJqUkFiczY5Vm9wanpKYUJKMU90UjI5NVRmVThRaU9EWG9XRTZrTXBmV1pDdFJ2WTdkZmJsUE8wNzNOYi12QnhQSHRETzdPNWVCMGZZUGdiYVVYQkpSSk0tZjlVUWYyUUg4XzVTc1Rlc3p4RF80?oc=5"
+      ],
+      "eventTitles": [
+        "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開（画像）（2/2枚目） - ITmedia",
+        "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開（画像）（1/2枚目） - ITmedia",
+        "「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発 - GIGAZINE",
+        "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開（ITmedia NEWS） - Yahoo!ニュース",
+        "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開 - Infoseek",
+        "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
+        "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開 - ITmedia",
+        "Anthropic、暗号学的なAI推論証明に向けたFlashProveを公開 - Unite.AI"
+      ]
+    },
+    {
+      "id": "wired-ai-6ae4a770bd1058bb39c86ec2",
+      "rank": 7,
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "originalTitle": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+      "points": [
+        "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation.",
+        "All of it didn’t add up to much on Tuesday night.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-04T20:41:29.000Z",
+      "url": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms"
+      ],
+      "eventTitles": [
+        "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-introducing-images-2-6",
+      "rank": 8,
+      "title": "Introducing Images 2.6",
+      "originalTitle": "Introducing Images 2.6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "points": [
+        "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/introducing-images-2-6"
+      ],
+      "eventTitles": [
+        "Introducing Images 2.6"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-04-2000002869",
+      "rank": 9,
+      "title": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "originalTitle": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+      "points": [
+        "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-04T04:13:20.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/04/2000002869",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "千葉テレビ放送株式会社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1UjA0Y3BUdVF4SUx6MDNac1VxNXRmQXpvWHBPdzFycXYxbVZabmtHLS1IYTRFQVZnRkp5d3Y1LVB1Unc3TUhZUlBEZjUxTjF1cTJwd2lWazBLUG9mNUVv?oc=5"
+        },
+        {
+          "name": "クラウド Watch",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5"
+        },
+        {
+          "name": "Publickey",
+          "url": "https://publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1UjA0Y3BUdVF4SUx6MDNac1VxNXRmQXpvWHBPdzFycXYxbVZabmtHLS1IYTRFQVZnRkp5d3Y1LVB1Unc3TUhZUlBEZjUxTjF1cTJwd2lWazBLUG9mNUVv?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5",
+        "https://publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
+        "https://publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+        "https://publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE40ZnB5bVR2QnVfUVd3eHpGQXZUaHdPbXc5ck9VRUlFMmpPS1MzWGpoWDZVNWp1YS0zeXBXQ21STmw3VElUcW1WTUpRdEdEeGdldG55bnNxMEhmWnJRdDhjLVhyeG1velZGRHItWFZROEJVNG9FWHZYb0NR?oc=5",
+        "https://publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+        "https://itmedia.co.jp/news/article/2611/04/2000002869"
+      ],
+      "eventTitles": [
+        "【GitHub Universe 2026】AIエージェント急増に伴うGitインフラ全面刷新の舞台裏と、人とAIが対等に協調する開発の未来 - 千葉テレビ放送株式会社",
+        "【GitHub Universe 2026】AIエージェント急増に伴うGitインフラ全面刷新の舞台裏と、人とAIが対等に協調する開発の未来 - クラウド Watch",
+        "「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026",
+        "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+        "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+        "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026 - Publickey",
+        "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+        "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3185129",
+      "rank": 10,
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "originalTitle": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "points": [
+        "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-04T19:29:52.000Z",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXEtTVhlUlVrQk5XRElqWUxJTzFOQW9qUW9LZnNnTHhoUm9LOVFpVGlmUzM0YTFnaDA2cmNjdkJfYV9aaF9VR3NFTHFZaHhaM0dCX25OQjJZcFdaQ1NZSUNRLUhUcEg4cWtOYWYxcnJZdWRtbUJZbll1V2EtMkpEN0xObGhjaU5LSk44ZWFWaWg2UTVHa0Frb1dJRTVzRlR4TGtheExEZzNoRnlT?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXEtTVhlUlVrQk5XRElqWUxJTzFOQW9qUW9LZnNnTHhoUm9LOVFpVGlmUzM0YTFnaDA2cmNjdkJfYV9aaF9VR3NFTHFZaHhaM0dCX25OQjJZcFdaQ1NZSUNRLUhUcEg4cWtOYWYxcnJZdWRtbUJZbll1V2EtMkpEN0xObGhjaU5LSk44ZWFWaWg2UTVHa0Frb1dJRTVzRlR4TGtheExEZzNoRnlT?oc=5"
+      ],
+      "eventTitles": [
+        "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+        "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy - TechCrunch"
+      ]
+    }
+  ]
+}
