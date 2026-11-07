@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-06T06:30:00+09:00",
-  "generatedAt": "2026-11-06T01:43:40.619Z",
-  "periodStart": "2026-11-03T13:43:40.619Z",
+  "edition": "2026-11-07T06:30:00+09:00",
+  "generatedAt": "2026-11-07T01:02:20.330Z",
+  "periodStart": "2026-11-04T13:02:20.330Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 42,
@@ -9,316 +9,363 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1919,
+  "candidateCount": 1956,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-deepmind-https-deepmind-google-blog-gemini-omni-12-flash-fast-and-cost-effective-with-longer-",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3186034",
       "rank": 1,
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "originalTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "originalTitle": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "points": [
-        "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Google DeepMind",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-11-05T17:05:16.000Z",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
-      "impactScore": 98,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "XenoSpectrum",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96dndnTVlmTW9QRm9lRkliSjRKRF9DaHlRR2FtS3F6cnYzMExubkE3S1d4eWlIVTU1WFh2SExhc04tcjMwb1RmcEZZaGRVYllURWVGUGZUVlEzTXh4YXRGOHpsVWduRUxp?oc=5"
-        },
-        {
-          "name": "Jetstream",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkd0FDa3V3Z2g5SGVaRFBYNXdJdGpMNWItM09Qa2RzdzE4NXNLTmZwRERqdlYxUFlyUVZOUWtuWFBiVUdiem1xclhRRC1MMHJURTF2bUZ3NjdXSy1abzh2TTNnNW5oa00?oc=5"
-        },
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96dndnTVlmTW9QRm9lRkliSjRKRF9DaHlRR2FtS3F6cnYzMExubkE3S1d4eWlIVTU1WFh2SExhc04tcjMwb1RmcEZZaGRVYllURWVGUGZUVlEzTXh4YXRGOHpsVWduRUxp?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkd0FDa3V3Z2g5SGVaRFBYNXdJdGpMNWItM09Qa2RzdzE4NXNLTmZwRERqdlYxUFlyUVZOUWtuWFBiVUdiem1xclhRRC1MMHJURTF2bUZ3NjdXSy1abzh2TTNnNW5oa00?oc=5",
-        "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent",
-        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash"
-      ],
-      "eventTitles": [
-        "Google、動画生成AI「Gemini Omni 1.2 Flash」を正式公開 最大15秒に延長、料金も30%値下げ - XenoSpectrum",
-        "Google、動画生成AI「Gemini Omni 1.2 Flash」正式発表 - Jetstream",
-        "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-        "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
-      ]
-    },
-    {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99663",
-      "rank": 2,
-      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "originalTitle": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who special",
-      "points": [
-        "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it.",
-        "“We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes",
-        "Alexiuk’s preferred “rooftop” is YouTube , where he’s built a following teaching curious thousands how to build, fine-tune, evaluate and ship production LLM applications "
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-05T16:00:05.000Z",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
-      "impactScore": 90,
-      "impactLabel": "特大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk"
-      ],
-      "eventTitles": [
-        "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-index-introducing-gpt-6-cyber",
-      "rank": 3,
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "originalTitle": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "points": [
-        "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-11-05T09:00:00.000Z",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "impactScore": 88,
-      "impactLabel": "特大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://openai.com/index/introducing-gpt-6-cyber"
-      ],
-      "eventTitles": [
-        "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-11-lawsuit-man-introduced-his-wife-to-chatgpt",
-      "rank": 4,
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "originalTitle": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "summary": "ChatGPT allegedly helped a North Carolina woman, Cheryl Gates, craft a “personalized plan” to poison her husband, James, after fueling her delusions that he planned to divorce her and leave her with nothing. A grand jury indicted Cheryl Gates on charges of att",
-      "points": [
-        "ChatGPT allegedly helped a North Carolina woman, Cheryl Gates, craft a “personalized plan” to poison her husband, James, after fueling her delusions that he planned to di",
-        "A grand jury indicted Cheryl Gates on charges of attempted first-degree murder and food contamination in October.",
-        "About a week prior, the accusations that ChatGPT was a co-conspirator in the attempted murder came in a lawsuit filed in San Francisco County Superior Court that was made"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-11-05T21:39:40.000Z",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder",
-      "impactScore": 84,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder"
-      ],
-      "eventTitles": [
-        "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder."
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3185414",
-      "rank": 5,
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "originalTitle": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "points": [
-        "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-05T19:06:12.000Z",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
-      "impactScore": 79,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough"
-      ],
-      "eventTitles": [
-        "OpenAI released a new cybersecurity model. Is that enough?"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-atlas",
-      "rank": 6,
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "originalTitle": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Introducing Atlas, our new omni world model for spatial intelligence.",
-      "points": [
-        "Introducing Atlas, our new omni world model for spatial intelligence.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-05T19:47:36.330Z",
-      "url": "https://worldlabs.ai/blog/atlas",
-      "impactScore": 78,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [
-        {
-          "name": "World Labs",
-          "url": "https://worldlabs.ai/blog/atlas-realtime"
-        }
-      ],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/atlas",
-        "https://worldlabs.ai/blog/atlas-realtime"
-      ],
-      "eventTitles": [
-        "Atlas: A World Model for Spatial Intelligence",
-        "Frameboy: Atlas in Real-time"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-funding-2026",
-      "rank": 7,
-      "title": "World Labs Announces New Funding",
-      "originalTitle": "World Labs Announces New Funding",
-      "summary": "An update on our vision for spatial intelligence in 2026.",
-      "points": [
-        "An update on our vision for spatial intelligence in 2026.",
+        "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "World Labs",
-      "sourceType": "official",
+      "source": "TechCrunch",
+      "sourceType": "media",
       "category": "ビジネス",
-      "publishedAt": "2026-11-05T19:47:36.330Z",
-      "url": "https://worldlabs.ai/blog/funding-2026",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "publishedAt": "2026-11-06T22:53:46.000Z",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "impactScore": 86,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QMTNGV0lfVVh6SXpicnpoU3pkMkxOMUhpZXZyTDFXbEJKVEhMRTBaNnczdGFlZHNQSm42UDNGcExmQ0VQa04yVm5JWjlSeHRoXy1yVC1IXzJOZw?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://worldlabs.ai/blog/funding-2026"
+        "https://theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QMTNGV0lfVVh6SXpicnpoU3pkMkxOMUhpZXZyTDFXbEJKVEhMRTBaNnczdGFlZHNQSm42UDNGcExmQ0VQa04yVm5JWjlSeHRoXy1yVC1IXzJOZw?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zaXVfbEpCMlhyZ3FKQWJ5RjQ3M3RBaDdFSGZ5R1pxa3JWRGdoLXhkWUZqZmdyOGV3bzNkWHl2S0JfelJyMkYwWmZOUGJ1Y2p0S1Z0TnNHRnFZbUZlRWdzVXd0ZS1RTUwwYlV0ZzR4SmdORGZY?oc=5"
       ],
       "eventTitles": [
-        "World Labs Announces New Funding"
+        "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "アルファベット、5,000億ドル消失 OpenAIの評価額は1.25兆ドルに低下——AIトレードは「誇大広告」から「需要」を織り込み始める - BigGo ファイナンス",
+        "OpenAIの新規資金調達、応募が目標の半分に届かず 評価額は1.25兆ドルに縮小 - BigGo ファイナンス"
       ]
     },
     {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-announcing-the-world-api",
-      "rank": 8,
-      "title": "Announcing the World API",
-      "originalTitle": "Announcing the World API",
-      "summary": "A public API for generating explorable 3D worlds from text, images, and video — bringing Marble&#x27;s world modeling capabilities into your applications.",
+      "id": "openai-https-openai-com-index-partnering-with-hacktron",
+      "rank": 2,
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "originalTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "points": [
-        "A public API for generating explorable 3D worlds from text, images, and video — bringing Marble&#x27;s world modeling capabilities into your applications.",
+        "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
       "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-05T19:47:36.330Z",
-      "url": "https://worldlabs.ai/blog/announcing-the-world-api",
-      "impactScore": 76,
+      "category": "モデル",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "impactScore": 79,
       "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45TGpZMDlTMEhaR0xHYlNLS3QtdWVhVTNOMUxVSHphY2c2QVhzbzJEU2lCZ3E5VDNEVUx2ZHc5TmF2cS1ESi1pTk4yay1feldSMDc2eUlZaXRLaUJ2eWptUWlmOWJUbnV1R01NR2haZExqUm9i?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://worldlabs.ai/blog/announcing-the-world-api"
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE45TGpZMDlTMEhaR0xHYlNLS3QtdWVhVTNOMUxVSHphY2c2QVhzbzJEU2lCZ3E5VDNEVUx2ZHc5TmF2cS1ESi1pTk4yay1feldSMDc2eUlZaXRLaUJ2eWptUWlmOWJUbnV1R01NR2haZExqUm9i?oc=5",
+        "https://openai.com/index/partnering-with-hacktron"
       ],
       "eventTitles": [
-        "Announcing the World API"
+        "OpenAI、Hacktronと提携しシステム脆弱性を調査、フロンティアモデルへのアクセスを拡大 - BigGo ファイナンス",
+        "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
       ]
     },
     {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-marble-world-model",
-      "rank": 9,
-      "title": "Marble: A Multimodal World Model",
-      "originalTitle": "Marble: A Multimodal World Model",
-      "summary": "Marble, our frontier multimodal world model, is available to everyone starting today",
+      "id": "mistral-https-mistral-ai-news-build-with-studio-",
+      "rank": 3,
+      "title": "Le Chonk brings the brains. Studio puts it to work.",
+      "originalTitle": "Le Chonk brings the brains. Studio puts it to work.",
+      "summary": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
       "points": [
-        "Marble, our frontier multimodal world model, is available to everyone starting today",
+        "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Mistral AI",
       "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-05T19:47:36.330Z",
-      "url": "https://worldlabs.ai/blog/marble-world-model",
+      "category": "モデル",
+      "publishedAt": "2026-11-05T12:00:14.000Z",
+      "url": "https://mistral.ai/news/build-with-studio",
       "impactScore": 75,
       "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzk5dVRkZ3VGUjV2akRvQkZlZ3g0bjhnQ1VjckUzeVV1dzBiMEo4dXFIQ2YyakdrV3k2S0hWV1lyNzZycXYtc1RMMFpWRkxEbm9DUG1KTC00STdCUXZhNGpNQklDZTFTNldCNy1zemJ1SU5hTzdLVzVabHJrZ192UEo5WjR6VVhfeUUxUTRnOUk?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://worldlabs.ai/blog/marble-world-model"
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzk5dVRkZ3VGUjV2akRvQkZlZ3g0bjhnQ1VjckUzeVV1dzBiMEo4dXFIQ2YyakdrV3k2S0hWV1lyNzZycXYtc1RMMFpWRkxEbm9DUG1KTC00STdCUXZhNGpNQklDZTFTNldCNy1zemJ1SU5hTzdLVzVabHJrZ192UEo5WjR6VVhfeUUxUTRnOUk?oc=5",
+        "https://mistral.ai/news/build-with-studio"
       ],
       "eventTitles": [
-        "Marble: A Multimodal World Model"
+        "Mistral Studioがマネージドエージェントとアプリを発表、オンプレミスにも対応 - Pasquale Pillitteri",
+        "Le Chonk brings the brains. Studio puts it to work."
       ]
     },
     {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-scenix",
-      "rank": 10,
-      "title": "World Labs Acquires SceniX",
-      "originalTitle": "World Labs Acquires SceniX",
-      "summary": "Advancing Spatial Intelligence for Robotics",
+      "id": "the-decoder-https-the-decoder-com-p-42519",
+      "rank": 4,
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "originalTitle": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. O",
       "points": [
-        "Advancing Spatial Intelligence for Robotics",
+        "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U",
+        "models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million.",
+        "On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-06T19:47:04.000Z",
+      "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model"
+      ],
+      "eventTitles": [
+        "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-7f770c3595174ddce3e090066fd2d16df2549723",
+      "rank": 5,
+      "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "originalTitle": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "summary": "You might already run Claude Code locally on your laptop, backed by Amazon Bedrock. This post shows how to go a step further: run it as a remote agent on Amazon Bedrock AgentCore, a platform to build, connect, and optimize agents at scale, with any framework o",
+      "points": [
+        "You might already run Claude Code locally on your laptop, backed by Amazon Bedrock.",
+        "This post shows how to go a step further: run it as a remote agent on Amazon Bedrock AgentCore, a platform to build, connect, and optimize agents at scale, with any frame",
+        "The sample uses AgentCore runtime, a capability of Amazon Bedrock AgentCore, so every task runs in its own isolated session inside your AWS account."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-06T16:45:58.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls"
+      ],
+      "eventTitles": [
+        "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-measuring-how-ai-agents-handle-wet-lab-science",
+      "rank": 6,
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "originalTitle": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "points": [
+        "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
+      "source": "OpenAI",
       "sourceType": "official",
       "category": "研究",
-      "publishedAt": "2026-11-05T19:47:36.330Z",
-      "url": "https://worldlabs.ai/blog/scenix",
-      "impactScore": 73,
-      "impactLabel": "大",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "impactScore": 70,
+      "impactLabel": "中",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://worldlabs.ai/blog/scenix"
+        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
       ],
       "eventTitles": [
-        "World Labs Acquires SceniX"
+        "Measuring how AI agents handle everyday wet-lab science"
+      ]
+    },
+    {
+      "id": "google-news-global-policy---CBMiTEFVX3lxTE9rVFBxaGpSVmRELU5iUVV0NFc4WVlmTXNyWTNMckgzSE1HbDBPX2JMeVNk",
+      "rank": 7,
+      "title": "Tech stocks plunge amid fears of tighter AI regulation after Democratic sweep - سانا",
+      "originalTitle": "Tech stocks plunge amid fears of tighter AI regulation after Democratic sweep - سانا",
+      "summary": "Tech stocks plunge amid fears of tighter AI regulation after Democratic sweep سانا",
+      "points": [
+        "Tech stocks plunge amid fears of tighter AI regulation after Democratic sweep سانا",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "سانا",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-06T18:07:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVFBxaGpSVmRELU5iUVV0NFc4WVlmTXNyWTNMckgzSE1HbDBPX2JMeVNkT21SeXlTQWdXVmswVmloSE8xU3YyS3d1Y3c?oc=5",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdGFSSUVJc3pESllFclkwNEZ2TWJ4RnBiRWoyQnpuWkg4V2d0UmthQm9taUk4SFkxQk9hNHdrZjhVeHE3QmJxNzdZQ3BoalBIWEVVdVBjNmhHeW5tLW5BZ1pSa3RpTTN6MkxDOHM2NWF0b29wWktUUm5wYld1cFF0YzQ4SWIzMDhPNjNKamxNTEw1Q0hzbkE?oc=5"
+        },
+        {
+          "name": "Bilyonaryo Business",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWkzN2s4MXU4WlUyTDF3QkRJdEtOT041TmdyNl9ZOGJjMVEwODRqZ1dqcDcyNFN3WkpkaGdKbjBKZ3RwbEhUQS03Y0NhemlkT0l0dlhEa0RlSHprWnVBYVFYUDNHU3ItcWt5R3NFWVVoMC1KQTItTUI1VVVWeFNwVjBPVl9tQ0pqUnd2aWhtNFl5aThfRFp2czdnNU9XdHAyckRGRQ?oc=5"
+        },
+        {
+          "name": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0Z0bmhXT18yQVVLTllBWG5oSWpZOTdiRHJnVWZXYnJxWk05bzFuaUxkcHkyQWxJeFFhLXAxdmVvM0dZbEkzVjR3RnowalRSeEZRTnhTRUtackhBR1hpWEUtSHp5T0pJa1AxU0hmVUZzbFk3eWY2WHNybUFERm5EcV92NkZXSDN2S0tJdkhEVkQ5aE0?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVFBxaGpSVmRELU5iUVV0NFc4WVlmTXNyWTNMckgzSE1HbDBPX2JMeVNkT21SeXlTQWdXVmswVmloSE8xU3YyS3d1Y3c?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdGFSSUVJc3pESllFclkwNEZ2TWJ4RnBiRWoyQnpuWkg4V2d0UmthQm9taUk4SFkxQk9hNHdrZjhVeHE3QmJxNzdZQ3BoalBIWEVVdVBjNmhHeW5tLW5BZ1pSa3RpTTN6MkxDOHM2NWF0b29wWktUUm5wYld1cFF0YzQ4SWIzMDhPNjNKamxNTEw1Q0hzbkE?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWkzN2s4MXU4WlUyTDF3QkRJdEtOT041TmdyNl9ZOGJjMVEwODRqZ1dqcDcyNFN3WkpkaGdKbjBKZ3RwbEhUQS03Y0NhemlkT0l0dlhEa0RlSHprWnVBYVFYUDNHU3ItcWt5R3NFWVVoMC1KQTItTUI1VVVWeFNwVjBPVl9tQ0pqUnd2aWhtNFl5aThfRFp2czdnNU9XdHAyckRGRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUldTWGdwd3MxUW1tNHhXTXNNRzUzREh0VEdSUXZrbzhnRHZ6Zmpid2I0TDVpZjR0SnNJTWhZLU85RWRkcVZ2eXBxQWZDckdMVHA4T0xyTkhabDlQY0wxbGZjY3hRQ0tSZ1AwbkpsVmxCTGRDWmQ5NnU1OU5uUmd3SjJBVllPdEMxOWxfcXp3MGVVRHpIaUE?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0Z0bmhXT18yQVVLTllBWG5oSWpZOTdiRHJnVWZXYnJxWk05bzFuaUxkcHkyQWxJeFFhLXAxdmVvM0dZbEkzVjR3RnowalRSeEZRTnhTRUtackhBR1hpWEUtSHp5T0pJa1AxU0hmVUZzbFk3eWY2WHNybUFERm5EcV92NkZXSDN2S0tJdkhEVkQ5aE0?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUFjU2F4MXNsd0RYNXdoOFBCNVJnVjM5ODdhX0JIMXAyWGxyY1dkeVJDUkNkWEpOTUZCWEQtMWhWN1ctLUhsbkZVYzJxV0ZnQ0tSaERnR1FpZF82RllYTHQ3YUZ4cy1feFk2YUJRaTRWaDdRMVdLYU5jbGxzY2xyNjVnLVZ1dw?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlVNSV9pSTVLZFNaeTF5Y1dnb1JsUlhXd2NGSXlwS0g2clJOSEM2Mm1aTXhNeU4yYVBLVUJMNDk0S0hmU0tBMzlWc0JESm5uaktTQzhpMkRxcFplYllEQ1lYeWFYV01aVEthamZvREdMZks1Z1dqaXpEdmtUei1aTmtJVFVKQ3RKUi15anRQaEpEc2xURE5ObV9Ndw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT25CNnBId1ZoU1NicWpVSFBCZ3BrZGRWY1lOSXRqVnNlc3FnWHBHTGhvRVRGZlZlY2NjbEpQV0pqc3l6VmJjZ28ydUIxZ3pNUFdmRXFnREluYXJFSkpmSWdmTDVGNlNIOXNBOE1YNVEzOW1paG9vZ29qeVB4QXFZdm9GZFYxR2J6VnJoU1diV3VOSjhwODhUalR5b2RZamlw0gGmAUFVX3lxTFB4WGEtOXZaWnFEb0NRNDU5YWFJWXNEVnFQc1lkWjh3eDFLYVg5S1NqRk0zbHIzdGoxRjh2NkJLUzE3MDg1YTZ5d0RpVWUwMFdoZlFNYTF4c3VlUXkwUV95UmF2cmxkeUZNbVdBak5SUmczRW85ZkdfcHptYjZCcDVreUNsb0trdVcwQTUwX3BYMWVJUEdZRTRCZldycXotbFA2MzhSN0E?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNER3WGVHMmcwb2QxWjdzWkNNdkhyczFjaTZCenUxeFVyMGJPc1RiNkRBRjRoYXZoc0lUY1M2R3R5TVY0YlRwSFE0QnA2OVlreU01SHlmT25Za0VqUkFOc0ZPQklCVV85YTZycGl6akd6UUZUNWx4MXd5VEUyZkN4R09ZRm40c0lsa2NoYUhpZXFSbVdDcGc?oc=5"
+      ],
+      "eventTitles": [
+        "Tech stocks plunge amid fears of tighter AI regulation after Democratic sweep - سانا",
+        "US tech stocks plunge on fears of tighter AI regulation by Democrats - Yahoo Finance",
+        "UK stocks plunge 2% as fears of tighter US AI regulation trigger global selloff - Bilyonaryo Business",
+        "Tech stocks plunge on AI regulation fears - The Irish Times",
+        "Stocks plunge as election results fuel AI regulation fears - AOL.com",
+        "Stocks plunge as election results fuel AI regulation fears - KTSM 9 News"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-marketing-interactive-a1417fa365447fb3bf11",
+      "rank": 8,
+      "title": "Huawei, Alibaba join 22 firms in releasing AI agent convention - Marketing-Interactive",
+      "originalTitle": "Huawei, Alibaba join 22 firms in releasing AI agent convention - Marketing-Interactive",
+      "summary": "Huawei, Alibaba join 22 firms in releasing AI agent convention Marketing-Interactive",
+      "points": [
+        "Huawei, Alibaba join 22 firms in releasing AI agent convention Marketing-Interactive",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Marketing-Interactive",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-06T09:51:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakVDZ2NLOG5aVFBqMTFycXR4VlA0cUVWMW9VQjJFT0ROSTJGZUpaWk5KM3hFQno4d2tRc2t5eUVfY0Q2Q0dIblE4bmV6WGNZb0h1ZTlHYWl4OUx6ellLZkJCT1RkSzZSWUt2REN2MWFhb2V4SjBDUkc2R205UGFfYWE2NTNNNktDdUZ5SE9qNU9hNE1lbktpSUNua05aQTJZ?oc=5",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "digitimes",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTJsejRYNkI5WlcxUXEyXzhHOG1JMFc5eEVUQXZBakVJY0JpVEtYcV9sc3dlb196cjFKTGE3d1hYbWJfMmdEd3preVNmbk1ueldSUDBMUzNsZU9vTWdTNHpjbWZRaHh1TFdxajhmUVlGUHRsQkd6YjE0d0g4dHRLMzBHa01ETjRSV25IdHFsQ3cxZw?oc=5"
+        },
+        {
+          "name": "TrendForce",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPay1aY3VBY2hJdXNoOWROdnZXT0xFT0M1eTlJMWlXVFBIaWhpM2YyTTZjdFhkZW8tX1NnNnpFOFRZRWJsQjBPUGdyUE54a3N6eGkyc1MwdVFBUWpZaDlBMC1vSGxuOGJHUDVCUEhVcWtNOUo0RWFUeVBlMXRMYWtRajlBaG1HZklIZ1BEa0s5dVdVQXZFbkZVNHNMX0xiV2l1eFlGQTVYOUJ3aUdLUEJEWnpXc3lnUHNXaGM0Zlp5V05Vek5ZcDBSUWtwZU4?oc=5"
+        },
+        {
+          "name": "36氪",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdndjUnhma0xZcl9Rd2k0R2Q5NXc1TmRRUkhNaG1KUVBwUlpqWEVRazN5c2FyLTZQbU9SZkFZcEN4ODRfOXZIUkpWZ3QyRkVxMmFz?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakVDZ2NLOG5aVFBqMTFycXR4VlA0cUVWMW9VQjJFT0ROSTJGZUpaWk5KM3hFQno4d2tRc2t5eUVfY0Q2Q0dIblE4bmV6WGNZb0h1ZTlHYWl4OUx6ellLZkJCT1RkSzZSWUt2REN2MWFhb2V4SjBDUkc2R205UGFfYWE2NTNNNktDdUZ5SE9qNU9hNE1lbktpSUNua05aQTJZ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTJsejRYNkI5WlcxUXEyXzhHOG1JMFc5eEVUQXZBakVJY0JpVEtYcV9sc3dlb196cjFKTGE3d1hYbWJfMmdEd3preVNmbk1ueldSUDBMUzNsZU9vTWdTNHpjbWZRaHh1TFdxajhmUVlGUHRsQkd6YjE0d0g4dHRLMzBHa01ETjRSV25IdHFsQ3cxZw?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPay1aY3VBY2hJdXNoOWROdnZXT0xFT0M1eTlJMWlXVFBIaWhpM2YyTTZjdFhkZW8tX1NnNnpFOFRZRWJsQjBPUGdyUE54a3N6eGkyc1MwdVFBUWpZaDlBMC1vSGxuOGJHUDVCUEhVcWtNOUo0RWFUeVBlMXRMYWtRajlBaG1HZklIZ1BEa0s5dVdVQXZFbkZVNHNMX0xiV2l1eFlGQTVYOUJ3aUdLUEJEWnpXc3lnUHNXaGM0Zlp5V05Vek5ZcDBSUWtwZU4?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zdndjUnhma0xZcl9Rd2k0R2Q5NXc1TmRRUkhNaG1KUVBwUlpqWEVRazN5c2FyLTZQbU9SZkFZcEN4ODRfOXZIUkpWZ3QyRkVxMmFz?oc=5"
+      ],
+      "eventTitles": [
+        "Huawei, Alibaba join 22 firms in releasing AI agent convention - Marketing-Interactive",
+        "Huawei, Alibaba among 20 Chinese tech firms confronting AI agent security, algorithmic exploitation - digitimes",
+        "[News] Huawei, Alibaba, Tencent, Xiaomi, Baidu, ZTE and Lenovo Invest in Optical Communications - TrendForce",
+        "AI Era Business Strategy: Tencent's WorkBuddy-Centric Layout, Alibaba's Qwen AI, ByteDance's Doubao AI – Leading Competitive Enterprise AI Development - 36氪"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-11-does-meta-think-we-cant-read-meta-abandons",
+      "rank": 9,
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "originalTitle": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "summary": "After weeks of backlash —and a failed attempt to quell it —Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to allow extensive AI training on external websites linked on Facebook. \"We're pausing the ‌ch",
+      "points": [
+        "After weeks of backlash —and a failed attempt to quell it —Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to a",
+        "\"We're pausing the ‌changes ⁠as we continue to engage with stakeholders and ​take ​our ⁠time to get this right.",
+        "​In the ​meantime, ⁠our existing terms remain in ⁠effect,\" a Meta spokesperson told Reuters."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-06T17:43:02.000Z",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update"
+      ],
+      "eventTitles": [
+        "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update."
+      ]
+    },
+    {
+      "id": "aws-machine-learning-64b64349a40669287b5c781082e75c92e2cc9153",
+      "rank": 10,
+      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "originalTitle": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "summary": "Organizations building applications powered by artificial intelligence (AI) face a recurring challenge: giving large language model (LLM) agents access to enterprise data lakes without duplicating integration logic across every agent and application. Most team",
+      "points": [
+        "Organizations building applications powered by artificial intelligence (AI) face a recurring challenge: giving large language model (LLM) agents access to enterprise data",
+        "Most teams begin by wiring agents directly to databases and APIs, with no shared gateway such as a Model Context Protocol (MCP) server in between.",
+        "Each new dataset demands custom code, and each agent reimplements its own access control."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-06T17:13:13.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate"
+      ],
+      "eventTitles": [
+        "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate"
       ]
     }
   ]
