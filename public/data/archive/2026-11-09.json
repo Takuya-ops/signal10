@@ -1,0 +1,318 @@
+{
+  "edition": "2026-11-09T06:30:00+09:00",
+  "generatedAt": "2026-11-09T01:06:07.445Z",
+  "periodStart": "2026-11-06T13:06:07.445Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 389,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-09-2000002916",
+      "rank": 1,
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "originalTitle": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "summary": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
+      "points": [
+        "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2611/09/2000002916",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaTJ4RU5xYlozVHhBMTNEekt2VHp3SXNSMTJQb2F2dzhPZHRXZEM5c0RzRFMtdFkyb2RGc1Q3NWZDRVUwYVRueHRXNEc3aDV1QXIzNkZMNWFKWEdxZkhOSEJHUnB3dEw2ZUl3QURSVFFrZGpYZEo3Qw?oc=5"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2M3U2JuZk93UkNIRDRORms4S295WnpWTmE5aUNuM25rS3htVG5PS3RXdXpELVBhWkN3RHBueWkzTlVyTEM5dmljVm8xMTRiT0FmQjBYd3Z5MW5lbjUyRjluaThIVlgtdXh0Qg?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaTJ4RU5xYlozVHhBMTNEekt2VHp3SXNSMTJQb2F2dzhPZHRXZEM5c0RzRFMtdFkyb2RGc1Q3NWZDRVUwYVRueHRXNEc3aDV1QXIzNkZMNWFKWEdxZkhOSEJHUnB3dEw2ZUl3QURSVFFrZGpYZEo3Qw?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2611/09/2000002916",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2M3U2JuZk93UkNIRDRORms4S295WnpWTmE5aUNuM25rS3htVG5PS3RXdXpELVBhWkN3RHBueWkzTlVyTEM5dmljVm8xMTRiT0FmQjBYd3Z5MW5lbjUyRjluaThIVlgtdXh0Qg?oc=5"
+      ],
+      "eventTitles": [
+        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？ - Infoseek",
+        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？ - ITmedia"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-the-guardian-9a987c7228547d80f770",
+      "rank": 2,
+      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian",
+      "originalTitle": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian",
+      "summary": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese The Guardian",
+      "points": [
+        "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese The Guardian",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Guardian",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-08T20:52:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5"
+      ],
+      "eventTitles": [
+        "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-fourweekmba-7b61d2c2abd7a5336fd3",
+      "rank": 3,
+      "title": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
+      "originalTitle": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
+      "summary": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights FourWeekMBA",
+      "points": [
+        "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights FourWeekMBA",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "FourWeekMBA",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-08T19:33:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGNBbUZDRHlQUURTcmJPZW9PR2MtWEhRSWplUkRGUy01RG4tMGFHSGJ6MzhsSXlwY2FtcnhYVjJXazBEWWp0UlVjNnNjazlUaGpfY0d6TUtoMlRZbVlDVlBHUElrdmdNdUJEY3o2UU5qaWt1Q1Z6YWxPRkl1S1kwZ0ZRQVByZzdnNnc?oc=5",
+      "impactScore": 62,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5pcFNYN25yYUlpYXU3QWgxMXFMRkZtT1h4ZklDLUtjdEpYVE1ESGNpTVRvV0d1WDNxTEVpWTdiTmhoX1NjMkdELXZpTW5TRksxakJhVkdWYkxQTk1EZGFqVTBzZEloeTVqX09XYXRWQUhpbTV0a1pscmZNc3hjWlVfeUFTV3hJenp5bQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGNBbUZDRHlQUURTcmJPZW9PR2MtWEhRSWplUkRGUy01RG4tMGFHSGJ6MzhsSXlwY2FtcnhYVjJXazBEWWp0UlVjNnNjazlUaGpfY0d6TUtoMlRZbVlDVlBHUElrdmdNdUJEY3o2UU5qaWt1Q1Z6YWxPRkl1S1kwZ0ZRQVByZzdnNnc?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5pcFNYN25yYUlpYXU3QWgxMXFMRkZtT1h4ZklDLUtjdEpYVE1ESGNpTVRvV0d1WDNxTEVpWTdiTmhoX1NjMkdELXZpTW5TRksxakJhVkdWYkxQTk1EZGFqVTBzZEloeTVqX09XYXRWQUhpbTV0a1pscmZNc3hjWlVfeUFTV3hJenp5bQ?oc=5"
+      ],
+      "eventTitles": [
+        "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
+        "DeepSeek Doubles Down on Open Source at Wuzhen and Admits the Risks - Pasquale Pillitteri"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-security-boulevard-688718889595779f537b",
+      "rank": 4,
+      "title": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard",
+      "originalTitle": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard",
+      "summary": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? Security Boulevard",
+      "points": [
+        "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable?",
+        "Security Boulevard",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Security Boulevard",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-08T20:59:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUElYV2lUb1VjRTd6SlpGZ24wU3BJSGZlSWVsZ3BtbE9xMU1YMi13aVludjZlVnFxMDdzRnlsbUM5UEc3Y0l6dHZJby0zRWc3R1VjcUQ0djh4djVHVjBEVXh3NWg5S0JwN1JaQ3NmS1lRMDdvLWlUVGtFNVd2azg5bTR3bEdUR1Ywdm9HbVV2WVU0ZWdvWHQyck55OS1BbE84RDE3angySjJ0ckpLZktYQ0J6ZF9tbXltWUdYNExjWEpocEt5bWJ0S1VETkxRU2lvNHc?oc=5",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUElYV2lUb1VjRTd6SlpGZ24wU3BJSGZlSWVsZ3BtbE9xMU1YMi13aVludjZlVnFxMDdzRnlsbUM5UEc3Y0l6dHZJby0zRWc3R1VjcUQ0djh4djVHVjBEVXh3NWg5S0JwN1JaQ3NmS1lRMDdvLWlUVGtFNVd2azg5bTR3bEdUR1Ywdm9HbVV2WVU0ZWdvWHQyck55OS1BbE84RDE3angySjJ0ckpLZktYQ0J6ZF9tbXltWUdYNExjWEpocEt5bWJ0S1VETkxRU2lvNHc?oc=5"
+      ],
+      "eventTitles": [
+        "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-hotnewhiphop-6c74c0a51a4e51139b5e",
+      "rank": 5,
+      "title": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop",
+      "originalTitle": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop",
+      "summary": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations HotNewHipHop",
+      "points": [
+        "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations HotNewHipHop",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "HotNewHipHop",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-08T16:24:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzBGVm9wb0ktbU11cGItbjhzOC0zX1p3RTVZRi1QVV92MkVmU2ljbDNHc1R6Z084aGJ1eURBN2RVcG50UkpDY1EybERrSllTeFEwOXBxdFpHWl9HN3BNV2NOS0VrWlNaMmZ1dUxYeGFtamdoMGtKOVdNRXRzUVFBN1VBMWFUUlM1X1I5cWRpUENaSWVldXA3YWZuajM?oc=5",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzBGVm9wb0ktbU11cGItbjhzOC0zX1p3RTVZRi1QVV92MkVmU2ljbDNHc1R6Z084aGJ1eURBN2RVcG50UkpDY1EybERrSllTeFEwOXBxdFpHWl9HN3BNV2NOS0VrWlNaMmZ1dUxYeGFtamdoMGtKOVdNRXRzUVFBN1VBMWFUUlM1X1I5cWRpUENaSWVldXA3YWZuajM?oc=5"
+      ],
+      "eventTitles": [
+        "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-09-2000002926",
+      "rank": 6,
+      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "originalTitle": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
+      "points": [
+        "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/09/2000002926",
+      "impactScore": 55,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/09/2000002926"
+      ],
+      "eventTitles": [
+        "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-enterprise-articles-2611-06-news023-html",
+      "rank": 7,
+      "title": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
+      "originalTitle": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
+      "summary": "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
+      "points": [
+        "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+      "impactScore": 55,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/enterprise/articles/2611/06/news023.html"
+      ],
+      "eventTitles": [
+        "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-the-news-international-1e01040f5dc33f8c66d5",
+      "rank": 8,
+      "title": "2026 US midterms likely to reshape cybersecurity, AI policy - The News International",
+      "originalTitle": "2026 US midterms likely to reshape cybersecurity, AI policy - The News International",
+      "summary": "2026 US midterms likely to reshape cybersecurity, AI policy The News International",
+      "points": [
+        "2026 US midterms likely to reshape cybersecurity, AI policy The News International",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "The News International",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-08T11:08:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dNYWF5X0x6U29kWmMzS1ZnalBUMHdKVWxMdVlsbW9YbEhwWWxjeDI3cGNwejNOWnhSMFkyUFVBMlF6Y1hUTDF2QjJYSmhmd1hmNmlnR2ZWWThaUFlFbmZEU203ZjNsUUE2TDdPdGc0QzZEMUhFM0gyUFZMNENKS0Nlc3FLdlRkU3AzNGJQOUtQTnh5WXBjdXRlTS1HcHhacnfSAZ4BQVVfeXFMT0RXYWxmdkt5REVFdjlUZ3hLUkNfcDBZR0hOY0U4aVlYY2Zaak8tT1AwalZ4OC15bV9ET3NvWnlJLUY0QlhldTZTaENydGZRdHNJb0J0cVo1aDc1RWY0NWNLYlVVLVd3STVJYzc1eHJDNlRvdDBDZjlrUjVONllqdThNWHJuU1UxUFljRVRfNmtxVjN0S2M0V0cxTmJELXc?oc=5",
+      "impactScore": 55,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dNYWF5X0x6U29kWmMzS1ZnalBUMHdKVWxMdVlsbW9YbEhwWWxjeDI3cGNwejNOWnhSMFkyUFVBMlF6Y1hUTDF2QjJYSmhmd1hmNmlnR2ZWWThaUFlFbmZEU203ZjNsUUE2TDdPdGc0QzZEMUhFM0gyUFZMNENKS0Nlc3FLdlRkU3AzNGJQOUtQTnh5WXBjdXRlTS1HcHhacnfSAZ4BQVVfeXFMT0RXYWxmdkt5REVFdjlUZ3hLUkNfcDBZR0hOY0U4aVlYY2Zaak8tT1AwalZ4OC15bV9ET3NvWnlJLUY0QlhldTZTaENydGZRdHNJb0J0cVo1aDc1RWY0NWNLYlVVLVd3STVJYzc1eHJDNlRvdDBDZjlrUjVONllqdThNWHJuU1UxUFljRVRfNmtxVjN0S2M0V0cxTmJELXc?oc=5"
+      ],
+      "eventTitles": [
+        "2026 US midterms likely to reshape cybersecurity, AI policy - The News International"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-business-articles-2611-09-news039-html",
+      "rank": 9,
+      "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ",
+      "originalTitle": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ",
+      "summary": "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+      "points": [
+        "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-08T22:00:00.000Z",
+      "url": "https://itmedia.co.jp/business/articles/2611/09/news039.html",
+      "impactScore": 54,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/business/articles/2611/09/news039.html"
+      ],
+      "eventTitles": [
+        "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-business-articles-2611-09-news038-html",
+      "rank": 10,
+      "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+      "originalTitle": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+      "summary": "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+      "points": [
+        "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-08T22:00:00.000Z",
+      "url": "https://itmedia.co.jp/business/articles/2611/09/news038.html",
+      "impactScore": 54,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/business/articles/2611/09/news038.html"
+      ],
+      "eventTitles": [
+        "「勝手に社外AIを使う」エース社員に困っています……どうすべき？"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-08T06:30:00+09:00",
-  "generatedAt": "2026-11-08T00:50:26.832Z",
-  "periodStart": "2026-11-05T12:50:26.832Z",
+  "edition": "2026-11-09T06:30:00+09:00",
+  "generatedAt": "2026-11-09T01:06:07.445Z",
+  "periodStart": "2026-11-06T13:06:07.445Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 39,
@@ -9,82 +9,179 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1169,
+  "candidateCount": 389,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "the-decoder-https-the-decoder-com-p-42525",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-09-2000002916",
       "rank": 1,
-      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-      "originalTitle": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-      "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital mar",
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "originalTitle": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "summary": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
       "points": [
-        "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion.",
-        "The full round could swell to $20 billion.",
-        "That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution."
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-07T09:45:23.000Z",
-      "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital",
-      "impactScore": 67,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital"
-      ],
-      "eventTitles": [
-        "OpenAI lands an $11 billion funding round, but has to court dentists for more capital"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-coinfomania-fab6eff363576e45561e",
-      "rank": 2,
-      "title": "NEAR AI Cloud Expands with New Qwen 3.8 Model Launch - Coinfomania",
-      "originalTitle": "NEAR AI Cloud Expands with New Qwen 3.8 Model Launch - Coinfomania",
-      "summary": "NEAR AI Cloud Expands with New Qwen 3.8 Model Launch Coinfomania",
-      "points": [
-        "NEAR AI Cloud Expands with New Qwen 3.8 Model Launch Coinfomania",
+        "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Coinfomania",
+      "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "モデル",
-      "publishedAt": "2026-11-07T08:21:49.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHlaODRRb2FHNjF6dkFXeUpYVkNuUFN4a1VQajB3UWN5RE8tOEtxZXJsV25vbE16aEx6STRMTjd0dk13MEJrSW51VUlXRFdrVFIzN3drRE01R1VGQ0QwdXlZUTRBVW5KcUNGR1poVzZqLW9jR29YSE1QajlSOGZ0S0JIYw?oc=5",
-      "impactScore": 63,
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2611/09/2000002916",
+      "impactScore": 67,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "Fello AI",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWQU11dFotOFFSeUpCdjRjdnk3enYyd2l5emVOQzhNLTdiTFNzeUlscFFCb0hBN0lIOUQ1Zi16ME96MVRKbTJTbQ?oc=5"
+          "name": "Infoseek",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaTJ4RU5xYlozVHhBMTNEekt2VHp3SXNSMTJQb2F2dzhPZHRXZEM5c0RzRFMtdFkyb2RGc1Q3NWZDRVUwYVRueHRXNEc3aDV1QXIzNkZMNWFKWEdxZkhOSEJHUnB3dEw2ZUl3QURSVFFrZGpYZEo3Qw?oc=5"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2M3U2JuZk93UkNIRDRORms4S295WnpWTmE5aUNuM25rS3htVG5PS3RXdXpELVBhWkN3RHBueWkzTlVyTEM5dmljVm8xMTRiT0FmQjBYd3Z5MW5lbjUyRjluaThIVlgtdXh0Qg?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxObHlaODRRb2FHNjF6dkFXeUpYVkNuUFN4a1VQajB3UWN5RE8tOEtxZXJsV25vbE16aEx6STRMTjd0dk13MEJrSW51VUlXRFdrVFIzN3drRE01R1VGQ0QwdXlZUTRBVW5KcUNGR1poVzZqLW9jR29YSE1QajlSOGZ0S0JIYw?oc=5",
-        "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWQU11dFotOFFSeUpCdjRjdnk3enYyd2l5emVOQzhNLTdiTFNzeUlscFFCb0hBN0lIOUQ1Zi16ME96MVRKbTJTbQ?oc=5"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaTJ4RU5xYlozVHhBMTNEekt2VHp3SXNSMTJQb2F2dzhPZHRXZEM5c0RzRFMtdFkyb2RGc1Q3NWZDRVUwYVRueHRXNEc3aDV1QXIzNkZMNWFKWEdxZkhOSEJHUnB3dEw2ZUl3QURSVFFrZGpYZEo3Qw?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2611/09/2000002916",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2M3U2JuZk93UkNIRDRORms4S295WnpWTmE5aUNuM25rS3htVG5PS3RXdXpELVBhWkN3RHBueWkzTlVyTEM5dmljVm8xMTRiT0FmQjBYd3Z5MW5lbjUyRjluaThIVlgtdXh0Qg?oc=5"
       ],
       "eventTitles": [
-        "NEAR AI Cloud Expands with New Qwen 3.8 Model Launch - Coinfomania",
-        "Qwen Pricing 2026: Qwen3.8-Max API Costs & Free App - Fello AI"
+        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？ - Infoseek",
+        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？ - ITmedia"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-06-2000002955",
-      "rank": 3,
-      "title": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
-      "originalTitle": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
-      "summary": "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
+      "id": "google-news-global-policy-the-guardian-9a987c7228547d80f770",
+      "rank": 2,
+      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian",
+      "originalTitle": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian",
+      "summary": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese The Guardian",
       "points": [
-        "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
+        "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese The Guardian",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Guardian",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-08T20:52:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5"
+      ],
+      "eventTitles": [
+        "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-fourweekmba-7b61d2c2abd7a5336fd3",
+      "rank": 3,
+      "title": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
+      "originalTitle": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
+      "summary": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights FourWeekMBA",
+      "points": [
+        "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights FourWeekMBA",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "FourWeekMBA",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-08T19:33:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGNBbUZDRHlQUURTcmJPZW9PR2MtWEhRSWplUkRGUy01RG4tMGFHSGJ6MzhsSXlwY2FtcnhYVjJXazBEWWp0UlVjNnNjazlUaGpfY0d6TUtoMlRZbVlDVlBHUElrdmdNdUJEY3o2UU5qaWt1Q1Z6YWxPRkl1S1kwZ0ZRQVByZzdnNnc?oc=5",
+      "impactScore": 62,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5pcFNYN25yYUlpYXU3QWgxMXFMRkZtT1h4ZklDLUtjdEpYVE1ESGNpTVRvV0d1WDNxTEVpWTdiTmhoX1NjMkdELXZpTW5TRksxakJhVkdWYkxQTk1EZGFqVTBzZEloeTVqX09XYXRWQUhpbTV0a1pscmZNc3hjWlVfeUFTV3hJenp5bQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGNBbUZDRHlQUURTcmJPZW9PR2MtWEhRSWplUkRGUy01RG4tMGFHSGJ6MzhsSXlwY2FtcnhYVjJXazBEWWp0UlVjNnNjazlUaGpfY0d6TUtoMlRZbVlDVlBHUElrdmdNdUJEY3o2UU5qaWt1Q1Z6YWxPRkl1S1kwZ0ZRQVByZzdnNnc?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5pcFNYN25yYUlpYXU3QWgxMXFMRkZtT1h4ZklDLUtjdEpYVE1ESGNpTVRvV0d1WDNxTEVpWTdiTmhoX1NjMkdELXZpTW5TRksxakJhVkdWYkxQTk1EZGFqVTBzZEloeTVqX09XYXRWQUhpbTV0a1pscmZNc3hjWlVfeUFTV3hJenp5bQ?oc=5"
+      ],
+      "eventTitles": [
+        "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
+        "DeepSeek Doubles Down on Open Source at Wuzhen and Admits the Risks - Pasquale Pillitteri"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-security-boulevard-688718889595779f537b",
+      "rank": 4,
+      "title": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard",
+      "originalTitle": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard",
+      "summary": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? Security Boulevard",
+      "points": [
+        "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable?",
+        "Security Boulevard",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Security Boulevard",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-08T20:59:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUElYV2lUb1VjRTd6SlpGZ24wU3BJSGZlSWVsZ3BtbE9xMU1YMi13aVludjZlVnFxMDdzRnlsbUM5UEc3Y0l6dHZJby0zRWc3R1VjcUQ0djh4djVHVjBEVXh3NWg5S0JwN1JaQ3NmS1lRMDdvLWlUVGtFNVd2azg5bTR3bEdUR1Ywdm9HbVV2WVU0ZWdvWHQyck55OS1BbE84RDE3angySjJ0ckpLZktYQ0J6ZF9tbXltWUdYNExjWEpocEt5bWJ0S1VETkxRU2lvNHc?oc=5",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUElYV2lUb1VjRTd6SlpGZ24wU3BJSGZlSWVsZ3BtbE9xMU1YMi13aVludjZlVnFxMDdzRnlsbUM5UEc3Y0l6dHZJby0zRWc3R1VjcUQ0djh4djVHVjBEVXh3NWg5S0JwN1JaQ3NmS1lRMDdvLWlUVGtFNVd2azg5bTR3bEdUR1Ywdm9HbVV2WVU0ZWdvWHQyck55OS1BbE84RDE3angySjJ0ckpLZktYQ0J6ZF9tbXltWUdYNExjWEpocEt5bWJ0S1VETkxRU2lvNHc?oc=5"
+      ],
+      "eventTitles": [
+        "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-hotnewhiphop-6c74c0a51a4e51139b5e",
+      "rank": 5,
+      "title": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop",
+      "originalTitle": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop",
+      "summary": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations HotNewHipHop",
+      "points": [
+        "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations HotNewHipHop",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "HotNewHipHop",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-08T16:24:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzBGVm9wb0ktbU11cGItbjhzOC0zX1p3RTVZRi1QVV92MkVmU2ljbDNHc1R6Z084aGJ1eURBN2RVcG50UkpDY1EybERrSllTeFEwOXBxdFpHWl9HN3BNV2NOS0VrWlNaMmZ1dUxYeGFtamdoMGtKOVdNRXRzUVFBN1VBMWFUUlM1X1I5cWRpUENaSWVldXA3YWZuajM?oc=5",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzBGVm9wb0ktbU11cGItbjhzOC0zX1p3RTVZRi1QVV92MkVmU2ljbDNHc1R6Z084aGJ1eURBN2RVcG50UkpDY1EybERrSllTeFEwOXBxdFpHWl9HN3BNV2NOS0VrWlNaMmZ1dUxYeGFtamdoMGtKOVdNRXRzUVFBN1VBMWFUUlM1X1I5cWRpUENaSWVldXA3YWZuajM?oc=5"
+      ],
+      "eventTitles": [
+        "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-09-2000002926",
+      "rank": 6,
+      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "originalTitle": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
+      "points": [
+        "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -92,253 +189,129 @@
       "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "ビジネス",
-      "publishedAt": "2026-11-06T04:21:45.000Z",
-      "url": "https://itmedia.co.jp/aiplus/article/2611/06/2000002955",
-      "impactScore": 63,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "tech-insider.org",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUdzbkZuODhtNnEwZkw2OXJPWWhYVzhzQmdrc2xYbmJJZHpJdGNXQ3Axb002QmV2ZGk1b0JHZ0ItVXRNYUJiYkJleDhHVVQ5bUp1ZmctQzM5Z2tzOTZKeGtHQk1GcU80LXRocXlFTVctTnhtY04tbVItTExYVHJleks0STZJRV9PSzk1TEhlczFvS2Vidmc?oc=5"
-        },
-        {
-          "name": "Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9raDdMcFZJTUFTR2d3VVF0bF9LMXl2QlNVcHB6MlprYmd3X3kxWFFsRXdlcThSSTBjUU5FNmMxR1F6MDA1RXltSTA1UzlEckdvSkFoZnFfQTk5UDdpUlg1NTdEVHRRUmp6MnREbzI2ck5DUkk?oc=5"
-        },
-        {
-          "name": "Startup Fortune",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFNySzlTWEhaMnBldTBha0VvS09LRXlFSl9ZdExNRUdGTW5OYWNCVUxoeHAyX0RObVhmeHdGZUd2VFA5ZkRVNUJNdm1WSkhEdzdvXzlkUnYtVTVZSWliakJiOTV1eWJFQmNHenJrTzllcUc1OGZxdjhzN0VnanFKelh0ZkRPVkp6TEhROXNMYWR4bXptblE?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUdzbkZuODhtNnEwZkw2OXJPWWhYVzhzQmdrc2xYbmJJZHpJdGNXQ3Axb002QmV2ZGk1b0JHZ0ItVXRNYUJiYkJleDhHVVQ5bUp1ZmctQzM5Z2tzOTZKeGtHQk1GcU80LXRocXlFTVctTnhtY04tbVItTExYVHJleks0STZJRV9PSzk1TEhlczFvS2Vidmc?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9raDdMcFZJTUFTR2d3VVF0bF9LMXl2QlNVcHB6MlprYmd3X3kxWFFsRXdlcThSSTBjUU5FNmMxR1F6MDA1RXltSTA1UzlEckdvSkFoZnFfQTk5UDdpUlg1NTdEVHRRUmp6MnREbzI2ck5DUkk?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFNySzlTWEhaMnBldTBha0VvS09LRXlFSl9ZdExNRUdGTW5OYWNCVUxoeHAyX0RObVhmeHdGZUd2VFA5ZkRVNUJNdm1WSkhEdzdvXzlkUnYtVTVZSWliakJiOTV1eWJFQmNHenJrTzllcUc1OGZxdjhzN0VnanFKelh0ZkRPVkp6TEhROXNMYWR4bXptblE?oc=5",
-        "https://itmedia.co.jp/aiplus/article/2611/06/2000002955"
-      ],
-      "eventTitles": [
-        "DeepSeek V4.1 Flash vs Gemini 4 Argon vs Haiku 5.5 [2026] - tech-insider.org",
-        "DeepSeek V4.1 Flash hits 848 tokens per second on Nvidia’s GB300 NVL72 - Crypto Briefing",
-        "DeepSeek's cheap V4.1 Flash model undercuts the AI spending panic - Startup Fortune",
-        "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3186087",
-      "rank": 4,
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "originalTitle": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "points": [
-        "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-07T21:17:08.000Z",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
-      "impactScore": 62,
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/09/2000002926",
+      "impactScore": 55,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo"
+        "https://itmedia.co.jp/news/article/2611/09/2000002926"
       ],
       "eventTitles": [
-        "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+        "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念"
       ]
     },
     {
-      "id": "the-decoder-https-the-decoder-com-p-42569",
-      "rank": 5,
-      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
-      "originalTitle": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
-      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-enterprise-articles-2611-06-news023-html",
+      "rank": 7,
+      "title": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
+      "originalTitle": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
+      "summary": "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
       "points": [
-        "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall.",
-        "GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up.",
-        "That's not yet enough for reliable safety checks."
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-11-07T16:56:38.000Z",
-      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds",
-      "impactScore": 62,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds"
-      ],
-      "eventTitles": [
-        "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-atmarkit-itmedia-co-jp-ait-articles-2611-08-news001-html",
-      "rank": 6,
-      "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
-      "originalTitle": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
-      "summary": "AI�G�[�W�F���g�̈�ʉ��ɔ����A������AI�G�[�W�F���g��A�g������}���`�G�[�W�F���g�V�X�e�������ڂ���Ă��܂��BGitHub�AGoogle�ASiemens���Љ��15�̃f�U�C���p�^�[�����A�݌v��̉ۑ���̓I�Ȋ��p��ʂƂƂ��ɉ�����܂��B",
-      "points": [
-        "AI�G�[�W�F���g�̈�ʉ��ɔ����A������AI�G�[�W�F���g��A�g������}���`�G�[�W�F���g�V�X�e�������ڂ���Ă��܂��BGitHub�AGoogle�ASiemens���Љ��15�̃f�U�C���p�^�[�����A�݌v��̉ۑ���̓I�Ȋ��p��",
+        "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
       "source": "ITmedia AI+",
       "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-07T23:00:00.000Z",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-      "impactScore": 61,
+      "category": "ビジネス",
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+      "impactScore": 55,
       "impactLabel": "中",
       "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XOXNnMFh2UWVOOW1lTzM3ZjZfdmY1dXJBTDI5b0xWNkgzUWdyNE9yT083bjdfUmRpT2NaLVgyVG1fZ3NJTVRjWUpDR0JyTlpkSEtPY2h6N3BLekdsQVI2RG15alFvN2FZNjNmQm5QdW9oQQ?oc=5"
-        }
-      ],
+      "relatedSources": [],
       "eventUrls": [
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE9XOXNnMFh2UWVOOW1lTzM3ZjZfdmY1dXJBTDI5b0xWNkgzUWdyNE9yT083bjdfUmRpT2NaLVgyVG1fZ3NJTVRjWUpDR0JyTlpkSEtPY2h6N3BLekdsQVI2RG15alFvN2FZNjNmQm5QdW9oQQ?oc=5"
+        "https://itmedia.co.jp/enterprise/articles/2611/06/news023.html"
       ],
       "eventTitles": [
-        "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
-        "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理 - ITmedia"
+        "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？"
       ]
     },
     {
-      "id": "wired-ai-6aeb76b2899aefeeb033197b",
-      "rank": 7,
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "originalTitle": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "points": [
-        "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyb",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "WIRED",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-06T18:43:43.000Z",
-      "url": "https://wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
-      "impactScore": 61,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "WIRED",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5JWUNJdnMzazNQLVpVaTN5TS0xTEdHMU5wT3VFT0hnN2paNE9GV3ppSHhTVFQ3cTJ5WjhrOEJiX1lQMUNaa0ROMGlfYW9qeXNTejFSRjRWMXdxQnlhb2k5Zk9LS3RVd0NUZTFFSHRUWmQ4a0UtMXNlZHhVZVhKZUl3aWxoa2pLbmdHZTRR?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMG5JWUNJdnMzazNQLVpVaTN5TS0xTEdHMU5wT3VFT0hnN2paNE9GV3ppSHhTVFQ3cTJ5WjhrOEJiX1lQMUNaa0ROMGlfYW9qeXNTejFSRjRWMXdxQnlhb2k5Zk9LS3RVd0NUZTFFSHRUWmQ4a0UtMXNlZHhVZVhKZUl3aWxoa2pLbmdHZTRR?oc=5"
-      ],
-      "eventTitles": [
-        "Free Chinese AI Models Are Getting Scary Good at Hacking",
-        "Free Chinese AI Models Are Getting Scary Good at Hacking - WIRED"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-42554",
+      "id": "google-news-global-policy-the-news-international-1e01040f5dc33f8c66d5",
       "rank": 8,
-      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
-      "originalTitle": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
-      "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be res",
+      "title": "2026 US midterms likely to reshape cybersecurity, AI policy - The News International",
+      "originalTitle": "2026 US midterms likely to reshape cybersecurity, AI policy - The News International",
+      "summary": "2026 US midterms likely to reshape cybersecurity, AI policy The News International",
       "points": [
-        "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks.",
-        "Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost.",
-        "Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast."
+        "2026 US midterms likely to reshape cybersecurity, AI policy The News International",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "The Decoder",
+      "source": "The News International",
       "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-11-07T15:35:50.000Z",
-      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking",
-      "impactScore": 59,
+      "publishedAt": "2026-11-08T11:08:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dNYWF5X0x6U29kWmMzS1ZnalBUMHdKVWxMdVlsbW9YbEhwWWxjeDI3cGNwejNOWnhSMFkyUFVBMlF6Y1hUTDF2QjJYSmhmd1hmNmlnR2ZWWThaUFlFbmZEU203ZjNsUUE2TDdPdGc0QzZEMUhFM0gyUFZMNENKS0Nlc3FLdlRkU3AzNGJQOUtQTnh5WXBjdXRlTS1HcHhacnfSAZ4BQVVfeXFMT0RXYWxmdkt5REVFdjlUZ3hLUkNfcDBZR0hOY0U4aVlYY2Zaak8tT1AwalZ4OC15bV9ET3NvWnlJLUY0QlhldTZTaENydGZRdHNJb0J0cVo1aDc1RWY0NWNLYlVVLVd3STVJYzc1eHJDNlRvdDBDZjlrUjVONllqdThNWHJuU1UxUFljRVRfNmtxVjN0S2M0V0cxTmJELXc?oc=5",
+      "impactScore": 55,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dNYWF5X0x6U29kWmMzS1ZnalBUMHdKVWxMdVlsbW9YbEhwWWxjeDI3cGNwejNOWnhSMFkyUFVBMlF6Y1hUTDF2QjJYSmhmd1hmNmlnR2ZWWThaUFlFbmZEU203ZjNsUUE2TDdPdGc0QzZEMUhFM0gyUFZMNENKS0Nlc3FLdlRkU3AzNGJQOUtQTnh5WXBjdXRlTS1HcHhacnfSAZ4BQVVfeXFMT0RXYWxmdkt5REVFdjlUZ3hLUkNfcDBZR0hOY0U4aVlYY2Zaak8tT1AwalZ4OC15bV9ET3NvWnlJLUY0QlhldTZTaENydGZRdHNJb0J0cVo1aDc1RWY0NWNLYlVVLVd3STVJYzc1eHJDNlRvdDBDZjlrUjVONllqdThNWHJuU1UxUFljRVRfNmtxVjN0S2M0V0cxTmJELXc?oc=5"
       ],
       "eventTitles": [
-        "The gap between open and closed AI models in cyber capabilities keeps shrinking"
+        "2026 US midterms likely to reshape cybersecurity, AI policy - The News International"
       ]
     },
     {
-      "id": "google-news-asia-models-the-decoder-794770cc26221e58f90a",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-business-articles-2611-09-news039-html",
       "rank": 9,
-      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away - The Decoder",
-      "originalTitle": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away - The Decoder",
-      "summary": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away The Decoder",
+      "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ",
+      "originalTitle": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ",
+      "summary": "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
       "points": [
-        "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away The Decoder",
+        "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "The Decoder",
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
       "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-07T12:37:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm9TSVpRVFB0MnNFT1V6MnBYYkZNMXEyQ1ZhSTZQVHNLcVpsYlVzVFU4WklIbjZRWXV0S1E3dm1iOFRmZ0Y2WHcyYTlFUHdjb2prY1B1S3dxQTNGeDBpcXRqWjBaajl0OEVCdERqRlp5clNrcTc0QVEyeEhOR1NaZkdfT1FWWWM3cy0wcXFTRG5TclNrTjlGUlYyOUZueFRRdU9acThkTW5aT1FXUXF0Y0hUekN6X0pMRnh2TQ?oc=5",
-      "impactScore": 57,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm9TSVpRVFB0MnNFT1V6MnBYYkZNMXEyQ1ZhSTZQVHNLcVpsYlVzVFU4WklIbjZRWXV0S1E3dm1iOFRmZ0Y2WHcyYTlFUHdjb2prY1B1S3dxQTNGeDBpcXRqWjBaajl0OEVCdERqRlp5clNrcTc0QVEyeEhOR1NaZkdfT1FWWWM3cy0wcXFTRG5TclNrTjlGUlYyOUZueFRRdU9acThkTW5aT1FXUXF0Y0hUekN6X0pMRnh2TQ?oc=5",
-        "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away"
-      ],
-      "eventTitles": [
-        "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away - The Decoder",
-        "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-mlq-ai-bb977725729a400f41ed",
-      "rank": 10,
-      "title": "Free AI models now hack nearly as well as restricted cyber models, and this autumn's breaches show defenders are behind - MLQ.ai",
-      "originalTitle": "Free AI models now hack nearly as well as restricted cyber models, and this autumn's breaches show defenders are behind - MLQ.ai",
-      "summary": "Free AI models now hack nearly as well as restricted cyber models, and this autumn's breaches show defenders are behind MLQ.ai",
-      "points": [
-        "Free AI models now hack nearly as well as restricted cyber models, and this autumn's breaches show defenders are behind MLQ.ai",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "MLQ.ai",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-07T16:10:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWdRLWt4bm1EaVk5Qy1HZ1hlcjg3aWNuMURyRlBBZHVJbVlILWhpZmIwOGRYY2x5c1ZLYjFkZE5uVHE1aVBFVlBaTWh2cHFGWWpTSTlZejFSZWRrdDZWNmh6SlZwTVppcE1aS3hWdVhjY1Nyc3FEVUtHOWw0WXpjZGdiUk5NR3BoS2tKYWN2UHlxZmxzR1ZlOUxtam90b1F0Mk9WQ01ubDl2WmxLOG1zMXNscGdVTzViVUxzWXBEYTNvcEZZcWFjNnlCenBpTC1hV29HXw?oc=5",
-      "impactScore": 56,
+      "category": "プロダクト",
+      "publishedAt": "2026-11-08T22:00:00.000Z",
+      "url": "https://itmedia.co.jp/business/articles/2611/09/news039.html",
+      "impactScore": 54,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWdRLWt4bm1EaVk5Qy1HZ1hlcjg3aWNuMURyRlBBZHVJbVlILWhpZmIwOGRYY2x5c1ZLYjFkZE5uVHE1aVBFVlBaTWh2cHFGWWpTSTlZejFSZWRrdDZWNmh6SlZwTVppcE1aS3hWdVhjY1Nyc3FEVUtHOWw0WXpjZGdiUk5NR3BoS2tKYWN2UHlxZmxzR1ZlOUxtam90b1F0Mk9WQ01ubDl2WmxLOG1zMXNscGdVTzViVUxzWXBEYTNvcEZZcWFjNnlCenBpTC1hV29HXw?oc=5"
+        "https://itmedia.co.jp/business/articles/2611/09/news039.html"
       ],
       "eventTitles": [
-        "Free AI models now hack nearly as well as restricted cyber models, and this autumn's breaches show defenders are behind - MLQ.ai"
+        "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-business-articles-2611-09-news038-html",
+      "rank": 10,
+      "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+      "originalTitle": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+      "summary": "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+      "points": [
+        "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-08T22:00:00.000Z",
+      "url": "https://itmedia.co.jp/business/articles/2611/09/news038.html",
+      "impactScore": 54,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/business/articles/2611/09/news038.html"
+      ],
+      "eventTitles": [
+        "「勝手に社外AIを使う」エース社員に困っています……どうすべき？"
       ]
     }
   ]
