@@ -1,271 +1,377 @@
 {
-  "edition": "2026-11-09T06:30:00+09:00",
-  "generatedAt": "2026-11-09T01:06:07.445Z",
-  "periodStart": "2026-11-06T13:06:07.445Z",
+  "edition": "2026-11-10T06:30:00+09:00",
+  "generatedAt": "2026-11-10T03:43:00.660Z",
+  "periodStart": "2026-11-07T15:43:00.660Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 39,
-  "freshSources": 35,
+  "successfulSources": 40,
+  "freshSources": 36,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 389,
+  "candidateCount": 741,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-09-2000002916",
+      "id": "meta-ai-research-sitemap-https-research-meta-ai-blog-muse-ember",
       "rank": 1,
-      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
-      "originalTitle": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
-      "summary": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "originalTitle": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "summary": "Muse Ember is our smallest and most efficient model, designed for complex reasoning execution and the work agents repeat all day.",
       "points": [
-        "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
+        "Muse Ember is our smallest and most efficient model, designed for complex reasoning execution and the work agents repeat all day.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
+      "source": "Meta AI Research",
+      "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-11-08T23:00:00.000Z",
-      "url": "https://itmedia.co.jp/aiplus/article/2611/09/2000002916",
-      "impactScore": 67,
-      "impactLabel": "中",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "impactScore": 100,
+      "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "Infoseek",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaTJ4RU5xYlozVHhBMTNEekt2VHp3SXNSMTJQb2F2dzhPZHRXZEM5c0RzRFMtdFkyb2RGc1Q3NWZDRVUwYVRueHRXNEc3aDV1QXIzNkZMNWFKWEdxZkhOSEJHUnB3dEw2ZUl3QURSVFFrZGpYZEo3Qw?oc=5"
+          "name": "GIGAZINE",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YVJZTkdQZklSRTdvMlpISVQzbVB4MlRTSlZKa013c3E1Q0RRTU1GUDQtSTJCSW5tRGd5YzBhT2dNNEFiaGx6SFBFOVp2dVQ0QlJkOTFKX0pFWHZJRWRuTnNyUmUtRHI2eW03b2l3?oc=5"
         },
         {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2M3U2JuZk93UkNIRDRORms4S295WnpWTmE5aUNuM25rS3htVG5PS3RXdXpELVBhWkN3RHBueWkzTlVyTEM5dmljVm8xMTRiT0FmQjBYd3Z5MW5lbjUyRjluaThIVlgtdXh0Qg?oc=5"
+          "name": "XenoSpectrum",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNlJpYmZZZVRUdWVDbkVua3lKVE9zbXFPcGZVdWNtdC1XTUd2THR0cEpRbEtvNGMyT1hMdGw4VUcwSVBxa3dCUzZDTW05X2xlNm1YWTVqR0xPWTI2MjQwMWdKdWVxZw?oc=5"
+        },
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2611/10/2000003044"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaTJ4RU5xYlozVHhBMTNEekt2VHp3SXNSMTJQb2F2dzhPZHRXZEM5c0RzRFMtdFkyb2RGc1Q3NWZDRVUwYVRueHRXNEc3aDV1QXIzNkZMNWFKWEdxZkhOSEJHUnB3dEw2ZUl3QURSVFFrZGpYZEo3Qw?oc=5",
-        "https://itmedia.co.jp/aiplus/article/2611/09/2000002916",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2M3U2JuZk93UkNIRDRORms4S295WnpWTmE5aUNuM25rS3htVG5PS3RXdXpELVBhWkN3RHBueWkzTlVyTEM5dmljVm8xMTRiT0FmQjBYd3Z5MW5lbjUyRjluaThIVlgtdXh0Qg?oc=5"
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YVJZTkdQZklSRTdvMlpISVQzbVB4MlRTSlZKa013c3E1Q0RRTU1GUDQtSTJCSW5tRGd5YzBhT2dNNEFiaGx6SFBFOVp2dVQ0QlJkOTFKX0pFWHZJRWRuTnNyUmUtRHI2eW03b2l3?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WLXRwQkI4eldqMXlLMUl0TTdmSHMxSVQtRVpmZlVMRDhSeGRnS212UDRVaWV1QWZ6S3FmdFFNS0RhNW8teGJhU1JvMWpaZmtyb1lJSTgzYmN1d1JCa1Z3MA?oc=5",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNlJpYmZZZVRUdWVDbkVua3lKVE9zbXFPcGZVdWNtdC1XTUd2THR0cEpRbEtvNGMyT1hMdGw4VUcwSVBxa3dCUzZDTW05X2xlNm1YWTVqR0xPWTI2MjQwMWdKdWVxZw?oc=5",
+        "https://itmedia.co.jp/news/article/2611/10/2000003044",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DSHFLY2c1U2FEekdNSko3d2xrMl9NVF9oZ2h6R3Z4UnRIRnhDdHgwQlpNNlBCQlVxaDhlR3JrZnAxQWc3VmlDVUVsUFA0V0xiOVJDdEFmanZpckh6ZVFhdW5MaWFyR0hFMGc?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGlqQ00tcDVLT2NSTUR2LXNaMENPbGFsSXpSeXhFTGh2UHhxcHJZUHd6SEZPTGptX3YzU0lxLXl4WHREZTluSVlHeE0xM082b25ycGdTVnFNN01sUHNEbHI5R1cyQ0ZJbE5JRkNMd0pUQWFsbDJUZFkzSnlTSDZTbWpSM1hyVmZWNUF4TXVhWGI3dFlEMUllTlNUQ3o5ZFBJZjc3MnBoYktjSDZMT3ZYTUZKNXRyUklxWVRnLXRLaFJQZVVSNmwwOGRWSmg?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE54cjJSZWptZ0l5c0VSY2VBaGh0S0J4N0QtV3AxcnFPZ2pENXZGd0RJaFFTTUlMR3NjNWVzQ0JXVlNjLXdaTWJBUVIyeWlLVHliWjFocXdBQk1XMm5wUFZhU0FjUU5Jc0hCckRFckRKSllBZmJrZU1RRA?oc=5",
+        "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmZsNVBSNm5ic2xaeEZhWkRxV0FPR2VXRm8ta2tHbTBzcXpXdk00UUVYLTdpY0RaSTVWaW13SW9jR2VGZ2RVekxRNWJmWV9oenJHbWs0bHJJQzh6MUlGMFdHZmgyMGtpOGdWbUpMbDBWV0ZIdHhjNXZzU0R5YkM5a0hmQnhtdVo5YmtNag?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjBUS3NtWDdTNTBtdWpicEc2WHNVdWhqLUVZYlhsbmJMRnB2dmg4V092aXVxZHFTdmp5SnlmS0c4SW9YMXRTNEE4WDR5NWgxS0IxUjhSMVgwZkFZQWJQcEl2NGU0eThhdkRMZVZwRXFLWF9tVExXX0pvOUNLemhlSVUwUFNpSVgxc0M3SGZYcw?oc=5",
+        "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+        "https://research.meta.ai/blog/muse-ember"
       ],
       "eventTitles": [
-        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？ - Infoseek",
-        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
-        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？ - ITmedia"
+        "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？ - GIGAZINE",
+        "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現 - GIGAZINE",
+        "Meta、新型AI「Muse Ember」を発表、Claudeと同等の評価スコアでタスク費用を約3分の1に - XenoSpectrum",
+        "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+        "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで - ITmedia",
+        "Meta、軽量AIモデル「Muse Ember」発表 入力100万トークン当たり10セント - 디지털투데이",
+        "Meta、最小で最安のAIモデル「Muse Ember」を公開——API料金は入力100万トークン0.1ドル - BRIDGE（ブリッジ）",
+        "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+        "Meta、エージェント向け最安モデル「Muse Ember」を発表、100万トークン0.10ドル - Pasquale Pillitteri",
+        "Meta、エージェントおよびコーディング作業の低コスト化に向けMuse Emberを発表 - Unite.AI",
+        "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "Introducing Our Smallest, Most Efficient Model: Muse Ember"
       ]
     },
     {
-      "id": "google-news-global-policy-the-guardian-9a987c7228547d80f770",
+      "id": "anthropic-sitemap-https-anthropic-com-claude-fable-and-mythos-5-2",
       "rank": 2,
-      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian",
-      "originalTitle": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian",
-      "summary": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese The Guardian",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "originalTitle": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "summary": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
       "points": [
-        "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese The Guardian",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges.",
+        "Fable 5.2 sets a new bar in coding, finance, and the sciences.",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "The Guardian",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-11-08T20:52:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5",
-      "impactScore": 65,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5"
-      ],
-      "eventTitles": [
-        "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese - The Guardian"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-fourweekmba-7b61d2c2abd7a5336fd3",
-      "rank": 3,
-      "title": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
-      "originalTitle": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
-      "summary": "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights FourWeekMBA",
-      "points": [
-        "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights FourWeekMBA",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "FourWeekMBA",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-08T19:33:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGNBbUZDRHlQUURTcmJPZW9PR2MtWEhRSWplUkRGUy01RG4tMGFHSGJ6MzhsSXlwY2FtcnhYVjJXazBEWWp0UlVjNnNjazlUaGpfY0d6TUtoMlRZbVlDVlBHUElrdmdNdUJEY3o2UU5qaWt1Q1Z6YWxPRkl1S1kwZ0ZRQVByZzdnNnc?oc=5",
-      "impactScore": 62,
-      "impactLabel": "中",
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "impactScore": 100,
+      "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5pcFNYN25yYUlpYXU3QWgxMXFMRkZtT1h4ZklDLUtjdEpYVE1ESGNpTVRvV0d1WDNxTEVpWTdiTmhoX1NjMkdELXZpTW5TRksxakJhVkdWYkxQTk1EZGFqVTBzZEloeTVqX09XYXRWQUhpbTV0a1pscmZNc3hjWlVfeUFTV3hJenp5bQ?oc=5"
+          "name": "au Webポータル",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbTlkcVpvckVRMC00anZSQWJRQTNiWkRieWJTRC00emFOdU1WUDB5TlFjdHVYRkZHMDNrdE9CZS1FeWZRT0ZYUlVfdkNBSjdJYTBKS1VILVlNbnBQZVFBR2x4bmFLanVma1lEdDd3?oc=5"
+        },
+        {
+          "name": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nWFF6VVcyc2dGN1lRYkdyTDE3NG92SFh5UlJqZW01aHU4anB3WTRqWnZaUlJnVEQ2LWY2X01wSUZ6eVJUdEt6SWdxc0FaZy11eHpZRUlSNU9UVy1TamNqQlVHSFN6TnZwTTBpVWxB?oc=5"
+        },
+        {
+          "name": "innovaTopia",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1c3ZERDZBQ0FucWFkZVdQUTJvTXladHhQd0UwZlkxS2N1N1JEM18xV25XTHhDcHFEYVpYYXhDX01iNzVZTFNZeGRyRVZRSlB5QVlR?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGNBbUZDRHlQUURTcmJPZW9PR2MtWEhRSWplUkRGUy01RG4tMGFHSGJ6MzhsSXlwY2FtcnhYVjJXazBEWWp0UlVjNnNjazlUaGpfY0d6TUtoMlRZbVlDVlBHUElrdmdNdUJEY3o2UU5qaWt1Q1Z6YWxPRkl1S1kwZ0ZRQVByZzdnNnc?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5pcFNYN25yYUlpYXU3QWgxMXFMRkZtT1h4ZklDLUtjdEpYVE1ESGNpTVRvV0d1WDNxTEVpWTdiTmhoX1NjMkdELXZpTW5TRksxakJhVkdWYkxQTk1EZGFqVTBzZEloeTVqX09XYXRWQUhpbTV0a1pscmZNc3hjWlVfeUFTV3hJenp5bQ?oc=5"
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbTlkcVpvckVRMC00anZSQWJRQTNiWkRieWJTRC00emFOdU1WUDB5TlFjdHVYRkZHMDNrdE9CZS1FeWZRT0ZYUlVfdkNBSjdJYTBKS1VILVlNbnBQZVFBR2x4bmFLanVma1lEdDd3?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nWFF6VVcyc2dGN1lRYkdyTDE3NG92SFh5UlJqZW01aHU4anB3WTRqWnZaUlJnVEQ2LWY2X01wSUZ6eVJUdEt6SWdxc0FaZy11eHpZRUlSNU9UVy1TamNqQlVHSFN6TnZwTTBpVWxB?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1c3ZERDZBQ0FucWFkZVdQUTJvTXladHhQd0UwZlkxS2N1N1JEM18xV25XTHhDcHFEYVpYYXhDX01iNzVZTFNZeGRyRVZRSlB5QVlR?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSTdzV1RqRVAtVzZ1d1pHYU15YkJKaV9HcG9vX0pyckVsZndPalRMTzBkYkt5bWhnWGY1SUtvVE42UmdIV2dBcWh1YVFJYnF5OWRfWUtHa05VMTdEQkxQV0VKMDV4NHNt?oc=5",
+        "https://itmedia.co.jp/news/article/2611/10/2000003042",
+        "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DNHBISXlBUlZncTBhVFRBcVJNVDZpMHJ1Q1JPc3ZNX3RGcWNrV1o1UnBxdWNSMEU4VTZVa253Q1ludXpZRkdhYldxNm5zTmx6Yy1La2tBbzdOU29TUWZfQzh0TExJWTVZQnpKbVVNYmFjMkNJendxUWw2QQ?oc=5",
+        "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VHhNSC1GVk9HSkVwWWZZamFJS3FjLWFrYi1hUWJiQnJhTXFUd1VqY2tOc25idUxvY2M0UlFMbWpyRG9sd2liRmdrWndzd2xycjF3eExYM0N5Sk9aUTJSOWs1dWlUa1NRSjdJV1R1S2tQVzVWeFFaUWJUUG1ZTW8?oc=5",
+        "https://theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "https://anthropic.com/claude-fable-and-mythos-5-2"
       ],
       "eventTitles": [
-        "Tencent, DeepSeek, Qwen Staff Flag Risks of Open Weights - FourWeekMBA",
-        "DeepSeek Doubles Down on Open Source at Wuzhen and Admits the Risks - Pasquale Pillitteri"
+        "AnthropicがClaude Fable 5.2とMythos 5.2を発表、前世代比30%高速・20%低価格で提供開始 - au Webポータル",
+        "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元 - Gizmodo",
+        "Anthropic「Claude Fable 5.2」公開、20%値下げ AI開発を速める能力は訓練で抑制 - innovaTopia",
+        "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に - 窓の杜",
+        "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+        "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+        "Anthropic、新AI「Claude Fable 5.2」発表：1000体のAIエージェントが協力し、わずか8日間でOSを開発 - XenoSpectrum",
+        "Introducing Claude Fable 5.2 on AWS",
+        "Claude Fable 5.2とMythos 5.2が登場、価格は20%下がる - Pasquale Pillitteri",
+        "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "Introducing Claude Fable 5.2 and Claude Mythos 5.2"
       ]
     },
     {
-      "id": "google-news-global-policy-security-boulevard-688718889595779f537b",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-10-2000003050",
+      "rank": 3,
+      "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+      "originalTitle": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+      "summary": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
+      "points": [
+        "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-10T02:10:07.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/10/2000003050",
+      "impactScore": 93,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42bkhVQ1ZjaG9XTFM5ajQzSkRxRnhQSkUwV2ppaGRjMVdWNlF1cHJzanhiZ3ZpUDZyT1Q3LU5tblRsWG81eTZEclptMDZHSTItY2s1MFNXMEdSV2tKcy1qNlk2MmwwSnpCeGc?oc=5"
+        },
+        {
+          "name": "TechGig",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZERleHhWV3RYY045T0VtVWVTX2lkVjVBSFdlODlvLUoyTktRUlNhMG9NVTNjSThGQlVMTDRCT1VuUEpydW53aUtseFRWSVBaVDRQTHlKLVNnb2VYbVRDT19fR005TFl1WTV2LUZfVEpMM3F6NWVtNHpDeVRONmhMYWFkSjd2R2FKNlQ1VXhLMmhZVy1lc05PRnJBY1c0THdG0gGgAUFVX3lxTE9kRGV4eFZXdFhjTjlPRW1VZVNfaWRWNUFIV2U4OW8tSjJOS1FSU2Ewb01VM2NJOEZCVUxMNEJPVW5QSnJ1bndpS2x4VFZJUFpUNFBMeUotU2dvZVhtVENPX19HTTlMWXVZNXYtRl9USkwzcXo1ZW00ekN5VE42aExhYWRKN3ZHYUo2VDVVeEsyaFlXLWVzTk9GckFjVzRMd0Y?oc=5"
+        },
+        {
+          "name": "Tbreak UAE",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vNjhiYzE3VWtzMzNJcEtOM3VEbXp2dUZ1TEZJX3ptQThBVmxJRFB3RUduUlhVbDVRbEY5ZlRPRi1FVVpVS2JnSXNISndJRDJTUjVpVVVBektpOW1MTFZHeG5QUQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/10/2000003050",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE42bkhVQ1ZjaG9XTFM5ajQzSkRxRnhQSkUwV2ppaGRjMVdWNlF1cHJzanhiZ3ZpUDZyT1Q3LU5tblRsWG81eTZEclptMDZHSTItY2s1MFNXMEdSV2tKcy1qNlk2MmwwSnpCeGc?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZERleHhWV3RYY045T0VtVWVTX2lkVjVBSFdlODlvLUoyTktRUlNhMG9NVTNjSThGQlVMTDRCT1VuUEpydW53aUtseFRWSVBaVDRQTHlKLVNnb2VYbVRDT19fR005TFl1WTV2LUZfVEpMM3F6NWVtNHpDeVRONmhMYWFkSjd2R2FKNlQ1VXhLMmhZVy1lc05PRnJBY1c0THdG0gGgAUFVX3lxTE9kRGV4eFZXdFhjTjlPRW1VZVNfaWRWNUFIV2U4OW8tSjJOS1FSU2Ewb01VM2NJOEZCVUxMNEJPVW5QSnJ1bndpS2x4VFZJUFpUNFBMeUotU2dvZVhtVENPX19HTTlMWXVZNXYtRl9USkwzcXo1ZW00ekN5VE42aExhYWRKN3ZHYUo2VDVVeEsyaFlXLWVzTk9GckFjVzRMd0Y?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vNjhiYzE3VWtzMzNJcEtOM3VEbXp2dUZ1TEZJX3ptQThBVmxJRFB3RUduUlhVbDVRbEY5ZlRPRi1FVVpVS2JnSXNISndJRDJTUjVpVVVBektpOW1MTFZHeG5QUQ?oc=5",
+        "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWRMMTM5NmhCcVotV21JbVh0djJYZnozSUg2eUFzR2d6dEIyZ3Q1UXhHMk9mUnJUb2dzYTdNN3diWVZ1X3NBV2V2TjE3b3FmWkluX1FoV2lzYW5FUmxUM29OTHNxRllWOHVONE9mYnQyODZyaVBqZmlwcGdlejFjNGN2ejJyaXFTd2NnSmtXRHZXZw?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVBZa2NnNXZwbFdEX0lzZ2NCakVidkNTV2pjUVdaQ2dEVkhDZXFoc1IwNmQ0NlhHei1IQ1pVdWVXNGI1b25ReW9wSU5NaUFfeVNkN25WR3lhSW4tR25nTXlLb0tGMFFoV0NfVXBuc1Q1azdVc2plZ01LWU9jblZSbEN3bXpWRGhBTVhEX2JmQ0MyRlBmZVFyYVRxM3p0SmEtd3lOUFlfYw?oc=5",
+        "https://theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTkzQTR2UkhaRGRzajhCUTQtRTJ1NzhYZ3VjUVFRd296MDFXRVNPYklmUEN5cC1val90MlBTN1otVTFVam5na3RnQjNFdnZ3SnFYU3FKRHJ5eUZvZnByUFUyTlZZM2MyT0xTdGJBQzdvQnVBNmk2MEg4aEdUWWRPS25n?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzgyMWhFbW8zRnE3MU9VU0NHSjl2QmctWnBkamNmT1Bpcy1XSUpmZWFpT1JqajRrbXZEbHp4TVdzQVBVdnpiRGRaaXFwd215cU5PMExoYUs3RGluSFZMT3VOMllBT01kM25vVElfRDUtbkQtTUI0SkZpcUVUTjRHcjlfZ2x2SF9RX0xmdw?oc=5"
+      ],
+      "eventTitles": [
+        "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+        "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ - ITmedia",
+        "Disney partners with Adobe for generative AI models - TechGig",
+        "Disney and Adobe build generative AI models for production - Tbreak UAE",
+        "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+        "Disney, Adobe Partner on Custom AI Models for Production - The Tech Buzz",
+        "Disney steps up generative AI push with expanded Adobe collaboration (DIS:NYSE) - Seeking Alpha",
+        "Disney and Adobe are building generative AI tools together",
+        "Disney and Adobe are building generative AI tools together - The Verge",
+        "Disney Taps Adobe To Build Private Generative AI Models - Finimize"
+      ]
+    },
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99736",
       "rank": 4,
-      "title": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard",
-      "originalTitle": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard",
-      "summary": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? Security Boulevard",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "originalTitle": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform w",
       "points": [
-        "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable?",
-        "Security Boulevard",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "As AI agents take on more work, they need capable open models and security that advances alongside them.",
+        "Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA Open",
+        "A key component of the NVIDIA Open Agent Safety Platform, OpenShell provides a secure runtime with sandboxed execution and policy-based controls to safeguard sensitive da"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Security Boulevard",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-08T20:59:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUElYV2lUb1VjRTd6SlpGZ24wU3BJSGZlSWVsZ3BtbE9xMU1YMi13aVludjZlVnFxMDdzRnlsbUM5UEc3Y0l6dHZJby0zRWc3R1VjcUQ0djh4djVHVjBEVXh3NWg5S0JwN1JaQ3NmS1lRMDdvLWlUVGtFNVd2azg5bTR3bEdUR1Ywdm9HbVV2WVU0ZWdvWHQyck55OS1BbE84RDE3angySjJ0ckpLZktYQ0J6ZF9tbXltWUdYNExjWEpocEt5bWJ0S1VETkxRU2lvNHc?oc=5",
-      "impactScore": 61,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-09T05:00:39.000Z",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+      "impactScore": 89,
+      "impactLabel": "特大",
+      "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUElYV2lUb1VjRTd6SlpGZ24wU3BJSGZlSWVsZ3BtbE9xMU1YMi13aVludjZlVnFxMDdzRnlsbUM5UEc3Y0l6dHZJby0zRWc3R1VjcUQ0djh4djVHVjBEVXh3NWg5S0JwN1JaQ3NmS1lRMDdvLWlUVGtFNVd2azg5bTR3bEdUR1Ywdm9HbVV2WVU0ZWdvWHQyck55OS1BbE84RDE3angySjJ0ckpLZktYQ0J6ZF9tbXltWUdYNExjWEpocEt5bWJ0S1VETkxRU2lvNHc?oc=5"
+        "https://blogs.nvidia.com/blog/korea-secure-agentic-ai"
       ],
       "eventTitles": [
-        "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable? - Security Boulevard"
+        "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
       ]
     },
     {
-      "id": "google-news-global-policy-hotnewhiphop-6c74c0a51a4e51139b5e",
+      "id": "openai-https-openai-com-index-control-room",
       "rank": 5,
-      "title": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop",
-      "originalTitle": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop",
-      "summary": "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations HotNewHipHop",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "originalTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
       "points": [
-        "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations HotNewHipHop",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "HotNewHipHop",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-11-08T16:24:14.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzBGVm9wb0ktbU11cGItbjhzOC0zX1p3RTVZRi1QVV92MkVmU2ljbDNHc1R6Z084aGJ1eURBN2RVcG50UkpDY1EybERrSllTeFEwOXBxdFpHWl9HN3BNV2NOS0VrWlNaMmZ1dUxYeGFtamdoMGtKOVdNRXRzUVFBN1VBMWFUUlM1X1I5cWRpUENaSWVldXA3YWZuajM?oc=5",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzBGVm9wb0ktbU11cGItbjhzOC0zX1p3RTVZRi1QVV92MkVmU2ljbDNHc1R6Z084aGJ1eURBN2RVcG50UkpDY1EybERrSllTeFEwOXBxdFpHWl9HN3BNV2NOS0VrWlNaMmZ1dUxYeGFtamdoMGtKOVdNRXRzUVFBN1VBMWFUUlM1X1I5cWRpUENaSWVldXA3YWZuajM?oc=5"
-      ],
-      "eventTitles": [
-        "Eminem's Publisher Goes After Suno In Court For Alleged AI Copyright Violations - HotNewHipHop"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-09-2000002926",
-      "rank": 6,
-      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
-      "originalTitle": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
-      "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
-      "points": [
-        "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-11-08T23:00:00.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/09/2000002926",
-      "impactScore": 55,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://itmedia.co.jp/news/article/2611/09/2000002926"
-      ],
-      "eventTitles": [
-        "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-enterprise-articles-2611-06-news023-html",
-      "rank": 7,
-      "title": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
-      "originalTitle": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
-      "summary": "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
-      "points": [
-        "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-11-08T23:00:00.000Z",
-      "url": "https://itmedia.co.jp/enterprise/articles/2611/06/news023.html",
-      "impactScore": 55,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://itmedia.co.jp/enterprise/articles/2611/06/news023.html"
-      ],
-      "eventTitles": [
-        "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-the-news-international-1e01040f5dc33f8c66d5",
-      "rank": 8,
-      "title": "2026 US midterms likely to reshape cybersecurity, AI policy - The News International",
-      "originalTitle": "2026 US midterms likely to reshape cybersecurity, AI policy - The News International",
-      "summary": "2026 US midterms likely to reshape cybersecurity, AI policy The News International",
-      "points": [
-        "2026 US midterms likely to reshape cybersecurity, AI policy The News International",
+        "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "The News International",
-      "sourceType": "media",
+      "source": "OpenAI",
+      "sourceType": "official",
       "category": "安全性",
-      "publishedAt": "2026-11-08T11:08:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dNYWF5X0x6U29kWmMzS1ZnalBUMHdKVWxMdVlsbW9YbEhwWWxjeDI3cGNwejNOWnhSMFkyUFVBMlF6Y1hUTDF2QjJYSmhmd1hmNmlnR2ZWWThaUFlFbmZEU203ZjNsUUE2TDdPdGc0QzZEMUhFM0gyUFZMNENKS0Nlc3FLdlRkU3AzNGJQOUtQTnh5WXBjdXRlTS1HcHhacnfSAZ4BQVVfeXFMT0RXYWxmdkt5REVFdjlUZ3hLUkNfcDBZR0hOY0U4aVlYY2Zaak8tT1AwalZ4OC15bV9ET3NvWnlJLUY0QlhldTZTaENydGZRdHNJb0J0cVo1aDc1RWY0NWNLYlVVLVd3STVJYzc1eHJDNlRvdDBDZjlrUjVONllqdThNWHJuU1UxUFljRVRfNmtxVjN0S2M0V0cxTmJELXc?oc=5",
-      "impactScore": 55,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "url": "https://openai.com/index/control-room",
+      "impactScore": 84,
+      "impactLabel": "大",
+      "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dNYWF5X0x6U29kWmMzS1ZnalBUMHdKVWxMdVlsbW9YbEhwWWxjeDI3cGNwejNOWnhSMFkyUFVBMlF6Y1hUTDF2QjJYSmhmd1hmNmlnR2ZWWThaUFlFbmZEU203ZjNsUUE2TDdPdGc0QzZEMUhFM0gyUFZMNENKS0Nlc3FLdlRkU3AzNGJQOUtQTnh5WXBjdXRlTS1HcHhacnfSAZ4BQVVfeXFMT0RXYWxmdkt5REVFdjlUZ3hLUkNfcDBZR0hOY0U4aVlYY2Zaak8tT1AwalZ4OC15bV9ET3NvWnlJLUY0QlhldTZTaENydGZRdHNJb0J0cVo1aDc1RWY0NWNLYlVVLVd3STVJYzc1eHJDNlRvdDBDZjlrUjVONllqdThNWHJuU1UxUFljRVRfNmtxVjN0S2M0V0cxTmJELXc?oc=5"
+        "https://openai.com/index/control-room"
       ],
       "eventTitles": [
-        "2026 US midterms likely to reshape cybersecurity, AI policy - The News International"
+        "Control Room: A central system to track and stop model workloads across our research infrastructure"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-business-articles-2611-09-news039-html",
-      "rank": 9,
-      "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ",
-      "originalTitle": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ",
-      "summary": "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+      "id": "anthropic-sitemap-https-anthropic-com-claude-fable-and-mythos-5-1",
+      "rank": 6,
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "originalTitle": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "summary": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
       "points": [
-        "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+        "Our most advanced models for coding and knowledge work.",
+        "Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-09T21:21:39.000Z",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/claude-fable-and-mythos-5-1"
+      ],
+      "eventTitles": [
+        "Introducing Claude Fable 5.1 and Claude Mythos 5.1"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3186477",
+      "rank": 7,
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "originalTitle": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "points": [
+        "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-09T20:09:06.000Z",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcEJJNVhuODlJX19LcE9DLXlUUEhvR0l6VWpHQjNZLVVTQWI4OXNkYlA2Z2dCSFVMaGtYSzB4VFpycW9WVnNoWUhLWEZ2cXRnREY0a1N0Zy0yRFoyYVlLcV80LU9RVGlsenNycTQyT3pCTGdNWngtaWl5OG1ueWFRcHhsR3RmRmI4cTVWZ2ZJUHRBSU5TUW9uR1RCa1FFYWZvcW11MmR1b1lTQnRrOEtvV3hQTVBFQ1lhX3BCdWhmX3NLd0lOX1dmaXZKRlg5OVRGZ0tMcVpPTzBROEJ2YkZLSmJVTFdINGpRZGI1YUJscFRoTW1ESTh2czEwc293RmVQSUdtYUhPaWJ4UW81NUVuTNIBlgJBVV95cUxPUGtiZlZhZGMxeXlaa0l1a0VDQ3hqbEwzNlRDdFkyTk1qX0IzMWV4RzNPT1VscXJUMDlBOF9zOWNUbjFRcE1mR1p6WmZNMW9lOVRwbmpCMGRKNDB3WkMzQnhZQ0p1MUhvVFR6VHoxcVVzLXZwSFJjdkU3Q1FPY05BRmtsMk96bVpxVVpNVE5kdFNzTERLRkxZVGJSZmdadWNlSURSOFc1MWRLU2QxZUVNb3BPUXRYODBWakpaX2tmOFFMYkVlbUZONHpaMEMtc09vbFRCN0dZdWlDdTVzSEluN0hhWmdSaVhCUmJPM0UxV2c0U0J3VTdIOGVXblN0QmdwaFVXN2N4QnA1cDZxaHBvME5qTjlPdw?oc=5"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny"
+        },
+        {
+          "name": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUU9jeF90Z3FEWUw3cDF1MDhVOGlEUUJpOXgzLXIyZG1IVzFlYzhVOXpNU3hDUWpDWDVsbGxTZDNJM0o5Q0k3eTBLeEtxSTR6X2NzRjN0bmotOFhFUi15aWttZkIxajdGRHZjUF9WMHItNXAwbHVHSU9nUll4cFFzNS1FWFdOMmRNZWpxU190NGJxNWFaaXN6U003eWM0aEhJQ21RZjZhVFpJcVVnb2x5RnNHLVlCX1RtbkJaNUZnSEROYVdpbWREMW9yUDJWcHBMSjNmZk1HcklmeXpCcEhvMjc4bW94cnZFV3c?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+        "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcEJJNVhuODlJX19LcE9DLXlUUEhvR0l6VWpHQjNZLVVTQWI4OXNkYlA2Z2dCSFVMaGtYSzB4VFpycW9WVnNoWUhLWEZ2cXRnREY0a1N0Zy0yRFoyYVlLcV80LU9RVGlsenNycTQyT3pCTGdNWngtaWl5OG1ueWFRcHhsR3RmRmI4cTVWZ2ZJUHRBSU5TUW9uR1RCa1FFYWZvcW11MmR1b1lTQnRrOEtvV3hQTVBFQ1lhX3BCdWhmX3NLd0lOX1dmaXZKRlg5OVRGZ0tMcVpPTzBROEJ2YkZLSmJVTFdINGpRZGI1YUJscFRoTW1ESTh2czEwc293RmVQSUdtYUhPaWJ4UW81NUVuTNIBlgJBVV95cUxPUGtiZlZhZGMxeXlaa0l1a0VDQ3hqbEwzNlRDdFkyTk1qX0IzMWV4RzNPT1VscXJUMDlBOF9zOWNUbjFRcE1mR1p6WmZNMW9lOVRwbmpCMGRKNDB3WkMzQnhZQ0p1MUhvVFR6VHoxcVVzLXZwSFJjdkU3Q1FPY05BRmtsMk96bVpxVVpNVE5kdFNzTERLRkxZVGJSZmdadWNlSURSOFc1MWRLU2QxZUVNb3BPUXRYODBWakpaX2tmOFFMYkVlbUZONHpaMEMtc09vbFRCN0dZdWlDdTVzSEluN0hhWmdSaVhCUmJPM0UxV2c0U0J3VTdIOGVXblN0QmdwaFVXN2N4QnA1cDZxaHBvME5qTjlPdw?oc=5",
+        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUU9jeF90Z3FEWUw3cDF1MDhVOGlEUUJpOXgzLXIyZG1IVzFlYzhVOXpNU3hDUWpDWDVsbGxTZDNJM0o5Q0k3eTBLeEtxSTR6X2NzRjN0bmotOFhFUi15aWttZkIxajdGRHZjUF9WMHItNXAwbHVHSU9nUll4cFFzNS1FWFdOMmRNZWpxU190NGJxNWFaaXN6U003eWM0aEhJQ21RZjZhVFpJcVVnb2x5RnNHLVlCX1RtbkJaNUZnSEROYVdpbWREMW9yUDJWcHBMSjNmZk1HcklmeXpCcEhvMjc4bW94cnZFV3c?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOUF5MEdTMFdUWEVUVWktd3E3Wk5YTlJUa2lFNHJ6NFhtOUQyczBMTFVxc3ZOcWpLQXRrOHFrTGJCU2pNZ0prZ0VEeGRXVU9leHdGUUo0TWV6SVJqZDJtTDBBVndzMXl0dHhwTkZNdUJWc0R2UVFXZmloMWFnZw?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGh3T1JTdlBNWjJSMWM1bTUyVXZlMlRfUElqNkk5RlZudGV3WmhYZHB6UmtBX1hjOHkwZUhZb2J5d2ZrcmZaQml0WHMtOHZHbGZHR0psNkN5Nkh1M1FjZEwtZm55dG4yZi00SE5MaEdoS0dJUGxBRWFWdF94emxIUVg3Sng0NmszQ2tqNldTdkM1YVZYZS1uZ29MamJUMktGRjNGN2U2cmJURE9fRE5yT25HRk54bTZIU1BpWkNENA?oc=5",
+        "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy"
+      ],
+      "eventTitles": [
+        "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "Alice Huang boasted about Nvidia AI chip access to investors, told them Alibaba would be a client for the - The Times of India",
+        "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+        "Alleged Chinese spy Alice Huang boasted about Nvidia AI chip access — as US officials grew concerned about smuggling - New York Post",
+        "Alice Huang Touted Nvidia Chip Access in AI Investment Pitch, FT Says - TheEnergyMag",
+        "Nvidia stock crashes 9% in worst fall since DeepSeek shock; Jensen Huang loses $15.1 billion as AI stocks tumble - IBTimes India",
+        "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
+        "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+      ]
+    },
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99744",
+      "rank": 8,
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "originalTitle": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT , joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI i",
+      "points": [
+        "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX.",
+        "Ryu Je-myung, vice minister of science and ICT , joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and A",
+        "NVIDIA also announced an investment in Korean startup Point2 , with additional investments planned in Motif Technologies , RLWRLD and Upstage."
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-09T08:00:53.000Z",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/korean-startup-investments-msit"
+      ],
+      "eventTitles": [
+        "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-10-2000003043",
+      "rank": 9,
+      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
+      "originalTitle": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
+      "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
+      "points": [
+        "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -273,45 +379,58 @@
       "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-11-08T22:00:00.000Z",
-      "url": "https://itmedia.co.jp/business/articles/2611/09/news039.html",
-      "impactScore": 54,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
+      "publishedAt": "2026-11-09T22:26:48.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/10/2000003043",
+      "impactScore": 78,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "テクノエッジ TechnoEdge",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qQnRaMHgwSS0xczZUQVFxRTY1MnNzbjg2S0U3QktKMkQwcHZPUmRuWFVlZ0hXLWlVUWtwWS1zNTV1Vy1rMmJuOUZPNUdFbWFiYkZvYU16VXB6SXh5aFI1ZUd6SzR6T3M?oc=5"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DLXRQbkZ1cVhPUlFRQzlEa1FRS1M5ZzVWYkJhaVFieWtQUnlfY0thX2owSDJzb2M4ZDIydi1kb3NpTVRCVGJ0aW5Ga1BILU5XY3h2MTV3aUV0SzJlNkEzOHFzdGxOMWNIcnc?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://itmedia.co.jp/business/articles/2611/09/news039.html"
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qQnRaMHgwSS0xczZUQVFxRTY1MnNzbjg2S0U3QktKMkQwcHZPUmRuWFVlZ0hXLWlVUWtwWS1zNTV1Vy1rMmJuOUZPNUdFbWFiYkZvYU16VXB6SXh5aFI1ZUd6SzR6T3M?oc=5",
+        "https://itmedia.co.jp/news/article/2611/10/2000003043",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DLXRQbkZ1cVhPUlFRQzlEa1FRS1M5ZzVWYkJhaVFieWtQUnlfY0thX2owSDJzb2M4ZDIydi1kb3NpTVRCVGJ0aW5Ga1BILU5XY3h2MTV3aUV0SzJlNkEzOHFzdGxOMWNIcnc?oc=5"
       ],
       "eventTitles": [
-        "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ"
+        "Google、第8世代TPUに機密データの推論向け「8tx」とAIエージェント向け「8i Max」を追加 - テクノエッジ TechnoEdge",
+        "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
+        "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化 - ITmedia"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-business-articles-2611-09-news038-html",
+      "id": "aws-machine-learning-333ca621d84290b49ff9a6ae139d900744bc2faa",
       "rank": 10,
-      "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
-      "originalTitle": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
-      "summary": "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+      "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+      "originalTitle": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+      "summary": "“How do we run our AI agents in production at scale?” is the question every customer eventually asks. It comes bundled with several questions. How do we handle thousands of concurrent user requests securely and confidently? How do we make sure the agents stay ",
       "points": [
-        "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "“How do we run our AI agents in production at scale?” is the question every customer eventually asks.",
+        "It comes bundled with several questions.",
+        "How do we handle thousands of concurrent user requests securely and confidently?"
       ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-11-08T22:00:00.000Z",
-      "url": "https://itmedia.co.jp/business/articles/2611/09/news038.html",
-      "impactScore": 54,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-11-09T19:05:54.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://itmedia.co.jp/business/articles/2611/09/news038.html"
+        "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore"
       ],
       "eventTitles": [
-        "「勝手に社外AIを使う」エース社員に困っています……どうすべき？"
+        "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore"
       ]
     }
   ]
