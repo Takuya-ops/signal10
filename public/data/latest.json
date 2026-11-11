@@ -1,436 +1,374 @@
 {
-  "edition": "2026-11-10T06:30:00+09:00",
-  "generatedAt": "2026-11-10T03:43:00.660Z",
-  "periodStart": "2026-11-07T15:43:00.660Z",
+  "edition": "2026-11-11T06:30:00+09:00",
+  "generatedAt": "2026-11-11T01:23:25.316Z",
+  "periodStart": "2026-11-08T13:23:25.316Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 40,
-  "freshSources": 36,
+  "successfulSources": 35,
+  "freshSources": 31,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 741,
+  "candidateCount": 936,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "meta-ai-research-sitemap-https-research-meta-ai-blog-muse-ember",
+      "id": "google-deepmind-https-deepmind-google-blog-gemini-4-carbon-is-now-available-",
       "rank": 1,
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "originalTitle": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "summary": "Muse Ember is our smallest and most efficient model, designed for complex reasoning execution and the work agents repeat all day.",
+      "title": "Gemini 4 Carbon is now available",
+      "originalTitle": "Gemini 4 Carbon is now available",
+      "summary": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
       "points": [
-        "Muse Ember is our smallest and most efficient model, designed for complex reasoning execution and the work agents repeat all day.",
+        "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Meta AI Research",
+      "source": "Google DeepMind",
       "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-11-09T00:00:00.000Z",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "impactScore": 100,
+      "publishedAt": "2026-11-10T16:03:47.000Z",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "impactScore": 92,
       "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
-        {
-          "name": "GIGAZINE",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YVJZTkdQZklSRTdvMlpISVQzbVB4MlRTSlZKa013c3E1Q0RRTU1GUDQtSTJCSW5tRGd5YzBhT2dNNEFiaGx6SFBFOVp2dVQ0QlJkOTFKX0pFWHZJRWRuTnNyUmUtRHI2eW03b2l3?oc=5"
-        },
-        {
-          "name": "XenoSpectrum",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNlJpYmZZZVRUdWVDbkVua3lKVE9zbXFPcGZVdWNtdC1XTUd2THR0cEpRbEtvNGMyT1hMdGw4VUcwSVBxa3dCUzZDTW05X2xlNm1YWTVqR0xPWTI2MjQwMWdKdWVxZw?oc=5"
-        },
         {
           "name": "ITmedia AI+",
-          "url": "https://itmedia.co.jp/news/article/2611/10/2000003044"
+          "url": "https://itmedia.co.jp/news/article/2611/11/2000003083"
+        },
+        {
+          "name": "jetstream.blog",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWU52TUdya1JGQkdPYXhiWUs4SkpTMUVIMGN2UGt6S0Y1dXF3OVI4NnNMWDFFRVpUZ1VEOERsV2E4dXptNHBMU0ItMF81RjhOWExKSHozOXd2TWdSUENzSzcydWlaUHduRzZCTg?oc=5"
+        },
+        {
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aHl1Nzh5ejA4eTVReHdCbDdxVElKTkZaLWdmdVdIWnhYdDJtTmswVEc5a1dqcEhJYi1BaXhDeVRZVFo2UEJJMEFBMmhueU50NFdNOXE1UTJQM3NGUl9aSkYwTTg0NlBXMmtLZWJrckthbF83ODhoRzFTdFBvVXM?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE11YVJZTkdQZklSRTdvMlpISVQzbVB4MlRTSlZKa013c3E1Q0RRTU1GUDQtSTJCSW5tRGd5YzBhT2dNNEFiaGx6SFBFOVp2dVQ0QlJkOTFKX0pFWHZJRWRuTnNyUmUtRHI2eW03b2l3?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WLXRwQkI4eldqMXlLMUl0TTdmSHMxSVQtRVpmZlVMRDhSeGRnS212UDRVaWV1QWZ6S3FmdFFNS0RhNW8teGJhU1JvMWpaZmtyb1lJSTgzYmN1d1JCa1Z3MA?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNlJpYmZZZVRUdWVDbkVua3lKVE9zbXFPcGZVdWNtdC1XTUd2THR0cEpRbEtvNGMyT1hMdGw4VUcwSVBxa3dCUzZDTW05X2xlNm1YWTVqR0xPWTI2MjQwMWdKdWVxZw?oc=5",
-        "https://itmedia.co.jp/news/article/2611/10/2000003044",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DSHFLY2c1U2FEekdNSko3d2xrMl9NVF9oZ2h6R3Z4UnRIRnhDdHgwQlpNNlBCQlVxaDhlR3JrZnAxQWc3VmlDVUVsUFA0V0xiOVJDdEFmanZpckh6ZVFhdW5MaWFyR0hFMGc?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGlqQ00tcDVLT2NSTUR2LXNaMENPbGFsSXpSeXhFTGh2UHhxcHJZUHd6SEZPTGptX3YzU0lxLXl4WHREZTluSVlHeE0xM082b25ycGdTVnFNN01sUHNEbHI5R1cyQ0ZJbE5JRkNMd0pUQWFsbDJUZFkzSnlTSDZTbWpSM1hyVmZWNUF4TXVhWGI3dFlEMUllTlNUQ3o5ZFBJZjc3MnBoYktjSDZMT3ZYTUZKNXRyUklxWVRnLXRLaFJQZVVSNmwwOGRWSmg?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE54cjJSZWptZ0l5c0VSY2VBaGh0S0J4N0QtV3AxcnFPZ2pENXZGd0RJaFFTTUlMR3NjNWVzQ0JXVlNjLXdaTWJBUVIyeWlLVHliWjFocXdBQk1XMm5wUFZhU0FjUU5Jc0hCckRFckRKSllBZmJrZU1RRA?oc=5",
-        "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmZsNVBSNm5ic2xaeEZhWkRxV0FPR2VXRm8ta2tHbTBzcXpXdk00UUVYLTdpY0RaSTVWaW13SW9jR2VGZ2RVekxRNWJmWV9oenJHbWs0bHJJQzh6MUlGMFdHZmgyMGtpOGdWbUpMbDBWV0ZIdHhjNXZzU0R5YkM5a0hmQnhtdVo5YmtNag?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjBUS3NtWDdTNTBtdWpicEc2WHNVdWhqLUVZYlhsbmJMRnB2dmg4V092aXVxZHFTdmp5SnlmS0c4SW9YMXRTNEE4WDR5NWgxS0IxUjhSMVgwZkFZQWJQcEl2NGU0eThhdkRMZVZwRXFLWF9tVExXX0pvOUNLemhlSVUwUFNpSVgxc0M3SGZYcw?oc=5",
-        "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-        "https://research.meta.ai/blog/muse-ember"
+        "https://itmedia.co.jp/news/article/2611/11/2000003083",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWU52TUdya1JGQkdPYXhiWUs4SkpTMUVIMGN2UGt6S0Y1dXF3OVI4NnNMWDFFRVpUZ1VEOERsV2E4dXptNHBMU0ItMF81RjhOWExKSHozOXd2TWdSUENzSzcydWlaUHduRzZCTg?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aHl1Nzh5ejA4eTVReHdCbDdxVElKTkZaLWdmdVdIWnhYdDJtTmswVEc5a1dqcEhJYi1BaXhDeVRZVFo2UEJJMEFBMmhueU50NFdNOXE1UTJQM3NGUl9aSkYwTTg0NlBXMmtLZWJrckthbF83ODhoRzFTdFBvVXM?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE84RkZPRGF2dDhEUnpNRF9scHprV3ZWcWcwRm5QWnZ6OHRmYVJtQy1ZQUtrY1ZkZ3FsaE1rMmdUdERER0NTQUIxWDJpaFhKN3RiUmpMcVFrWGFBc3FEMFpRcTZQMFVIWmNvazNpMw?oc=5",
+        "https://deepmind.google/blog/gemini-4-carbon-is-now-available"
       ],
       "eventTitles": [
-        "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？ - GIGAZINE",
-        "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現 - GIGAZINE",
-        "Meta、新型AI「Muse Ember」を発表、Claudeと同等の評価スコアでタスク費用を約3分の1に - XenoSpectrum",
-        "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
-        "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで - ITmedia",
-        "Meta、軽量AIモデル「Muse Ember」発表 入力100万トークン当たり10セント - 디지털투데이",
-        "Meta、最小で最安のAIモデル「Muse Ember」を公開——API料金は入力100万トークン0.1ドル - BRIDGE（ブリッジ）",
-        "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-        "Meta、エージェント向け最安モデル「Muse Ember」を発表、100万トークン0.10ドル - Pasquale Pillitteri",
-        "Meta、エージェントおよびコーディング作業の低コスト化に向けMuse Emberを発表 - Unite.AI",
-        "Meta releases Muse Ember, a new lightweight model for agent execution",
-        "Introducing Our Smallest, Most Efficient Model: Muse Ember"
+        "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+        "Google、最先端AIモデル「Gemini 4 Carbon」提供開始 - jetstream.blog",
+        "グーグル最上位AI「Carbon」が防御者限定から一般提供へ 導入価格は11月末で2倍に（ビジネス＋IT） - Yahoo!ニュース",
+        "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可 - Gizmodo",
+        "Gemini 4 Carbon is now available"
       ]
     },
     {
-      "id": "anthropic-sitemap-https-anthropic-com-claude-fable-and-mythos-5-2",
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-11-ring-cameras-go-mobile-as-amazon-debuts-ai-powered-",
       "rank": 2,
-      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "originalTitle": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "summary": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "originalTitle": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior",
       "points": [
-        "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges.",
-        "Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Anthropic",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-11-09T00:00:00.000Z",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "impactScore": 100,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "au Webポータル",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbTlkcVpvckVRMC00anZSQWJRQTNiWkRieWJTRC00emFOdU1WUDB5TlFjdHVYRkZHMDNrdE9CZS1FeWZRT0ZYUlVfdkNBSjdJYTBKS1VILVlNbnBQZVFBR2x4bmFLanVma1lEdDd3?oc=5"
-        },
-        {
-          "name": "Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nWFF6VVcyc2dGN1lRYkdyTDE3NG92SFh5UlJqZW01aHU4anB3WTRqWnZaUlJnVEQ2LWY2X01wSUZ6eVJUdEt6SWdxc0FaZy11eHpZRUlSNU9UVy1TamNqQlVHSFN6TnZwTTBpVWxB?oc=5"
-        },
-        {
-          "name": "innovaTopia",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1c3ZERDZBQ0FucWFkZVdQUTJvTXladHhQd0UwZlkxS2N1N1JEM18xV25XTHhDcHFEYVpYYXhDX01iNzVZTFNZeGRyRVZRSlB5QVlR?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbTlkcVpvckVRMC00anZSQWJRQTNiWkRieWJTRC00emFOdU1WUDB5TlFjdHVYRkZHMDNrdE9CZS1FeWZRT0ZYUlVfdkNBSjdJYTBKS1VILVlNbnBQZVFBR2x4bmFLanVma1lEdDd3?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nWFF6VVcyc2dGN1lRYkdyTDE3NG92SFh5UlJqZW01aHU4anB3WTRqWnZaUlJnVEQ2LWY2X01wSUZ6eVJUdEt6SWdxc0FaZy11eHpZRUlSNU9UVy1TamNqQlVHSFN6TnZwTTBpVWxB?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1c3ZERDZBQ0FucWFkZVdQUTJvTXladHhQd0UwZlkxS2N1N1JEM18xV25XTHhDcHFEYVpYYXhDX01iNzVZTFNZeGRyRVZRSlB5QVlR?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSTdzV1RqRVAtVzZ1d1pHYU15YkJKaV9HcG9vX0pyckVsZndPalRMTzBkYkt5bWhnWGY1SUtvVE42UmdIV2dBcWh1YVFJYnF5OWRfWUtHa05VMTdEQkxQV0VKMDV4NHNt?oc=5",
-        "https://itmedia.co.jp/news/article/2611/10/2000003042",
-        "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DNHBISXlBUlZncTBhVFRBcVJNVDZpMHJ1Q1JPc3ZNX3RGcWNrV1o1UnBxdWNSMEU4VTZVa253Q1ludXpZRkdhYldxNm5zTmx6Yy1La2tBbzdOU29TUWZfQzh0TExJWTVZQnpKbVVNYmFjMkNJendxUWw2QQ?oc=5",
-        "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VHhNSC1GVk9HSkVwWWZZamFJS3FjLWFrYi1hUWJiQnJhTXFUd1VqY2tOc25idUxvY2M0UlFMbWpyRG9sd2liRmdrWndzd2xycjF3eExYM0N5Sk9aUTJSOWs1dWlUa1NRSjdJV1R1S2tQVzVWeFFaUWJUUG1ZTW8?oc=5",
-        "https://theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-        "https://anthropic.com/claude-fable-and-mythos-5-2"
-      ],
-      "eventTitles": [
-        "AnthropicがClaude Fable 5.2とMythos 5.2を発表、前世代比30%高速・20%低価格で提供開始 - au Webポータル",
-        "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元 - Gizmodo",
-        "Anthropic「Claude Fable 5.2」公開、20%値下げ AI開発を速める能力は訓練で抑制 - innovaTopia",
-        "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に - 窓の杜",
-        "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
-        "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-        "Anthropic、新AI「Claude Fable 5.2」発表：1000体のAIエージェントが協力し、わずか8日間でOSを開発 - XenoSpectrum",
-        "Introducing Claude Fable 5.2 on AWS",
-        "Claude Fable 5.2とMythos 5.2が登場、価格は20%下がる - Pasquale Pillitteri",
-        "Anthropic launches new Claude Fable and Mythos 5.2 models",
-        "Introducing Claude Fable 5.2 and Claude Mythos 5.2"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-10-2000003050",
-      "rank": 3,
-      "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
-      "originalTitle": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
-      "summary": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
-      "points": [
-        "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices.",
+        "But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior Amazon attempt to popularize a flying sec",
+        "The Ring Rover Cam and Ring Drone Cam are expected to reach customers starting at the end of 2026 and in early 2027, respectively, according to an Amazon announcement pos"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "ITmedia AI+",
+      "source": "Ars Technica",
       "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-11-10T02:10:07.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/10/2000003050",
-      "impactScore": 93,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42bkhVQ1ZjaG9XTFM5ajQzSkRxRnhQSkUwV2ppaGRjMVdWNlF1cHJzanhiZ3ZpUDZyT1Q3LU5tblRsWG81eTZEclptMDZHSTItY2s1MFNXMEdSV2tKcy1qNlk2MmwwSnpCeGc?oc=5"
-        },
-        {
-          "name": "TechGig",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZERleHhWV3RYY045T0VtVWVTX2lkVjVBSFdlODlvLUoyTktRUlNhMG9NVTNjSThGQlVMTDRCT1VuUEpydW53aUtseFRWSVBaVDRQTHlKLVNnb2VYbVRDT19fR005TFl1WTV2LUZfVEpMM3F6NWVtNHpDeVRONmhMYWFkSjd2R2FKNlQ1VXhLMmhZVy1lc05PRnJBY1c0THdG0gGgAUFVX3lxTE9kRGV4eFZXdFhjTjlPRW1VZVNfaWRWNUFIV2U4OW8tSjJOS1FSU2Ewb01VM2NJOEZCVUxMNEJPVW5QSnJ1bndpS2x4VFZJUFpUNFBMeUotU2dvZVhtVENPX19HTTlMWXVZNXYtRl9USkwzcXo1ZW00ekN5VE42aExhYWRKN3ZHYUo2VDVVeEsyaFlXLWVzTk9GckFjVzRMd0Y?oc=5"
-        },
-        {
-          "name": "Tbreak UAE",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vNjhiYzE3VWtzMzNJcEtOM3VEbXp2dUZ1TEZJX3ptQThBVmxJRFB3RUduUlhVbDVRbEY5ZlRPRi1FVVpVS2JnSXNISndJRDJTUjVpVVVBektpOW1MTFZHeG5QUQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://itmedia.co.jp/news/article/2611/10/2000003050",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE42bkhVQ1ZjaG9XTFM5ajQzSkRxRnhQSkUwV2ppaGRjMVdWNlF1cHJzanhiZ3ZpUDZyT1Q3LU5tblRsWG81eTZEclptMDZHSTItY2s1MFNXMEdSV2tKcy1qNlk2MmwwSnpCeGc?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZERleHhWV3RYY045T0VtVWVTX2lkVjVBSFdlODlvLUoyTktRUlNhMG9NVTNjSThGQlVMTDRCT1VuUEpydW53aUtseFRWSVBaVDRQTHlKLVNnb2VYbVRDT19fR005TFl1WTV2LUZfVEpMM3F6NWVtNHpDeVRONmhMYWFkSjd2R2FKNlQ1VXhLMmhZVy1lc05PRnJBY1c0THdG0gGgAUFVX3lxTE9kRGV4eFZXdFhjTjlPRW1VZVNfaWRWNUFIV2U4OW8tSjJOS1FSU2Ewb01VM2NJOEZCVUxMNEJPVW5QSnJ1bndpS2x4VFZJUFpUNFBMeUotU2dvZVhtVENPX19HTTlMWXVZNXYtRl9USkwzcXo1ZW00ekN5VE42aExhYWRKN3ZHYUo2VDVVeEsyaFlXLWVzTk9GckFjVzRMd0Y?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vNjhiYzE3VWtzMzNJcEtOM3VEbXp2dUZ1TEZJX3ptQThBVmxJRFB3RUduUlhVbDVRbEY5ZlRPRi1FVVpVS2JnSXNISndJRDJTUjVpVVVBektpOW1MTFZHeG5QUQ?oc=5",
-        "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWRMMTM5NmhCcVotV21JbVh0djJYZnozSUg2eUFzR2d6dEIyZ3Q1UXhHMk9mUnJUb2dzYTdNN3diWVZ1X3NBV2V2TjE3b3FmWkluX1FoV2lzYW5FUmxUM29OTHNxRllWOHVONE9mYnQyODZyaVBqZmlwcGdlejFjNGN2ejJyaXFTd2NnSmtXRHZXZw?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVBZa2NnNXZwbFdEX0lzZ2NCakVidkNTV2pjUVdaQ2dEVkhDZXFoc1IwNmQ0NlhHei1IQ1pVdWVXNGI1b25ReW9wSU5NaUFfeVNkN25WR3lhSW4tR25nTXlLb0tGMFFoV0NfVXBuc1Q1azdVc2plZ01LWU9jblZSbEN3bXpWRGhBTVhEX2JmQ0MyRlBmZVFyYVRxM3p0SmEtd3lOUFlfYw?oc=5",
-        "https://theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTkzQTR2UkhaRGRzajhCUTQtRTJ1NzhYZ3VjUVFRd296MDFXRVNPYklmUEN5cC1val90MlBTN1otVTFVam5na3RnQjNFdnZ3SnFYU3FKRHJ5eUZvZnByUFUyTlZZM2MyT0xTdGJBQzdvQnVBNmk2MEg4aEdUWWRPS25n?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzgyMWhFbW8zRnE3MU9VU0NHSjl2QmctWnBkamNmT1Bpcy1XSUpmZWFpT1JqajRrbXZEbHp4TVdzQVBVdnpiRGRaaXFwd215cU5PMExoYUs3RGluSFZMT3VOMllBT01kM25vVElfRDUtbkQtTUI0SkZpcUVUTjRHcjlfZ2x2SF9RX0xmdw?oc=5"
-      ],
-      "eventTitles": [
-        "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
-        "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ - ITmedia",
-        "Disney partners with Adobe for generative AI models - TechGig",
-        "Disney and Adobe build generative AI models for production - Tbreak UAE",
-        "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
-        "Disney, Adobe Partner on Custom AI Models for Production - The Tech Buzz",
-        "Disney steps up generative AI push with expanded Adobe collaboration (DIS:NYSE) - Seeking Alpha",
-        "Disney and Adobe are building generative AI tools together",
-        "Disney and Adobe are building generative AI tools together - The Verge",
-        "Disney Taps Adobe To Build Private Generative AI Models - Finimize"
-      ]
-    },
-    {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99736",
-      "rank": 4,
-      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "originalTitle": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform w",
-      "points": [
-        "As AI agents take on more work, they need capable open models and security that advances alongside them.",
-        "Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA Open",
-        "A key component of the NVIDIA Open Agent Safety Platform, OpenShell provides a secure runtime with sandboxed execution and policy-based controls to safeguard sensitive da"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-09T05:00:39.000Z",
-      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+      "publishedAt": "2026-11-10T22:35:01.000Z",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
       "impactScore": 89,
       "impactLabel": "特大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hak1Hd19lTFlrQkR4RUpOcWVTQWVXX0FOT0JmRDIwbVppYXJtVXhBTVNNaW54M2dRUFQ4amxSc1pqSHQyVVktZE1WU2NqSzZtNHRMZl9RYkJGUHpNRzRz?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://blogs.nvidia.com/blog/korea-secure-agentic-ai"
+        "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hak1Hd19lTFlrQkR4RUpOcWVTQWVXX0FOT0JmRDIwbVppYXJtVXhBTVNNaW54M2dRUFQ4amxSc1pqSHQyVVktZE1WU2NqSzZtNHRMZl9RYkJGUHpNRzRz?oc=5"
       ],
       "eventTitles": [
-        "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
+        "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "Generative AI-powered conversational intelligence - audio, chats supporting diverse languages - Amazon Web Services (AWS)"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-control-room",
-      "rank": 5,
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "originalTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "id": "aws-machine-learning-e67f3a0f38da6d5f16c13370534db7c14abe780a",
+      "rank": 3,
+      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "originalTitle": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "summary": "AI agents increasingly handle work that depends on what changed today, such as security advisories, product releases, prices, and regulations. A model’s training data can’t answer those questions, so agents need web search. For production use, teams also need ",
       "points": [
-        "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "AI agents increasingly handle work that depends on what changed today, such as security advisories, product releases, prices, and regulations.",
+        "A model’s training data can’t answer those questions, so agents need web search.",
+        "For production use, teams also need results they can cite, and control over which sources count."
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
       "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "url": "https://openai.com/index/control-room",
-      "impactScore": 84,
+      "category": "開発者向け",
+      "publishedAt": "2026-11-10T23:34:05.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search",
+      "impactScore": 82,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/control-room"
+        "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search"
       ],
       "eventTitles": [
-        "Control Room: A central system to track and stop model workloads across our research infrastructure"
+        "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search"
       ]
     },
     {
-      "id": "anthropic-sitemap-https-anthropic-com-claude-fable-and-mythos-5-1",
-      "rank": 6,
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "originalTitle": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "summary": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+      "id": "google-deepmind-https-deepmind-google-blog-gemini-robotics-2-5-accelerates-real-world-physical-intel",
+      "rank": 4,
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "originalTitle": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "points": [
-        "Our most advanced models for coding and knowledge work.",
-        "Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+        "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Anthropic",
+      "source": "Google DeepMind",
       "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-11-09T21:21:39.000Z",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
-      "impactScore": 79,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://anthropic.com/claude-fable-and-mythos-5-1"
-      ],
-      "eventTitles": [
-        "Introducing Claude Fable 5.1 and Claude Mythos 5.1"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3186477",
-      "rank": 7,
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "originalTitle": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "points": [
-        "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-11-09T20:09:06.000Z",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
-      "impactScore": 79,
+      "publishedAt": "2026-11-09T19:51:47.000Z",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "impactScore": 82,
       "impactLabel": "大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcEJJNVhuODlJX19LcE9DLXlUUEhvR0l6VWpHQjNZLVVTQWI4OXNkYlA2Z2dCSFVMaGtYSzB4VFpycW9WVnNoWUhLWEZ2cXRnREY0a1N0Zy0yRFoyYVlLcV80LU9RVGlsenNycTQyT3pCTGdNWngtaWl5OG1ueWFRcHhsR3RmRmI4cTVWZ2ZJUHRBSU5TUW9uR1RCa1FFYWZvcW11MmR1b1lTQnRrOEtvV3hQTVBFQ1lhX3BCdWhmX3NLd0lOX1dmaXZKRlg5OVRGZ0tMcVpPTzBROEJ2YkZLSmJVTFdINGpRZGI1YUJscFRoTW1ESTh2czEwc293RmVQSUdtYUhPaWJ4UW81NUVuTNIBlgJBVV95cUxPUGtiZlZhZGMxeXlaa0l1a0VDQ3hqbEwzNlRDdFkyTk1qX0IzMWV4RzNPT1VscXJUMDlBOF9zOWNUbjFRcE1mR1p6WmZNMW9lOVRwbmpCMGRKNDB3WkMzQnhZQ0p1MUhvVFR6VHoxcVVzLXZwSFJjdkU3Q1FPY05BRmtsMk96bVpxVVpNVE5kdFNzTERLRkxZVGJSZmdadWNlSURSOFc1MWRLU2QxZUVNb3BPUXRYODBWakpaX2tmOFFMYkVlbUZONHpaMEMtc09vbFRCN0dZdWlDdTVzSEluN0hhWmdSaVhCUmJPM0UxV2c0U0J3VTdIOGVXblN0QmdwaFVXN2N4QnA1cDZxaHBvME5qTjlPdw?oc=5"
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny"
-        },
-        {
-          "name": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUU9jeF90Z3FEWUw3cDF1MDhVOGlEUUJpOXgzLXIyZG1IVzFlYzhVOXpNU3hDUWpDWDVsbGxTZDNJM0o5Q0k3eTBLeEtxSTR6X2NzRjN0bmotOFhFUi15aWttZkIxajdGRHZjUF9WMHItNXAwbHVHSU9nUll4cFFzNS1FWFdOMmRNZWpxU190NGJxNWFaaXN6U003eWM0aEhJQ21RZjZhVFpJcVVnb2x5RnNHLVlCX1RtbkJaNUZnSEROYVdpbWREMW9yUDJWcHBMSjNmZk1HcklmeXpCcEhvMjc4bW94cnZFV3c?oc=5"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
         }
       ],
       "eventUrls": [
-        "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcEJJNVhuODlJX19LcE9DLXlUUEhvR0l6VWpHQjNZLVVTQWI4OXNkYlA2Z2dCSFVMaGtYSzB4VFpycW9WVnNoWUhLWEZ2cXRnREY0a1N0Zy0yRFoyYVlLcV80LU9RVGlsenNycTQyT3pCTGdNWngtaWl5OG1ueWFRcHhsR3RmRmI4cTVWZ2ZJUHRBSU5TUW9uR1RCa1FFYWZvcW11MmR1b1lTQnRrOEtvV3hQTVBFQ1lhX3BCdWhmX3NLd0lOX1dmaXZKRlg5OVRGZ0tMcVpPTzBROEJ2YkZLSmJVTFdINGpRZGI1YUJscFRoTW1ESTh2czEwc293RmVQSUdtYUhPaWJ4UW81NUVuTNIBlgJBVV95cUxPUGtiZlZhZGMxeXlaa0l1a0VDQ3hqbEwzNlRDdFkyTk1qX0IzMWV4RzNPT1VscXJUMDlBOF9zOWNUbjFRcE1mR1p6WmZNMW9lOVRwbmpCMGRKNDB3WkMzQnhZQ0p1MUhvVFR6VHoxcVVzLXZwSFJjdkU3Q1FPY05BRmtsMk96bVpxVVpNVE5kdFNzTERLRkxZVGJSZmdadWNlSURSOFc1MWRLU2QxZUVNb3BPUXRYODBWakpaX2tmOFFMYkVlbUZONHpaMEMtc09vbFRCN0dZdWlDdTVzSEluN0hhWmdSaVhCUmJPM0UxV2c0U0J3VTdIOGVXblN0QmdwaFVXN2N4QnA1cDZxaHBvME5qTjlPdw?oc=5",
-        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUU9jeF90Z3FEWUw3cDF1MDhVOGlEUUJpOXgzLXIyZG1IVzFlYzhVOXpNU3hDUWpDWDVsbGxTZDNJM0o5Q0k3eTBLeEtxSTR6X2NzRjN0bmotOFhFUi15aWttZkIxajdGRHZjUF9WMHItNXAwbHVHSU9nUll4cFFzNS1FWFdOMmRNZWpxU190NGJxNWFaaXN6U003eWM0aEhJQ21RZjZhVFpJcVVnb2x5RnNHLVlCX1RtbkJaNUZnSEROYVdpbWREMW9yUDJWcHBMSjNmZk1HcklmeXpCcEhvMjc4bW94cnZFV3c?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOUF5MEdTMFdUWEVUVWktd3E3Wk5YTlJUa2lFNHJ6NFhtOUQyczBMTFVxc3ZOcWpLQXRrOHFrTGJCU2pNZ0prZ0VEeGRXVU9leHdGUUo0TWV6SVJqZDJtTDBBVndzMXl0dHhwTkZNdUJWc0R2UVFXZmloMWFnZw?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGh3T1JTdlBNWjJSMWM1bTUyVXZlMlRfUElqNkk5RlZudGV3WmhYZHB6UmtBX1hjOHkwZUhZb2J5d2ZrcmZaQml0WHMtOHZHbGZHR0psNkN5Nkh1M1FjZEwtZm55dG4yZi00SE5MaEdoS0dJUGxBRWFWdF94emxIUVg3Sng0NmszQ2tqNldTdkM1YVZYZS1uZ29MamJUMktGRjNGN2U2cmJURE9fRE5yT25HRk54bTZIU1BpWkNENA?oc=5",
-        "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls",
-        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy"
+        "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot",
+        "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+        "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
       ],
       "eventTitles": [
-        "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "Alice Huang boasted about Nvidia AI chip access to investors, told them Alibaba would be a client for the - The Times of India",
-        "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-        "Alleged Chinese spy Alice Huang boasted about Nvidia AI chip access — as US officials grew concerned about smuggling - New York Post",
-        "Alice Huang Touted Nvidia Chip Access in AI Investment Pitch, FT Says - TheEnergyMag",
-        "Nvidia stock crashes 9% in worst fall since DeepSeek shock; Jensen Huang loses $15.1 billion as AI stocks tumble - IBTimes India",
-        "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
-        "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+        "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+        "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\""
       ]
     },
     {
-      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99744",
-      "rank": 8,
-      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "originalTitle": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT , joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI i",
+      "id": "simon-willison-https-simonwillison-net-2026-Nov-10-llm-gemini-",
+      "rank": 5,
+      "title": "llm-gemini 0.36",
+      "originalTitle": "llm-gemini 0.36",
+      "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 S",
       "points": [
-        "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX.",
-        "Ryu Je-myung, vice minister of science and ICT , joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and A",
-        "NVIDIA also announced an investment in Korean startup Point2 , with additional investments planned in Motif Technologies , RLWRLD and Upstage."
+        "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else .",
+        "This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in ",
+        "Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium)."
       ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "NVIDIA",
-      "sourceType": "official",
-      "category": "ビジネス",
-      "publishedAt": "2026-11-09T08:00:53.000Z",
-      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
-      "impactScore": 79,
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-10T20:09:44.000Z",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
+      "impactScore": 76,
       "impactLabel": "大",
-      "verification": "公式発表",
+      "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://blogs.nvidia.com/blog/korean-startup-investments-msit"
+        "https://simonwillison.net/2026/Nov/10/llm-gemini"
       ],
       "eventTitles": [
-        "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
+        "llm-gemini 0.36"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-10-2000003043",
-      "rank": 9,
-      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
-      "originalTitle": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
-      "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
+      "id": "google-deepmind-https-deepmind-google-blog-introducing-alphaproof-code-",
+      "rank": 6,
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "originalTitle": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
       "points": [
-        "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
+        "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-09T22:26:48.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/10/2000003043",
-      "impactScore": 78,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "テクノエッジ TechnoEdge",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qQnRaMHgwSS0xczZUQVFxRTY1MnNzbjg2S0U3QktKMkQwcHZPUmRuWFVlZ0hXLWlVUWtwWS1zNTV1Vy1rMmJuOUZPNUdFbWFiYkZvYU16VXB6SXh5aFI1ZUd6SzR6T3M?oc=5"
-        },
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DLXRQbkZ1cVhPUlFRQzlEa1FRS1M5ZzVWYkJhaVFieWtQUnlfY0thX2owSDJzb2M4ZDIydi1kb3NpTVRCVGJ0aW5Ga1BILU5XY3h2MTV3aUV0SzJlNkEzOHFzdGxOMWNIcnc?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qQnRaMHgwSS0xczZUQVFxRTY1MnNzbjg2S0U3QktKMkQwcHZPUmRuWFVlZ0hXLWlVUWtwWS1zNTV1Vy1rMmJuOUZPNUdFbWFiYkZvYU16VXB6SXh5aFI1ZUd6SzR6T3M?oc=5",
-        "https://itmedia.co.jp/news/article/2611/10/2000003043",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DLXRQbkZ1cVhPUlFRQzlEa1FRS1M5ZzVWYkJhaVFieWtQUnlfY0thX2owSDJzb2M4ZDIydi1kb3NpTVRCVGJ0aW5Ga1BILU5XY3h2MTV3aUV0SzJlNkEzOHFzdGxOMWNIcnc?oc=5"
-      ],
-      "eventTitles": [
-        "Google、第8世代TPUに機密データの推論向け「8tx」とAIエージェント向け「8i Max」を追加 - テクノエッジ TechnoEdge",
-        "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
-        "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化 - ITmedia"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-333ca621d84290b49ff9a6ae139d900744bc2faa",
-      "rank": 10,
-      "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-      "originalTitle": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-      "summary": "“How do we run our AI agents in production at scale?” is the question every customer eventually asks. It comes bundled with several questions. How do we handle thousands of concurrent user requests securely and confidently? How do we make sure the agents stay ",
-      "points": [
-        "“How do we run our AI agents in production at scale?” is the question every customer eventually asks.",
-        "It comes bundled with several questions.",
-        "How do we handle thousands of concurrent user requests securely and confidently?"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "AWS Machine Learning",
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Google DeepMind",
       "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-11-09T19:05:54.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-10T12:02:28.000Z",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
       "impactScore": 75,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore"
+        "https://deepmind.google/blog/introducing-alphaproof-code"
       ],
       "eventTitles": [
-        "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore"
+        "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3187145",
+      "rank": 7,
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "points": [
+        "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report criti",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-10T20:52:13.000Z",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect"
+      ],
+      "eventTitles": [
+        "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-090c81c3e9be757b6ab9880edbbf523fcf740c59",
+      "rank": 8,
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "originalTitle": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "summary": "Corporate treasury teams face a persistent challenge: fragmented banking data scattered across dozens of bank portals, manual reporting trapped in spreadsheets, and legacy Treasury Management Systems (TMS) that can’t scale for modern enterprise needs. For trea",
+      "points": [
+        "Corporate treasury teams face a persistent challenge: fragmented banking data scattered across dozens of bank portals, manual reporting trapped in spreadsheets, and legac",
+        "For treasury teams these manual processes create delays, errors, and an inability to make real-time cash decisions when they matter most.",
+        "Trovata is an AI-native cash and liquidity management platform with direct connections to over 10,000 banks, serving enterprises globally from a single cloud-based platfo"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-10T18:11:08.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore"
+      ],
+      "eventTitles": [
+        "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3186827",
+      "rank": 9,
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "originalTitle": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "points": [
+        "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-10T15:29:30.000Z",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXF0V096T2M5UVZkOVZSUU8wc3p6b2pDUzdBbUpGSU5qZnY1Q2pEdUZuWHRjdG94c2h5QXNuLXYwZU1Dc1ZxZWhEZWdUbzMzQVI4WUpHbXRoVUxfRXluN2htT0pyNmo4eWh3ZzdzbVY0OUd6QWFxeUdyX3lHU04waGx2akUya2pweUpRSEVaNkQzQTY0?oc=5"
+        },
+        {
+          "name": "gihyo.jp",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSnVhdVB2aFZHQnZzQ1l4SGRSYTZXY0tNVUR5LUp1aFhxQ1JncE9ya2FXc3F6SEd3SjBwQnR5eXFsNk93Ukl4b2VZeFhOaHNZZVhNODRuWENqUUhTMFJn?oc=5"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wNDJqQzFUblVHazJNRjB6Y1d2Q2F3N0NQNXF0aXYxSnY0SmdIODJhZWZwVGhRa3owRDRHYzZ5QVJYSVE2Ti1Gcnp3dm5nV0xoYTBpQ2V4UlpueUdvOW9KWmwtc3dKcEV6R0FDV3I2bTBXcUdT?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXF0V096T2M5UVZkOVZSUU8wc3p6b2pDUzdBbUpGSU5qZnY1Q2pEdUZuWHRjdG94c2h5QXNuLXYwZU1Dc1ZxZWhEZWdUbzMzQVI4WUpHbXRoVUxfRXluN2htT0pyNmo4eWh3ZzdzbVY0OUd6QWFxeUdyX3lHU04waGx2akUya2pweUpRSEVaNkQzQTY0?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSnVhdVB2aFZHQnZzQ1l4SGRSYTZXY0tNVUR5LUp1aFhxQ1JncE9ya2FXc3F6SEd3SjBwQnR5eXFsNk93Ukl4b2VZeFhOaHNZZVhNODRuWENqUUhTMFJn?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wNDJqQzFUblVHazJNRjB6Y1d2Q2F3N0NQNXF0aXYxSnY0SmdIODJhZWZwVGhRa3owRDRHYzZ5QVJYSVE2Ti1Gcnp3dm5nV0xoYTBpQ2V4UlpueUdvOW9KWmwtc3dKcEV6R0FDV3I2bTBXcUdT?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Qdk5ObXU3aUpFZndERXJ4YUtkYmR4d2J0YkdKQ1pMbXltai1iWW01TnFfUTA3aXk2c3VIWF94ejQwUkotMUpESWhjM1o0VmdpcDBTT3VNRktJZVlZQTduSXA3UGc?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKemN6d1dWRmlLVTg2aUVaY2NjcklIYXFPejVvUDlyUnBwNldianpmamU1YXFjdkdnOFdOVWpWU3c4bUtPWU93aHlSX2gzU2NmajMwRnBzRERGRmNsaF9GSmtuSnZrNUVucTNQdWtmU0xZZ3J2QUZjek84bUZHZ9IBgwFBVV95cUxNVnZLdTk3UWNnZ1VQNk9wMjlyRG1kN1p1ekhHU1g0V3d3ajVRNHoxZnNNb1MwYldydjVpVFhHRTYyQ2JIZ2V4eUgtVEhxVTlLTDZ5SldqNUt0d3RWamNFTTNEdm1acmZ3VmFpakRmbFBMMlhIYjYwazFORjhVbFhqVktNNA?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcHhyY2EyRE9QOUMwY3prUlU0TmJTNnZUTGJqTE1lQW0zZGhrZDhmSzB0X0pJZEdqQm5jaFRnVk1Ka0xJZ0NrQVdIQlBkX3haNlZJZWJZNjYyekRyWk1WWDdyOUlhU2RlaGxKTVc5T3NWVHJjVHMydFFsS0pfXy1mVkRKbExGY2h2Q1FOQVVLR044QdIBlwFBVV95cUxNMzNJQnZhYTNDY0pjMGR3R085bnRTT1l6UnJncldNMmJycjVtMmF1M2ZEbGFEdU44SHlDMnpfX2Y3QlhfUlpVMkFqRWNLUnJaS2U1ejFua1dmNGl0YlRKWFdHT05ZV2xTSWZZNF9XQ1NwZHluMFBHZ1lmMFZibVdyRmpONzI2SUZhV1k0VmtKNTFzTTdFT3ZZ?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoVWtOTUM5MWV3aDY4VEdXdDdaYXJBV1M4Z1RQdTZMLTNJMzFURUZlUmpjTTBERHE4d0NuZzJsdHhvSTRkWU12OTdMSk5vZ3NFT2dFaGNMTlc3STl3WWFvRU5wakQyVHJCQzJiZk50SdIBaEFVX3lxTE90U0ZkeGlKZGRQRXdWNV9yTjVUTVZvRTRWNFd5cm5namxMVUlzUmp4Y0FoaG5GYV83U2NpOUsxcGVMV205UHJWdkxoV0dfdFNUc0ptMGNLY0NJbE05d2FUR1ZRcUxiVUti?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81eUN0T1BMc3c3d0gzYll3SDZLM3JKMmNfNjk3UkNhamE5M3Q5bXhtbHZ6elBQRDhLTkk4RFVNTnZtLXVDay1xSUMtZm5aZTJja1VTamJHT2owUnF0WlUxM29KRkpqV3dE0gFoQVVfeXFMT3RTRmR4aUpkZFBFd1Y1X3JONVRNVm9FNFY0V3lybmdqbExVSXNSanhjQWhobkZhXzdTY2k5SzFwZUxXbTlQclZ2TGhXR190U1RzSm0wY0tjQ0lsTTl3YVRHVlFxTGJVS2I?oc=5",
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZVZaTVVyemxBS1dfanpMclZ2QU03eDU3eTZ6LWp0TGtoOHBBc0dUZGpiaEJZd0cwcEc3LWhYTDhMd3JhZ3R4VnRrVks?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWtkcHdkQnJoOGhpNHdTYl85NnBfLXhvNlB4Q01ZM3p2N3ZBTk1kSjdwTXQtZGhTQTlDS19qYUl0dS1qWmhoWkFzYXF1N3VpYWI5QTBKbVlFQmJiUGd0MERLUlByWUZWRzBFZC11d01KRTZDdk9NZlVlSnpQVmJ6OWRfV0MtYjFfdDJaYVZR?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kOTNhX3NkUWt5ZlZ0T2M0U3BHRDZnMkg1dm1zdG9JV2dHb1JkUzlqWURwd0ctRG1DdU5wMmEzR05GdFlOU1NXeFh1aWVpY2hrVklLU0VvTDlFbERNQjhsMkM0azI0em5xWFFkbXdnUFlSVUdkaHZYemdpeFU?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRlNsT1FFVnhrb2dQODFhYjhpQWtuQ0ZodllEWXJZdGpSb0hKMjdxcVpNWEdTV2ZTYnAzMXd2RzRJSDJySThBaWpsZlVTeUdudXoteG81R3JBQ0Jyc0FpT1RnQWI?oc=5"
+      ],
+      "eventTitles": [
+        "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "Meta、AIアシスタント「Muse」をApple WatchとWear OSに提供 - Mezha.net",
+        "MetaのパーソナルAIエージェント「Muse」、Apple WatchとWear OSに対応 - gihyo.jp",
+        "MetaのAIエージェント「Muse」、Apple WatchとWear OSに進出 手首から音声で操作 - BigGo ファイナンス",
+        "Meta「Muse」がApple WatchとWear OSに対応 アバターが動く - Impress Watch",
+        "Meta「Muse」がApple WatchとWear OSに対応 アバターが動く - ｄメニューニュース",
+        "MetaのAIエージェント「Muse」がApple WatchとWear OSに対応 手首から音声で呼び出し - ｄメニューニュース",
+        "MetaのAIエージェント「Muse」がApple WatchとWear OSに対応 手首から音声で呼び出し - ITmedia Mobile - ITmedia",
+        "Metaの「Muse」がApple WatchとWear OSに対応｜通話・文字・音声で話しかけられるAIアプリ - スマートウォッチライフ",
+        "Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上 (Impress Watch) - Yahoo!ニュース",
+        "Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上 - Excite エキサイト",
+        "Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上 - Impress Watch"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-78fec7a3d16c37b034f25f58b80fa621d5222843",
+      "rank": 10,
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "originalTitle": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "summary": "This post was co-written with Varun Valsan from Tata Consultancy Services (TCS). Tata Consultancy Services (TCS) runs large-scale testing for Banking, Financial Services, and Insurance (BFSI) clients, where the slowest part of a release is rarely writing appli",
+      "points": [
+        "This post was co-written with Varun Valsan from Tata Consultancy Services (TCS).",
+        "Tata Consultancy Services (TCS) runs large-scale testing for Banking, Financial Services, and Insurance (BFSI) clients, where the slowest part of a release is rarely writ",
+        "The larger constraint is the chain of work that follows: interpreting requirements, designing scenarios, writing and maintaining automation, preparing execution environme"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-10T16:59:43.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore"
+      ],
+      "eventTitles": [
+        "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore"
       ]
     }
   ]

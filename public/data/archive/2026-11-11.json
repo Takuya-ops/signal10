@@ -1,0 +1,375 @@
+{
+  "edition": "2026-11-11T06:30:00+09:00",
+  "generatedAt": "2026-11-11T01:23:25.316Z",
+  "periodStart": "2026-11-08T13:23:25.316Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 35,
+  "freshSources": 31,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 936,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-gemini-4-carbon-is-now-available-",
+      "rank": 1,
+      "title": "Gemini 4 Carbon is now available",
+      "originalTitle": "Gemini 4 Carbon is now available",
+      "summary": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+      "points": [
+        "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-10T16:03:47.000Z",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "impactScore": 92,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2611/11/2000003083"
+        },
+        {
+          "name": "jetstream.blog",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWU52TUdya1JGQkdPYXhiWUs4SkpTMUVIMGN2UGt6S0Y1dXF3OVI4NnNMWDFFRVpUZ1VEOERsV2E4dXptNHBMU0ItMF81RjhOWExKSHozOXd2TWdSUENzSzcydWlaUHduRzZCTg?oc=5"
+        },
+        {
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aHl1Nzh5ejA4eTVReHdCbDdxVElKTkZaLWdmdVdIWnhYdDJtTmswVEc5a1dqcEhJYi1BaXhDeVRZVFo2UEJJMEFBMmhueU50NFdNOXE1UTJQM3NGUl9aSkYwTTg0NlBXMmtLZWJrckthbF83ODhoRzFTdFBvVXM?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/11/2000003083",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NWU52TUdya1JGQkdPYXhiWUs4SkpTMUVIMGN2UGt6S0Y1dXF3OVI4NnNMWDFFRVpUZ1VEOERsV2E4dXptNHBMU0ItMF81RjhOWExKSHozOXd2TWdSUENzSzcydWlaUHduRzZCTg?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aHl1Nzh5ejA4eTVReHdCbDdxVElKTkZaLWdmdVdIWnhYdDJtTmswVEc5a1dqcEhJYi1BaXhDeVRZVFo2UEJJMEFBMmhueU50NFdNOXE1UTJQM3NGUl9aSkYwTTg0NlBXMmtLZWJrckthbF83ODhoRzFTdFBvVXM?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE84RkZPRGF2dDhEUnpNRF9scHprV3ZWcWcwRm5QWnZ6OHRmYVJtQy1ZQUtrY1ZkZ3FsaE1rMmdUdERER0NTQUIxWDJpaFhKN3RiUmpMcVFrWGFBc3FEMFpRcTZQMFVIWmNvazNpMw?oc=5",
+        "https://deepmind.google/blog/gemini-4-carbon-is-now-available"
+      ],
+      "eventTitles": [
+        "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+        "Google、最先端AIモデル「Gemini 4 Carbon」提供開始 - jetstream.blog",
+        "グーグル最上位AI「Carbon」が防御者限定から一般提供へ 導入価格は11月末で2倍に（ビジネス＋IT） - Yahoo!ニュース",
+        "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可 - Gizmodo",
+        "Gemini 4 Carbon is now available"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-11-ring-cameras-go-mobile-as-amazon-debuts-ai-powered-",
+      "rank": 2,
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "originalTitle": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior",
+      "points": [
+        "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices.",
+        "But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior Amazon attempt to popularize a flying sec",
+        "The Ring Rover Cam and Ring Drone Cam are expected to reach customers starting at the end of 2026 and in early 2027, respectively, according to an Amazon announcement pos"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-10T22:35:01.000Z",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+      "impactScore": 89,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hak1Hd19lTFlrQkR4RUpOcWVTQWVXX0FOT0JmRDIwbVppYXJtVXhBTVNNaW54M2dRUFQ4amxSc1pqSHQyVVktZE1WU2NqSzZtNHRMZl9RYkJGUHpNRzRz?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hak1Hd19lTFlrQkR4RUpOcWVTQWVXX0FOT0JmRDIwbVppYXJtVXhBTVNNaW54M2dRUFQ4amxSc1pqSHQyVVktZE1WU2NqSzZtNHRMZl9RYkJGUHpNRzRz?oc=5"
+      ],
+      "eventTitles": [
+        "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "Generative AI-powered conversational intelligence - audio, chats supporting diverse languages - Amazon Web Services (AWS)"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-e67f3a0f38da6d5f16c13370534db7c14abe780a",
+      "rank": 3,
+      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "originalTitle": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "summary": "AI agents increasingly handle work that depends on what changed today, such as security advisories, product releases, prices, and regulations. A model’s training data can’t answer those questions, so agents need web search. For production use, teams also need ",
+      "points": [
+        "AI agents increasingly handle work that depends on what changed today, such as security advisories, product releases, prices, and regulations.",
+        "A model’s training data can’t answer those questions, so agents need web search.",
+        "For production use, teams also need results they can cite, and control over which sources count."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-10T23:34:05.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search"
+      ],
+      "eventTitles": [
+        "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-gemini-robotics-2-5-accelerates-real-world-physical-intel",
+      "rank": 4,
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "originalTitle": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "points": [
+        "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-09T19:51:47.000Z",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot",
+        "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+        "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
+      ],
+      "eventTitles": [
+        "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+        "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\""
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Nov-10-llm-gemini-",
+      "rank": 5,
+      "title": "llm-gemini 0.36",
+      "originalTitle": "llm-gemini 0.36",
+      "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 S",
+      "points": [
+        "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else .",
+        "This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in ",
+        "Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium)."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-10T20:09:44.000Z",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Nov/10/llm-gemini"
+      ],
+      "eventTitles": [
+        "llm-gemini 0.36"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-introducing-alphaproof-code-",
+      "rank": 6,
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "originalTitle": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "points": [
+        "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-10T12:02:28.000Z",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://deepmind.google/blog/introducing-alphaproof-code"
+      ],
+      "eventTitles": [
+        "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3187145",
+      "rank": 7,
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "points": [
+        "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report criti",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-10T20:52:13.000Z",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect"
+      ],
+      "eventTitles": [
+        "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-090c81c3e9be757b6ab9880edbbf523fcf740c59",
+      "rank": 8,
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "originalTitle": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "summary": "Corporate treasury teams face a persistent challenge: fragmented banking data scattered across dozens of bank portals, manual reporting trapped in spreadsheets, and legacy Treasury Management Systems (TMS) that can’t scale for modern enterprise needs. For trea",
+      "points": [
+        "Corporate treasury teams face a persistent challenge: fragmented banking data scattered across dozens of bank portals, manual reporting trapped in spreadsheets, and legac",
+        "For treasury teams these manual processes create delays, errors, and an inability to make real-time cash decisions when they matter most.",
+        "Trovata is an AI-native cash and liquidity management platform with direct connections to over 10,000 banks, serving enterprises globally from a single cloud-based platfo"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-10T18:11:08.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore"
+      ],
+      "eventTitles": [
+        "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3186827",
+      "rank": 9,
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "originalTitle": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "points": [
+        "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-10T15:29:30.000Z",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXF0V096T2M5UVZkOVZSUU8wc3p6b2pDUzdBbUpGSU5qZnY1Q2pEdUZuWHRjdG94c2h5QXNuLXYwZU1Dc1ZxZWhEZWdUbzMzQVI4WUpHbXRoVUxfRXluN2htT0pyNmo4eWh3ZzdzbVY0OUd6QWFxeUdyX3lHU04waGx2akUya2pweUpRSEVaNkQzQTY0?oc=5"
+        },
+        {
+          "name": "gihyo.jp",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSnVhdVB2aFZHQnZzQ1l4SGRSYTZXY0tNVUR5LUp1aFhxQ1JncE9ya2FXc3F6SEd3SjBwQnR5eXFsNk93Ukl4b2VZeFhOaHNZZVhNODRuWENqUUhTMFJn?oc=5"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wNDJqQzFUblVHazJNRjB6Y1d2Q2F3N0NQNXF0aXYxSnY0SmdIODJhZWZwVGhRa3owRDRHYzZ5QVJYSVE2Ti1Gcnp3dm5nV0xoYTBpQ2V4UlpueUdvOW9KWmwtc3dKcEV6R0FDV3I2bTBXcUdT?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXF0V096T2M5UVZkOVZSUU8wc3p6b2pDUzdBbUpGSU5qZnY1Q2pEdUZuWHRjdG94c2h5QXNuLXYwZU1Dc1ZxZWhEZWdUbzMzQVI4WUpHbXRoVUxfRXluN2htT0pyNmo4eWh3ZzdzbVY0OUd6QWFxeUdyX3lHU04waGx2akUya2pweUpRSEVaNkQzQTY0?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSnVhdVB2aFZHQnZzQ1l4SGRSYTZXY0tNVUR5LUp1aFhxQ1JncE9ya2FXc3F6SEd3SjBwQnR5eXFsNk93Ukl4b2VZeFhOaHNZZVhNODRuWENqUUhTMFJn?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wNDJqQzFUblVHazJNRjB6Y1d2Q2F3N0NQNXF0aXYxSnY0SmdIODJhZWZwVGhRa3owRDRHYzZ5QVJYSVE2Ti1Gcnp3dm5nV0xoYTBpQ2V4UlpueUdvOW9KWmwtc3dKcEV6R0FDV3I2bTBXcUdT?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Qdk5ObXU3aUpFZndERXJ4YUtkYmR4d2J0YkdKQ1pMbXltai1iWW01TnFfUTA3aXk2c3VIWF94ejQwUkotMUpESWhjM1o0VmdpcDBTT3VNRktJZVlZQTduSXA3UGc?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKemN6d1dWRmlLVTg2aUVaY2NjcklIYXFPejVvUDlyUnBwNldianpmamU1YXFjdkdnOFdOVWpWU3c4bUtPWU93aHlSX2gzU2NmajMwRnBzRERGRmNsaF9GSmtuSnZrNUVucTNQdWtmU0xZZ3J2QUZjek84bUZHZ9IBgwFBVV95cUxNVnZLdTk3UWNnZ1VQNk9wMjlyRG1kN1p1ekhHU1g0V3d3ajVRNHoxZnNNb1MwYldydjVpVFhHRTYyQ2JIZ2V4eUgtVEhxVTlLTDZ5SldqNUt0d3RWamNFTTNEdm1acmZ3VmFpakRmbFBMMlhIYjYwazFORjhVbFhqVktNNA?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcHhyY2EyRE9QOUMwY3prUlU0TmJTNnZUTGJqTE1lQW0zZGhrZDhmSzB0X0pJZEdqQm5jaFRnVk1Ka0xJZ0NrQVdIQlBkX3haNlZJZWJZNjYyekRyWk1WWDdyOUlhU2RlaGxKTVc5T3NWVHJjVHMydFFsS0pfXy1mVkRKbExGY2h2Q1FOQVVLR044QdIBlwFBVV95cUxNMzNJQnZhYTNDY0pjMGR3R085bnRTT1l6UnJncldNMmJycjVtMmF1M2ZEbGFEdU44SHlDMnpfX2Y3QlhfUlpVMkFqRWNLUnJaS2U1ejFua1dmNGl0YlRKWFdHT05ZV2xTSWZZNF9XQ1NwZHluMFBHZ1lmMFZibVdyRmpONzI2SUZhV1k0VmtKNTFzTTdFT3ZZ?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoVWtOTUM5MWV3aDY4VEdXdDdaYXJBV1M4Z1RQdTZMLTNJMzFURUZlUmpjTTBERHE4d0NuZzJsdHhvSTRkWU12OTdMSk5vZ3NFT2dFaGNMTlc3STl3WWFvRU5wakQyVHJCQzJiZk50SdIBaEFVX3lxTE90U0ZkeGlKZGRQRXdWNV9yTjVUTVZvRTRWNFd5cm5namxMVUlzUmp4Y0FoaG5GYV83U2NpOUsxcGVMV205UHJWdkxoV0dfdFNUc0ptMGNLY0NJbE05d2FUR1ZRcUxiVUti?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81eUN0T1BMc3c3d0gzYll3SDZLM3JKMmNfNjk3UkNhamE5M3Q5bXhtbHZ6elBQRDhLTkk4RFVNTnZtLXVDay1xSUMtZm5aZTJja1VTamJHT2owUnF0WlUxM29KRkpqV3dE0gFoQVVfeXFMT3RTRmR4aUpkZFBFd1Y1X3JONVRNVm9FNFY0V3lybmdqbExVSXNSanhjQWhobkZhXzdTY2k5SzFwZUxXbTlQclZ2TGhXR190U1RzSm0wY0tjQ0lsTTl3YVRHVlFxTGJVS2I?oc=5",
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZVZaTVVyemxBS1dfanpMclZ2QU03eDU3eTZ6LWp0TGtoOHBBc0dUZGpiaEJZd0cwcEc3LWhYTDhMd3JhZ3R4VnRrVks?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWtkcHdkQnJoOGhpNHdTYl85NnBfLXhvNlB4Q01ZM3p2N3ZBTk1kSjdwTXQtZGhTQTlDS19qYUl0dS1qWmhoWkFzYXF1N3VpYWI5QTBKbVlFQmJiUGd0MERLUlByWUZWRzBFZC11d01KRTZDdk9NZlVlSnpQVmJ6OWRfV0MtYjFfdDJaYVZR?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kOTNhX3NkUWt5ZlZ0T2M0U3BHRDZnMkg1dm1zdG9JV2dHb1JkUzlqWURwd0ctRG1DdU5wMmEzR05GdFlOU1NXeFh1aWVpY2hrVklLU0VvTDlFbERNQjhsMkM0azI0em5xWFFkbXdnUFlSVUdkaHZYemdpeFU?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRlNsT1FFVnhrb2dQODFhYjhpQWtuQ0ZodllEWXJZdGpSb0hKMjdxcVpNWEdTV2ZTYnAzMXd2RzRJSDJySThBaWpsZlVTeUdudXoteG81R3JBQ0Jyc0FpT1RnQWI?oc=5"
+      ],
+      "eventTitles": [
+        "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "Meta、AIアシスタント「Muse」をApple WatchとWear OSに提供 - Mezha.net",
+        "MetaのパーソナルAIエージェント「Muse」、Apple WatchとWear OSに対応 - gihyo.jp",
+        "MetaのAIエージェント「Muse」、Apple WatchとWear OSに進出 手首から音声で操作 - BigGo ファイナンス",
+        "Meta「Muse」がApple WatchとWear OSに対応 アバターが動く - Impress Watch",
+        "Meta「Muse」がApple WatchとWear OSに対応 アバターが動く - ｄメニューニュース",
+        "MetaのAIエージェント「Muse」がApple WatchとWear OSに対応 手首から音声で呼び出し - ｄメニューニュース",
+        "MetaのAIエージェント「Muse」がApple WatchとWear OSに対応 手首から音声で呼び出し - ITmedia Mobile - ITmedia",
+        "Metaの「Muse」がApple WatchとWear OSに対応｜通話・文字・音声で話しかけられるAIアプリ - スマートウォッチライフ",
+        "Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上 (Impress Watch) - Yahoo!ニュース",
+        "Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上 - Excite エキサイト",
+        "Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上 - Impress Watch"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-78fec7a3d16c37b034f25f58b80fa621d5222843",
+      "rank": 10,
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "originalTitle": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "summary": "This post was co-written with Varun Valsan from Tata Consultancy Services (TCS). Tata Consultancy Services (TCS) runs large-scale testing for Banking, Financial Services, and Insurance (BFSI) clients, where the slowest part of a release is rarely writing appli",
+      "points": [
+        "This post was co-written with Varun Valsan from Tata Consultancy Services (TCS).",
+        "Tata Consultancy Services (TCS) runs large-scale testing for Banking, Financial Services, and Insurance (BFSI) clients, where the slowest part of a release is rarely writ",
+        "The larger constraint is the chain of work that follows: interpreting requirements, designing scenarios, writing and maintaining automation, preparing execution environme"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-10T16:59:43.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore"
+      ],
+      "eventTitles": [
+        "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore"
+      ]
+    }
+  ]
+}
