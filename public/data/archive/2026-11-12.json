@@ -1,0 +1,393 @@
+{
+  "edition": "2026-11-12T06:30:00+09:00",
+  "generatedAt": "2026-11-12T02:23:21.985Z",
+  "periodStart": "2026-11-09T14:23:21.985Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 42,
+  "freshSources": 38,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 1587,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "google-ai-https-blog-google-innovation-and-ai-technology-developers-tools-gemini-decisions-api-",
+      "rank": 1,
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "originalTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "points": [
+        "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Google AI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "impactScore": 100,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/aiplus/article/2611/12/2000003123"
+        },
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUN0STFDMFoyOUhGb3NLYkxCZkgyRlk3dDlSc1EwSktkdXVQakJjNER4czR6VERueGpSSi1QTkpKd2RCZmJWMEdrLURPNVhPOEhITG5rbVBZMlcwal9SVklydWoyX0Y3MkVuRnJSc0UxY28ybm80cWVqSGdKcmtmNUhHdw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/aiplus/article/2611/12/2000003123",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUN0STFDMFoyOUhGb3NLYkxCZkgyRlk3dDlSc1EwSktkdXVQakJjNER4czR6VERueGpSSi1QTkpKd2RCZmJWMEdrLURPNVhPOEhITG5rbVBZMlcwal9SVklydWoyX0Y3MkVuRnJSc0UxY28ybm80cWVqSGdKcmtmNUhHdw?oc=5",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api"
+      ],
+      "eventTitles": [
+        "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+        "GoogleがGemini Decisions APIを公開、入力100万トークンあたり0.10ドル - Pasquale Pillitteri",
+        "Gemini Decisions API: Fast, calibrated multimodal decisions"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-843b103fd6b2a85ee84c6248187646fe49551f31",
+      "rank": 2,
+      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "originalTitle": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "summary": "Silent data corruption (SDC) happens when hardware, such as a GPU, returns a wrong but plausible number and raises no error. In distributed training, the wrong number can flow into the gradients and weights of every replica. Loss can still look normal for hour",
+      "points": [
+        "Silent data corruption (SDC) happens when hardware, such as a GPU, returns a wrong but plausible number and raises no error.",
+        "In distributed training, the wrong number can flow into the gradients and weights of every replica.",
+        "Loss can still look normal for hours, and by the time a team notices an unexplained divergence or a weaker model, the compute is spent."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-11T23:30:03.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [
+        {
+          "name": "AWS Machine Learning",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming"
+        }
+      ],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
+        "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming",
+        "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart"
+      ],
+      "eventTitles": [
+        "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+        "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+        "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-811b8dfa171613df698db45e0ea693304815500b",
+      "rank": 3,
+      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "originalTitle": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "summary": "AI agents and applications that answer questions about recent events, product releases, prices, or regulations need information newer than their model’s training data. Until now, Web Search on Amazon Bedrock AgentCore delivered that information to agents throu",
+      "points": [
+        "AI agents and applications that answer questions about recent events, product releases, prices, or regulations need information newer than their model’s training data.",
+        "Until now, Web Search on Amazon Bedrock AgentCore delivered that information to agents through AgentCore Gateway , a capability of Amazon Bedrock AgentCore.",
+        "That means creating a gateway and a web search target and calling the tool from an MCP client."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-11T23:13:16.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore"
+      ],
+      "eventTitles": [
+        "Introducing the Web Search API on Amazon Bedrock AgentCore"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-12-2000003127",
+      "rank": 4,
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
+      "originalTitle": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
+      "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+      "points": [
+        "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-12T01:49:56.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/12/2000003127",
+      "impactScore": 78,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/12/2000003127"
+      ],
+      "eventTitles": [
+        "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-cogent-security",
+      "rank": 5,
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "originalTitle": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "points": [
+        "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "url": "https://openai.com/index/cogent-security",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOW1Sd1paT0lxQ3JnX0VRaUZuWnd1RkEzNFRteVlKS3BQaHVRS3JIVzZTVU9pbjRDWWNMX3dGenVBTDE2a2d4T2RPbDhBV1NXRnluQm5zTU9fcWxjS3ZQY3R5SWpuQWUzdDZBTnR1VkRkYmo0?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOW1Sd1paT0lxQ3JnX0VRaUZuWnd1RkEzNFRteVlKS3BQaHVRS3JIVzZTVU9pbjRDWWNMX3dGenVBTDE2a2d4T2RPbDhBV1NXRnluQm5zTU9fcWxjS3ZQY3R5SWpuQWUzdDZBTnR1VkRkYmo0?oc=5",
+        "https://openai.com/index/cogent-security"
+      ],
+      "eventTitles": [
+        "CogentとOpenAI、AIによる「サイバー防衛工場」を展開、機械的スピードで脆弱性を修正 - BigGo ファイナンス",
+        "Cogent and OpenAI build cyber defense factories for enterprises"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-laodong-vn-58b452040e3ec98ef534",
+      "rank": 6,
+      "title": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
+      "originalTitle": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
+      "summary": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia Laodong.vn",
+      "points": [
+        "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia Laodong.vn",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Laodong.vn",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-11T23:42:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGxQYURXWk0zcDV6WEVNOFNlbXpVTmh3R09YeGRZb21RU0tYSUg1VUJuN0dEZ1k3QTdwekNvQnd3dnpYVGNBT0tpamVUZktvUWZIZnlheFJ2SEZ0RDVBbWI5UFZTNnpwZVBUWjlVZTB0cVNXYnprODFObkVlQU9tYVp0eTlUMzJTeUhkRUM0eWpqeDhRcjl6bGdaSmNJT0JBRmVCZEU2b0xUSzRYUmF4SzNXd3BYNTVYVkNTQkJtSQ?oc=5",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjNrQ1ktWDJ5Vy1hakF2ZkZjUkpUZEM4b3ZheG93Z2ZLT1czdGUyR1VtM3d2YlA0Rks3NE9HRWxzdkV5RUxvbnpETTJEZWNNRzVEX3NjVFNBZzAxek00dXR2NlJSVGY1OHZmQVFkMnNNQkUyaWRCdmtQR3JJU3pZYmk2VTNzQm9IVXh3MGh6MkpZSEY1YWoxdlVjMVNsY1BpWXhUUmlkSdIBtAFBVV95cUxPZUF4eEhpcS1hZDRqWlRWblhPbV9maUZRbGxLZmxvVUgwdkI3aHMzOXRSdmN5WlVfMU9yYzdQUWYySUhXNW1PZWR6MTZ5OTRkRGcwVS1Jazh5WGdIZUNqd04wMFpnWEZwcmphbUZsOFI0eWR0R2gzVWNLWUpkMG05X1VtVmxRbVVvVng0NjU0cmxaYjliZHB5ekpVYUVYSGdwWXVBVHBxQ0RSX3UxaHNLWXZKcU0?oc=5"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2NtUUdPWmREYmw4WjlrS1RkR1NuNVkyMk9oU1I4QzZZTjhJVHVscmNFZWhJVUhYTTk5TEY3dnlGOGRqMkFpN0dtNlA4WHdLUVlzdzlLOUZ3eGsybm5PcHpEN2JCQ3VFODVrVExUbVdmRGF1Z0ZVTFEwSUpQTFpDWFQ5TDFWRHRTY2pIZEI1UERBV0dBUnh3OHpyVG1CMjh4elBWMDI2Q3Q0VU9MRzVZdkZnMTZkdnZFVXlLM2VmVEtkVWN2OGFFWFRoR3hWM0RZ?oc=5"
+        },
+        {
+          "name": "The 420.in",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTlOSF8wSXpfLXNzeExKbEc1dWhNQzYwQ0dLNHFuQTNMd1hQb0VmX052dUtDTlBXR2ptZFZ3TndLbmlJc2ZLOGFEWnJuNXk0V25sOVNGQmdpcXlyRjdDZTVpZGxGelBsYWV2R1BvbjlLbXJLWGZhSUloUnVvUE45V3NmOHotYTVGOGZ4RmVQeThrUTRpeE9DZQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGxQYURXWk0zcDV6WEVNOFNlbXpVTmh3R09YeGRZb21RU0tYSUg1VUJuN0dEZ1k3QTdwekNvQnd3dnpYVGNBT0tpamVUZktvUWZIZnlheFJ2SEZ0RDVBbWI5UFZTNnpwZVBUWjlVZTB0cVNXYnprODFObkVlQU9tYVp0eTlUMzJTeUhkRUM0eWpqeDhRcjl6bGdaSmNJT0JBRmVCZEU2b0xUSzRYUmF4SzNXd3BYNTVYVkNTQkJtSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjNrQ1ktWDJ5Vy1hakF2ZkZjUkpUZEM4b3ZheG93Z2ZLT1czdGUyR1VtM3d2YlA0Rks3NE9HRWxzdkV5RUxvbnpETTJEZWNNRzVEX3NjVFNBZzAxek00dXR2NlJSVGY1OHZmQVFkMnNNQkUyaWRCdmtQR3JJU3pZYmk2VTNzQm9IVXh3MGh6MkpZSEY1YWoxdlVjMVNsY1BpWXhUUmlkSdIBtAFBVV95cUxPZUF4eEhpcS1hZDRqWlRWblhPbV9maUZRbGxLZmxvVUgwdkI3aHMzOXRSdmN5WlVfMU9yYzdQUWYySUhXNW1PZWR6MTZ5OTRkRGcwVS1Jazh5WGdIZUNqd04wMFpnWEZwcmphbUZsOFI0eWR0R2gzVWNLWUpkMG05X1VtVmxRbVVvVng0NjU0cmxaYjliZHB5ekpVYUVYSGdwWXVBVHBxQ0RSX3UxaHNLWXZKcU0?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2NtUUdPWmREYmw4WjlrS1RkR1NuNVkyMk9oU1I4QzZZTjhJVHVscmNFZWhJVUhYTTk5TEY3dnlGOGRqMkFpN0dtNlA4WHdLUVlzdzlLOUZ3eGsybm5PcHpEN2JCQ3VFODVrVExUbVdmRGF1Z0ZVTFEwSUpQTFpDWFQ5TDFWRHRTY2pIZEI1UERBV0dBUnh3OHpyVG1CMjh4elBWMDI2Q3Q0VU9MRzVZdkZnMTZkdnZFVXlLM2VmVEtkVWN2OGFFWFRoR3hWM0RZ?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTlOSF8wSXpfLXNzeExKbEc1dWhNQzYwQ0dLNHFuQTNMd1hQb0VmX052dUtDTlBXR2ptZFZ3TndLbmlJc2ZLOGFEWnJuNXk0V25sOVNGQmdpcXlyRjdDZTVpZGxGelBsYWV2R1BvbjlLbXJLWGZhSUloUnVvUE45V3NmOHotYTVGOGZ4RmVQeThrUTRpeE9DZQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHhrVHVKeGtsdDM0Y29GODdPX1haRktsQWFULTZrRmVnQkJqa1dmempYbTR4aElNTmtnOERfaExOVVhGS1RNdDZQeXpGUHloQno5ZlkzNDI4WTg2TXBLRUNWaEY3M2llSVI0TW9UQVYxb2dfMHNrNV9JdFRDcU90R3MyVmw2T2lZQ0Y2Rkhpem1OdU1IVDdEUEM0OEJfd25TYXh3NnBFTEVQamwzM2x4aWtNQzVmX2RnelFVNThKX05PandraWJkOHhYakJVdFRCZTQzcHc4Uk1vZ1paUXNpVHdTNURiWThoZlNDX1N1VC1SeWFnVGllcXFR0gH_AUFVX3lxTE44NVpPcmpFRllvOC14QXN0ZkMtZlFReXlqbE10VF8xVjc4Z3dyVGdWWXJjeHk4UlpKMjRZWXYwRU9QMU02TVlLQlhFc2l5VFhWc01rMGpjODZOT0lKWEd2SlZrTjBvQWNzZkhFT25uNE1xU3B3d0RKYzh2bmIyWkQwTm9STXVGS2JpR0FoVnBzTmNVVjlpWWNha2d3NUg3WkRyQnpPUFRqNHVpWUd2czU0R1JEcC1yYmZDQzFMS081NElWWGVHNzc1a2xoM0dLajMyaGlfeWVQX2tUZWhKNWhsRjV0TkZwc2xJTXJVRlBkQmZ0TzVCbkctU2NKZmNfTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcGVhWHR6TC11MWZPbEtpOGJueHZ1V2dtRTJoSVNsTGlGTDJjSE1pTlRuR0w0bk1FMFFvemI0VVdLWEl3c1pYV3h1SXQ0eEFGRk1pMkJSbWdBNE5fYXpwc29GOEI4ZmRuenBab2psRk5WVG5tRDMtYXpNeUxyeW8?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWU1lVlRhblptb1B3NUlSOW1WU0R5TUNsZG1RWWlPLWJsbk55aW1rTlhSTTFuM3V6NkRBOUUzOURaYVBxMkluclVSVUpQdEttdFpZS3c3QW9DOHluY0JuTnJCdUhKSUYydVBoblZ5dHJiam16OXh3V19SMmotZ1pPU1JqNkFQMGkxQjNJYTdnR2tyZ1ZCR0dhcDJBenNlZFEwby1DbVFFeHhvQWRfel9PLUJvVjhlenNwcS1odHJGNHJYZ9IBxwFBVV95cUxPMHZRTDM4bWpnRDRjdnRiaUNFcFBFNFNMa2dUY2d3bEh0UUttR3Z2OFJOUzA0RHU3Y1pJWjFaVlFxTWpEMVRveVA2anRxdTBSV3h4NHI2UXNRUlN5Tk90M3FHbTFxV0UzYjZVUGhjLXFoX0M1ZjR0d09CaUNNb2FCaVBGenNfLXB6Y3BBc01mQ3VfY2VHYno5MVl5SlVDVTJRYy1kMEt1TEpGNzAtNGd0bVU0dzhZa0prMUJ4LUwyOUlTR3dRTVlZ?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5",
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeE1QR2tPX0w5VVZFUXpzS0RzellaMlB3azR1Y3AtUXhRMVJHeDJlXzFqYkdCY3NlLW15VmF4REw4NHA1NEk2Y3dsM21SU0F6MGRFQS1UUVVmQmFLT3ZCelowYTh2aGc0VUc4NnZMWjRRWjl1dk1pWDNGUE84OG1CbzBRRXFQV3N2TDc2bTVLazFCVEZocVBneWxkazlsalBRb2NFUm9aXzdmSzR1UDJCeFRUWkQxdUpSM0R4SC1sd19IeDZTaFdlZFRKb1oydWpMSUFmRlZOQkY2UGtobnNOWlQ3TnQ1M0liemM5Rw?oc=5"
+      ],
+      "eventTitles": [
+        "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
+        "Meta, TikTok Join Google to Oppose Indonesia’s AI Copyright Law Plan - Analytics Insight",
+        "Meta, TikTok Join Google Against Indonesia's Proposed Revisions to AI Copyright Law - marketscreener.com",
+        "Google, Meta And TikTok Oppose Indonesia’s Proposed AI Copyright Law Changes - The 420.in",
+        "Meta, Google Don't Want To Pay Publishers: How Indonesia's AI Copyright Plan Is Putting Big Tech On Edge - Times Now",
+        "Meta and TikTok join Google to fight Indonesia’s AI copyright bill - The Next Web",
+        "Meta, TikTok and Google push back against Indonesia’s proposed AI copyright rules - Firstpost",
+        "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions - Reuters",
+        "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions - TradingView"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-gbhackers-news-52b946aef2a862d1075a",
+      "rank": 7,
+      "title": "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... - GBHackers News",
+      "originalTitle": "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... - GBHackers News",
+      "summary": "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... GBHackers News",
+      "points": [
+        "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St...",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "GBHackers News",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-11T20:45:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxQVJ2LXBkb1J2ZzNfOE5ZXzE3XzdDMGliNXEzTkhrcFN5SHNSNksxdm80c25Wc3NZSU1fV2xBR2tUaExmeUNXeDdEeVlhMkM1RUxfMktTWdIBXEFVX3lxTE5sc2JtWjV5ZWk0U1daUTV4bGVpN0dId1lnRnotbmlRMlh3VjRwVGZaS2hIQ29GS2V1eURqNVNBcUgtLXFJVTNYSXJfWmRQY3FZMnc1dlZrSk1rcXEt?oc=5",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "CyberSecurityNews",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSVVXQXdoSXFuYUNhMVdXVm1MYlJKQ21PTEdNVlRESmxWZFlJUHY1UkxMeW1fc2VTVk1DLUdySGRJUXRjcTIwcjZoNFpuTUFGOWFYeU9VdnRqUkxkakHSAWNBVV95cUxNZ3ZSdWIxN3JQTkNnRHc0LVZqRUZRUUhwUUZlWXd3Ym5XTlY3MHBJamZrVHpBaGxVeXhLUlQxNzltdmhYTGIwU2NnSVlMYVZVMXlZZUpVQmpuXzFRWmlIQkRBRm8?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxQVJ2LXBkb1J2ZzNfOE5ZXzE3XzdDMGliNXEzTkhrcFN5SHNSNksxdm80c25Wc3NZSU1fV2xBR2tUaExmeUNXeDdEeVlhMkM1RUxfMktTWdIBXEFVX3lxTE5sc2JtWjV5ZWk0U1daUTV4bGVpN0dId1lnRnotbmlRMlh3VjRwVGZaS2hIQ29GS2V1eURqNVNBcUgtLXFJVTNYSXJfWmRQY3FZMnc1dlZrSk1rcXEt?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSVVXQXdoSXFuYUNhMVdXVm1MYlJKQ21PTEdNVlRESmxWZFlJUHY1UkxMeW1fc2VTVk1DLUdySGRJUXRjcTIwcjZoNFpuTUFGOWFYeU9VdnRqUkxkakHSAWNBVV95cUxNZ3ZSdWIxN3JQTkNnRHc0LVZqRUZRUUhwUUZlWXd3Ym5XTlY3MHBJamZrVHpBaGxVeXhLUlQxNzltdmhYTGIwU2NnSVlMYVZVMXlZZUpVQmpuXzFRWmlIQkRBRm8?oc=5"
+      ],
+      "eventTitles": [
+        "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... - GBHackers News",
+        "Hackers Use 1,438 Fake FOFA Accounts to Steal OpenAI and DeepSeek API Keys Across the Internet - CyberSecurityNews"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-12-2000003126",
+      "rank": 8,
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
+      "originalTitle": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
+      "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+      "points": [
+        "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-12T00:56:17.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/12/2000003126",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81V1VhX1dKT3I1SEl3VGtubWlzaUk3ZkRZV3J2U0p3MVBNYUZxRDNKXzlOaVFmSS1jRmhGaHIwdmVxUU83aW1pVHJ0NDZ0T25WYVlMUjJUc0g5a3U2Ni1xX2FQZzBaQmxOOGc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/12/2000003126",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE81V1VhX1dKT3I1SEl3VGtubWlzaUk3ZkRZV3J2U0p3MVBNYUZxRDNKXzlOaVFmSS1jRmhGaHIwdmVxUU83aW1pVHJ0NDZ0T25WYVlMUjJUc0g5a3U2Ni1xX2FQZzBaQmxOOGc?oc=5"
+      ],
+      "eventTitles": [
+        "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
+        "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述 - ITmedia"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-gilbert-tobin-sam-nickless",
+      "rank": 9,
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "originalTitle": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "points": [
+        "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/gilbert-tobin-sam-nickless"
+      ],
+      "eventTitles": [
+        "Gilbert + Tobin rethinks the business of law with AI"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3187116",
+      "rank": 10,
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "originalTitle": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "points": [
+        "OpenAI has not yet said what its plans are for the future of travel.",
+        "But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-10T21:08:52.000Z",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "CNET Japan",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95MHphMzBoSExCZGVnbWstSG1fNEhMQUVieS01dExYV0tZT3hfM2VabElqd2pFTHNScUw0dXlMX04wM3U3WXE3c21JaHQ4ZWZCV1E?oc=5"
+        },
+        {
+          "name": "XenoSpectrum",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMR0xoYnNqNEt2b3V5MU94Wm9zN2VkLXlPVklkaU9zWWJQdEk5ejFqUVRTTVNjaHlOZ2x3ZWViWms0T2tpX0JXZXYxYTN2a21jaVNVSEQ1S1N4eF9adWRNZzRQWjBfcHBMZFdR?oc=5"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hTXZGX25aR2dmNXFwUi1ZZlhNVnVCMDZIZHZQcTlYMGplckNWZllsMjd5SUhMOGM5dUZHNW9CelBTck9XX2VpNFRZM0ZMeUVBQy1GUW5DUmVudnR4QzA4RVlXWUhjZWI3N3JyWkdxb0c0UHBD?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95MHphMzBoSExCZGVnbWstSG1fNEhMQUVieS01dExYV0tZT3hfM2VabElqd2pFTHNScUw0dXlMX04wM3U3WXE3c21JaHQ4ZWZCV1E?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMR0xoYnNqNEt2b3V5MU94Wm9zN2VkLXlPVklkaU9zWWJQdEk5ejFqUVRTTVNjaHlOZ2x3ZWViWms0T2tpX0JXZXYxYTN2a21jaVNVSEQ1S1N4eF9adWRNZzRQWjBfcHBMZFdR?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hTXZGX25aR2dmNXFwUi1ZZlhNVnVCMDZIZHZQcTlYMGplckNWZllsMjd5SUhMOGM5dUZHNW9CelBTck9XX2VpNFRZM0ZMeUVBQy1GUW5DUmVudnR4QzA4RVlXWUhjZWI3N3JyWkdxb0c0UHBD?oc=5",
+        "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjh5ZDAzcDJaeWhKWko2UFlyS3VEc0ZTaUtsR3ZrS2toVWFhT3MtZzNRQkJNQkJQMWd1LU00YmlxMmxVdFBsTUh1b0lRelRvMWs0QmNXSzA3V2ZVaUwtdWtuVlFkQjM2WHdkdWJUbmdYZ2pRLVdWNWhsS2tNRGprNy1IcExhUkxCVUFCTEdGNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDkwSVVYRHc4MUF1b2tXaUdTWjN5YnpLcWdtZmwyZWdDRUlNbDdDNW5Tc010VXBXVGx3eUh0Y05KazN0Q1lJSHFsWVhFQ24zWmp1VmxBVHg2SUpEamFfM0FiTGk1eURTSUxCTkt5dlFjS3FBa05qdUFTcEZvTWVxMThKVmxBSUFPT0pF?oc=5"
+      ],
+      "eventTitles": [
+        "OpenAI、AI旅行サービス「Odessia」を買収 - CNET Japan",
+        "OpenAIが旅行AI「Odessia」を買収、好みを記憶して予約までこなすAIエージェントの開発者を獲得 - XenoSpectrum",
+        "OpenAI、AI旅行エージェントのOdessiaを買収－オンライン旅行株が下落 - BigGo ファイナンス",
+        "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "OpenAIがAI旅行エージェントOdessiaを買収、Sonder共同創業者が合流 - Pasquale Pillitteri",
+        "OpenAI、AI旅行スタートアップOdessiaを買収 創業者も参加へ - Unite.AI"
+      ]
+    }
+  ]
+}
