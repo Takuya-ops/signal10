@@ -1,392 +1,367 @@
 {
-  "edition": "2026-11-12T06:30:00+09:00",
-  "generatedAt": "2026-11-12T02:23:21.985Z",
-  "periodStart": "2026-11-09T14:23:21.985Z",
+  "edition": "2026-11-13T06:30:00+09:00",
+  "generatedAt": "2026-11-13T02:01:47.403Z",
+  "periodStart": "2026-11-10T14:01:47.403Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 42,
-  "freshSources": 38,
+  "successfulSources": 39,
+  "freshSources": 35,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1587,
+  "candidateCount": 1421,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-ai-https-blog-google-innovation-and-ai-technology-developers-tools-gemini-decisions-api-",
+      "id": "google-deepmind-https-deepmind-google-blog-introducing-gemini-4-hydrogen-",
       "rank": 1,
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "originalTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "originalTitle": "Introducing Gemini 4 Hydrogen",
+      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
       "points": [
-        "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Google AI",
+      "source": "Google DeepMind",
       "sourceType": "official",
       "category": "モデル",
-      "publishedAt": "2026-11-11T18:00:00.000Z",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "publishedAt": "2026-11-12T18:00:50.000Z",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
       "impactScore": 100,
       "impactLabel": "特大",
       "verification": "複数ソース",
       "relatedSources": [
         {
+          "name": "ビジネス+IT",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlpYYnRYMXJrUFEtcEVxTnpqZHlIN3BHWmpIbF9STUxlYlNXVUlHakkwT1RFZ2tMU3NnYXZIbkZrYWxoWEl5OXA2UlExbEkzeUZR?oc=5"
+        },
+        {
           "name": "ITmedia AI+",
-          "url": "https://itmedia.co.jp/aiplus/article/2611/12/2000003123"
+          "url": "https://itmedia.co.jp/news/article/2611/13/2000003162"
         },
         {
-          "name": "Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUN0STFDMFoyOUhGb3NLYkxCZkgyRlk3dDlSc1EwSktkdXVQakJjNER4czR6VERueGpSSi1QTkpKd2RCZmJWMEdrLURPNVhPOEhITG5rbVBZMlcwal9SVklydWoyX0Y3MkVuRnJSc0UxY28ybm80cWVqSGdKcmtmNUhHdw?oc=5"
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTEZkMlV4UkQweC0zUEZuUG5zRUJ0TzduNExRSTJSbDVRU2NrSnotR1ZjcXRZZllJN1puZkItTEJZT2Nid2JOdGgyTlp0eVgxcUdTS3FvQXdKNVlfd3hzQlZXdkk2bDZxcUE?oc=5"
         }
       ],
       "eventUrls": [
-        "https://itmedia.co.jp/aiplus/article/2611/12/2000003123",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUN0STFDMFoyOUhGb3NLYkxCZkgyRlk3dDlSc1EwSktkdXVQakJjNER4czR6VERueGpSSi1QTkpKd2RCZmJWMEdrLURPNVhPOEhITG5rbVBZMlcwal9SVklydWoyX0Y3MkVuRnJSc0UxY28ybm80cWVqSGdKcmtmNUhHdw?oc=5",
-        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api"
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlpYYnRYMXJrUFEtcEVxTnpqZHlIN3BHWmpIbF9STUxlYlNXVUlHakkwT1RFZ2tMU3NnYXZIbkZrYWxoWEl5OXA2UlExbEkzeUZR?oc=5",
+        "https://itmedia.co.jp/news/article/2611/13/2000003162",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTEZkMlV4UkQweC0zUEZuUG5zRUJ0TzduNExRSTJSbDVRU2NrSnotR1ZjcXRZZllJN1puZkItTEJZT2Nid2JOdGgyTlp0eVgxcUdTS3FvQXdKNVlfd3hzQlZXdkk2bDZxcUE?oc=5",
+        "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch",
+        "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZnBCNWUxSXVDU0JNVV9UY1UyV1J2SU92cGJWVmJGWEhvZlNlbDRPVGtvemo4MzVHWXFqelE2REw5YzY0aVNoanVmOGcxV3pPdU5LU1AzeUVyUDB2Wk9aeGpR?oc=5",
+        "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+        "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlYyd3M2ckVLTlE1d3dkZzlPSW5XT004SkppeUMtSHhOX2JHcDFxU1JHbUxQSVVrS2YzeXYtVFRfQVJabnhqNE5nZ2dQUWYwdDZlU3M2VlVFTHdzeWlRQUxrS0hHdHBkVzZGdks3QWN1QlR4T0NMVHB0U3ZiRnFrTC1CZjJIb0FiemJRX3k0Uk5wZw?oc=5",
+        "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions"
       ],
       "eventTitles": [
-        "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
-        "GoogleがGemini Decisions APIを公開、入力100万トークンあたり0.10ドル - Pasquale Pillitteri",
-        "Gemini Decisions API: Fast, calibrated multimodal decisions"
+        "グーグル、Argon超えの高速AI「Gemini 4 Hydrogen」発表 入力100万トークン1.50ドル - ビジネス+IT",
+        "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+        "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能 - ITmedia",
+        "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+        "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+        "3.8 Flash後継「Gemini 4 Hydrogen」提供開始 - Jetstream",
+        "Introducing Gemini 4 Hydrogen",
+        "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "Google Search Console Generative AI Performance Report Data Bug November 9 - 11 - Search Engine Roundtable",
+        "Google’s latest Search upgrade promises better answers to your most complicated questions"
       ]
     },
     {
-      "id": "aws-machine-learning-843b103fd6b2a85ee84c6248187646fe49551f31",
+      "id": "aws-machine-learning-d27fba94181475674c8d9e0d16f89e5b62d0fc4a",
       "rank": 2,
-      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
-      "originalTitle": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
-      "summary": "Silent data corruption (SDC) happens when hardware, such as a GPU, returns a wrong but plausible number and raises no error. In distributed training, the wrong number can flow into the gradients and weights of every replica. Loss can still look normal for hour",
+      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "originalTitle": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "summary": "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with Annapurna Labs. With SGLang-Neuron, you can serve models and generate reinforcement learning",
       "points": [
-        "Silent data corruption (SDC) happens when hardware, such as a GPU, returns a wrong but plausible number and raises no error.",
-        "In distributed training, the wrong number can flow into the gradients and weights of every replica.",
-        "Loss can still look normal for hours, and by the time a team notices an unexplained divergence or a weaker model, the compute is spent."
+        "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with An",
+        "With SGLang-Neuron, you can serve models and generate reinforcement learning (RL) rollouts with SGLang on AWS Trainium using the same SGLang interface you use today.",
+        "Trainium is a portfolio of AWS AI chips that delivers strong economics for AI training and inference at scale."
       ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
       "source": "AWS Machine Learning",
       "sourceType": "official",
       "category": "プロダクト",
-      "publishedAt": "2026-11-11T23:30:03.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
-      "impactScore": 82,
+      "publishedAt": "2026-11-12T22:03:34.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
+      "impactScore": 81,
       "impactLabel": "大",
       "verification": "公式発表",
-      "relatedSources": [
-        {
-          "name": "AWS Machine Learning",
-          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming"
-        }
-      ],
+      "relatedSources": [],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
-        "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming",
-        "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart"
+        "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron"
       ],
       "eventTitles": [
-        "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
-        "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
-        "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart"
+        "Deploy frontier AI models on AWS Trainium with SGLang-Neuron"
       ]
     },
     {
-      "id": "aws-machine-learning-811b8dfa171613df698db45e0ea693304815500b",
+      "id": "google-deepmind-https-deepmind-google-blog-alphagenome-2-deciphering-how-cells-read-dna-to-better-un",
       "rank": 3,
-      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
-      "originalTitle": "Introducing the Web Search API on Amazon Bedrock AgentCore",
-      "summary": "AI agents and applications that answer questions about recent events, product releases, prices, or regulations need information newer than their model’s training data. Until now, Web Search on Amazon Bedrock AgentCore delivered that information to agents throu",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "originalTitle": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "points": [
-        "AI agents and applications that answer questions about recent events, product releases, prices, or regulations need information newer than their model’s training data.",
-        "Until now, Web Search on Amazon Bedrock AgentCore delivered that information to agents through AgentCore Gateway , a capability of Amazon Bedrock AgentCore.",
-        "That means creating a gateway and a web search target and calling the tool from an MCP client."
+        "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "AWS Machine Learning",
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Google DeepMind",
       "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-11T23:13:16.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore",
-      "impactScore": 82,
+      "category": "研究",
+      "publishedAt": "2026-11-11T15:00:15.000Z",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "impactScore": 79,
       "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2"
+        },
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2611/12/2000003132"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+        }
+      ],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore"
+        "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2",
+        "https://itmedia.co.jp/news/article/2611/12/2000003132",
+        "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+        "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
       ],
       "eventTitles": [
-        "Introducing the Web Search API on Amazon Bedrock AgentCore"
+        "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+        "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
+        "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "Google’s AlphaGenome 2 zooms in on the cellular roots of disease"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-12-2000003127",
+      "id": "openai-https-openai-com-business-customer-stories-amplitude",
       "rank": 4,
-      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
-      "originalTitle": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
-      "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "originalTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "points": [
-        "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-11-12T01:49:56.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/12/2000003127",
-      "impactScore": 78,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://itmedia.co.jp/news/article/2611/12/2000003127"
-      ],
-      "eventTitles": [
-        "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-index-cogent-security",
-      "rank": 5,
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "originalTitle": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "points": [
-        "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-11-10T00:00:00.000Z",
-      "url": "https://openai.com/index/cogent-security",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "BigGo ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOW1Sd1paT0lxQ3JnX0VRaUZuWnd1RkEzNFRteVlKS3BQaHVRS3JIVzZTVU9pbjRDWWNMX3dGenVBTDE2a2d4T2RPbDhBV1NXRnluQm5zTU9fcWxjS3ZQY3R5SWpuQWUzdDZBTnR1VkRkYmo0?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOW1Sd1paT0lxQ3JnX0VRaUZuWnd1RkEzNFRteVlKS3BQaHVRS3JIVzZTVU9pbjRDWWNMX3dGenVBTDE2a2d4T2RPbDhBV1NXRnluQm5zTU9fcWxjS3ZQY3R5SWpuQWUzdDZBTnR1VkRkYmo0?oc=5",
-        "https://openai.com/index/cogent-security"
-      ],
-      "eventTitles": [
-        "CogentとOpenAI、AIによる「サイバー防衛工場」を展開、機械的スピードで脆弱性を修正 - BigGo ファイナンス",
-        "Cogent and OpenAI build cyber defense factories for enterprises"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-laodong-vn-58b452040e3ec98ef534",
-      "rank": 6,
-      "title": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
-      "originalTitle": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
-      "summary": "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia Laodong.vn",
-      "points": [
-        "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia Laodong.vn",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
-      "source": "Laodong.vn",
-      "sourceType": "media",
-      "category": "政策・社会",
-      "publishedAt": "2026-11-11T23:42:57.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGxQYURXWk0zcDV6WEVNOFNlbXpVTmh3R09YeGRZb21RU0tYSUg1VUJuN0dEZ1k3QTdwekNvQnd3dnpYVGNBT0tpamVUZktvUWZIZnlheFJ2SEZ0RDVBbWI5UFZTNnpwZVBUWjlVZTB0cVNXYnprODFObkVlQU9tYVp0eTlUMzJTeUhkRUM0eWpqeDhRcjl6bGdaSmNJT0JBRmVCZEU2b0xUSzRYUmF4SzNXd3BYNTVYVkNTQkJtSQ?oc=5",
-      "impactScore": 76,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Analytics Insight",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjNrQ1ktWDJ5Vy1hakF2ZkZjUkpUZEM4b3ZheG93Z2ZLT1czdGUyR1VtM3d2YlA0Rks3NE9HRWxzdkV5RUxvbnpETTJEZWNNRzVEX3NjVFNBZzAxek00dXR2NlJSVGY1OHZmQVFkMnNNQkUyaWRCdmtQR3JJU3pZYmk2VTNzQm9IVXh3MGh6MkpZSEY1YWoxdlVjMVNsY1BpWXhUUmlkSdIBtAFBVV95cUxPZUF4eEhpcS1hZDRqWlRWblhPbV9maUZRbGxLZmxvVUgwdkI3aHMzOXRSdmN5WlVfMU9yYzdQUWYySUhXNW1PZWR6MTZ5OTRkRGcwVS1Jazh5WGdIZUNqd04wMFpnWEZwcmphbUZsOFI0eWR0R2gzVWNLWUpkMG05X1VtVmxRbVVvVng0NjU0cmxaYjliZHB5ekpVYUVYSGdwWXVBVHBxQ0RSX3UxaHNLWXZKcU0?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2NtUUdPWmREYmw4WjlrS1RkR1NuNVkyMk9oU1I4QzZZTjhJVHVscmNFZWhJVUhYTTk5TEY3dnlGOGRqMkFpN0dtNlA4WHdLUVlzdzlLOUZ3eGsybm5PcHpEN2JCQ3VFODVrVExUbVdmRGF1Z0ZVTFEwSUpQTFpDWFQ5TDFWRHRTY2pIZEI1UERBV0dBUnh3OHpyVG1CMjh4elBWMDI2Q3Q0VU9MRzVZdkZnMTZkdnZFVXlLM2VmVEtkVWN2OGFFWFRoR3hWM0RZ?oc=5"
-        },
-        {
-          "name": "The 420.in",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTlOSF8wSXpfLXNzeExKbEc1dWhNQzYwQ0dLNHFuQTNMd1hQb0VmX052dUtDTlBXR2ptZFZ3TndLbmlJc2ZLOGFEWnJuNXk0V25sOVNGQmdpcXlyRjdDZTVpZGxGelBsYWV2R1BvbjlLbXJLWGZhSUloUnVvUE45V3NmOHotYTVGOGZ4RmVQeThrUTRpeE9DZQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGxQYURXWk0zcDV6WEVNOFNlbXpVTmh3R09YeGRZb21RU0tYSUg1VUJuN0dEZ1k3QTdwekNvQnd3dnpYVGNBT0tpamVUZktvUWZIZnlheFJ2SEZ0RDVBbWI5UFZTNnpwZVBUWjlVZTB0cVNXYnprODFObkVlQU9tYVp0eTlUMzJTeUhkRUM0eWpqeDhRcjl6bGdaSmNJT0JBRmVCZEU2b0xUSzRYUmF4SzNXd3BYNTVYVkNTQkJtSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjNrQ1ktWDJ5Vy1hakF2ZkZjUkpUZEM4b3ZheG93Z2ZLT1czdGUyR1VtM3d2YlA0Rks3NE9HRWxzdkV5RUxvbnpETTJEZWNNRzVEX3NjVFNBZzAxek00dXR2NlJSVGY1OHZmQVFkMnNNQkUyaWRCdmtQR3JJU3pZYmk2VTNzQm9IVXh3MGh6MkpZSEY1YWoxdlVjMVNsY1BpWXhUUmlkSdIBtAFBVV95cUxPZUF4eEhpcS1hZDRqWlRWblhPbV9maUZRbGxLZmxvVUgwdkI3aHMzOXRSdmN5WlVfMU9yYzdQUWYySUhXNW1PZWR6MTZ5OTRkRGcwVS1Jazh5WGdIZUNqd04wMFpnWEZwcmphbUZsOFI0eWR0R2gzVWNLWUpkMG05X1VtVmxRbVVvVng0NjU0cmxaYjliZHB5ekpVYUVYSGdwWXVBVHBxQ0RSX3UxaHNLWXZKcU0?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2NtUUdPWmREYmw4WjlrS1RkR1NuNVkyMk9oU1I4QzZZTjhJVHVscmNFZWhJVUhYTTk5TEY3dnlGOGRqMkFpN0dtNlA4WHdLUVlzdzlLOUZ3eGsybm5PcHpEN2JCQ3VFODVrVExUbVdmRGF1Z0ZVTFEwSUpQTFpDWFQ5TDFWRHRTY2pIZEI1UERBV0dBUnh3OHpyVG1CMjh4elBWMDI2Q3Q0VU9MRzVZdkZnMTZkdnZFVXlLM2VmVEtkVWN2OGFFWFRoR3hWM0RZ?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTlOSF8wSXpfLXNzeExKbEc1dWhNQzYwQ0dLNHFuQTNMd1hQb0VmX052dUtDTlBXR2ptZFZ3TndLbmlJc2ZLOGFEWnJuNXk0V25sOVNGQmdpcXlyRjdDZTVpZGxGelBsYWV2R1BvbjlLbXJLWGZhSUloUnVvUE45V3NmOHotYTVGOGZ4RmVQeThrUTRpeE9DZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHhrVHVKeGtsdDM0Y29GODdPX1haRktsQWFULTZrRmVnQkJqa1dmempYbTR4aElNTmtnOERfaExOVVhGS1RNdDZQeXpGUHloQno5ZlkzNDI4WTg2TXBLRUNWaEY3M2llSVI0TW9UQVYxb2dfMHNrNV9JdFRDcU90R3MyVmw2T2lZQ0Y2Rkhpem1OdU1IVDdEUEM0OEJfd25TYXh3NnBFTEVQamwzM2x4aWtNQzVmX2RnelFVNThKX05PandraWJkOHhYakJVdFRCZTQzcHc4Uk1vZ1paUXNpVHdTNURiWThoZlNDX1N1VC1SeWFnVGllcXFR0gH_AUFVX3lxTE44NVpPcmpFRllvOC14QXN0ZkMtZlFReXlqbE10VF8xVjc4Z3dyVGdWWXJjeHk4UlpKMjRZWXYwRU9QMU02TVlLQlhFc2l5VFhWc01rMGpjODZOT0lKWEd2SlZrTjBvQWNzZkhFT25uNE1xU3B3d0RKYzh2bmIyWkQwTm9STXVGS2JpR0FoVnBzTmNVVjlpWWNha2d3NUg3WkRyQnpPUFRqNHVpWUd2czU0R1JEcC1yYmZDQzFMS081NElWWGVHNzc1a2xoM0dLajMyaGlfeWVQX2tUZWhKNWhsRjV0TkZwc2xJTXJVRlBkQmZ0TzVCbkctU2NKZmNfTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcGVhWHR6TC11MWZPbEtpOGJueHZ1V2dtRTJoSVNsTGlGTDJjSE1pTlRuR0w0bk1FMFFvemI0VVdLWEl3c1pYV3h1SXQ0eEFGRk1pMkJSbWdBNE5fYXpwc29GOEI4ZmRuenBab2psRk5WVG5tRDMtYXpNeUxyeW8?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWU1lVlRhblptb1B3NUlSOW1WU0R5TUNsZG1RWWlPLWJsbk55aW1rTlhSTTFuM3V6NkRBOUUzOURaYVBxMkluclVSVUpQdEttdFpZS3c3QW9DOHluY0JuTnJCdUhKSUYydVBoblZ5dHJiam16OXh3V19SMmotZ1pPU1JqNkFQMGkxQjNJYTdnR2tyZ1ZCR0dhcDJBenNlZFEwby1DbVFFeHhvQWRfel9PLUJvVjhlenNwcS1odHJGNHJYZ9IBxwFBVV95cUxPMHZRTDM4bWpnRDRjdnRiaUNFcFBFNFNMa2dUY2d3bEh0UUttR3Z2OFJOUzA0RHU3Y1pJWjFaVlFxTWpEMVRveVA2anRxdTBSV3h4NHI2UXNRUlN5Tk90M3FHbTFxV0UzYjZVUGhjLXFoX0M1ZjR0d09CaUNNb2FCaVBGenNfLXB6Y3BBc01mQ3VfY2VHYno5MVl5SlVDVTJRYy1kMEt1TEpGNzAtNGd0bVU0dzhZa0prMUJ4LUwyOUlTR3dRTVlZ?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5",
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeE1QR2tPX0w5VVZFUXpzS0RzellaMlB3azR1Y3AtUXhRMVJHeDJlXzFqYkdCY3NlLW15VmF4REw4NHA1NEk2Y3dsM21SU0F6MGRFQS1UUVVmQmFLT3ZCelowYTh2aGc0VUc4NnZMWjRRWjl1dk1pWDNGUE84OG1CbzBRRXFQV3N2TDc2bTVLazFCVEZocVBneWxkazlsalBRb2NFUm9aXzdmSzR1UDJCeFRUWkQxdUpSM0R4SC1sd19IeDZTaFdlZFRKb1oydWpMSUFmRlZOQkY2UGtobnNOWlQ3TnQ1M0liemM5Rw?oc=5"
-      ],
-      "eventTitles": [
-        "Technology 24h: Meta, TikTok and Google protest AI copyright laws in Indonesia - Laodong.vn",
-        "Meta, TikTok Join Google to Oppose Indonesia’s AI Copyright Law Plan - Analytics Insight",
-        "Meta, TikTok Join Google Against Indonesia's Proposed Revisions to AI Copyright Law - marketscreener.com",
-        "Google, Meta And TikTok Oppose Indonesia’s Proposed AI Copyright Law Changes - The 420.in",
-        "Meta, Google Don't Want To Pay Publishers: How Indonesia's AI Copyright Plan Is Putting Big Tech On Edge - Times Now",
-        "Meta and TikTok join Google to fight Indonesia’s AI copyright bill - The Next Web",
-        "Meta, TikTok and Google push back against Indonesia’s proposed AI copyright rules - Firstpost",
-        "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions - Reuters",
-        "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions - TradingView"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-gbhackers-news-52b946aef2a862d1075a",
-      "rank": 7,
-      "title": "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... - GBHackers News",
-      "originalTitle": "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... - GBHackers News",
-      "summary": "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... GBHackers News",
-      "points": [
-        "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St...",
+        "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impac",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "GBHackers News",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-11T20:45:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxQVJ2LXBkb1J2ZzNfOE5ZXzE3XzdDMGliNXEzTkhrcFN5SHNSNksxdm80c25Wc3NZSU1fV2xBR2tUaExmeUNXeDdEeVlhMkM1RUxfMktTWdIBXEFVX3lxTE5sc2JtWjV5ZWk0U1daUTV4bGVpN0dId1lnRnotbmlRMlh3VjRwVGZaS2hIQ29GS2V1eURqNVNBcUgtLXFJVTNYSXJfWmRQY3FZMnc1dlZrSk1rcXEt?oc=5",
-      "impactScore": 75,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "CyberSecurityNews",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSVVXQXdoSXFuYUNhMVdXVm1MYlJKQ21PTEdNVlRESmxWZFlJUHY1UkxMeW1fc2VTVk1DLUdySGRJUXRjcTIwcjZoNFpuTUFGOWFYeU9VdnRqUkxkakHSAWNBVV95cUxNZ3ZSdWIxN3JQTkNnRHc0LVZqRUZRUUhwUUZlWXd3Ym5XTlY3MHBJamZrVHpBaGxVeXhLUlQxNzltdmhYTGIwU2NnSVlMYVZVMXlZZUpVQmpuXzFRWmlIQkRBRm8?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxQVJ2LXBkb1J2ZzNfOE5ZXzE3XzdDMGliNXEzTkhrcFN5SHNSNksxdm80c25Wc3NZSU1fV2xBR2tUaExmeUNXeDdEeVlhMkM1RUxfMktTWdIBXEFVX3lxTE5sc2JtWjV5ZWk0U1daUTV4bGVpN0dId1lnRnotbmlRMlh3VjRwVGZaS2hIQ29GS2V1eURqNVNBcUgtLXFJVTNYSXJfWmRQY3FZMnc1dlZrSk1rcXEt?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSVVXQXdoSXFuYUNhMVdXVm1MYlJKQ21PTEdNVlRESmxWZFlJUHY1UkxMeW1fc2VTVk1DLUdySGRJUXRjcTIwcjZoNFpuTUFGOWFYeU9VdnRqUkxkakHSAWNBVV95cUxNZ3ZSdWIxN3JQTkNnRHc0LVZqRUZRUUhwUUZlWXd3Ym5XTlY3MHBJamZrVHpBaGxVeXhLUlQxNzltdmhYTGIwU2NnSVlMYVZVMXlZZUpVQmpuXzFRWmlIQkRBRm8?oc=5"
-      ],
-      "eventTitles": [
-        "AI Agents Steal OpenAI and DeepSeek API Keys From Exposed Servers While Harvesting Data of 5,132 Chinese St... - GBHackers News",
-        "Hackers Use 1,438 Fake FOFA Accounts to Steal OpenAI and DeepSeek API Keys Across the Internet - CyberSecurityNews"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-12-2000003126",
-      "rank": 8,
-      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
-      "originalTitle": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
-      "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
-      "points": [
-        "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-12T00:56:17.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/12/2000003126",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81V1VhX1dKT3I1SEl3VGtubWlzaUk3ZkRZV3J2U0p3MVBNYUZxRDNKXzlOaVFmSS1jRmhGaHIwdmVxUU83aW1pVHJ0NDZ0T25WYVlMUjJUc0g5a3U2Ni1xX2FQZzBaQmxOOGc?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://itmedia.co.jp/news/article/2611/12/2000003126",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE81V1VhX1dKT3I1SEl3VGtubWlzaUk3ZkRZV3J2U0p3MVBNYUZxRDNKXzlOaVFmSS1jRmhGaHIwdmVxUU83aW1pVHJ0NDZ0T25WYVlMUjJUc0g5a3U2Ni1xX2FQZzBaQmxOOGc?oc=5"
-      ],
-      "eventTitles": [
-        "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
-        "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述 - ITmedia"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-index-gilbert-tobin-sam-nickless",
-      "rank": 9,
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "originalTitle": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "points": [
-        "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
       "source": "OpenAI",
       "sourceType": "official",
-      "category": "政策・社会",
-      "publishedAt": "2026-11-12T00:00:00.000Z",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/business/customer-stories/amplitude"
+      ],
+      "eventTitles": [
+        "How Amplitude ships product improvements in 1–2 days with OpenAI"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-f5427fcfe4e9eb6589cc6544f1dbc031a6ca40ba",
+      "rank": 5,
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "originalTitle": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "summary": "Developers want AI coding assistants with minimal setup. With a large language model (LLM) gateway and LiteLLM, they can quickly access foundation models (FMs) available on Amazon Bedrock while you gain visibility and usage control. Platform teams need to moni",
+      "points": [
+        "Developers want AI coding assistants with minimal setup.",
+        "With a large language model (LLM) gateway and LiteLLM, they can quickly access foundation models (FMs) available on Amazon Bedrock while you gain visibility and usage con",
+        "Platform teams need to monitor latency and errors, finance teams need to attribute inference costs to teams and projects, and security teams need consistent access contro"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T18:41:12.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
       "impactScore": 74,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/gilbert-tobin-sam-nickless"
+        "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm"
       ],
       "eventTitles": [
-        "Gilbert + Tobin rethinks the business of law with AI"
+        "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3187116",
-      "rank": 10,
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "originalTitle": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "id": "aws-machine-learning-9c61b6431ee0e0a8743834695f2eba45b64d7ee3",
+      "rank": 6,
+      "title": "From prototype to production: Engineering agents with Agent DLC",
+      "originalTitle": "From prototype to production: Engineering agents with Agent DLC",
+      "summary": "Over the past year, AI agents have moved from exploration into engineering. Enterprise teams are shipping large language model (LLM) systems that call tools, orchestrate APIs, and answer questions over internal knowledge. A successful demo can show what an age",
       "points": [
-        "OpenAI has not yet said what its plans are for the future of travel.",
-        "But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "Over the past year, AI agents have moved from exploration into engineering.",
+        "Enterprise teams are shipping large language model (LLM) systems that call tools, orchestrate APIs, and answer questions over internal knowledge.",
+        "A successful demo can show what an agent is capable of."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-12T15:38:47.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc"
+      ],
+      "eventTitles": [
+        "From prototype to production: Engineering agents with Agent DLC"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-business-customer-stories-gondola",
+      "rank": 7,
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "originalTitle": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "points": [
+        "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-11-10T21:08:52.000Z",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T12:00:00.000Z",
+      "url": "https://openai.com/business/customer-stories/gondola",
       "impactScore": 73,
       "impactLabel": "大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "CNET Japan",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95MHphMzBoSExCZGVnbWstSG1fNEhMQUVieS01dExYV0tZT3hfM2VabElqd2pFTHNScUw0dXlMX04wM3U3WXE3c21JaHQ4ZWZCV1E?oc=5"
+          "name": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
         },
         {
-          "name": "XenoSpectrum",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMR0xoYnNqNEt2b3V5MU94Wm9zN2VkLXlPVklkaU9zWWJQdEk5ejFqUVRTTVNjaHlOZ2x3ZWViWms0T2tpX0JXZXYxYTN2a21jaVNVSEQ1S1N4eF9adWRNZzRQWjBfcHBMZFdR?oc=5"
-        },
-        {
-          "name": "BigGo ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hTXZGX25aR2dmNXFwUi1ZZlhNVnVCMDZIZHZQcTlYMGplckNWZllsMjd5SUhMOGM5dUZHNW9CelBTck9XX2VpNFRZM0ZMeUVBQy1GUW5DUmVudnR4QzA4RVlXWUhjZWI3N3JyWkdxb0c0UHBD?oc=5"
+          "name": "AWS Machine Learning",
+          "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95MHphMzBoSExCZGVnbWstSG1fNEhMQUVieS01dExYV0tZT3hfM2VabElqd2pFTHNScUw0dXlMX04wM3U3WXE3c21JaHQ4ZWZCV1E?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMR0xoYnNqNEt2b3V5MU94Wm9zN2VkLXlPVklkaU9zWWJQdEk5ejFqUVRTTVNjaHlOZ2x3ZWViWms0T2tpX0JXZXYxYTN2a21jaVNVSEQ1S1N4eF9adWRNZzRQWjBfcHBMZFdR?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hTXZGX25aR2dmNXFwUi1ZZlhNVnVCMDZIZHZQcTlYMGplckNWZllsMjd5SUhMOGM5dUZHNW9CelBTck9XX2VpNFRZM0ZMeUVBQy1GUW5DUmVudnR4QzA4RVlXWUhjZWI3N3JyWkdxb0c0UHBD?oc=5",
-        "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjh5ZDAzcDJaeWhKWko2UFlyS3VEc0ZTaUtsR3ZrS2toVWFhT3MtZzNRQkJNQkJQMWd1LU00YmlxMmxVdFBsTUh1b0lRelRvMWs0QmNXSzA3V2ZVaUwtdWtuVlFkQjM2WHdkdWJUbmdYZ2pRLVdWNWhsS2tNRGprNy1IcExhUkxCVUFCTEdGNA?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDkwSVVYRHc4MUF1b2tXaUdTWjN5YnpLcWdtZmwyZWdDRUlNbDdDNW5Tc010VXBXVGx3eUh0Y05KazN0Q1lJSHFsWVhFQ24zWmp1VmxBVHg2SUpEamFfM0FiTGk1eURTSUxCTkt5dlFjS3FBa05qdUFTcEZvTWVxMThKVmxBSUFPT0pF?oc=5"
+        "https://openai.com/business/customer-stories/gondola",
+        "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock"
       ],
       "eventTitles": [
-        "OpenAI、AI旅行サービス「Odessia」を買収 - CNET Japan",
-        "OpenAIが旅行AI「Odessia」を買収、好みを記憶して予約までこなすAIエージェントの開発者を獲得 - XenoSpectrum",
-        "OpenAI、AI旅行エージェントのOdessiaを買収－オンライン旅行株が下落 - BigGo ファイナンス",
-        "OpenAI acquires Odessia, travel startup created by Sonder founder",
-        "OpenAIがAI旅行エージェントOdessiaを買収、Sonder共同創業者が合流 - Pasquale Pillitteri",
-        "OpenAI、AI旅行スタートアップOdessiaを買収 創業者も参加へ - Unite.AI"
+        "Gondola doubles revenue as its team builds more with Codex",
+        "Holiday Extras is rethinking what it can build with Codex",
+        "OpenAI Codex on Amazon Bedrock"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Nov-12-llm-gemini-",
+      "rank": 8,
+      "title": "llm-gemini 0.37",
+      "originalTitle": "llm-gemini 0.37",
+      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the",
+      "points": [
+        "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.",
+        "It's actually not too far off the price of its much bigger siblings, Carbon and Argon.",
+        "I'm finding Gemini 4's pricing really confusing."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-12T22:55:19.000Z",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Nov/12/llm-gemini"
+      ],
+      "eventTitles": [
+        "llm-gemini 0.37"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-atmarkit-itmedia-co-jp-ait-articles-2611-13-news036-html",
+      "rank": 9,
+      "title": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+      "originalTitle": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+      "summary": "API�Z�L�����e�B�x���_�[Salt Security�̒����ł́A�񔼐��̑g�D��AI�G�[�W�F���g�ɂ��Ӑ}���Ȃ��s�����m�F���Ă��邱�Ƃ����������B����őg�D�́AAI�G�[�W�F���g�̑z��O�̍s���������I�Ɏ~�߂��Ă��Ȃ��B�΍�Ƃ��ĉ������߂���̂��B",
+      "points": [
+        "API�Z�L�����e�B�x���_�[Salt Security�̒����ł́A�񔼐��̑g�D��AI�G�[�W�F���g�ɂ��Ӑ}���Ȃ��s�����m�F���Ă��邱�Ƃ����������B����őg�D�́AAI�G�[�W�F���g�̑z��O�̍s���������I�Ɏ~�߂��Ă��Ȃ��B�",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-12T22:45:00.000Z",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVTlOM2JzbXVJWW5QSTRERlRMbzlDbWpVZ1ZZNm1RbktyU19CUnk5RjdDRGlJUDVmbHZOZS1tYTlyMmI3QmRIWjVlQUJXeUw1OFh3TlBlZ050SW1tcjVIamNXbE9mblJNV0c2N3dBUjBJUQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVTlOM2JzbXVJWW5QSTRERlRMbzlDbWpVZ1ZZNm1RbktyU19CUnk5RjdDRGlJUDVmbHZOZS1tYTlyMmI3QmRIWjVlQUJXeUw1OFh3TlBlZ050SW1tcjVIamNXbE9mblJNV0c2N3dBUjBJUQ?oc=5"
+      ],
+      "eventTitles": [
+        "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+        "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点 - ITmedia"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-5460e26111aeb2444e58fb192084957f53ebb300",
+      "rank": 10,
+      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "originalTitle": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "summary": "AI agents have moved past one-off prompts. They now run multi-step workloads for hours at a time. The length of task that frontier agents can complete on their own doubles about every four months ( METR ), and 40 percent of large enterprises are scaling AI age",
+      "points": [
+        "AI agents have moved past one-off prompts.",
+        "They now run multi-step workloads for hours at a time.",
+        "The length of task that frontier agents can complete on their own doubles about every four months ( METR ), and 40 percent of large enterprises are scaling AI agents, up "
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T17:59:59.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime"
+      ],
+      "eventTitles": [
+        "Run agents securely and efficiently with the next generation AgentCore runtime"
       ]
     }
   ]

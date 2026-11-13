@@ -1,0 +1,368 @@
+{
+  "edition": "2026-11-13T06:30:00+09:00",
+  "generatedAt": "2026-11-13T02:01:47.403Z",
+  "periodStart": "2026-11-10T14:01:47.403Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 1421,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-introducing-gemini-4-hydrogen-",
+      "rank": 1,
+      "title": "Introducing Gemini 4 Hydrogen",
+      "originalTitle": "Introducing Gemini 4 Hydrogen",
+      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "points": [
+        "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-12T18:00:50.000Z",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "impactScore": 100,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ビジネス+IT",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlpYYnRYMXJrUFEtcEVxTnpqZHlIN3BHWmpIbF9STUxlYlNXVUlHakkwT1RFZ2tMU3NnYXZIbkZrYWxoWEl5OXA2UlExbEkzeUZR?oc=5"
+        },
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2611/13/2000003162"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTEZkMlV4UkQweC0zUEZuUG5zRUJ0TzduNExRSTJSbDVRU2NrSnotR1ZjcXRZZllJN1puZkItTEJZT2Nid2JOdGgyTlp0eVgxcUdTS3FvQXdKNVlfd3hzQlZXdkk2bDZxcUE?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlpYYnRYMXJrUFEtcEVxTnpqZHlIN3BHWmpIbF9STUxlYlNXVUlHakkwT1RFZ2tMU3NnYXZIbkZrYWxoWEl5OXA2UlExbEkzeUZR?oc=5",
+        "https://itmedia.co.jp/news/article/2611/13/2000003162",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTEZkMlV4UkQweC0zUEZuUG5zRUJ0TzduNExRSTJSbDVRU2NrSnotR1ZjcXRZZllJN1puZkItTEJZT2Nid2JOdGgyTlp0eVgxcUdTS3FvQXdKNVlfd3hzQlZXdkk2bDZxcUE?oc=5",
+        "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch",
+        "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZnBCNWUxSXVDU0JNVV9UY1UyV1J2SU92cGJWVmJGWEhvZlNlbDRPVGtvemo4MzVHWXFqelE2REw5YzY0aVNoanVmOGcxV3pPdU5LU1AzeUVyUDB2Wk9aeGpR?oc=5",
+        "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+        "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlYyd3M2ckVLTlE1d3dkZzlPSW5XT004SkppeUMtSHhOX2JHcDFxU1JHbUxQSVVrS2YzeXYtVFRfQVJabnhqNE5nZ2dQUWYwdDZlU3M2VlVFTHdzeWlRQUxrS0hHdHBkVzZGdks3QWN1QlR4T0NMVHB0U3ZiRnFrTC1CZjJIb0FiemJRX3k0Uk5wZw?oc=5",
+        "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions"
+      ],
+      "eventTitles": [
+        "グーグル、Argon超えの高速AI「Gemini 4 Hydrogen」発表 入力100万トークン1.50ドル - ビジネス+IT",
+        "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+        "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能 - ITmedia",
+        "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+        "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+        "3.8 Flash後継「Gemini 4 Hydrogen」提供開始 - Jetstream",
+        "Introducing Gemini 4 Hydrogen",
+        "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "Google Search Console Generative AI Performance Report Data Bug November 9 - 11 - Search Engine Roundtable",
+        "Google’s latest Search upgrade promises better answers to your most complicated questions"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-d27fba94181475674c8d9e0d16f89e5b62d0fc4a",
+      "rank": 2,
+      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "originalTitle": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "summary": "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with Annapurna Labs. With SGLang-Neuron, you can serve models and generate reinforcement learning",
+      "points": [
+        "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with An",
+        "With SGLang-Neuron, you can serve models and generate reinforcement learning (RL) rollouts with SGLang on AWS Trainium using the same SGLang interface you use today.",
+        "Trainium is a portfolio of AWS AI chips that delivers strong economics for AI training and inference at scale."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-12T22:03:34.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron"
+      ],
+      "eventTitles": [
+        "Deploy frontier AI models on AWS Trainium with SGLang-Neuron"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-alphagenome-2-deciphering-how-cells-read-dna-to-better-un",
+      "rank": 3,
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "originalTitle": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "points": [
+        "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-11T15:00:15.000Z",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "impactScore": 79,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2"
+        },
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2611/12/2000003132"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2",
+        "https://itmedia.co.jp/news/article/2611/12/2000003132",
+        "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+        "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+      ],
+      "eventTitles": [
+        "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+        "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
+        "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "Google’s AlphaGenome 2 zooms in on the cellular roots of disease"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-business-customer-stories-amplitude",
+      "rank": 4,
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "originalTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "points": [
+        "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impac",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/business/customer-stories/amplitude"
+      ],
+      "eventTitles": [
+        "How Amplitude ships product improvements in 1–2 days with OpenAI"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-f5427fcfe4e9eb6589cc6544f1dbc031a6ca40ba",
+      "rank": 5,
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "originalTitle": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "summary": "Developers want AI coding assistants with minimal setup. With a large language model (LLM) gateway and LiteLLM, they can quickly access foundation models (FMs) available on Amazon Bedrock while you gain visibility and usage control. Platform teams need to moni",
+      "points": [
+        "Developers want AI coding assistants with minimal setup.",
+        "With a large language model (LLM) gateway and LiteLLM, they can quickly access foundation models (FMs) available on Amazon Bedrock while you gain visibility and usage con",
+        "Platform teams need to monitor latency and errors, finance teams need to attribute inference costs to teams and projects, and security teams need consistent access contro"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T18:41:12.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm"
+      ],
+      "eventTitles": [
+        "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-9c61b6431ee0e0a8743834695f2eba45b64d7ee3",
+      "rank": 6,
+      "title": "From prototype to production: Engineering agents with Agent DLC",
+      "originalTitle": "From prototype to production: Engineering agents with Agent DLC",
+      "summary": "Over the past year, AI agents have moved from exploration into engineering. Enterprise teams are shipping large language model (LLM) systems that call tools, orchestrate APIs, and answer questions over internal knowledge. A successful demo can show what an age",
+      "points": [
+        "Over the past year, AI agents have moved from exploration into engineering.",
+        "Enterprise teams are shipping large language model (LLM) systems that call tools, orchestrate APIs, and answer questions over internal knowledge.",
+        "A successful demo can show what an agent is capable of."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-12T15:38:47.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc"
+      ],
+      "eventTitles": [
+        "From prototype to production: Engineering agents with Agent DLC"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-business-customer-stories-gondola",
+      "rank": 7,
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "originalTitle": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "points": [
+        "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T12:00:00.000Z",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+        },
+        {
+          "name": "AWS Machine Learning",
+          "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock"
+        }
+      ],
+      "eventUrls": [
+        "https://openai.com/business/customer-stories/gondola",
+        "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock"
+      ],
+      "eventTitles": [
+        "Gondola doubles revenue as its team builds more with Codex",
+        "Holiday Extras is rethinking what it can build with Codex",
+        "OpenAI Codex on Amazon Bedrock"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Nov-12-llm-gemini-",
+      "rank": 8,
+      "title": "llm-gemini 0.37",
+      "originalTitle": "llm-gemini 0.37",
+      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the",
+      "points": [
+        "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.",
+        "It's actually not too far off the price of its much bigger siblings, Carbon and Argon.",
+        "I'm finding Gemini 4's pricing really confusing."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-12T22:55:19.000Z",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Nov/12/llm-gemini"
+      ],
+      "eventTitles": [
+        "llm-gemini 0.37"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-atmarkit-itmedia-co-jp-ait-articles-2611-13-news036-html",
+      "rank": 9,
+      "title": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+      "originalTitle": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+      "summary": "API�Z�L�����e�B�x���_�[Salt Security�̒����ł́A�񔼐��̑g�D��AI�G�[�W�F���g�ɂ��Ӑ}���Ȃ��s�����m�F���Ă��邱�Ƃ����������B����őg�D�́AAI�G�[�W�F���g�̑z��O�̍s���������I�Ɏ~�߂��Ă��Ȃ��B�΍�Ƃ��ĉ������߂���̂��B",
+      "points": [
+        "API�Z�L�����e�B�x���_�[Salt Security�̒����ł́A�񔼐��̑g�D��AI�G�[�W�F���g�ɂ��Ӑ}���Ȃ��s�����m�F���Ă��邱�Ƃ����������B����őg�D�́AAI�G�[�W�F���g�̑z��O�̍s���������I�Ɏ~�߂��Ă��Ȃ��B�",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-12T22:45:00.000Z",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVTlOM2JzbXVJWW5QSTRERlRMbzlDbWpVZ1ZZNm1RbktyU19CUnk5RjdDRGlJUDVmbHZOZS1tYTlyMmI3QmRIWjVlQUJXeUw1OFh3TlBlZ050SW1tcjVIamNXbE9mblJNV0c2N3dBUjBJUQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVTlOM2JzbXVJWW5QSTRERlRMbzlDbWpVZ1ZZNm1RbktyU19CUnk5RjdDRGlJUDVmbHZOZS1tYTlyMmI3QmRIWjVlQUJXeUw1OFh3TlBlZ050SW1tcjVIamNXbE9mblJNV0c2N3dBUjBJUQ?oc=5"
+      ],
+      "eventTitles": [
+        "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+        "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点 - ITmedia"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-5460e26111aeb2444e58fb192084957f53ebb300",
+      "rank": 10,
+      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "originalTitle": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "summary": "AI agents have moved past one-off prompts. They now run multi-step workloads for hours at a time. The length of task that frontier agents can complete on their own doubles about every four months ( METR ), and 40 percent of large enterprises are scaling AI age",
+      "points": [
+        "AI agents have moved past one-off prompts.",
+        "They now run multi-step workloads for hours at a time.",
+        "The length of task that frontier agents can complete on their own doubles about every four months ( METR ), and 40 percent of large enterprises are scaling AI agents, up "
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-12T17:59:59.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime"
+      ],
+      "eventTitles": [
+        "Run agents securely and efficiently with the next generation AgentCore runtime"
+      ]
+    }
+  ]
+}
