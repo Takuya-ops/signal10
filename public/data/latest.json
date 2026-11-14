@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-13T06:30:00+09:00",
-  "generatedAt": "2026-11-13T02:01:47.403Z",
-  "periodStart": "2026-11-10T14:01:47.403Z",
+  "edition": "2026-11-14T06:30:00+09:00",
+  "generatedAt": "2026-11-14T01:33:40.010Z",
+  "periodStart": "2026-11-11T13:33:40.010Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 39,
@@ -9,153 +9,19 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1421,
+  "candidateCount": 806,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "google-deepmind-https-deepmind-google-blog-introducing-gemini-4-hydrogen-",
+      "id": "openai-https-openai-com-index-introducing-chatgpt-wallet",
       "rank": 1,
-      "title": "Introducing Gemini 4 Hydrogen",
-      "originalTitle": "Introducing Gemini 4 Hydrogen",
-      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "title": "Introducing ChatGPT Wallet",
+      "originalTitle": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "points": [
-        "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Google DeepMind",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-11-12T18:00:50.000Z",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "impactScore": 100,
-      "impactLabel": "特大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "ビジネス+IT",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlpYYnRYMXJrUFEtcEVxTnpqZHlIN3BHWmpIbF9STUxlYlNXVUlHakkwT1RFZ2tMU3NnYXZIbkZrYWxoWEl5OXA2UlExbEkzeUZR?oc=5"
-        },
-        {
-          "name": "ITmedia AI+",
-          "url": "https://itmedia.co.jp/news/article/2611/13/2000003162"
-        },
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTEZkMlV4UkQweC0zUEZuUG5zRUJ0TzduNExRSTJSbDVRU2NrSnotR1ZjcXRZZllJN1puZkItTEJZT2Nid2JOdGgyTlp0eVgxcUdTS3FvQXdKNVlfd3hzQlZXdkk2bDZxcUE?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZlpYYnRYMXJrUFEtcEVxTnpqZHlIN3BHWmpIbF9STUxlYlNXVUlHakkwT1RFZ2tMU3NnYXZIbkZrYWxoWEl5OXA2UlExbEkzeUZR?oc=5",
-        "https://itmedia.co.jp/news/article/2611/13/2000003162",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTEZkMlV4UkQweC0zUEZuUG5zRUJ0TzduNExRSTJSbDVRU2NrSnotR1ZjcXRZZllJN1puZkItTEJZT2Nid2JOdGgyTlp0eVgxcUdTS3FvQXdKNVlfd3hzQlZXdkk2bDZxcUE?oc=5",
-        "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch",
-        "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZnBCNWUxSXVDU0JNVV9UY1UyV1J2SU92cGJWVmJGWEhvZlNlbDRPVGtvemo4MzVHWXFqelE2REw5YzY0aVNoanVmOGcxV3pPdU5LU1AzeUVyUDB2Wk9aeGpR?oc=5",
-        "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlYyd3M2ckVLTlE1d3dkZzlPSW5XT004SkppeUMtSHhOX2JHcDFxU1JHbUxQSVVrS2YzeXYtVFRfQVJabnhqNE5nZ2dQUWYwdDZlU3M2VlVFTHdzeWlRQUxrS0hHdHBkVzZGdks3QWN1QlR4T0NMVHB0U3ZiRnFrTC1CZjJIb0FiemJRX3k0Uk5wZw?oc=5",
-        "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions"
-      ],
-      "eventTitles": [
-        "グーグル、Argon超えの高速AI「Gemini 4 Hydrogen」発表 入力100万トークン1.50ドル - ビジネス+IT",
-        "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
-        "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能 - ITmedia",
-        "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-        "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-        "3.8 Flash後継「Gemini 4 Hydrogen」提供開始 - Jetstream",
-        "Introducing Gemini 4 Hydrogen",
-        "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "Google Search Console Generative AI Performance Report Data Bug November 9 - 11 - Search Engine Roundtable",
-        "Google’s latest Search upgrade promises better answers to your most complicated questions"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-d27fba94181475674c8d9e0d16f89e5b62d0fc4a",
-      "rank": 2,
-      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-      "originalTitle": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-      "summary": "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with Annapurna Labs. With SGLang-Neuron, you can serve models and generate reinforcement learning",
-      "points": [
-        "Today, Amazon announced that SGLang-Neuron is publicly available and can be accessed through an AWS Deep Learning Container, released by RadixArk in collaboration with An",
-        "With SGLang-Neuron, you can serve models and generate reinforcement learning (RL) rollouts with SGLang on AWS Trainium using the same SGLang interface you use today.",
-        "Trainium is a portfolio of AWS AI chips that delivers strong economics for AI training and inference at scale."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-12T22:03:34.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
-      "impactScore": 81,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron"
-      ],
-      "eventTitles": [
-        "Deploy frontier AI models on AWS Trainium with SGLang-Neuron"
-      ]
-    },
-    {
-      "id": "google-deepmind-https-deepmind-google-blog-alphagenome-2-deciphering-how-cells-read-dna-to-better-un",
-      "rank": 3,
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "originalTitle": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "points": [
-        "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "Google DeepMind",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-11T15:00:15.000Z",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "impactScore": 79,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "The Decoder",
-          "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2"
-        },
-        {
-          "name": "ITmedia AI+",
-          "url": "https://itmedia.co.jp/news/article/2611/12/2000003132"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
-        }
-      ],
-      "eventUrls": [
-        "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2",
-        "https://itmedia.co.jp/news/article/2611/12/2000003132",
-        "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-        "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
-      ],
-      "eventTitles": [
-        "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
-        "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
-        "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "Google’s AlphaGenome 2 zooms in on the cellular roots of disease"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-business-customer-stories-amplitude",
-      "rank": 4,
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "originalTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "points": [
-        "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impac",
+        "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -163,205 +29,368 @@
       "source": "OpenAI",
       "sourceType": "official",
       "category": "開発者向け",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
-      "url": "https://openai.com/business/customer-stories/amplitude",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "impactScore": 97,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkJGSjZtV2NLd09mcnRYaEpORS1yaElLTm0wRWwzWjNuWG9ZemdGZHdZRkJDU1g0SlNMc2Z0RW1HVjRkLV9yTEd5R3FGdHZ3R0I5dXRORW9VZklqTmljOXJEcjB2ZlVYeEx1R1J1QkhlZkZHaUVvRXdIMmtmamRzcGtUNGFrOWtsTF81U0NKbUM?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkJGSjZtV2NLd09mcnRYaEpORS1yaElLTm0wRWwzWjNuWG9ZemdGZHdZRkJDU1g0SlNMc2Z0RW1HVjRkLV9yTEd5R3FGdHZ3R0I5dXRORW9VZklqTmljOXJEcjB2ZlVYeEx1R1J1QkhlZkZHaUVvRXdIMmtmamRzcGtUNGFrOWtsTF81U0NKbUM?oc=5",
+        "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet",
+        "https://openai.com/index/introducing-chatgpt-wallet"
+      ],
+      "eventTitles": [
+        "OpenAI、ChatGPT Walletを発表、エージェントがカード情報を見ずに支払い - Pasquale Pillitteri",
+        "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+        "Introducing ChatGPT Wallet"
+      ]
+    },
+    {
+      "id": "cohere-sitemap-https-cohere-com-blog-cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "rank": 2,
+      "title": "Cohere Expands Sovereign AI Platform with AISLE and cubic",
+      "originalTitle": "Cohere Expands Sovereign AI Platform with AISLE and cubic",
+      "summary": "Cohere expands its sovereign AI platform with AISLE acquisition for cyber defense and cubic integration for secure enterprise AI adoption.",
+      "points": [
+        "Cohere expands its sovereign AI platform with AISLE acquisition for cyber defense and cubic integration for secure enterprise AI adoption.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "Cohere",
+      "sourceType": "official",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "impactScore": 83,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25sQnFhTmVqc3FQZDZSYS10dHJEaDVqSGN1Uml1WEhxbU84RXdmck5jNHJWY3NYVlJRanBtbnlDMG5HQ1VJNTY4a3c1WnZUczZmNjNITlFPY0FWdGVJdjYyR2Frc2lFV0JfeU5HMVFrUnlmRnVMbzdJcThlLV9NV2NtZDNXVGljdUdtYVhPMmJJNVZ6NkIzdWRJYw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25sQnFhTmVqc3FQZDZSYS10dHJEaDVqSGN1Uml1WEhxbU84RXdmck5jNHJWY3NYVlJRanBtbnlDMG5HQ1VJNTY4a3c1WnZUczZmNjNITlFPY0FWdGVJdjYyR2Frc2lFV0JfeU5HMVFrUnlmRnVMbzdJcThlLV9NV2NtZDNXVGljdUdtYVhPMmJJNVZ6NkIzdWRJYw?oc=5",
+        "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
+      ],
+      "eventTitles": [
+        "Cohere、AISLEとcubicを買収 サイバー防御とセキュアコーディングを強化 - Unite.AI",
+        "Cohere Expands Sovereign AI Platform with AISLE and cubic"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-62c3e92270a83395aaeaae770a977c92ced34043",
+      "rank": 3,
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "originalTitle": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "summary": "Speech-to-text inference is computationally intensive. Each audio file triggers a pipeline of deep learning models (acoustic models, language models, and post-processing stages) running on NVIDIA GPUs to meet latency requirements. At scale, this means thousand",
+      "points": [
+        "Speech-to-text inference is computationally intensive.",
+        "Each audio file triggers a pipeline of deep learning models (acoustic models, language models, and post-processing stages) running on NVIDIA GPUs to meet latency requirem",
+        "At scale, this means thousands of GPU instances running continuously."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-13T19:35:35.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2611/12/2000003139"
+        },
+        {
+          "name": "Publickey",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52YTZSSWljRGJnXzJ5UnB3UFNZT0JTVTFoUUlIaDh5TVVhOUoyS3UxWEs5Q2V4WFk0a2lMdjM1azFlU2hxTXpSMlYzdDFqbmlaNzYtNFpOZE9SdmxodVlfRFc4dDYtM0p2Z05Bd1hIM1JTMkZJRGRr?oc=5"
+        },
+        {
+          "name": "Publickey",
+          "url": "https://publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
+        }
+      ],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+        "https://itmedia.co.jp/news/article/2611/12/2000003139",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE52YTZSSWljRGJnXzJ5UnB3UFNZT0JTVTFoUUlIaDh5TVVhOUoyS3UxWEs5Q2V4WFk0a2lMdjM1azFlU2hxTXpSMlYzdDFqbmlaNzYtNFpOZE9SdmxodVlfRFc4dDYtM0p2Z05Bd1hIM1JTMkZJRGRr?oc=5",
+        "https://publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
+      ],
+      "eventTitles": [
+        "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+        "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+        "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始 - Publickey"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3188067",
+      "rank": 4,
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "originalTitle": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "points": [
+        "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSDM1QjFLQTY5azhOTnFfa196dDhaT1lMZ1V3X1JJM1g0c2lucWYxdWVJZE1tcnc2SFY4MmVNaURfV0ZCTHBNWXJwSlZ6WGtseUVUWnFrTllPNlVGU0NMaFV1VHhFSFBLN0tN?oc=5"
+        },
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1c0VPdWs0anhZMGhzd1F0WHBqaGVWRGN3NDczS1JaSjNSNVkwSllUSjlfaTh0VWVCaVBqOUM3a25LSDR5VU54RnhnT090S1lVWllxTm9NNm9JT0hTNlp5NnhwRUxiLVJ6TXJIUU12Zm0tS212R3c?oc=5"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSDM1QjFLQTY5azhOTnFfa196dDhaT1lMZ1V3X1JJM1g0c2lucWYxdWVJZE1tcnc2SFY4MmVNaURfV0ZCTHBNWXJwSlZ6WGtseUVUWnFrTllPNlVGU0NMaFV1VHhFSFBLN0tN?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1c0VPdWs0anhZMGhzd1F0WHBqaGVWRGN3NDczS1JaSjNSNVkwSllUSjlfaTh0VWVCaVBqOUM3a25LSDR5VU54RnhnT090S1lVWllxTm9NNm9JT0hTNlp5NnhwRUxiLVJ6TXJIUU12Zm0tS212R3c?oc=5",
+        "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5"
+      ],
+      "eventTitles": [
+        "Chinese AI Models Expose Gaps in US Nvidia Chip Controls - Demokratis.co.id",
+        "Traces of NVIDIA's Blackwell-Generation Chips Found in Chinese AI Models, Revealing Procurement Under Export Controls - BigGo Finance",
+        "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-biggo-finance-942844888e335f16f222",
+      "rank": 5,
+      "title": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations - BigGo Finance",
+      "originalTitle": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations - BigGo Finance",
+      "summary": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations BigGo Finance",
+      "points": [
+        "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations BigGo Financ",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "BigGo Finance",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-13T22:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CY2lvbVhQSV9BUkZ3UmJiaUtxcnZxdnFiSUxTemk0bXlOMHpadzhXd2ZYd0FNRVh3LXotMVl3djJXbDVJa2x6WWttWHl6MFc1YWRFNFA4My1QWFQ5aDBmd2xtT0c4WDZpbmNMcGlxemtoSnlEc0E?oc=5",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQWhXMV9Lbmd2LVBMWW9QTUlqa0dxZThRUTJxM294UjU5UzdGVmFBdkVTWVZ1bmw1ci1ZNnNCZXI5bExvMDNaVEVWdjIyeXBlQVdYcHhGZ3pmVkR3SjJEdG0zLVRySUYwVHcya2xGbGo1ZTgtU0E?oc=5"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HVFlxUmpVOHNkTU5OcU9LRFh2aWJYOFJOUFFWQUZUZlRkS09XOFAxU1FqTGZfWXlNT0FSVVpCeXphX1VYMnpBeGJpWWpIX3RQenI5cWJXMGRQZlgtOFVQeWJ1NzdfYUtrQVpRdGhwRGR0STlu?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEdFTUVPR3BPNFJuTFRLRThYUmh2VmdiNXk2MHV5X3ZDYVNpdVgtOWoyZnNFWEVuUGVWVnhsWTc2MENLNEZvMFY3dVBOR1FReG8zblFXMTZCMmdqazNpTkpPd2M4SlFPY1YxREctSTBONWZOcm1LdUNlY3lMNEpyQkk0NlpvSmY2N2daX2hvQmFFemlpenR6aHhoUENhZXg0N3JHTG40T1lXRmszN2dxeDhQeGl2YnctQmRDYTFJUTdVVkFiakxJUg?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CY2lvbVhQSV9BUkZ3UmJiaUtxcnZxdnFiSUxTemk0bXlOMHpadzhXd2ZYd0FNRVh3LXotMVl3djJXbDVJa2x6WWttWHl6MFc1YWRFNFA4My1QWFQ5aDBmd2xtT0c4WDZpbmNMcGlxemtoSnlEc0E?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQWhXMV9Lbmd2LVBMWW9QTUlqa0dxZThRUTJxM294UjU5UzdGVmFBdkVTWVZ1bmw1ci1ZNnNCZXI5bExvMDNaVEVWdjIyeXBlQVdYcHhGZ3pmVkR3SjJEdG0zLVRySUYwVHcya2xGbGo1ZTgtU0E?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HVFlxUmpVOHNkTU5OcU9LRFh2aWJYOFJOUFFWQUZUZlRkS09XOFAxU1FqTGZfWXlNT0FSVVpCeXphX1VYMnpBeGJpWWpIX3RQenI5cWJXMGRQZlgtOFVQeWJ1NzdfYUtrQVpRdGhwRGR0STlu?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEdFTUVPR3BPNFJuTFRLRThYUmh2VmdiNXk2MHV5X3ZDYVNpdVgtOWoyZnNFWEVuUGVWVnhsWTc2MENLNEZvMFY3dVBOR1FReG8zblFXMTZCMmdqazNpTkpPd2M4SlFPY1YxREctSTBONWZOcm1LdUNlY3lMNEpyQkk0NlpvSmY2N2daX2hvQmFFemlpenR6aHhoUENhZXg0N3JHTG40T1lXRmszN2dxeDhQeGl2YnctQmRDYTFJUTdVVkFiakxJUg?oc=5",
+        "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE9TemtoRWJlRUR3aGh6bEplOV8tNU9Ea2ltbW9YSkhwNjBReFpPcVR4VF9QaEVFQTczWlBza2I2WWdWVTNPTDMxUGFNTUhlZ2dqVUJxY1NIbVNyVTJhN0s2OFNRN3M4YzRoeWtFc01uNXVtdw?oc=5"
+      ],
+      "eventTitles": [
+        "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations - BigGo Finance",
+        "Ex-OpenAI Engineer Says Chinese AI Models Carry Fingerprints of Banned Nvidia Blackwell Chips - BigGo Finance",
+        "元OpenAIエンジニア、中国AIモデルに禁輸対象のNvidia Blackwellチップの「指紋」を検出と主張 - BigGo ファイナンス",
+        "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models - The Decoder",
+        "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+        "Former OpenAI researcher says six Chinese AI models were built on banned Nvidia chips - Crypto Briefing"
+      ]
+    },
+    {
+      "id": "cloudflare-ai-01M7B8MAKWAA44XACM7ZT7P4NN",
+      "rank": 6,
+      "title": "Kitesurf is now open source",
+      "originalTitle": "Kitesurf is now open source",
+      "summary": "We introduced Kitesurf , our stateless browser for AI agents that runs entirely on top of Workers, in August and followed up in September with WebMCP support, new APIs, and improved compatibility. On every occasion, we mentioned our commitment to open sourcing",
+      "points": [
+        "We introduced Kitesurf , our stateless browser for AI agents that runs entirely on top of Workers, in August and followed up in September with WebMCP support, new APIs, a",
+        "On every occasion, we mentioned our commitment to open sourcing it so that developers could run their own browser engine on their own Cloudflare accounts if they want to.",
+        "That promise is now real."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Cloudflare AI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-13T20:20:21.000Z",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source",
       "impactScore": 77,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/business/customer-stories/amplitude"
+        "https://blog.cloudflare.com/kitesurf-open-source"
       ],
       "eventTitles": [
-        "How Amplitude ships product improvements in 1–2 days with OpenAI"
+        "Kitesurf is now open source"
       ]
     },
     {
-      "id": "aws-machine-learning-f5427fcfe4e9eb6589cc6544f1dbc031a6ca40ba",
-      "rank": 5,
-      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
-      "originalTitle": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
-      "summary": "Developers want AI coding assistants with minimal setup. With a large language model (LLM) gateway and LiteLLM, they can quickly access foundation models (FMs) available on Amazon Bedrock while you gain visibility and usage control. Platform teams need to moni",
+      "id": "aws-machine-learning-f4831ed5c33ec5088dfe090f067c6a3a1c207b47",
+      "rank": 7,
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "originalTitle": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "summary": "Coding agents such as Claude Code and OpenAI Codex CLI work in tasks. A developer asks for a change, and the agent reads files, edits code, and runs tests until the work is done. One task can take a few model calls or dozens. What the developer pays for is the",
       "points": [
-        "Developers want AI coding assistants with minimal setup.",
-        "With a large language model (LLM) gateway and LiteLLM, they can quickly access foundation models (FMs) available on Amazon Bedrock while you gain visibility and usage con",
-        "Platform teams need to monitor latency and errors, finance teams need to attribute inference costs to teams and projects, and security teams need consistent access contro"
+        "Coding agents such as Claude Code and OpenAI Codex CLI work in tasks.",
+        "A developer asks for a change, and the agent reads files, edits code, and runs tests until the work is done.",
+        "One task can take a few model calls or dozens."
       ],
       "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
       "source": "AWS Machine Learning",
       "sourceType": "official",
       "category": "開発者向け",
-      "publishedAt": "2026-11-12T18:41:12.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
-      "impactScore": 74,
+      "publishedAt": "2026-11-13T22:30:12.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "impactScore": 72,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm"
+        "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard"
       ],
       "eventTitles": [
-        "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM"
+        "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard"
       ]
     },
     {
-      "id": "aws-machine-learning-9c61b6431ee0e0a8743834695f2eba45b64d7ee3",
-      "rank": 6,
-      "title": "From prototype to production: Engineering agents with Agent DLC",
-      "originalTitle": "From prototype to production: Engineering agents with Agent DLC",
-      "summary": "Over the past year, AI agents have moved from exploration into engineering. Enterprise teams are shipping large language model (LLM) systems that call tools, orchestrate APIs, and answer questions over internal knowledge. A successful demo can show what an age",
+      "id": "google-news-asia-models-news-lavx-hu-999a6adf5a558994874d",
+      "rank": 8,
+      "title": "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems - news.lavx.hu",
+      "originalTitle": "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems - news.lavx.hu",
+      "summary": "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems news.lavx.hu",
       "points": [
-        "Over the past year, AI agents have moved from exploration into engineering.",
-        "Enterprise teams are shipping large language model (LLM) systems that call tools, orchestrate APIs, and answer questions over internal knowledge.",
-        "A successful demo can show what an agent is capable of."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-12T15:38:47.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc"
-      ],
-      "eventTitles": [
-        "From prototype to production: Engineering agents with Agent DLC"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-business-customer-stories-gondola",
-      "rank": 7,
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "originalTitle": "Gondola doubles revenue as its team builds more with Codex",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "points": [
-        "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems news.lavx.hu",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-12T12:00:00.000Z",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "impactScore": 73,
-      "impactLabel": "大",
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "news.lavx.hu",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-14T00:16:25.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEJ3djlob0xpQWdBRDlhWU5MeE11djNyeXRaMFQzd253cE9hWF9XSE1nbHlHandQSWlqWVc5aTZuRUd1bDJMOTA4ckZZeVd1dWotNElQRHl6bzhVOUFGQ2xvUktxNF9TeU5zR292a3F6OGtqNWVOT2lOaDg3N09TZW1aajdGZHhGS0NYcEFpZm5wb2Y5RUxicGRLTUVxMTVINXkzYktOSlg?oc=5",
+      "impactScore": 68,
+      "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+          "name": "The Register",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5"
         },
         {
-          "name": "AWS Machine Learning",
-          "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock"
+          "name": "Dataconomy",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2QybXZmOVRBUDdwbmNpa2pMZnF1emxjX1N1TGljWTlNWW5pdHQzaXVjaEV2Nnl3ZEhfczkxMkhTX2VJa0tUaWFhLXRlVkt3S1hvWDRsQzlhd2NXSFNnMk1rVmh0R0hvclZkMVE0VTlFTk1lWTluUncwenBtTXh6QkJWNnp4bVNUNnh4TXVVS215Rnl6?oc=5"
+        },
+        {
+          "name": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY19lQi1FZnNkUEF4VEFwMjQ1MGNBdVhVVmthUl9fNFltSkxnLVdoTFpHdlI1M25wTVBmVk9oMUo3TWRGVUJyeXctQzVoZ2piM3FLamZyQzltVHQ3MFFJcElNcW53bUlNQW9FdDgtYzFmY09kMWRBNHJKZEFxaC1nd0NtODZ0QnlrNFNuQ3lyVmpZZ3ZaWEhmUUJVSFh2UXlTOHU5c19IbmRMTGNaZ29oTDR2WnFYb0FORjlfVlpVV0ZZTHFOc3VqZG5TZlJycUhsYUdCTkVFUFlZTFY4bERCUUtFbHZMWDRtZER3Ui1BZWNwaHJZMXhFcFFGNNIBgAJBVV95cUxQTl9BTVVDY2ZJWHJTbWk4UEdLOEZwVVd0Vlp1ejluUFlnOEdhLVZrdTREdkpRbGlFaElHR3lGWUI5cVhTTWxkRXl5ZFJ4VmdGNTJKaVBKQm9MZEkwQTRsaUU0VGpPOVpRbWhmT2o5YzdqWGsxOUNzcTJVY1dMdkU1c1Nhb0NTV0hUbF9PZ0pFcnp2cVJEbU1kMVo1dWtlREJKTnVQeFFWdlkwOXBIWk52ZDU2SXFRMkNKcnI2d2hrTzc3bG43dFpxdFc4MVg5cGhldXRiRGVEWUpINUJaS2hpRHNodFdOdnlpcEFabDZOS25vS1J0bC1XbTBKQjJENkx6?oc=5"
         }
       ],
       "eventUrls": [
-        "https://openai.com/business/customer-stories/gondola",
-        "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEJ3djlob0xpQWdBRDlhWU5MeE11djNyeXRaMFQzd253cE9hWF9XSE1nbHlHandQSWlqWVc5aTZuRUd1bDJMOTA4ckZZeVd1dWotNElQRHl6bzhVOUFGQ2xvUktxNF9TeU5zR292a3F6OGtqNWVOT2lOaDg3N09TZW1aajdGZHhGS0NYcEFpZm5wb2Y5RUxicGRLTUVxMTVINXkzYktOSlg?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2QybXZmOVRBUDdwbmNpa2pMZnF1emxjX1N1TGljWTlNWW5pdHQzaXVjaEV2Nnl3ZEhfczkxMkhTX2VJa0tUaWFhLXRlVkt3S1hvWDRsQzlhd2NXSFNnMk1rVmh0R0hvclZkMVE0VTlFTk1lWTluUncwenBtTXh6QkJWNnp4bVNUNnh4TXVVS215Rnl6?oc=5",
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY19lQi1FZnNkUEF4VEFwMjQ1MGNBdVhVVmthUl9fNFltSkxnLVdoTFpHdlI1M25wTVBmVk9oMUo3TWRGVUJyeXctQzVoZ2piM3FLamZyQzltVHQ3MFFJcElNcW53bUlNQW9FdDgtYzFmY09kMWRBNHJKZEFxaC1nd0NtODZ0QnlrNFNuQ3lyVmpZZ3ZaWEhmUUJVSFh2UXlTOHU5c19IbmRMTGNaZ29oTDR2WnFYb0FORjlfVlpVV0ZZTHFOc3VqZG5TZlJycUhsYUdCTkVFUFlZTFY4bERCUUtFbHZMWDRtZER3Ui1BZWNwaHJZMXhFcFFGNNIBgAJBVV95cUxQTl9BTVVDY2ZJWHJTbWk4UEdLOEZwVVd0Vlp1ejluUFlnOEdhLVZrdTREdkpRbGlFaElHR3lGWUI5cVhTTWxkRXl5ZFJ4VmdGNTJKaVBKQm9MZEkwQTRsaUU0VGpPOVpRbWhmT2o5YzdqWGsxOUNzcTJVY1dMdkU1c1Nhb0NTV0hUbF9PZ0pFcnp2cVJEbU1kMVo1dWtlREJKTnVQeFFWdlkwOXBIWk52ZDU2SXFRMkNKcnI2d2hrTzc3bG43dFpxdFc4MVg5cGhldXRiRGVEWUpINUJaS2hpRHNodFdOdnlpcEFabDZOS25vS1J0bC1XbTBKQjJENkx6?oc=5"
       ],
       "eventTitles": [
-        "Gondola doubles revenue as its team builds more with Codex",
-        "Holiday Extras is rethinking what it can build with Codex",
-        "OpenAI Codex on Amazon Bedrock"
+        "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems - news.lavx.hu",
+        "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer - The Register",
+        "Forensic Analysis Links Chinese AI Models To Restricted Nvidia Chips - Dataconomy",
+        "The mystery of 445 rows: Nvidia Blackwell chip traces found in 6 Chinese AI models including DeepSeek, Ant... - Moneycontrol.com"
       ]
     },
     {
-      "id": "simon-willison-https-simonwillison-net-2026-Nov-12-llm-gemini-",
-      "rank": 8,
-      "title": "llm-gemini 0.37",
-      "originalTitle": "llm-gemini 0.37",
-      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3188596",
+      "rank": 9,
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "originalTitle": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
       "points": [
-        "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.",
-        "It's actually not too far off the price of its much bigger siblings, Carbon and Argon.",
-        "I'm finding Gemini 4's pricing really confusing."
+        "Nvidia poured tens of billions into AI startups under Huang.",
+        "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Simon Willison",
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
       "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-11-12T22:55:19.000Z",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
-      "impactScore": 72,
-      "impactLabel": "大",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "impactScore": 67,
+      "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://simonwillison.net/2026/Nov/12/llm-gemini"
+        "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
       ],
       "eventTitles": [
-        "llm-gemini 0.37"
+        "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-atmarkit-itmedia-co-jp-ait-articles-2611-13-news036-html",
-      "rank": 9,
-      "title": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
-      "originalTitle": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
-      "summary": "API�Z�L�����e�B�x���_�[Salt Security�̒����ł́A�񔼐��̑g�D��AI�G�[�W�F���g�ɂ��Ӑ}���Ȃ��s�����m�F���Ă��邱�Ƃ����������B����őg�D�́AAI�G�[�W�F���g�̑z��O�̍s���������I�Ɏ~�߂��Ă��Ȃ��B�΍�Ƃ��ĉ������߂���̂��B",
-      "points": [
-        "API�Z�L�����e�B�x���_�[Salt Security�̒����ł́A�񔼐��̑g�D��AI�G�[�W�F���g�ɂ��Ӑ}���Ȃ��s�����m�F���Ă��邱�Ƃ����������B����őg�D�́AAI�G�[�W�F���g�̑z��O�̍s���������I�Ɏ~�߂��Ă��Ȃ��B�",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-12T22:45:00.000Z",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
-      "impactScore": 72,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVTlOM2JzbXVJWW5QSTRERlRMbzlDbWpVZ1ZZNm1RbktyU19CUnk5RjdDRGlJUDVmbHZOZS1tYTlyMmI3QmRIWjVlQUJXeUw1OFh3TlBlZ050SW1tcjVIamNXbE9mblJNV0c2N3dBUjBJUQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVTlOM2JzbXVJWW5QSTRERlRMbzlDbWpVZ1ZZNm1RbktyU19CUnk5RjdDRGlJUDVmbHZOZS1tYTlyMmI3QmRIWjVlQUJXeUw1OFh3TlBlZ050SW1tcjVIamNXbE9mblJNV0c2N3dBUjBJUQ?oc=5"
-      ],
-      "eventTitles": [
-        "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
-        "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点 - ITmedia"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-5460e26111aeb2444e58fb192084957f53ebb300",
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99829",
       "rank": 10,
-      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
-      "originalTitle": "Run agents securely and efficiently with the next generation AgentCore runtime",
-      "summary": "AI agents have moved past one-off prompts. They now run multi-step workloads for hours at a time. The length of task that frontier agents can complete on their own doubles about every four months ( METR ), and 40 percent of large enterprises are scaling AI age",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "originalTitle": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting rad",
       "points": [
-        "AI agents have moved past one-off prompts.",
-        "They now run multi-step workloads for hours at a time.",
-        "The length of task that frontier agents can complete on their own doubles about every four months ( METR ), and 40 percent of large enterprises are scaling AI agents, up "
+        "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.",
+        "Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at",
+        "Clinicians stay at the center, reviewing AI outputs and guiding decisions, while NVIDIA technologies provide the compute behind the applications."
       ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "AWS Machine Learning",
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "NVIDIA",
       "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-12T17:59:59.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
-      "impactScore": 72,
-      "impactLabel": "大",
+      "category": "研究",
+      "publishedAt": "2026-11-13T13:00:42.000Z",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "impactScore": 67,
+      "impactLabel": "中",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime"
+        "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams"
       ],
       "eventTitles": [
-        "Run agents securely and efficiently with the next generation AgentCore runtime"
+        "How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
       ]
     }
   ]

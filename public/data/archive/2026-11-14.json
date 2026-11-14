@@ -1,0 +1,397 @@
+{
+  "edition": "2026-11-14T06:30:00+09:00",
+  "generatedAt": "2026-11-14T01:33:40.010Z",
+  "periodStart": "2026-11-11T13:33:40.010Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 806,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "openai-https-openai-com-index-introducing-chatgpt-wallet",
+      "rank": 1,
+      "title": "Introducing ChatGPT Wallet",
+      "originalTitle": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "points": [
+        "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "impactScore": 97,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkJGSjZtV2NLd09mcnRYaEpORS1yaElLTm0wRWwzWjNuWG9ZemdGZHdZRkJDU1g0SlNMc2Z0RW1HVjRkLV9yTEd5R3FGdHZ3R0I5dXRORW9VZklqTmljOXJEcjB2ZlVYeEx1R1J1QkhlZkZHaUVvRXdIMmtmamRzcGtUNGFrOWtsTF81U0NKbUM?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkJGSjZtV2NLd09mcnRYaEpORS1yaElLTm0wRWwzWjNuWG9ZemdGZHdZRkJDU1g0SlNMc2Z0RW1HVjRkLV9yTEd5R3FGdHZ3R0I5dXRORW9VZklqTmljOXJEcjB2ZlVYeEx1R1J1QkhlZkZHaUVvRXdIMmtmamRzcGtUNGFrOWtsTF81U0NKbUM?oc=5",
+        "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet",
+        "https://openai.com/index/introducing-chatgpt-wallet"
+      ],
+      "eventTitles": [
+        "OpenAI、ChatGPT Walletを発表、エージェントがカード情報を見ずに支払い - Pasquale Pillitteri",
+        "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+        "Introducing ChatGPT Wallet"
+      ]
+    },
+    {
+      "id": "cohere-sitemap-https-cohere-com-blog-cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "rank": 2,
+      "title": "Cohere Expands Sovereign AI Platform with AISLE and cubic",
+      "originalTitle": "Cohere Expands Sovereign AI Platform with AISLE and cubic",
+      "summary": "Cohere expands its sovereign AI platform with AISLE acquisition for cyber defense and cubic integration for secure enterprise AI adoption.",
+      "points": [
+        "Cohere expands its sovereign AI platform with AISLE acquisition for cyber defense and cubic integration for secure enterprise AI adoption.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "Cohere",
+      "sourceType": "official",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "impactScore": 83,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25sQnFhTmVqc3FQZDZSYS10dHJEaDVqSGN1Uml1WEhxbU84RXdmck5jNHJWY3NYVlJRanBtbnlDMG5HQ1VJNTY4a3c1WnZUczZmNjNITlFPY0FWdGVJdjYyR2Frc2lFV0JfeU5HMVFrUnlmRnVMbzdJcThlLV9NV2NtZDNXVGljdUdtYVhPMmJJNVZ6NkIzdWRJYw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25sQnFhTmVqc3FQZDZSYS10dHJEaDVqSGN1Uml1WEhxbU84RXdmck5jNHJWY3NYVlJRanBtbnlDMG5HQ1VJNTY4a3c1WnZUczZmNjNITlFPY0FWdGVJdjYyR2Frc2lFV0JfeU5HMVFrUnlmRnVMbzdJcThlLV9NV2NtZDNXVGljdUdtYVhPMmJJNVZ6NkIzdWRJYw?oc=5",
+        "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
+      ],
+      "eventTitles": [
+        "Cohere、AISLEとcubicを買収 サイバー防御とセキュアコーディングを強化 - Unite.AI",
+        "Cohere Expands Sovereign AI Platform with AISLE and cubic"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-62c3e92270a83395aaeaae770a977c92ced34043",
+      "rank": 3,
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "originalTitle": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "summary": "Speech-to-text inference is computationally intensive. Each audio file triggers a pipeline of deep learning models (acoustic models, language models, and post-processing stages) running on NVIDIA GPUs to meet latency requirements. At scale, this means thousand",
+      "points": [
+        "Speech-to-text inference is computationally intensive.",
+        "Each audio file triggers a pipeline of deep learning models (acoustic models, language models, and post-processing stages) running on NVIDIA GPUs to meet latency requirem",
+        "At scale, this means thousands of GPU instances running continuously."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-13T19:35:35.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia AI+",
+          "url": "https://itmedia.co.jp/news/article/2611/12/2000003139"
+        },
+        {
+          "name": "Publickey",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52YTZSSWljRGJnXzJ5UnB3UFNZT0JTVTFoUUlIaDh5TVVhOUoyS3UxWEs5Q2V4WFk0a2lMdjM1azFlU2hxTXpSMlYzdDFqbmlaNzYtNFpOZE9SdmxodVlfRFc4dDYtM0p2Z05Bd1hIM1JTMkZJRGRr?oc=5"
+        },
+        {
+          "name": "Publickey",
+          "url": "https://publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
+        }
+      ],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+        "https://itmedia.co.jp/news/article/2611/12/2000003139",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE52YTZSSWljRGJnXzJ5UnB3UFNZT0JTVTFoUUlIaDh5TVVhOUoyS3UxWEs5Q2V4WFk0a2lMdjM1azFlU2hxTXpSMlYzdDFqbmlaNzYtNFpOZE9SdmxodVlfRFc4dDYtM0p2Z05Bd1hIM1JTMkZJRGRr?oc=5",
+        "https://publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
+      ],
+      "eventTitles": [
+        "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+        "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+        "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始 - Publickey"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3188067",
+      "rank": 4,
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "originalTitle": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "points": [
+        "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSDM1QjFLQTY5azhOTnFfa196dDhaT1lMZ1V3X1JJM1g0c2lucWYxdWVJZE1tcnc2SFY4MmVNaURfV0ZCTHBNWXJwSlZ6WGtseUVUWnFrTllPNlVGU0NMaFV1VHhFSFBLN0tN?oc=5"
+        },
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1c0VPdWs0anhZMGhzd1F0WHBqaGVWRGN3NDczS1JaSjNSNVkwSllUSjlfaTh0VWVCaVBqOUM3a25LSDR5VU54RnhnT090S1lVWllxTm9NNm9JT0hTNlp5NnhwRUxiLVJ6TXJIUU12Zm0tS212R3c?oc=5"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSDM1QjFLQTY5azhOTnFfa196dDhaT1lMZ1V3X1JJM1g0c2lucWYxdWVJZE1tcnc2SFY4MmVNaURfV0ZCTHBNWXJwSlZ6WGtseUVUWnFrTllPNlVGU0NMaFV1VHhFSFBLN0tN?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1c0VPdWs0anhZMGhzd1F0WHBqaGVWRGN3NDczS1JaSjNSNVkwSllUSjlfaTh0VWVCaVBqOUM3a25LSDR5VU54RnhnT090S1lVWllxTm9NNm9JT0hTNlp5NnhwRUxiLVJ6TXJIUU12Zm0tS212R3c?oc=5",
+        "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5"
+      ],
+      "eventTitles": [
+        "Chinese AI Models Expose Gaps in US Nvidia Chip Controls - Demokratis.co.id",
+        "Traces of NVIDIA's Blackwell-Generation Chips Found in Chinese AI Models, Revealing Procurement Under Export Controls - BigGo Finance",
+        "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-biggo-finance-942844888e335f16f222",
+      "rank": 5,
+      "title": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations - BigGo Finance",
+      "originalTitle": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations - BigGo Finance",
+      "summary": "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations BigGo Finance",
+      "points": [
+        "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations BigGo Financ",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "BigGo Finance",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-13T22:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CY2lvbVhQSV9BUkZ3UmJiaUtxcnZxdnFiSUxTemk0bXlOMHpadzhXd2ZYd0FNRVh3LXotMVl3djJXbDVJa2x6WWttWHl6MFc1YWRFNFA4My1QWFQ5aDBmd2xtT0c4WDZpbmNMcGlxemtoSnlEc0E?oc=5",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQWhXMV9Lbmd2LVBMWW9QTUlqa0dxZThRUTJxM294UjU5UzdGVmFBdkVTWVZ1bmw1ci1ZNnNCZXI5bExvMDNaVEVWdjIyeXBlQVdYcHhGZ3pmVkR3SjJEdG0zLVRySUYwVHcya2xGbGo1ZTgtU0E?oc=5"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HVFlxUmpVOHNkTU5OcU9LRFh2aWJYOFJOUFFWQUZUZlRkS09XOFAxU1FqTGZfWXlNT0FSVVpCeXphX1VYMnpBeGJpWWpIX3RQenI5cWJXMGRQZlgtOFVQeWJ1NzdfYUtrQVpRdGhwRGR0STlu?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEdFTUVPR3BPNFJuTFRLRThYUmh2VmdiNXk2MHV5X3ZDYVNpdVgtOWoyZnNFWEVuUGVWVnhsWTc2MENLNEZvMFY3dVBOR1FReG8zblFXMTZCMmdqazNpTkpPd2M4SlFPY1YxREctSTBONWZOcm1LdUNlY3lMNEpyQkk0NlpvSmY2N2daX2hvQmFFemlpenR6aHhoUENhZXg0N3JHTG40T1lXRmszN2dxeDhQeGl2YnctQmRDYTFJUTdVVkFiakxJUg?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CY2lvbVhQSV9BUkZ3UmJiaUtxcnZxdnFiSUxTemk0bXlOMHpadzhXd2ZYd0FNRVh3LXotMVl3djJXbDVJa2x6WWttWHl6MFc1YWRFNFA4My1QWFQ5aDBmd2xtT0c4WDZpbmNMcGlxemtoSnlEc0E?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQWhXMV9Lbmd2LVBMWW9QTUlqa0dxZThRUTJxM294UjU5UzdGVmFBdkVTWVZ1bmw1ci1ZNnNCZXI5bExvMDNaVEVWdjIyeXBlQVdYcHhGZ3pmVkR3SjJEdG0zLVRySUYwVHcya2xGbGo1ZTgtU0E?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HVFlxUmpVOHNkTU5OcU9LRFh2aWJYOFJOUFFWQUZUZlRkS09XOFAxU1FqTGZfWXlNT0FSVVpCeXphX1VYMnpBeGJpWWpIX3RQenI5cWJXMGRQZlgtOFVQeWJ1NzdfYUtrQVpRdGhwRGR0STlu?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEdFTUVPR3BPNFJuTFRLRThYUmh2VmdiNXk2MHV5X3ZDYVNpdVgtOWoyZnNFWEVuUGVWVnhsWTc2MENLNEZvMFY3dVBOR1FReG8zblFXMTZCMmdqazNpTkpPd2M4SlFPY1YxREctSTBONWZOcm1LdUNlY3lMNEpyQkk0NlpvSmY2N2daX2hvQmFFemlpenR6aHhoUENhZXg0N3JHTG40T1lXRmszN2dxeDhQeGl2YnctQmRDYTFJUTdVVkFiakxJUg?oc=5",
+        "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE9TemtoRWJlRUR3aGh6bEplOV8tNU9Ea2ltbW9YSkhwNjBReFpPcVR4VF9QaEVFQTczWlBza2I2WWdWVTNPTDMxUGFNTUhlZ2dqVUJxY1NIbVNyVTJhN0s2OFNRN3M4YzRoeWtFc01uNXVtdw?oc=5"
+      ],
+      "eventTitles": [
+        "Hardware Fingerprints of Blackwell Chips Found in Four Major Chinese AI Models; Former OpenAI Researcher Identifies Them by Comparing 6 Trillion Combinations - BigGo Finance",
+        "Ex-OpenAI Engineer Says Chinese AI Models Carry Fingerprints of Banned Nvidia Blackwell Chips - BigGo Finance",
+        "元OpenAIエンジニア、中国AIモデルに禁輸対象のNvidia Blackwellチップの「指紋」を検出と主張 - BigGo ファイナンス",
+        "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models - The Decoder",
+        "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+        "Former OpenAI researcher says six Chinese AI models were built on banned Nvidia chips - Crypto Briefing"
+      ]
+    },
+    {
+      "id": "cloudflare-ai-01M7B8MAKWAA44XACM7ZT7P4NN",
+      "rank": 6,
+      "title": "Kitesurf is now open source",
+      "originalTitle": "Kitesurf is now open source",
+      "summary": "We introduced Kitesurf , our stateless browser for AI agents that runs entirely on top of Workers, in August and followed up in September with WebMCP support, new APIs, and improved compatibility. On every occasion, we mentioned our commitment to open sourcing",
+      "points": [
+        "We introduced Kitesurf , our stateless browser for AI agents that runs entirely on top of Workers, in August and followed up in September with WebMCP support, new APIs, a",
+        "On every occasion, we mentioned our commitment to open sourcing it so that developers could run their own browser engine on their own Cloudflare accounts if they want to.",
+        "That promise is now real."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Cloudflare AI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-13T20:20:21.000Z",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blog.cloudflare.com/kitesurf-open-source"
+      ],
+      "eventTitles": [
+        "Kitesurf is now open source"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-f4831ed5c33ec5088dfe090f067c6a3a1c207b47",
+      "rank": 7,
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "originalTitle": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "summary": "Coding agents such as Claude Code and OpenAI Codex CLI work in tasks. A developer asks for a change, and the agent reads files, edits code, and runs tests until the work is done. One task can take a few model calls or dozens. What the developer pays for is the",
+      "points": [
+        "Coding agents such as Claude Code and OpenAI Codex CLI work in tasks.",
+        "A developer asks for a change, and the agent reads files, edits code, and runs tests until the work is done.",
+        "One task can take a few model calls or dozens."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-13T22:30:12.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard"
+      ],
+      "eventTitles": [
+        "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-news-lavx-hu-999a6adf5a558994874d",
+      "rank": 8,
+      "title": "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems - news.lavx.hu",
+      "originalTitle": "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems - news.lavx.hu",
+      "summary": "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems news.lavx.hu",
+      "points": [
+        "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems news.lavx.hu",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "news.lavx.hu",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-14T00:16:25.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEJ3djlob0xpQWdBRDlhWU5MeE11djNyeXRaMFQzd253cE9hWF9XSE1nbHlHandQSWlqWVc5aTZuRUd1bDJMOTA4ckZZeVd1dWotNElQRHl6bzhVOUFGQ2xvUktxNF9TeU5zR292a3F6OGtqNWVOT2lOaDg3N09TZW1aajdGZHhGS0NYcEFpZm5wb2Y5RUxicGRLTUVxMTVINXkzYktOSlg?oc=5",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Register",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5"
+        },
+        {
+          "name": "Dataconomy",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2QybXZmOVRBUDdwbmNpa2pMZnF1emxjX1N1TGljWTlNWW5pdHQzaXVjaEV2Nnl3ZEhfczkxMkhTX2VJa0tUaWFhLXRlVkt3S1hvWDRsQzlhd2NXSFNnMk1rVmh0R0hvclZkMVE0VTlFTk1lWTluUncwenBtTXh6QkJWNnp4bVNUNnh4TXVVS215Rnl6?oc=5"
+        },
+        {
+          "name": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY19lQi1FZnNkUEF4VEFwMjQ1MGNBdVhVVmthUl9fNFltSkxnLVdoTFpHdlI1M25wTVBmVk9oMUo3TWRGVUJyeXctQzVoZ2piM3FLamZyQzltVHQ3MFFJcElNcW53bUlNQW9FdDgtYzFmY09kMWRBNHJKZEFxaC1nd0NtODZ0QnlrNFNuQ3lyVmpZZ3ZaWEhmUUJVSFh2UXlTOHU5c19IbmRMTGNaZ29oTDR2WnFYb0FORjlfVlpVV0ZZTHFOc3VqZG5TZlJycUhsYUdCTkVFUFlZTFY4bERCUUtFbHZMWDRtZER3Ui1BZWNwaHJZMXhFcFFGNNIBgAJBVV95cUxQTl9BTVVDY2ZJWHJTbWk4UEdLOEZwVVd0Vlp1ejluUFlnOEdhLVZrdTREdkpRbGlFaElHR3lGWUI5cVhTTWxkRXl5ZFJ4VmdGNTJKaVBKQm9MZEkwQTRsaUU0VGpPOVpRbWhmT2o5YzdqWGsxOUNzcTJVY1dMdkU1c1Nhb0NTV0hUbF9PZ0pFcnp2cVJEbU1kMVo1dWtlREJKTnVQeFFWdlkwOXBIWk52ZDU2SXFRMkNKcnI2d2hrTzc3bG43dFpxdFc4MVg5cGhldXRiRGVEWUpINUJaS2hpRHNodFdOdnlpcEFabDZOS25vS1J0bC1XbTBKQjJENkx6?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEJ3djlob0xpQWdBRDlhWU5MeE11djNyeXRaMFQzd253cE9hWF9XSE1nbHlHandQSWlqWVc5aTZuRUd1bDJMOTA4ckZZeVd1dWotNElQRHl6bzhVOUFGQ2xvUktxNF9TeU5zR292a3F6OGtqNWVOT2lOaDg3N09TZW1aajdGZHhGS0NYcEFpZm5wb2Y5RUxicGRLTUVxMTVINXkzYktOSlg?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa2QybXZmOVRBUDdwbmNpa2pMZnF1emxjX1N1TGljWTlNWW5pdHQzaXVjaEV2Nnl3ZEhfczkxMkhTX2VJa0tUaWFhLXRlVkt3S1hvWDRsQzlhd2NXSFNnMk1rVmh0R0hvclZkMVE0VTlFTk1lWTluUncwenBtTXh6QkJWNnp4bVNUNnh4TXVVS215Rnl6?oc=5",
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY19lQi1FZnNkUEF4VEFwMjQ1MGNBdVhVVmthUl9fNFltSkxnLVdoTFpHdlI1M25wTVBmVk9oMUo3TWRGVUJyeXctQzVoZ2piM3FLamZyQzltVHQ3MFFJcElNcW53bUlNQW9FdDgtYzFmY09kMWRBNHJKZEFxaC1nd0NtODZ0QnlrNFNuQ3lyVmpZZ3ZaWEhmUUJVSFh2UXlTOHU5c19IbmRMTGNaZ29oTDR2WnFYb0FORjlfVlpVV0ZZTHFOc3VqZG5TZlJycUhsYUdCTkVFUFlZTFY4bERCUUtFbHZMWDRtZER3Ui1BZWNwaHJZMXhFcFFGNNIBgAJBVV95cUxQTl9BTVVDY2ZJWHJTbWk4UEdLOEZwVVd0Vlp1ejluUFlnOEdhLVZrdTREdkpRbGlFaElHR3lGWUI5cVhTTWxkRXl5ZFJ4VmdGNTJKaVBKQm9MZEkwQTRsaUU0VGpPOVpRbWhmT2o5YzdqWGsxOUNzcTJVY1dMdkU1c1Nhb0NTV0hUbF9PZ0pFcnp2cVJEbU1kMVo1dWtlREJKTnVQeFFWdlkwOXBIWk52ZDU2SXFRMkNKcnI2d2hrTzc3bG43dFpxdFc4MVg5cGhldXRiRGVEWUpINUJaS2hpRHNodFdOdnlpcEFabDZOS25vS1J0bC1XbTBKQjJENkx6?oc=5"
+      ],
+      "eventTitles": [
+        "Forensic weight analysis links Chinese AI models to Nvidia Blackwell systems - news.lavx.hu",
+        "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer - The Register",
+        "Forensic Analysis Links Chinese AI Models To Restricted Nvidia Chips - Dataconomy",
+        "The mystery of 445 rows: Nvidia Blackwell chip traces found in 6 Chinese AI models including DeepSeek, Ant... - Moneycontrol.com"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3188596",
+      "rank": 9,
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "originalTitle": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "points": [
+        "Nvidia poured tens of billions into AI startups under Huang.",
+        "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
+      ],
+      "eventTitles": [
+        "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
+      ]
+    },
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99829",
+      "rank": 10,
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "originalTitle": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting rad",
+      "points": [
+        "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.",
+        "Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at",
+        "Clinicians stay at the center, reviewing AI outputs and guiding decisions, while NVIDIA technologies provide the compute behind the applications."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-13T13:00:42.000Z",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams"
+      ],
+      "eventTitles": [
+        "How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
+      ]
+    }
+  ]
+}
