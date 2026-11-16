@@ -1,0 +1,318 @@
+{
+  "edition": "2026-11-16T06:30:00+09:00",
+  "generatedAt": "2026-11-16T01:16:25.588Z",
+  "periodStart": "2026-11-13T13:16:25.588Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 846,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "openai-https-openai-com-index-step-toward-defining-the-standard-model",
+      "rank": 1,
+      "title": "A step toward defining the Standard Model on a lattice",
+      "originalTitle": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "points": [
+        "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-15T22:00:01.000Z",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/step-toward-defining-the-standard-model"
+      ],
+      "eventTitles": [
+        "A step toward defining the Standard Model on a lattice"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-16-2000003211",
+      "rank": 2,
+      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
+      "originalTitle": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
+      "summary": "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。",
+      "points": [
+        "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-16T00:44:05.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2611/16/2000003211",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/aiplus/article/2611/16/2000003211"
+      ],
+      "eventTitles": [
+        "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-our-new-blog-for-science",
+      "rank": 3,
+      "title": "Our new blog for science",
+      "originalTitle": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "points": [
+        "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/our-new-blog-for-science"
+      ],
+      "eventTitles": [
+        "Our new blog for science"
+      ]
+    },
+    {
+      "id": "publickey-tag-www-publickey1-jp-2026-2-8769",
+      "rank": 4,
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "originalTitle": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "summary": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
+      "points": [
+        "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。",
+        "Kitesurf is now open source on GitHub under ...",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Publickey",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-15T15:30:19.000Z",
+      "url": "https://publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "Publickey",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVzVaT1BSaUtQU25sNlkzTHhFbk01R3VSckFyNHduSGtaTVo4aFJGOW82V0NQTjFEU2ZfUFJ0b0EtN2dKc2paNW1xaVROM0RodGc0M251S2ZEanpPc29XY0lxaTR5cnRaUEUw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://publickey1.jp/blog/26/cloudflareaikitesurf.html",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVzVaT1BSaUtQU25sNlkzTHhFbk01R3VSckFyNHduSGtaTVo4aFJGOW82V0NQTjFEU2ZfUFJ0b0EtN2dKc2paNW1xaVROM0RodGc0M251S2ZEanpPc29XY0lxaTR5cnRaUEUw?oc=5"
+      ],
+      "eventTitles": [
+        "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+        "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 - Publickey"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42881",
+      "rank": 5,
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "originalTitle": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei",
+      "points": [
+        "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware.",
+        "On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5.",
+        "The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-15T10:06:06.000Z",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu"
+      ],
+      "eventTitles": [
+        "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU"
+      ]
+    },
+    {
+      "id": "simon-willison-https-simonwillison-net-2026-Nov-15-datasette-",
+      "rank": 6,
+      "title": "datasette 1.0a43",
+      "originalTitle": "datasette 1.0a43",
+      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mech",
+      "points": [
+        "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete.",
+        "The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register",
+        "There are a couple of security fixes, one of which I deemed deserving of a GitHub advisory : private stored queries could be exposed, granting access to the title and SQL"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Simon Willison",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-15T23:20:27.000Z",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Nov/15/datasette"
+      ],
+      "eventTitles": [
+        "datasette 1.0a43"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-monoist-itmedia-co-jp-mn-articles-2611-16-news037-html",
+      "rank": 7,
+      "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
+      "originalTitle": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
+      "summary": "�_�b�\\�[�E�V�X�e���Y�́A3D�݌v�J���\\�����[�V�����uSOLIDWORKS�v�̍ŐV�o�[�W�����uSOLIDWORKS 2027�v�𔭕\\�����B���i�o���G�[�V�����̌�����{���g������́A�f�[�^�Ǘ��Ɋւ���@�\\�����ɉ����AAI�ɂ��A�Z���u���̃p�t�H�[�}���X���͂⃂�f���̌y�ʉ��A�݌v�ύX�ɔ����e���͈͂̊m�F�ȂǁA�݌v�Ɩ����x������@",
+      "points": [
+        "�_�b�\\�[�E�V�X�e���Y�́A3D�݌v�J���\\�����[�V�����uSOLIDWORKS�v�̍ŐV�o�[�W�����uSOLIDWORKS 2027�v�𔭕\\�����B���i�o���G�[�V�����̌�����{���g������́A�f�[�^�Ǘ��Ɋւ���@�\\�����ɉ����A",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-15T23:30:00.000Z",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
+      "impactScore": 62,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html"
+      ],
+      "eventTitles": [
+        "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-monoist-itmedia-co-jp-mn-articles-2611-16-news011-html",
+      "rank": 8,
+      "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+      "originalTitle": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+      "summary": "�����ŗ��p�ł���I�[�v���\\�[�X�̃p�����g���b�N3D CAD�uSolidCraft�v���Љ��BWeb�u���E�U�ƃf�X�N�g�b�v�A�v���ɑΉ����A��҂ł͐���AI�Ƃ̑Θb�ɂ�郂�f�����O���\\���B�M�҂����ۂɑ��삵�ĕ���������{�@�\\�̎g�������AAI�A�g�̉\\���Ɖۑ��T��B",
+      "points": [
+        "�����ŗ��p�ł���I�[�v���\\�[�X�̃p�����g���b�N3D CAD�uSolidCraft�v���Љ��BWeb�u���E�U�ƃf�X�N�g�b�v�A�v���ɑΉ����A��҂ł͐���AI�Ƃ̑Θb�ɂ�郂�f�����O���\\���B�M�҂����ۂɑ��삵�ĕ���������{�",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html"
+      ],
+      "eventTitles": [
+        "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！"
+      ]
+    },
+    {
+      "id": "google-news-global-genai-indie-shorts-mag-ed552b6683ec3788da94",
+      "rank": 9,
+      "title": "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed - Indie Shorts Mag",
+      "originalTitle": "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed - Indie Shorts Mag",
+      "summary": "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed Indie Shorts Mag",
+      "points": [
+        "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed Indie Shorts Mag",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Indie Shorts Mag",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-15T18:17:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDd6bTdpbGl4Z1pERVRhUnNZNTdxdGR4dGhWWFN3TnlRM3dhYVdqdHVSS3M4ZjZtcDhLbWI1MFh0dkhZdTFSZkwxcVh4QXNYcUZyT1RObzlTSllHZHBfRzlyOVRTNUZoV3FVcjNYUGJUSW5UQmlaUWd3YjF5UmNiRVRhODNvVXE0Vmt3Yi1SajZlN2NkYlBsWmpCbmtDN2xCYnhSQ0djS251VktlVmhJ?oc=5",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Skwigly",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDlpZ0ZkendfelNMMEtHRUc1dERrWjZTUl9HU1NKWG14dVBTRDBuUHJVTkhIbk16QW43aUliZ25DVXJLWDNlZ3ZLS0MydGJpODZuQm80VE9hNEVkeVZvMlFLQ3lPT0M4X0JlbWwyQm9EcUJFM3hwWmZnUy1sNEswVzRnd012UFZMcDBtNC00SjhnUmpQU1JEQ1ByQXJoWHBnbmhBMFpLQm5kTVU4M0hJeW03RXM2VmM2SlE?oc=5"
+        },
+        {
+          "name": "SoaplandTV",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlYzQndqVVFJOE9jbHJRejRoUURWVXhROTNOWWN6MHU0LUUtQzZUdzFnV0tXTnhmb21XRERRb256Z2JYOVJMeDVoNXNST0M1d0ZrNEtKRmRWZVlrUlo3UklCdFoxVEVRQ2J1XzlpLTYwdzBqQWZFbVk5QVVvOExSSldiZXplVHY1LUdzOFdwVm5KTDBnOERQQlJTN21oTDJGOGo0MlNpYXdkRDZRR3RNeEhZQQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDd6bTdpbGl4Z1pERVRhUnNZNTdxdGR4dGhWWFN3TnlRM3dhYVdqdHVSS3M4ZjZtcDhLbWI1MFh0dkhZdTFSZkwxcVh4QXNYcUZyT1RObzlTSllHZHBfRzlyOVRTNUZoV3FVcjNYUGJUSW5UQmlaUWd3YjF5UmNiRVRhODNvVXE0Vmt3Yi1SajZlN2NkYlBsWmpCbmtDN2xCYnhSQ0djS251VktlVmhJ?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDlpZ0ZkendfelNMMEtHRUc1dERrWjZTUl9HU1NKWG14dVBTRDBuUHJVTkhIbk16QW43aUliZ25DVXJLWDNlZ3ZLS0MydGJpODZuQm80VE9hNEVkeVZvMlFLQ3lPT0M4X0JlbWwyQm9EcUJFM3hwWmZnUy1sNEswVzRnd012UFZMcDBtNC00SjhnUmpQU1JEQ1ByQXJoWHBnbmhBMFpLQm5kTVU4M0hJeW03RXM2VmM2SlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlYzQndqVVFJOE9jbHJRejRoUURWVXhROTNOWWN6MHU0LUUtQzZUdzFnV0tXTnhmb21XRERRb256Z2JYOVJMeDVoNXNST0M1d0ZrNEtKRmRWZVlrUlo3UklCdFoxVEVRQ2J1XzlpLTYwdzBqQWZFbVk5QVVvOExSSldiZXplVHY1LUdzOFdwVm5KTDBnOERQQlJTN21oTDJGOGo0MlNpYXdkRDZRR3RNeEhZQQ?oc=5"
+      ],
+      "eventTitles": [
+        "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed - Indie Shorts Mag",
+        "Manchester Animation Festival Announces 2026 Winners and Bans Generative AI Films from 2027 - Skwigly",
+        "Manchester Animation Festival Bans Generative AI Films From Its 2027 Competition - SoaplandTV"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-42835",
+      "rank": 10,
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "originalTitle": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dro",
+      "points": [
+        "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service.",
+        "Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers.",
+        "Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-15T10:45:58.000Z",
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service"
+      ],
+      "eventTitles": [
+        "Australia's central bank finds AI hitting young workers first, especially in software and customer service"
+      ]
+    }
+  ]
+}
