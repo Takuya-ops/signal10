@@ -1,317 +1,418 @@
 {
-  "edition": "2026-11-16T06:30:00+09:00",
-  "generatedAt": "2026-11-16T01:16:25.588Z",
-  "periodStart": "2026-11-13T13:16:25.588Z",
+  "edition": "2026-11-17T06:30:00+09:00",
+  "generatedAt": "2026-11-17T04:04:29.068Z",
+  "periodStart": "2026-11-14T16:04:29.068Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 39,
-  "freshSources": 35,
+  "successfulSources": 42,
+  "freshSources": 38,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 846,
+  "candidateCount": 1089,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "openai-https-openai-com-index-step-toward-defining-the-standard-model",
+      "id": "google-news-asia-models-orcarouter-b43e207e888e51d33174",
       "rank": 1,
-      "title": "A step toward defining the Standard Model on a lattice",
-      "originalTitle": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "title": "Qwen 4 vs GLM-5.5: The Open-Weight Model Costs More - OrcaRouter",
+      "originalTitle": "Qwen 4 vs GLM-5.5: The Open-Weight Model Costs More - OrcaRouter",
+      "summary": "Qwen 4 vs GLM-5.5: The Open-Weight Model Costs More OrcaRouter",
       "points": [
-        "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "Qwen 4 vs GLM-5.5: The Open-Weight Model Costs More OrcaRouter",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
-      "sourceType": "official",
+      "source": "OrcaRouter",
+      "sourceType": "media",
       "category": "モデル",
-      "publishedAt": "2026-11-15T22:00:01.000Z",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "impactScore": 73,
+      "publishedAt": "2026-11-16T18:14:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14OFJrNmsyeVF3b2xVelJlNTBaV3EtUEVFLWIyMXdvNjFEbU40TEt4VjdDejRMS2JfdE13VFQzaW9vVmpJZTktVXVUbEFaU3hSZmdGV2stMzNfSHdk?oc=5",
+      "impactScore": 88,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUldwUmdQTjF4YUJJbHpmaENYZVkyOUV4TmtISTVOZVhfamI0RWZBX1YxbkpfTVdyV1hZRDNQYUJRbldXT1A0akkwN0RDZE1pSFRqMVM3QXBid1p2dmtFZXAtUkY2eGVuQ05Ua1dpUGFYOGp3T0lHNGlkejhWRTZVM2N4Zmo4RldUNTl2UU45TjRKTEZRS3FIbG42aw?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmgzUWlEaWRINjNmWmJPa0JKWUFzWllxOFJTV204RUpvOTNBMkwzS3VlYW54akNCUk1ZbW41bzFhLS14djRDU0pZcWpnemIwUDhxdlFINEhZcFlQNjdPRExELXpLSnRiUmo4YU40cXRYaG1yWHpTNGduNXlyUG8ydmxVLVRaRHN3NkhYSkJYOFBpM2Z0aEZjZ0FGZHBabVFjNUpQdjZUWHhrQQ?oc=5"
+        },
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14OFJrNmsyeVF3b2xVelJlNTBaV3EtUEVFLWIyMXdvNjFEbU40TEt4VjdDejRMS2JfdE13VFQzaW9vVmpJZTktVXVUbEFaU3hSZmdGV2stMzNfSHdk?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUldwUmdQTjF4YUJJbHpmaENYZVkyOUV4TmtISTVOZVhfamI0RWZBX1YxbkpfTVdyV1hZRDNQYUJRbldXT1A0akkwN0RDZE1pSFRqMVM3QXBid1p2dmtFZXAtUkY2eGVuQ05Ua1dpUGFYOGp3T0lHNGlkejhWRTZVM2N4Zmo4RldUNTl2UU45TjRKTEZRS3FIbG42aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmgzUWlEaWRINjNmWmJPa0JKWUFzWllxOFJTV204RUpvOTNBMkwzS3VlYW54akNCUk1ZbW41bzFhLS14djRDU0pZcWpnemIwUDhxdlFINEhZcFlQNjdPRExELXpLSnRiUmo4YU40cXRYaG1yWHpTNGduNXlyUG8ydmxVLVRaRHN3NkhYSkJYOFBpM2Z0aEZjZ0FGZHBabVFjNUpQdjZUWHhrQQ?oc=5",
+        "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices",
+        "https://news.google.com/rss/articles/CBMisAJBVV95cUxQR2xNUEdzNjhIWmVrV3psc3ZrQ2FTS2lnN2xrR2hlV2F2VklUZkoyalFNZW5fZHQ1WnZSUy1Kb3pEanl0bndhYVhSQ1BIV0xFcXhoSTIySmxRUnQwcFBxbTBzTG5hZlFlTi0zUkRaTjVkZlpGT0F2cFZSYVoxdFZORTNyMWx0eXItNEpLZVJvMFhwT0lCQ0J3a09JdzVLZzMzbTFqVzFTRmVqWHZjbk1iSERfSG9lVmswMkRrVG5tbXdOajNra09KNm81eUVTeHZ4SF9FdUMxTy12TjJaUWRzSWRDQ2VyOC1BQkpnS0daVjBGTmlsT1hDV05DT29hejJUVkdoQjVVWGxOMFY3SEJDY19fb1lsZmxrbmIxNWZlT3hfcVo2Y3d3NFJlVy1sOGZS0gG2AkFVX3lxTE9QaHZabmFmcXprN2VMNU5zVmd2aGpJZGlWSU5PUGlER3hYNWZ4aU9ya09qeUN6bE9tZUtUQng1bmVLQTBTN2U3NjNneEpETmNEOUxHaXFRbHc3bGRsR3ZyME1RbllHX0d4TUUtTGRlYm04NElMc2pubnZZRkN3ZEJ6UlNrblBXSmtBdGRmTzZqaC05NDNMX1Y0bWRtdFkyTVlpRlNwVElhcXFXQTQwYlh4RkJ4MUE0RGRBeVdBcE1sZmh4X0YxSlMxSEczWUNSamNiY1NaOGFmcmo5eGVjcnRNMnAtV21XN21NRHdUSHQwR2V2TGV5a1hfRDhyOWNHLVNpcGZ6aUVaNGFZYl84WU1HVWdJVFF3VGFMeDk1VmFKeERhQUViUUprVG40bDVEWmswdm9MM2c?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWV4Zm5Dek9XWmJ0cGJ2SUl6T3M5OUg3dnNfU0Nuek5Sb245R0dOdFl6RHdMbndFV0FoU3FwQllHYTNYSERUT1ZWZE9xdjBzb2QzdHJ0N0hRSVZraDR1MGxMRm1JYnVGWUIzRmJoajBQWEJVT0Nsa1lNWXJrNTQyN1dtdHFfb3B0YkQxZ2lVTHd1d3FYbUVYLWNHdUFlclptWnpwSEM5OVJDTDJ6R0FyRlZBME9aVVFacW4zYzAwSE45NnpTVHc4YTRoRzBtNk1IVk9HX2wtc2zSAd4BQVVfeXFMUExHVFoxUWhZSlpjdW9zRDctS3Q5R3FRQm9iWmc2dklqUjZZb19SaEFvbnBrUG9xNTNGaXl3NnFteXJUUHVGVS1jcmJjRkF0NHRFNWdVWU0zbkIwSWgwbE9nN3NYUFEzVGtDZF85SW1vdENLTWVqYkhhQlhrcDF0SlBwLXI5QXctSk13MEt5Ujl1akpQRkhtN3hxQzYzRUVlMmI4Um42M0taOUxLS2pRNEp5Q0hRMjlZcjg1Ul9RaWNCWTFYRnVDZ2xGLVlCMENPbFlwbFd6U0p4eVlJbjRB?oc=5"
+      ],
+      "eventTitles": [
+        "Qwen 4 vs GLM-5.5: The Open-Weight Model Costs More - OrcaRouter",
+        "Qwen4-Max launches, Artificial Analysis scores it 43 to Opus 5.5's 59 - Pasquale Pillitteri",
+        "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices - The Decoder",
+        "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+        "Alibaba launches Qwen4-Max: Chinese tech giant unveils AI model with increased focus on security; claims to beat GPT-6.1-Sol and Claude Opus 5.5 in coding - ET Now",
+        "Alibaba launches Qwen4-Max AI model, claims it beats GPT-6.1-Sol and Claude Opus 5.5 in coding - Livemint"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-techgig-c0176beb32097024e75a",
+      "rank": 2,
+      "title": "Alibaba unveils Qwen4-Max AI model with enhanced safety features - TechGig",
+      "originalTitle": "Alibaba unveils Qwen4-Max AI model with enhanced safety features - TechGig",
+      "summary": "Alibaba unveils Qwen4-Max AI model with enhanced safety features TechGig",
+      "points": [
+        "Alibaba unveils Qwen4-Max AI model with enhanced safety features TechGig",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "TechGig",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-17T00:11:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0tGczU4VkNSVFViZnpEMll3a1NYaUQ4Ry12QjB0b0RwVVphTFRYcTJUN0t5NEU2eUJZZV9Rd0NpcldzdDNHSEVHVzBGN3BzQm5tZUtZRlNZYmRGVVd6Mld4S0Yxd0FXd2UtSG5lMXBmejVLcWZOWjVoOVFKU0hEWVE3eFJkbVFZM3JHU3BfeXRaN2JEdWI3WWtVbVZYOF9JalIxaQ?oc=5",
+      "impactScore": 87,
+      "impactLabel": "特大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSF9SVmkwV3VtQkpuRjI4a0ZkUkxzMUdQRmkyMjduSzFDOVJCU3lGWlMyeVJ0S3NZOXBXM3Iyb3lLcGxaZXZpYU9QcFgtMEloVFMxd2UwQ1FKZ2Y0RXpqWHJmOHBnYXJLV1M3aWNNZm9HS0pGQ1RHMTFhalFJUEhTSUljVWtKb0N4SnZqdW0zSQ?oc=5"
+        },
+        {
+          "name": "联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYnZQN3lhRTVmeFF6dk9VRWY2WmxNemZDVy1neEp2OVFwb25QeFpzOGlwTUMybEthSjlDSlZITlpMT1J6REZ4LWNqTzNkSVFDTVdqWGR5ZmRUMlE0cFJ4aHNQYVdWN1ZLMnVSYjkwT1BPYU9vR2FsVk1uTUdLUEtxZlF2RFU0UnNWQUZmSmhzTmlvMUxSZ2d4NEhZVlRyVngyVnJETENXaXNrcGJWUk1SOGtIdw?oc=5"
+        },
+        {
+          "name": "Technology Org",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnBlS043cHdPdnJYVmJYRWNDRlB0Tnc3TkQ1WXlrUE9RdEU3c2VaaDFMS1RlOWNuZkpWRkFqLW5nN3E0bk12YWtYX0VYOURJd0UyQ0p0aW10RWpmbnZCSHRsMlNOTEJCbUpZSG1YUUI3bmZCRHBJemFOS0o4bWFiamF0U1dGNTFjZWI5S29XTQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0tGczU4VkNSVFViZnpEMll3a1NYaUQ4Ry12QjB0b0RwVVphTFRYcTJUN0t5NEU2eUJZZV9Rd0NpcldzdDNHSEVHVzBGN3BzQm5tZUtZRlNZYmRGVVd6Mld4S0Yxd0FXd2UtSG5lMXBmejVLcWZOWjVoOVFKU0hEWVE3eFJkbVFZM3JHU3BfeXRaN2JEdWI3WWtVbVZYOF9JalIxaQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSF9SVmkwV3VtQkpuRjI4a0ZkUkxzMUdQRmkyMjduSzFDOVJCU3lGWlMyeVJ0S3NZOXBXM3Iyb3lLcGxaZXZpYU9QcFgtMEloVFMxd2UwQ1FKZ2Y0RXpqWHJmOHBnYXJLV1M3aWNNZm9HS0pGQ1RHMTFhalFJUEhTSUljVWtKb0N4SnZqdW0zSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYnZQN3lhRTVmeFF6dk9VRWY2WmxNemZDVy1neEp2OVFwb25QeFpzOGlwTUMybEthSjlDSlZITlpMT1J6REZ4LWNqTzNkSVFDTVdqWGR5ZmRUMlE0cFJ4aHNQYVdWN1ZLMnVSYjkwT1BPYU9vR2FsVk1uTUdLUEtxZlF2RFU0UnNWQUZmSmhzTmlvMUxSZ2d4NEhZVlRyVngyVnJETENXaXNrcGJWUk1SOGtIdw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnBlS043cHdPdnJYVmJYRWNDRlB0Tnc3TkQ1WXlrUE9RdEU3c2VaaDFMS1RlOWNuZkpWRkFqLW5nN3E0bk12YWtYX0VYOURJd0UyQ0p0aW10RWpmbnZCSHRsMlNOTEJCbUpZSG1YUUI3bmZCRHBJemFOS0o4bWFiamF0U1dGNTFjZWI5S29XTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkRtMG1qYm5nSVRKX0FBSHhqMXVYV3B2WTJ1SFFnWjRTSkkxWnVNX2VJSXp5ZGcyYmlXTGx6bzdscDYwaVFtQ2psUzQ2WFlWZlNfcjdPSTFpN3ZNUWNvQVNlUVFya0lmeWNFWHBTakhOUGFjcTlRYWU0WFVmRTFTSExKU29VMnhSV0k0cS1BRHZjcl9KRVIwRF9fZUdSSldpeWR4aWtqeXBoWVhhaHRF?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1BMT0lJdC1aUkNHS2k3ZDlYZDFXLWpTN19SNmxXZUFnWDN3MGNwOXhlZDJpanpnRHE0b2pBem0zam5Zc2lma2daQnN1QVRRVmo2bzR4RktfNEQwSGVEeE0xaHVDVm5xVlZzTDlwRmdUN01POEtiemRyZ0F0N3p6dHZfQ1Y4aWRsQXlDX2U1LWV0bVlDQTRtbTRDd3E1ZlgzUlhZaWtZQXVGQdIBpgFBVV95cUxNdkhxTWhMWWdzdFZSNXozMVNhd0dXX2x1bUNKV0hINExjTDdQN05zV3NSY245eFNPZ2Z1VlNKVzVKaGpRbFZhQm5OcFFqcVV2UEZVYnE4Y1BfbnYyT3FPbG5IdElGVFAwUlc3Sy14Y0NKSHV5cVpmVS1iZzg4QUJfUzJTRnNvbU8wdUhuMVVRVl83a2thajRabjc5dzhUbEdDLUlWUmN3?oc=5"
+      ],
+      "eventTitles": [
+        "Alibaba unveils Qwen4-Max AI model with enhanced safety features - TechGig",
+        "Alibaba launches Qwen4-Max AI model with enhanced safety features - Latest news from Azerbaijan",
+        "Alibaba launches new-generation Qwen AI model with enhanced safety measures - 联合早报",
+        "Alibaba Launches Qwen4-Max, a Flagship AI Model With Tighter Safety Controls - Technology Org",
+        "Alibaba Qwen4-Max: What the New Flagship AI Model Promises on Safety - Around Prague",
+        "Alibaba unveils flagship AI model Qwen4-Max with safety upgrades - The News International"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-technetbook-354695b4ee9c28346fe0",
+      "rank": 3,
+      "title": "Alibaba Qwen4 Max Cuts AI Task Costs by 62% - Technetbook",
+      "originalTitle": "Alibaba Qwen4 Max Cuts AI Task Costs by 62% - Technetbook",
+      "summary": "Alibaba Qwen4 Max Cuts AI Task Costs by 62% Technetbook",
+      "points": [
+        "Alibaba Qwen4 Max Cuts AI Task Costs by 62% Technetbook",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Technetbook",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-16T20:19:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0d6Qk12QzZLUGo2cXBIcmpZRjJfLXk3RkE0TGlFS2NyOHI1Rml2QTRfMGZyNVR2WkdENzBPVHN3eVZYR2FCcnBoeUlWaENaajcxRkRTX1IxeTJHMExQUFhob2ZjcXBiVXhUUkV5VDFvNTFwRE5QcTY4YXVROGVDQ1p1Tk9vZFYw?oc=5",
+      "impactScore": 85,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcExkVWZLcFNHZFp2ZF9KZkJxcDdDR1N6a1doVHF0dXRrcXdHNzFQVVpuTS1uckZuT3dqc2VGaHVqdkhYRUN1dWNjcVdsaUkzUHcwazZpcTFNcEEzU1RHcHQ1VXR4Zk92aXJQU3d1MzA2aThJcnJBWGd3QTJ4MGlqQUUzZ3NIem1fdEswdnVYZWtTX3kwajZRcUtwU2tlS2xQa28yU2V1cTNodG9UX3ZuV3UxeTNJTVZF?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2l3bkJVeWI1akxnMHlNaFRJTGw0SEd5QnpiT055U0hEdEVsTmd6MXRpTzFZLV9tREl3ekxuem5lU0dkMnZraVdqYXJFalBVbnlWZm9IOHZIejNmTjNvNFJTSVNQTU0wTm5fZ04yOTdVU3RPb3dmSGFVLS1PS0pvQUNycVpMTEZGNHg3bWo4V0FIcFZNQ0tsMVJhVWd3S1NrTE1sTS1zT1Q2WEY0ZVZ0Q1hLalhsSklVVy1iWnlBZnU0UGF6QmlRR1hLQ3V0aVk?oc=5"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWFDRm05Q0VhUmU2OFFWbnBnOEFvVFh6QXNNZHdVTWFhb3liS0dRUkU0SU02V1l0LVRnSFlKWU91aHp3Q1p3cTRBV2Q4MWZjR2VpX1JsZDZZZk9pMklKdjdMZEFMQldILUgtbUw2dV9VWklXN2RIbzY3cnJqY0lnR2NINE9rYmVDNjhmOFEzWjRTRWt3b3dsS2QwcUljeGlPWTlYLXdGNmpXZw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0d6Qk12QzZLUGo2cXBIcmpZRjJfLXk3RkE0TGlFS2NyOHI1Rml2QTRfMGZyNVR2WkdENzBPVHN3eVZYR2FCcnBoeUlWaENaajcxRkRTX1IxeTJHMExQUFhob2ZjcXBiVXhUUkV5VDFvNTFwRE5QcTY4YXVROGVDQ1p1Tk9vZFYw?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcExkVWZLcFNHZFp2ZF9KZkJxcDdDR1N6a1doVHF0dXRrcXdHNzFQVVpuTS1uckZuT3dqc2VGaHVqdkhYRUN1dWNjcVdsaUkzUHcwazZpcTFNcEEzU1RHcHQ1VXR4Zk92aXJQU3d1MzA2aThJcnJBWGd3QTJ4MGlqQUUzZ3NIem1fdEswdnVYZWtTX3kwajZRcUtwU2tlS2xQa28yU2V1cTNodG9UX3ZuV3UxeTNJTVZF?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2l3bkJVeWI1akxnMHlNaFRJTGw0SEd5QnpiT055U0hEdEVsTmd6MXRpTzFZLV9tREl3ekxuem5lU0dkMnZraVdqYXJFalBVbnlWZm9IOHZIejNmTjNvNFJTSVNQTU0wTm5fZ04yOTdVU3RPb3dmSGFVLS1PS0pvQUNycVpMTEZGNHg3bWo4V0FIcFZNQ0tsMVJhVWd3S1NrTE1sTS1zT1Q2WEY0ZVZ0Q1hLalhsSklVVy1iWnlBZnU0UGF6QmlRR1hLQ3V0aVk?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWFDRm05Q0VhUmU2OFFWbnBnOEFvVFh6QXNNZHdVTWFhb3liS0dRUkU0SU02V1l0LVRnSFlKWU91aHp3Q1p3cTRBV2Q4MWZjR2VpX1JsZDZZZk9pMklKdjdMZEFMQldILUgtbUw2dV9VWklXN2RIbzY3cnJqY0lnR2NINE9rYmVDNjhmOFEzWjRTRWt3b3dsS2QwcUljeGlPWTlYLXdGNmpXZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmpQend1b3gyQkJfMldRX25IX1pFbU1vTnd4SFZoT2lXd19ZNXJHZXZkU1RUVlMxNFBCMWJUU1dUcGNLa2hzZVBDRHF5R3BKUXpYYjV3TDk4bnJaU0pIS0pFbEhDYW03RlE0Yi15VmNGV3h1dHpfWWNEMGNqYW5vRVl1MWJWQ1FycTRhNXh6WUlsaVdD?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2xIdHN5b3ByOWlZb2ltNzJlbGc5d3pRQTlQcDJPc0hvZGtCVHBVM240dzNNb2VVN3JTYWtmYXJBUzh0M3Y1cHB6bjRLRm9LdTJIUFdoRDFWS2F6d1hBX25jVnBjeGRHbmdKMmU0Q2JDZ1ppMXc1ZXpVOTRWN00xb1B0R0dBWGV2amxBeg?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXlHeDhIRGZpYVpTTEdzN3FtbDJGS1hoZXdDdGVSTklRQmxoT0d1ZHNPdG5tRldjcXAyVVRxUmNUSllYMlA5cEdMbFhXVFNwODB2eGR3andMeDZhQWpyc1d3dHA4RHI0SWJNQjhGbF9SclRNYUd1WGlLb2l2M2hTZGxhY3JWTTZUOHNPa2M3QUM2OHdVZ0NoeTJUb0FsdWZYbjF1bnM4eFVZcHVTdFdJa2Y1NkJLUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFZoNkJLekhkbC1jcUVjcXNQaENWWUxNUVUxbnRUMXB2T0pTVno0ZEw1WVZHX29uSnNJLVE3ZWVCUmNHdHZ1SldoZ3BSeGhfMVRzZ1Z6TGRHZzB1b0s2Mm83UnNLcWhELXhIUWRpX0k0X2JPNEJuTmZwZ2tjWW8xYnhzeXNremZjZ0NPdmFTWS1rZ2VhM2tFRGNSMkYwczVuOVpMRlpSZ0tCZ0hMd19iSjJnTFRDbmJubTJibWt3TEktNWZfVXBFdFgtZEhJQdIB0wFBVV95cUxPT2d5YnJGVU83aGtzaWJFNzdoV1pMVk1md0JFVTZKTGRxcEp0REUtd2hSUVNZZ2RCbkc2ME1KQlVLVDFaVTlOcnJxV1FZSWdBYVk2eGRfakI2MWFFRXVYLUt3aXVTWDMyZTV2dWZZUzZ3VVdzUlpuM0E4NTdtdU9iQ3gtS19YbV9CbUthWW02ZnJ3RlNyWkdWT0RYa085QzU3eXRWNWtKVUZWZ3dzTTRSSmlsQV8zQ21KWTh1VnVyZUExc19QSjZZNkR5UHpjWGtvck8w?oc=5",
+        "https://news.google.com/rss/articles/CBMimAJBVV95cUxQREtTSHRJeHk3R1NRWDhXRGJqVG5LWXFxTHdWZlNiY1ZtSXVSOXpibFVDTUY2YWFjMkNNM2VNUWtITWtQaURQVnRZZmZfY1VNSUw0VWtTNDZiQTl5ODhERGVSb0kwWlFhX1IwbVBEc0lTTUJOdWp5SXE0V2k4VWNZSEdmWDNIYlZlN2E5b2NHMmE1ai1UYnhvNTY4UmQwMDNneVJRdFQ4NDZmcUFHMDcwUU9IdDBBWVNfSjdJRl8zbzNVaWpYSkx3WEs5ejNaR1JES2lIOWJrS3k1Vi1aZW00OEZhSDU4T2t1NVh2M0N4ZjBCS1l0cFBYVHJiWWFZNHlrcVFfZEEyNjJ1MUhFazJjcDIteExFdGZs?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVNJVHUxYnNFYXpMMFdZY3NKRmJ6R3F2NHNpVHBieHBfMFBqZnFadlhFY2QtMEFaaGthOWpIbHhzZkZESm9td3h4MUpTeTdGTUZibG1UTDZLWWRaeEZBRFl5M0J3djhZd3BGT3dLcFpNQlJjYVk0d1p0Y3g4bHFjbHZueDZPOW4zTGNkc3pXWHBsTFRwMDRn?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2R1b0FyWlFhTkp6c0dZcEJWd2lqcnVxa3cxNXJsMmtBZWpGaE52UU9zbnBseHBrOEhyZEZWa0hKb3JGVTZ3bWZFVEwyYnNRd1VVTzVqZU1BcGw1Uk1lYkJ6ank3N1I1T2lpaTBUdDNoVkstdDllb1g2QkFQLVRNblBad3ZfT213SzhyNHJ0R1NwVjhDVGw5aWNLcHZVZw?oc=5",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUk00Q0dmLVhCaEwzRlZqNmJrX1RLd1NzSTAyMHZxVnVqenllOHNRcHprMW9DZEZZOFJOM2ktcVFKQ2ZoNk1wejgxX3djVzEzWWN6dFc4X2swcnBwN19VN0VENkM4WDc5SmtpYkZLQ1FrUW8zbm8yUmwwVkNCSjJadDEwRF9uS01USWdfS1VuTkwzV2plQzZDVEpaeUpDWW9kdXM4RDNzd05yN1JSWmF5bXhxekc3X3dKS2VaTVFySDRxclZkbW9KX0F5TUlMRDZNMzZ5OWNnRzJRNFN4cDR0cjAyYUVoZWNtNnpwSmcta0VFMzNyX01SbFdsVjRRUlA3akpiVDNqdmhCSGRWZEM2c05R0gGXAkFVX3lxTE5rWGdLekNOTGJCZ3pTTzdlVDEzZ05zWFJsbnZyMU5mcTBZZ2Z5UjhGb0kyTEdPMXZFLVRDekpBRkJEcUNsbU13bEd4Z3VubjZ3WGp4Z3RnT0phdS1TVmtvQzZtTDRnekM1N1pmZGNBVmJuSGZvY3NsZkw4OWRoU05ncjNsTjBDVHlPSzlUTkszb3MteURCZXRuaFJ3bmNlRW9JUDZBTUI5RmFXQ1ZDOG53Mks3Z0g3cmRybGRWTnRKVXpFS0FKdDM5bVBNZHd5N0hqTEYyZFphYkxObU1NR2gxTHlTcTA4bE11VFlDcGdFdzN1bktmLWMzUTdLZWoxY3BNS1AzbVJNUHNXblo1Wlpnelk3TjBvSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxNclRkdHBYclp0SE5lbDFBdG1Gck95QjNJbVlvaUV1XzJUUC1iR2M3eV9md2lWZGsya1daZTBaYUFrNXFiODdIaGZHUTBTV1ZYemJRU1BuNXJMSEhaNkFoZzVQQlllZnhYM1NaNElOaVBja0paMjViT09vTjhiVVQxbkpzOGRlejdmREp1RHhLT2dmSjZqS2E2aExaTDJtUDdpWExBcHhPdXZTWVA4UmZOOVlIUTNlUEdxOTFwampsNkFSbUp5Rm9FdlhIOExhZkpraU1McVJtV0paZXV2d3MwaGx4Njg1bEt6WDFDRk0yaklMLThtcnNUVHVseUJmY0FiS3RqUA?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yQzkyU18zZzZZMU45OUtrRTJvRzA1cE02MGFFV1hlOW9VamgzcDloRnhleHhvdkplaEUxNmx5QnJBZGRkNzNoYUVXLWhPbVVvdElZMXJ4ekpWNU1HOWZjbG0wSmMtdkpHMVVOT20wUWdYb0dvWXY0YmM4cTM?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNThibEk1M2dNUzAtNDhDclRFWWNEUS1UbDVQLTN0SktOSmZLbGVVemMxaThLSjNMVXB2b2FkX2RiS0UzRWR4Ukxic1ZCZnh2aDFVRlBGR01VZF94VlNoWkhCSFVkUUZvQ3NvUERtZE9zQjhjRTJaSVJiY2lWMWdScTRJaURIVjhaUjFUZ2hyU1BTcnlDZHZrWDRINTk1dnN3YkhhRHFsMlduTXhm?oc=5"
+      ],
+      "eventTitles": [
+        "Alibaba Qwen4 Max Cuts AI Task Costs by 62% - Technetbook",
+        "Alibaba touts 62% lower task costs with Qwen4-Max, adds cyber safeguards - InfoWorld",
+        "Alibaba Just Cut AI Task Costs by 62%. Here's Why BABA Investors Should Care - TradingView",
+        "Alibaba Launches Qwen4-Max AI Model With Lower Operating Costs - Moomoo",
+        "Alibaba Qwen4-Max: 2.4T Parameters, 60% Lower Task Cost - shattered.io",
+        "China: Alibaba’s 2.4T Qwen4-Max API Cuts Token Spend by 62% - AI Magazine",
+        "Alibaba Launches Qwen4-Max AI Model With Lower Operating Costs - www.marketscreener.com",
+        "Alibaba says Qwen4-Max cuts task costs by 60%, boosts cyber safeguards - Business Standard",
+        "BABA Stock Edges Lower Overnight: Alibaba Reportedly Launches Most-Advanced AI Model That Cuts Task Costs By 60% - TradingView",
+        "Alibaba’s New AI Model Is Two-Thirds Cheaper. What Does It Mean for the Stock? - Yahoo Finance",
+        "Alibaba (BABA) Stock Price Prediction: AI cloud optimism meets a technically weak tape ahead of earnings - Blockchain News",
+        "Alibaba’s New Qwen4-Max Fails To Overtake Moonshot’s Kimi K3.1 Pro, Retaining The Same Parameter Count With A Lower Price And Revamped Native-Vision MoE Architecture - Wccftech",
+        "BABA Stock Edges Lower Overnight: Alibaba Reportedly Launches Most-Advanced AI Model That Cuts Task Costs By 60% - Stocktwits",
+        "Why Alibaba Just Made Enterprise Ai Costs Drop Off A Cliff - ИФЗ РАН",
+        "Alibaba Says New AI Model Cuts Task Costs by 60 Percent - CEO Insights Asia"
+      ]
+    },
+    {
+      "id": "nvidia-generative-ai-https-blogs-nvidia-com-p-99922",
+      "rank": 4,
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "originalTitle": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, ",
+      "points": [
+        "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern scien",
+        "CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers building on the",
+        "At the platform’s core is this developer community whose experiments, tools and persistence expanded what accelerated computing could do."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "NVIDIA",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-16T16:00:11.000Z",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda",
+      "impactScore": 85,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2611.17929"
+        }
+      ],
+      "eventUrls": [
+        "https://blogs.nvidia.com/blog/20-years-cuda",
+        "https://arxiv.org/abs/2611.17929"
+      ],
+      "eventTitles": [
+        "CUDA at 20: How the Platform Transformed Scientific Computing",
+        "Evaluating Large Language Models for Scientific Paper Search: Retrieval Success and Inference Latency on Mac Studio and NVIDIA A100"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3189297",
+      "rank": 5,
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "originalTitle": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "points": [
+        "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-16T23:32:32.000Z",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months"
+      ],
+      "eventTitles": [
+        "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef",
+      "rank": 6,
+      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "originalTitle": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "summary": "Financial institutions face a critical challenge: processing massive volumes of data with speed, accuracy, and compliance while operating under some of the world’s strictest regulatory frameworks. Duco is the agentic Operations platform for financial services,",
+      "points": [
+        "Financial institutions face a critical challenge: processing massive volumes of data with speed, accuracy, and compliance while operating under some of the world’s strict",
+        "Duco is the agentic Operations platform for financial services, serving tier-one banks and other financial institutions.",
+        "It processes 20 billion transactions monthly for 200+ clients, including 7 of the top 20 banks and 10 of the top 20 asset managers."
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-16T22:06:08.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
+      "impactScore": 80,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/step-toward-defining-the-standard-model"
+        "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore"
       ],
       "eventTitles": [
-        "A step toward defining the Standard Model on a lattice"
+        "How Duco transforms financial data automation with Amazon Bedrock AgentCore"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-16-2000003211",
-      "rank": 2,
-      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
-      "originalTitle": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から",
-      "summary": "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。",
+      "id": "google-news-asia-models---bdfbd5852968f0c95f32",
+      "rank": 7,
+      "title": "Alibaba unveils new flagship AI model with stronger cybersecurity defences - 联合早报",
+      "originalTitle": "Alibaba unveils new flagship AI model with stronger cybersecurity defences - 联合早报",
+      "summary": "Alibaba unveils new flagship AI model with stronger cybersecurity defences 联合早报",
       "points": [
-        "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。",
+        "Alibaba unveils new flagship AI model with stronger cybersecurity defences 联合早报",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "ITmedia AI+",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "联合早报",
       "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-16T00:44:05.000Z",
-      "url": "https://itmedia.co.jp/aiplus/article/2611/16/2000003211",
-      "impactScore": 70,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
+      "category": "安全性",
+      "publishedAt": "2026-11-16T07:45:25.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGxCQnczZU1rVGg3WVBqVnJyMVhEM085Q1h4MTg4X2V1REtCNko2djZuMFNwTU00c3pQT0hlZVo1ak5kQjZSOGI4ZnFyc0p5Tk45c1FsbVRuWm1rMkdZcmZUZ09DNE5WdXJJaWNzQ29vN09jaXQ4RUJBcVd2LXV6UllHQUJlaGVSQmNDTHAwWWptcHdQVjljSTYxY1dLeDNvTm01X1E4VllFcjBCeFE?oc=5",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1R1RmhCZGdvR2xteG5KZVBvZ1h1S1JSOHphaUtZYk43YUlsZTB3WHk3Skw4ZHlQS2JEQ3dlZGpKQXpKS1VPV3ViY2lJNThMd1dvQUhZeFpENjRCTUZFcU83alJsWWItNFRKMnJQX0FyYmdpZVJFM0U2STVIWDVyTDh0WVZlbllTWUpV?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYVdLQlh1SmJmQ2tsc0RqU1hLLVRvbDBjY0g1dTAxSlNielBWajQtT3pzcGNuVXUzWjV4c2o1YmIzM3Y4WnUwZU5zNUl4N2N6eUNaaERackVuUTdwMms1R2NnU3Fqa2sxdjhGY0NSUWNvWTNycVFkQ3pqTlp1YjNYOVROY2FIUVdKc2MzZ3dSbHNzdUxLc3czQ2Y5YUlEZmR2Qmk1TVJ4N1Q5SDdQSGJ1NVpQLUJTb1pEanlicjNtUndVX3g0Y1ZLWFo3WTRLM0RWTGRNWTREamV1bG9aMVI3RFM1c9IB3gFBVV95cUxONW1Fc3pfVFl2dHpPZU9LUWhOVGhLdk0tb0o2Sld1cjc4X0xra2gxcWxpSlpSUjd6WDNkQ0I2QW10NEJLX3lKbGNESmZIeXZJaFMybkJwYnRSNW5LNEVXWWFwQ0tHa0gwWV8yRjVpV19Db0xMbElrbzFMVG1lU1NOVlh4VTBQeFBMaTBxelFiRF9ZdWtQNHB6MHZjNmtaVVZlUGlZMWF2NEJGLXRXMEpSU2RTRDI1dWVBVTRfaUc0VzFBS1g5RFdhVzJsNHFrb196dEw5R2p4QWtjM1J4aHc?oc=5"
+        }
+      ],
       "eventUrls": [
-        "https://itmedia.co.jp/aiplus/article/2611/16/2000003211"
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGxCQnczZU1rVGg3WVBqVnJyMVhEM085Q1h4MTg4X2V1REtCNko2djZuMFNwTU00c3pQT0hlZVo1ak5kQjZSOGI4ZnFyc0p5Tk45c1FsbVRuWm1rMkdZcmZUZ09DNE5WdXJJaWNzQ29vN09jaXQ4RUJBcVd2LXV6UllHQUJlaGVSQmNDTHAwWWptcHdQVjljSTYxY1dLeDNvTm01X1E4VllFcjBCeFE?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1R1RmhCZGdvR2xteG5KZVBvZ1h1S1JSOHphaUtZYk43YUlsZTB3WHk3Skw4ZHlQS2JEQ3dlZGpKQXpKS1VPV3ViY2lJNThMd1dvQUhZeFpENjRCTUZFcU83alJsWWItNFRKMnJQX0FyYmdpZVJFM0U2STVIWDVyTDh0WVZlbllTWUpV?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYVdLQlh1SmJmQ2tsc0RqU1hLLVRvbDBjY0g1dTAxSlNielBWajQtT3pzcGNuVXUzWjV4c2o1YmIzM3Y4WnUwZU5zNUl4N2N6eUNaaERackVuUTdwMms1R2NnU3Fqa2sxdjhGY0NSUWNvWTNycVFkQ3pqTlp1YjNYOVROY2FIUVdKc2MzZ3dSbHNzdUxLc3czQ2Y5YUlEZmR2Qmk1TVJ4N1Q5SDdQSGJ1NVpQLUJTb1pEanlicjNtUndVX3g0Y1ZLWFo3WTRLM0RWTGRNWTREamV1bG9aMVI3RFM1c9IB3gFBVV95cUxONW1Fc3pfVFl2dHpPZU9LUWhOVGhLdk0tb0o2Sld1cjc4X0xra2gxcWxpSlpSUjd6WDNkQ0I2QW10NEJLX3lKbGNESmZIeXZJaFMybkJwYnRSNW5LNEVXWWFwQ0tHa0gwWV8yRjVpV19Db0xMbElrbzFMVG1lU1NOVlh4VTBQeFBMaTBxelFiRF9ZdWtQNHB6MHZjNmtaVVZlUGlZMWF2NEJGLXRXMEpSU2RTRDI1dWVBVTRfaUc0VzFBS1g5RFdhVzJsNHFrb196dEw5R2p4QWtjM1J4aHc?oc=5"
       ],
       "eventTitles": [
-        "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から"
+        "Alibaba unveils new flagship AI model with stronger cybersecurity defences - 联合早报",
+        "Alibaba unveils flagship AI model with stronger safety protections - Mezha.net",
+        "Alibaba unveils new flagship AI model with safety upgrades - The Economic Times"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-our-new-blog-for-science",
-      "rank": 3,
-      "title": "Our new blog for science",
-      "originalTitle": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-enterprise-articles-2611-17-news015-html",
+      "rank": 8,
+      "title": "規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」",
+      "originalTitle": "規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」",
+      "summary": "AIエージェントの実証から本番運用へ――。IBMとMicrosoftは、6000種類超の構築済みエージェントやアセットをそろえた業界特化型の基盤「Imagine Enterprise」でこの移行を支援する。一から構築せず、既存システムも置き換えずに済むという仕組みとは。",
       "points": [
-        "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "AIエージェントの実証から本番運用へ――。IBMとMicrosoftは、6000種類超の構築済みエージェントやアセットをそろえた業界特化型の基盤「Imagine Enterprise」でこの移行を支援する。一から構築せず、既存システムも置き換えずに済むという仕組みとは。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-17T02:30:00.000Z",
+      "url": "https://itmedia.co.jp/enterprise/articles/2611/17/news015.html",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSZnBrOHFWOFF5a2tqbDVhZ3ZRNWk4Rm5qNVlaM1lNUERfNjdDS09iN2ZKMDIzWW5KbVBJVFcyekxGLWpNZVFOT0NJSktBZm1wNnQwdTJwZXRtSjNYcnliMHFWMi04YlU0SkNaN20tTDJMSFI2?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSZnBrOHFWOFF5a2tqbDVhZ3ZRNWk4Rm5qNVlaM1lNUERfNjdDS09iN2ZKMDIzWW5KbVBJVFcyekxGLWpNZVFOT0NJSktBZm1wNnQwdTJwZXRtSjNYcnliMHFWMi04YlU0SkNaN20tTDJMSFI2?oc=5",
+        "https://itmedia.co.jp/enterprise/articles/2611/17/news015.html"
+      ],
+      "eventTitles": [
+        "規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」 - ITmedia",
+        "規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」"
+      ]
+    },
+    {
+      "id": "world-labs-sitemap-https-worldlabs-ai-blog-atlas",
+      "rank": 9,
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "originalTitle": "Atlas: A World Model for Spatial Intelligence",
+      "summary": "Introducing Atlas, our new omni world model for spatial intelligence.",
+      "points": [
+        "Introducing Atlas, our new omni world model for spatial intelligence.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "OpenAI",
+      "source": "World Labs",
       "sourceType": "official",
       "category": "研究",
-      "publishedAt": "2026-11-15T22:00:00.000Z",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "impactScore": 68,
-      "impactLabel": "中",
+      "publishedAt": "2026-11-16T14:57:51.974Z",
+      "url": "https://worldlabs.ai/blog/atlas",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [
+        {
+          "name": "World Labs",
+          "url": "https://worldlabs.ai/blog/atlas-realtime"
+        }
+      ],
+      "eventUrls": [
+        "https://worldlabs.ai/blog/atlas",
+        "https://worldlabs.ai/blog/atlas-realtime"
+      ],
+      "eventTitles": [
+        "Atlas: A World Model for Spatial Intelligence",
+        "Frameboy: Atlas in Real-time"
+      ]
+    },
+    {
+      "id": "world-labs-sitemap-https-worldlabs-ai-blog-funding-2026",
+      "rank": 10,
+      "title": "World Labs Announces New Funding",
+      "originalTitle": "World Labs Announces New Funding",
+      "summary": "An update on our vision for spatial intelligence in 2026.",
+      "points": [
+        "An update on our vision for spatial intelligence in 2026.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "World Labs",
+      "sourceType": "official",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-16T14:57:51.974Z",
+      "url": "https://worldlabs.ai/blog/funding-2026",
+      "impactScore": 74,
+      "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://openai.com/index/our-new-blog-for-science"
+        "https://worldlabs.ai/blog/funding-2026"
       ],
       "eventTitles": [
-        "Our new blog for science"
-      ]
-    },
-    {
-      "id": "publickey-tag-www-publickey1-jp-2026-2-8769",
-      "rank": 4,
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "originalTitle": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "summary": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
-      "points": [
-        "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。",
-        "Kitesurf is now open source on GitHub under ...",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "Publickey",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-15T15:30:19.000Z",
-      "url": "https://publickey1.jp/blog/26/cloudflareaikitesurf.html",
-      "impactScore": 68,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "Publickey",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVzVaT1BSaUtQU25sNlkzTHhFbk01R3VSckFyNHduSGtaTVo4aFJGOW82V0NQTjFEU2ZfUFJ0b0EtN2dKc2paNW1xaVROM0RodGc0M251S2ZEanpPc29XY0lxaTR5cnRaUEUw?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://publickey1.jp/blog/26/cloudflareaikitesurf.html",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVzVaT1BSaUtQU25sNlkzTHhFbk01R3VSckFyNHduSGtaTVo4aFJGOW82V0NQTjFEU2ZfUFJ0b0EtN2dKc2paNW1xaVROM0RodGc0M251S2ZEanpPc29XY0lxaTR5cnRaUEUw?oc=5"
-      ],
-      "eventTitles": [
-        "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-        "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 - Publickey"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-42881",
-      "rank": 5,
-      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "originalTitle": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei",
-      "points": [
-        "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware.",
-        "On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5.",
-        "The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs."
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-11-15T10:06:06.000Z",
-      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu",
-      "impactScore": 67,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu"
-      ],
-      "eventTitles": [
-        "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU"
-      ]
-    },
-    {
-      "id": "simon-willison-https-simonwillison-net-2026-Nov-15-datasette-",
-      "rank": 6,
-      "title": "datasette 1.0a43",
-      "originalTitle": "datasette 1.0a43",
-      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mech",
-      "points": [
-        "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete.",
-        "The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register",
-        "There are a couple of security fixes, one of which I deemed deserving of a GitHub advisory : private stored queries could be exposed, granting access to the title and SQL"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Simon Willison",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-15T23:20:27.000Z",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette",
-      "impactScore": 66,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://simonwillison.net/2026/Nov/15/datasette"
-      ],
-      "eventTitles": [
-        "datasette 1.0a43"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-monoist-itmedia-co-jp-mn-articles-2611-16-news037-html",
-      "rank": 7,
-      "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
-      "originalTitle": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
-      "summary": "�_�b�\\�[�E�V�X�e���Y�́A3D�݌v�J���\\�����[�V�����uSOLIDWORKS�v�̍ŐV�o�[�W�����uSOLIDWORKS 2027�v�𔭕\\�����B���i�o���G�[�V�����̌�����{���g������́A�f�[�^�Ǘ��Ɋւ���@�\\�����ɉ����AAI�ɂ��A�Z���u���̃p�t�H�[�}���X���͂⃂�f���̌y�ʉ��A�݌v�ύX�ɔ����e���͈͂̊m�F�ȂǁA�݌v�Ɩ����x������@",
-      "points": [
-        "�_�b�\\�[�E�V�X�e���Y�́A3D�݌v�J���\\�����[�V�����uSOLIDWORKS�v�̍ŐV�o�[�W�����uSOLIDWORKS 2027�v�𔭕\\�����B���i�o���G�[�V�����̌�����{���g������́A�f�[�^�Ǘ��Ɋւ���@�\\�����ɉ����A",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-11-15T23:30:00.000Z",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
-      "impactScore": 62,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html"
-      ],
-      "eventTitles": [
-        "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-monoist-itmedia-co-jp-mn-articles-2611-16-news011-html",
-      "rank": 8,
-      "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
-      "originalTitle": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
-      "summary": "�����ŗ��p�ł���I�[�v���\\�[�X�̃p�����g���b�N3D CAD�uSolidCraft�v���Љ��BWeb�u���E�U�ƃf�X�N�g�b�v�A�v���ɑΉ����A��҂ł͐���AI�Ƃ̑Θb�ɂ�郂�f�����O���\\���B�M�҂����ۂɑ��삵�ĕ���������{�@�\\�̎g�������AAI�A�g�̉\\���Ɖۑ��T��B",
-      "points": [
-        "�����ŗ��p�ł���I�[�v���\\�[�X�̃p�����g���b�N3D CAD�uSolidCraft�v���Љ��BWeb�u���E�U�ƃf�X�N�g�b�v�A�v���ɑΉ����A��҂ł͐���AI�Ƃ̑Θb�ɂ�郂�f�����O���\\���B�M�҂����ۂɑ��삵�ĕ���������{�",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "ITmedia AI+",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-15T22:00:00.000Z",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
-      "impactScore": 61,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html"
-      ],
-      "eventTitles": [
-        "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！"
-      ]
-    },
-    {
-      "id": "google-news-global-genai-indie-shorts-mag-ed552b6683ec3788da94",
-      "rank": 9,
-      "title": "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed - Indie Shorts Mag",
-      "originalTitle": "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed - Indie Shorts Mag",
-      "summary": "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed Indie Shorts Mag",
-      "points": [
-        "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed Indie Shorts Mag",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Indie Shorts Mag",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-15T18:17:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDd6bTdpbGl4Z1pERVRhUnNZNTdxdGR4dGhWWFN3TnlRM3dhYVdqdHVSS3M4ZjZtcDhLbWI1MFh0dkhZdTFSZkwxcVh4QXNYcUZyT1RObzlTSllHZHBfRzlyOVRTNUZoV3FVcjNYUGJUSW5UQmlaUWd3YjF5UmNiRVRhODNvVXE0Vmt3Yi1SajZlN2NkYlBsWmpCbmtDN2xCYnhSQ0djS251VktlVmhJ?oc=5",
-      "impactScore": 61,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Skwigly",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDlpZ0ZkendfelNMMEtHRUc1dERrWjZTUl9HU1NKWG14dVBTRDBuUHJVTkhIbk16QW43aUliZ25DVXJLWDNlZ3ZLS0MydGJpODZuQm80VE9hNEVkeVZvMlFLQ3lPT0M4X0JlbWwyQm9EcUJFM3hwWmZnUy1sNEswVzRnd012UFZMcDBtNC00SjhnUmpQU1JEQ1ByQXJoWHBnbmhBMFpLQm5kTVU4M0hJeW03RXM2VmM2SlE?oc=5"
-        },
-        {
-          "name": "SoaplandTV",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlYzQndqVVFJOE9jbHJRejRoUURWVXhROTNOWWN6MHU0LUUtQzZUdzFnV0tXTnhmb21XRERRb256Z2JYOVJMeDVoNXNST0M1d0ZrNEtKRmRWZVlrUlo3UklCdFoxVEVRQ2J1XzlpLTYwdzBqQWZFbVk5QVVvOExSSldiZXplVHY1LUdzOFdwVm5KTDBnOERQQlJTN21oTDJGOGo0MlNpYXdkRDZRR3RNeEhZQQ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDd6bTdpbGl4Z1pERVRhUnNZNTdxdGR4dGhWWFN3TnlRM3dhYVdqdHVSS3M4ZjZtcDhLbWI1MFh0dkhZdTFSZkwxcVh4QXNYcUZyT1RObzlTSllHZHBfRzlyOVRTNUZoV3FVcjNYUGJUSW5UQmlaUWd3YjF5UmNiRVRhODNvVXE0Vmt3Yi1SajZlN2NkYlBsWmpCbmtDN2xCYnhSQ0djS251VktlVmhJ?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDlpZ0ZkendfelNMMEtHRUc1dERrWjZTUl9HU1NKWG14dVBTRDBuUHJVTkhIbk16QW43aUliZ25DVXJLWDNlZ3ZLS0MydGJpODZuQm80VE9hNEVkeVZvMlFLQ3lPT0M4X0JlbWwyQm9EcUJFM3hwWmZnUy1sNEswVzRnd012UFZMcDBtNC00SjhnUmpQU1JEQ1ByQXJoWHBnbmhBMFpLQm5kTVU4M0hJeW03RXM2VmM2SlE?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlYzQndqVVFJOE9jbHJRejRoUURWVXhROTNOWWN6MHU0LUUtQzZUdzFnV0tXTnhmb21XRERRb256Z2JYOVJMeDVoNXNST0M1d0ZrNEtKRmRWZVlrUlo3UklCdFoxVEVRQ2J1XzlpLTYwdzBqQWZFbVk5QVVvOExSSldiZXplVHY1LUdzOFdwVm5KTDBnOERQQlJTN21oTDJGOGo0MlNpYXdkRDZRR3RNeEhZQQ?oc=5"
-      ],
-      "eventTitles": [
-        "Manchester Animation Festival Bans Generative AI Films for 2027 as 2026 Short Film Winners Revealed - Indie Shorts Mag",
-        "Manchester Animation Festival Announces 2026 Winners and Bans Generative AI Films from 2027 - Skwigly",
-        "Manchester Animation Festival Bans Generative AI Films From Its 2027 Competition - SoaplandTV"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-42835",
-      "rank": 10,
-      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "originalTitle": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dro",
-      "points": [
-        "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service.",
-        "Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers.",
-        "Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-15T10:45:58.000Z",
-      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service",
-      "impactScore": 59,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service"
-      ],
-      "eventTitles": [
-        "Australia's central bank finds AI hitting young workers first, especially in software and customer service"
+        "World Labs Announces New Funding"
       ]
     }
   ]
