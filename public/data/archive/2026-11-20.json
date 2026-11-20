@@ -1,0 +1,338 @@
+{
+  "edition": "2026-11-20T06:30:00+09:00",
+  "generatedAt": "2026-11-20T02:30:12.626Z",
+  "periodStart": "2026-11-17T14:30:12.626Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 42,
+  "freshSources": 37,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 10,
+  "candidateCount": 1887,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "aws-machine-learning-71f08435a376a063de0a38fc52648940b0309672",
+      "rank": 1,
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "originalTitle": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "summary": "Kimi Code CLI is an open source coding agent from Moonshot AI, the creator of the Kimi series of open-weight foundation models. Previously, using Kimi Code with models on Amazon Bedrock meant configuring a generic connection “provider” with an Amazon Bedrock A",
+      "points": [
+        "Kimi Code CLI is an open source coding agent from Moonshot AI, the creator of the Kimi series of open-weight foundation models.",
+        "Previously, using Kimi Code with models on Amazon Bedrock meant configuring a generic connection “provider” with an Amazon Bedrock API key.",
+        "For many AWS customers, this meant introducing an extra credential to obtain and protect."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-20T00:33:30.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock",
+      "impactScore": 82,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock"
+      ],
+      "eventTitles": [
+        "Use Kimi Code CLI with models on Amazon Bedrock"
+      ]
+    },
+    {
+      "id": "google-ai-https-blog-google-innovation-and-ai-technology-developers-tools-gemini-api-tool-retrieval-",
+      "rank": 2,
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "originalTitle": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "points": [
+        "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Google AI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-19T18:00:00.000Z",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "impactScore": 81,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval"
+      ],
+      "eventTitles": [
+        "Introducing Tool Retrieval in the Gemini API"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3190572",
+      "rank": 3,
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "originalTitle": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "points": [
+        "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence?",
+        "There's actually likely something deeper going on, cybersecurity experts say.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-19T21:42:31.000Z",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style"
+      ],
+      "eventTitles": [
+        "These tech outages are giving Y2K, AI agent style"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-83c0c30f184dfdf0ae395f9aa3d7c3629ffc28b5",
+      "rank": 4,
+      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "originalTitle": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "summary": "When building an AI agent, selecting a model is only the first step. The agent still needs tools, instructions for finishing the job, a way to manage context growth in long sessions, and guardrails before it executes any consequential actions, like issuing a r",
+      "points": [
+        "When building an AI agent, selecting a model is only the first step.",
+        "The agent still needs tools, instructions for finishing the job, a way to manage context growth in long sessions, and guardrails before it executes any consequential acti",
+        "We are upgrading Amazon Bedrock AgentCore harness to use Strands harness, our open-source agent harness, released earlier this year, available under an Apache 2.0 license"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-19T20:01:06.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks"
+      ],
+      "eventTitles": [
+        "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks"
+      ]
+    },
+    {
+      "id": "world-labs-sitemap-https-worldlabs-ai-blog-announcing-the-world-api",
+      "rank": 5,
+      "title": "Announcing the World API",
+      "originalTitle": "Announcing the World API",
+      "summary": "A public API for generating explorable 3D worlds from text, images, and video — bringing Marble&#x27;s world modeling capabilities into your applications.",
+      "points": [
+        "A public API for generating explorable 3D worlds from text, images, and video — bringing Marble&#x27;s world modeling capabilities into your applications.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "World Labs",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-20T00:04:23.444Z",
+      "url": "https://worldlabs.ai/blog/announcing-the-world-api",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://worldlabs.ai/blog/announcing-the-world-api"
+      ],
+      "eventTitles": [
+        "Announcing the World API"
+      ]
+    },
+    {
+      "id": "world-labs-sitemap-https-worldlabs-ai-blog-marble-world-model",
+      "rank": 6,
+      "title": "Marble: A Multimodal World Model",
+      "originalTitle": "Marble: A Multimodal World Model",
+      "summary": "Marble, our frontier multimodal world model, is available to everyone starting today",
+      "points": [
+        "Marble, our frontier multimodal world model, is available to everyone starting today",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "World Labs",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-20T00:04:23.444Z",
+      "url": "https://worldlabs.ai/blog/marble-world-model",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://worldlabs.ai/blog/marble-world-model"
+      ],
+      "eventTitles": [
+        "Marble: A Multimodal World Model"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-64eb7c5f6286bb53ae673651e85ab1d1e8321eda",
+      "rank": 7,
+      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      "originalTitle": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      "summary": "In this post, we show how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call, and out of the model context those tools feed. We add Skyflow Detect to Amazon Bedrock AgentCore Gateway as a request and response ",
+      "points": [
+        "In this post, we show how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call, and out of the model context those tools ",
+        "We add Skyflow Detect to Amazon Bedrock AgentCore Gateway as a request and response interceptor .",
+        "The Skyflow interceptor de-identifies data before it reaches a tool, restores it before the agent reads the result, and replaces documents with clean copies before the ag"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-19T18:14:36.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway"
+      ],
+      "eventTitles": [
+        "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway"
+      ]
+    },
+    {
+      "id": "azure-ai-ml-https-azure-microsoft-com-en-us-blog-p-55004",
+      "rank": 8,
+      "title": "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
+      "originalTitle": "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
+      "summary": "Azure at Microsoft Ignite 2026: The headlines Azure AI core : AI on infrastructure you control. Azure Cobalt 200 : Our highest-performing general-purpose virtual machines (VMs). Azure Catalyst : Agent-led modernization from plan to code. Agentic cloud operatio",
+      "points": [
+        "Azure at Microsoft Ignite 2026: The headlines Azure AI core : AI on infrastructure you control.",
+        "Azure Cobalt 200 : Our highest-performing general-purpose virtual machines (VMs).",
+        "Azure Catalyst : Agent-led modernization from plan to code."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Microsoft Azure AI",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-17T18:35:00.000Z",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai",
+      "impactScore": 77,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "innovaTopia",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ZnFxOEUyeFdpYkRkMnE1TnUyZHVkY1JHaFZNM3pDVWhSbVRYYy1TeGlBcTAydndPRmx2VlpLcC14WEM2YWtGMVNoQjU5TG1DZU0w?oc=5"
+        },
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUR1aWh3MTMwZVVLQUhDM0pZc0owSVFEbUhaV1J4ZDhDZDhFaS1SNnJlX1J4TlE2UmF4ejdLY1hQRW4zcnhHQmxOcDVQWl9xNGZKSGRVN1dXUFRhUkJ6a3VXNjhWdGpJNmp6REE0UVFaQUtlNGl1aEtIeExNbURTU1JMcEVxdUNfRHpMYnA4R3dJTVZXc2ZNU3FDY2dfX1lGZktzZXlFUTU5UVlVbW9ubS1BaHVMcEpOMEtpd1NVSmw?oc=5"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjNldQWU1PRUpSSS0zdm5URFJoa0x2T1pMbW9DT2t4N0IzUWtxQVo4QnFJUTlBZm1JQ0tNeWptM0RDTjl4UFp3cXRxZUtTWGJFUHVKU2FCY1dGNm5BdnFBQll0WlN5MUFJdWFJZ0FrVWgxQXVG?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ZnFxOEUyeFdpYkRkMnE1TnUyZHVkY1JHaFZNM3pDVWhSbVRYYy1TeGlBcTAydndPRmx2VlpLcC14WEM2YWtGMVNoQjU5TG1DZU0w?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUR1aWh3MTMwZVVLQUhDM0pZc0owSVFEbUhaV1J4ZDhDZDhFaS1SNnJlX1J4TlE2UmF4ejdLY1hQRW4zcnhHQmxOcDVQWl9xNGZKSGRVN1dXUFRhUkJ6a3VXNjhWdGpJNmp6REE0UVFaQUtlNGl1aEtIeExNbURTU1JMcEVxdUNfRHpMYnA4R3dJTVZXc2ZNU3FDY2dfX1lGZktzZXlFUTU5UVlVbW9ubS1BaHVMcEpOMEtpd1NVSmw?oc=5",
+        "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjNldQWU1PRUpSSS0zdm5URFJoa0x2T1pMbW9DT2t4N0IzUWtxQVo4QnFJUTlBZm1JQ0tNeWptM0RDTjl4UFp3cXRxZUtTWGJFUHVKU2FCY1dGNm5BdnFBQll0WlN5MUFJdWFJZ0FrVWgxQXVG?oc=5",
+        "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations"
+      ],
+      "eventTitles": [
+        "Microsoft、社員PCのAIエージェントを検出しIDで管理 Ignite 2026でDefenderも保護を一般提供 - innovaTopia",
+        "Microsoft、Copilotを「業務OS」に Ignite 2026でAIエージェント戦略を拡充 - 디지털투데이",
+        "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
+        "Microsoft、自社CPU「Cobalt 200」Azure VMを全面提供開始…AIエージェント向けに最大1.9倍の性能 - BigGo ファイナンス",
+        "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3190451",
+      "rank": 9,
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "originalTitle": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "points": [
+        "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-19T16:59:23.000Z",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "au Webポータル",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uT1dFMmVIaWJWZ3F2a3JCZHUxUTBMX3ZhWm9icWhPcm5hcGJfQjlRMkZ3VTJBYncyQXN2QVc5V29VbWE1d1gyYWVhclE0YlVCdEdBLVppOGlTRi1pVmFDeVlUdUpHdjZ0M2ZvSGhn?oc=5"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development"
+        },
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHazgwZDZuQkp4aEF0ZklBMUtvU0o3RkFfMkRMX3E3bmtpWHBkY1lKbDAwZnpHYTFMVlhsTDg0czZrWGVyNnV1dXhpdGpaYnhCSDBkQ2lhV1o0YWs3eWl1czlGRG1UYmtwSHJsSHp6Y0pNUjNj?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uT1dFMmVIaWJWZ3F2a3JCZHUxUTBMX3ZhWm9icWhPcm5hcGJfQjlRMkZ3VTJBYncyQXN2QVc5V29VbWE1d1gyYWVhclE0YlVCdEdBLVppOGlTRi1pVmFDeVlUdUpHdjZ0M2ZvSGhn?oc=5",
+        "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+        "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHazgwZDZuQkp4aEF0ZklBMUtvU0o3RkFfMkRMX3E3bmtpWHBkY1lKbDAwZnpHYTFMVlhsTDg0czZrWGVyNnV1dXhpdGpaYnhCSDBkQ2lhV1o0YWs3eWl1czlGRG1UYmtwSHJsSHp6Y0pNUjNj?oc=5"
+      ],
+      "eventTitles": [
+        "AnthropicがNASDAQに上場。、時価総額は一時2兆ドル超え、史上最大規模のIPOに - au Webポータル",
+        "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+        "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+        "Anthropic、Nasdaq上場の公募価格を83ドルに確定…AIバブル論争の分水嶺に - BigGo ファイナンス"
+      ]
+    },
+    {
+      "id": "world-labs-sitemap-https-worldlabs-ai-blog-scenix",
+      "rank": 10,
+      "title": "World Labs Acquires SceniX",
+      "originalTitle": "World Labs Acquires SceniX",
+      "summary": "Advancing Spatial Intelligence for Robotics",
+      "points": [
+        "Advancing Spatial Intelligence for Robotics",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "World Labs",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-20T00:04:23.444Z",
+      "url": "https://worldlabs.ai/blog/scenix",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://worldlabs.ai/blog/scenix"
+      ],
+      "eventTitles": [
+        "World Labs Acquires SceniX"
+      ]
+    }
+  ]
+}
