@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-20T06:30:00+09:00",
-  "generatedAt": "2026-11-20T02:30:12.626Z",
-  "periodStart": "2026-11-17T14:30:12.626Z",
+  "edition": "2026-11-21T06:30:00+09:00",
+  "generatedAt": "2026-11-21T02:39:57.176Z",
+  "periodStart": "2026-11-18T14:39:57.176Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 42,
@@ -9,329 +9,402 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 10,
-  "candidateCount": 1887,
+  "candidateCount": 2099,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "aws-machine-learning-71f08435a376a063de0a38fc52648940b0309672",
+      "id": "aws-machine-learning-d7bdb91bc1e6b32644ddf96aa43ed4840d83f174",
       "rank": 1,
-      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
-      "originalTitle": "Use Kimi Code CLI with models on Amazon Bedrock",
-      "summary": "Kimi Code CLI is an open source coding agent from Moonshot AI, the creator of the Kimi series of open-weight foundation models. Previously, using Kimi Code with models on Amazon Bedrock meant configuring a generic connection “provider” with an Amazon Bedrock A",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "originalTitle": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "summary": "Customers increasingly self-host large language models (LLMs) on GPUs for control over cost, accuracy, and latency. However, self-hosting often means paying for redundant GPU work because small, isolated caches on each server can’t hold or share the growing co",
       "points": [
-        "Kimi Code CLI is an open source coding agent from Moonshot AI, the creator of the Kimi series of open-weight foundation models.",
-        "Previously, using Kimi Code with models on Amazon Bedrock meant configuring a generic connection “provider” with an Amazon Bedrock API key.",
-        "For many AWS customers, this meant introducing an extra credential to obtain and protect."
+        "Customers increasingly self-host large language models (LLMs) on GPUs for control over cost, accuracy, and latency.",
+        "However, self-hosting often means paying for redundant GPU work because small, isolated caches on each server can’t hold or share the growing context AI agents and chat a",
+        "Consider a legal AI assistant that can accumulate hundreds of thousands of tokens of case history in each conversation."
       ],
       "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
       "source": "AWS Machine Learning",
       "sourceType": "official",
       "category": "開発者向け",
-      "publishedAt": "2026-11-20T00:33:30.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock",
-      "impactScore": 82,
+      "publishedAt": "2026-11-21T00:14:26.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
+      "impactScore": 72,
       "impactLabel": "大",
       "verification": "公式発表",
       "relatedSources": [],
       "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock"
+        "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill"
       ],
       "eventTitles": [
-        "Use Kimi Code CLI with models on Amazon Bedrock"
+        "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill"
       ]
     },
     {
-      "id": "google-ai-https-blog-google-innovation-and-ai-technology-developers-tools-gemini-api-tool-retrieval-",
+      "id": "aws-machine-learning-c9f8f02479f8aa3b6d8d4df189a3bdad61de5a89",
       "rank": 2,
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "originalTitle": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "originalTitle": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "summary": "This post is co-written with Tala Qraitem from AWS and Jörg Fischer from Standard Bank Group Having an AI policy is one thing. Proving, one use case at a time, that AI systems follow it is another. Every new generative AI application adds one more system to pr",
       "points": [
-        "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "This post is co-written with Tala Qraitem from AWS and Jörg Fischer from Standard Bank Group Having an AI policy is one thing.",
+        "Proving, one use case at a time, that AI systems follow it is another.",
+        "Every new generative AI application adds one more system to prove."
       ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "Google AI",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "AWS Machine Learning",
       "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "impactScore": 81,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
+      "category": "安全性",
+      "publishedAt": "2026-11-20T20:37:31.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmZXem9adnJ3MXMzcDFTX2xPSEYzWVp1MmptNHpoc0g5MUFMcWkyOXpTYVBpdTlUZmh2SENWYWFya0NEaUQ5TzJvQmFCeEttV0FQa3hJUHhiTlR0VXZWQnVKUmxWTDBManlmc2tMTFdyUjNwTXZickVoWVFLY1VzUVVHdjc1T1BKQzZDbWJCbmhkLVVCbEZNVmR2UVVTZHpSRE1sZEZDT3JJN1FqU191Rnd0Skl6dEpH?oc=5"
+        },
+        {
+          "name": "AWS Machine Learning",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers"
+        }
+      ],
       "eventUrls": [
-        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval"
+        "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmZXem9adnJ3MXMzcDFTX2xPSEYzWVp1MmptNHpoc0g5MUFMcWkyOXpTYVBpdTlUZmh2SENWYWFya0NEaUQ5TzJvQmFCeEttV0FQa3hJUHhiTlR0VXZWQnVKUmxWTDBManlmc2tMTFdyUjNwTXZickVoWVFLY1VzUVVHdjc1T1BKQzZDbWJCbmhkLVVCbEZNVmR2UVVTZHpSRE1sZEZDT3JJN1FqU191Rnd0Skl6dEpH?oc=5",
+        "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers"
       ],
       "eventTitles": [
-        "Introducing Tool Retrieval in the Gemini API"
+        "How Standard Bank Group automates AI risk assessment for generative AI",
+        "How Standard Bank Group automates AI risk assessment for generative AI - Amazon Web Services (AWS)",
+        "How the BMW Group governs hundreds of agents across thousands of developers"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3190572",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-20-2000003368",
       "rank": 3,
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "originalTitle": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "originalTitle": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "summary": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
       "points": [
-        "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence?",
-        "There's actually likely something deeper going on, cybersecurity experts say.",
+        "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "TechCrunch",
+      "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-11-19T21:42:31.000Z",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
-      "impactScore": 80,
-      "impactLabel": "大",
+      "publishedAt": "2026-11-20T04:29:35.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/20/2000003368",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LSDBqRlBOSGItb0k1b1EtZmpsM0gxMFhpbHJNa1RIekZBTkM5TTZHYV9xejJJUm92bDE5QVJ6blJyWTNtNTI5UkRIN1htRnh5cl9MREswcnV6cmtCYkFpODk0WGdGc1ROeFE?oc=5"
+        },
+        {
+          "name": "Publickey",
+          "url": "https://publickey1.jp/blog/26/aiaimicrosoft_perception.html"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/20/2000003368",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LSDBqRlBOSGItb0k1b1EtZmpsM0gxMFhpbHJNa1RIekZBTkM5TTZHYV9xejJJUm92bDE5QVJ6blJyWTNtNTI5UkRIN1htRnh5cl9MREswcnV6cmtCYkFpODk0WGdGc1ROeFE?oc=5",
+        "https://publickey1.jp/blog/26/aiaimicrosoft_perception.html"
+      ],
+      "eventTitles": [
+        "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+        "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 - ITmedia",
+        "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-telecompaper-fb47cdd44c9856b8d29d",
+      "rank": 4,
+      "title": "Alibaba revenue jumps 10% in September quarter on AI cloud growth - Telecompaper",
+      "originalTitle": "Alibaba revenue jumps 10% in September quarter on AI cloud growth - Telecompaper",
+      "summary": "Alibaba revenue jumps 10% in September quarter on AI cloud growth Telecompaper",
+      "points": [
+        "Alibaba revenue jumps 10% in September quarter on AI cloud growth Telecompaper",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Telecompaper",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-20T09:33:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmlPUzdPVm5tQURKVUhWalFYN0ZzaDllX2JLSG1DWWNRMUltcm1oTzVFeGxsQkNubGp3REdrcTQ3YVhZaDlIbnVmYXlpa0N2LUNKQXlUbmN4bGI5a2dvNmlzYm5lM2lSSVZhdndhWGF6RV9OY0lKaFlCNzNkcGp0QU1WTk8wSHFkVERRcnkyZk53UzRuZzRzcFAxZUt1SEZNd2lUVFVvekY1YnM?oc=5",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "01net",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVJLV243a0dBaE1XRVJWdF9ZaGI2R1ppYXcxLW1RRUE1VENzUDI3SXY1UUszbUVsbDFRR2IyWk41bHVHVnFVTWFqRVNTMW5XOTdvRzQzQU55ZzVZOVpTMXVqZXdtUkJGQnJBWFg0eG9WdEJ1dUhVRER2NmhBSWNYRm5rUTNfQ0pkTWR3V0NkZ01BVm5MX1UwYXJJdElMakcxZ2tIWTF1SGx3RDJMV0N1Y011UmdYbGJnaWh6aklXM0p4QmVqaExGRFV3aDFoUld5RTlKaDBR?oc=5"
+        },
+        {
+          "name": "MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDJWMGpRek9wLUpOTjNZNWhpRm93T2JiQzlIdnN6MXFmUm1qR3laR0UyTjNBVFlVT1VHd0lGWEx2QkRXS3NETFdtcGRkRU1TWVl3aTQ4NXFod2xnaGxNWDJNN0ZZYU8yTFJueW5xZ3FBMFh0UGl0OWRzRngxeXk0RFJOS3hib2JQdEprYnNZdzVoSjNtRlJXak42ZjFwb2pFcTlNeURSZVo0TnNTSVVyWFNqak92U3gwRHc?oc=5"
+        },
+        {
+          "name": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zYzR5NGcybEsyY09BM21OUUxaRm5va2VKMEtjU2gwcUdJU0xNYV93ZExFNmp0MEdPcVQyT19UeURmUFdvcXliQXlUeW4wWjdyWXViY3JHMUdCMUdOeFV4akFmeG5OSmpSc3pUWkpCLWEtckdUejdtZg?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmlPUzdPVm5tQURKVUhWalFYN0ZzaDllX2JLSG1DWWNRMUltcm1oTzVFeGxsQkNubGp3REdrcTQ3YVhZaDlIbnVmYXlpa0N2LUNKQXlUbmN4bGI5a2dvNmlzYm5lM2lSSVZhdndhWGF6RV9OY0lKaFlCNzNkcGp0QU1WTk8wSHFkVERRcnkyZk53UzRuZzRzcFAxZUt1SEZNd2lUVFVvekY1YnM?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVJLV243a0dBaE1XRVJWdF9ZaGI2R1ppYXcxLW1RRUE1VENzUDI3SXY1UUszbUVsbDFRR2IyWk41bHVHVnFVTWFqRVNTMW5XOTdvRzQzQU55ZzVZOVpTMXVqZXdtUkJGQnJBWFg0eG9WdEJ1dUhVRER2NmhBSWNYRm5rUTNfQ0pkTWR3V0NkZ01BVm5MX1UwYXJJdElMakcxZ2tIWTF1SGx3RDJMV0N1Y011UmdYbGJnaWh6aklXM0p4QmVqaExGRFV3aDFoUld5RTlKaDBR?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDJWMGpRek9wLUpOTjNZNWhpRm93T2JiQzlIdnN6MXFmUm1qR3laR0UyTjNBVFlVT1VHd0lGWEx2QkRXS3NETFdtcGRkRU1TWVl3aTQ4NXFod2xnaGxNWDJNN0ZZYU8yTFJueW5xZ3FBMFh0UGl0OWRzRngxeXk0RFJOS3hib2JQdEprYnNZdzVoSjNtRlJXak42ZjFwb2pFcTlNeURSZVo0TnNTSVVyWFNqak92U3gwRHc?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zYzR5NGcybEsyY09BM21OUUxaRm5va2VKMEtjU2gwcUdJU0xNYV93ZExFNmp0MEdPcVQyT19UeURmUFdvcXliQXlUeW4wWjdyWXViY3JHMUdCMUdOeFV4akFmeG5OSmpSc3pUWkpCLWEtckdUejdtZg?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZTBQb0U5b3MwdVZLZG9IaG1lVDFtU0o2eC05RTZhbWpXSHNGelg5dXFvbktIQWRxWEUxclp1b0ZLQzIwd0QzRDg4eFo1ZTljeWQ4WmI1SkxiTXVhWmtHOXl3LU5YbXQtd19IUVJEekVWdENSMHlSdTlQUlpUSTBDc2I4aGpxWEVBQWp0QTV6WHNXT2JuaC1hYXF5aXdkLWxMUnc2QkdGQ3cyWDhhcXI2RlVYQVhXMF9JekRMdTQweDE?oc=5",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxQd3NhYUtkMTNRRlU0TXFjUG9TZ3o1VXJwVlNlT3lnU3pXQnlOYVZCNFdVTGdPZXdEaTZWNUtLWjBWZjRaZkpfcDQtY1F1UktIaHpuUXo3Z3VTTHdSYXA3ZkM5Z3JJazVsVWp5Q2RHb1M2dVFGcDg3Q0IwdWRhOWtNc0c4V3pCTDFUaHZGLXNndlNScUFWbTcxVUo5SlJaclAzQnpuNDU2WS1meXZXZ29BdjU1dkdPYzY2XzBKNHVpY3NkSWhuRHFGdmlBeUZ4eWphZ3RXeWFBMnFPOGhZU2RHY0VLenEtSHFkQVYtQlVlQl9fVHZsVjFxQ3lzUmdtLWdKSlJkRQ?oc=5"
+      ],
+      "eventTitles": [
+        "Alibaba revenue jumps 10% in September quarter on AI cloud growth - Telecompaper",
+        "Alibaba Group Announces September Quarter 2026 Results and Interim Results for the Six Months Ended September 30, 2026 - 01net",
+        "Alibaba's AI cloud revenue jumps 53% in the September quarter while its AI labs lose RMB10.5 billion - MLQ.ai",
+        "Alibaba AI cloud revenue jumps 53% to $9.1 billion in September quarter - Crypto Briefing",
+        "Alibaba Group September quarter 2026 Results: Net income up 213% YoY - scanx.trade",
+        "Alibaba Group Announces September Quarter 2026 Results and Interim Results for the Six Months Ended September 30, 2026 - Business Wire"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-9fcc26a95aa36a1d89af71508fa651ff1a91c61f",
+      "rank": 5,
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "originalTitle": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "summary": "Organizations across financial services, insurance, healthcare, and the public sector depend on document processing. They turn scanned files and paper forms into structured data their systems can act on. As generative AI has matured, these organizations want m",
+      "points": [
+        "Organizations across financial services, insurance, healthcare, and the public sector depend on document processing.",
+        "They turn scanned files and paper forms into structured data their systems can act on.",
+        "As generative AI has matured, these organizations want more than accurate text extraction."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-20T20:22:00.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGdLSWZQWkNiLURFdnhoNmxwVV8yWVhYRUJvR2ZyVzZ0bWlQZlhVYzJLeUVMWElDUkVYX1k1Ym1YWE80S0piX1JhVVBHekcyZWtqVjNSRl9wNjNNM0VFNGQ5QkwteXhvUGpLNWVmVmstZy14ZkFOTUJoMTFCQkd4R3Rlbm0teW5lYXBhZ3lmVWJoU1R0d2JqSmtEVGZTNEtWb3FqSjJKeWhscW5JLVU0VHZFSFNPNnpoZF96LTRn?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGdLSWZQWkNiLURFdnhoNmxwVV8yWVhYRUJvR2ZyVzZ0bWlQZlhVYzJLeUVMWElDUkVYX1k1Ym1YWE80S0piX1JhVVBHekcyZWtqVjNSRl9wNjNNM0VFNGQ5QkwteXhvUGpLNWVmVmstZy14ZkFOTUJoMTFCQkd4R3Rlbm0teW5lYXBhZ3lmVWJoU1R0d2JqSmtEVGZTNEtWb3FqSjJKeWhscW5JLVU0VHZFSFNPNnpoZF96LTRn?oc=5"
+      ],
+      "eventTitles": [
+        "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+        "Announcing Amazon Textract Insights: Verifiable generative AI for documents - Amazon Web Services (AWS)"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-the-detroit-news-b2a8720821025e37cc9a",
+      "rank": 6,
+      "title": "Trump says he opposes 'globalist' AI regulation during APEC Summit - The Detroit News",
+      "originalTitle": "Trump says he opposes 'globalist' AI regulation during APEC Summit - The Detroit News",
+      "summary": "Trump says he opposes 'globalist' AI regulation during APEC Summit The Detroit News",
+      "points": [
+        "Trump says he opposes 'globalist' AI regulation during APEC Summit The Detroit News",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Detroit News",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-20T16:42:17.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZEZheV85N09rN0dfZWJHWkJ3SEdCTG1lMFlzUUhJRWh1TGVxWTBTcHVOYktUOG5UOTdZc3prREU4dmV0TGNNVEk1WDMwQ0hMRXFRUWc1bkE0MXZBWkhIeW5WLWtSNU9mVGZFTzE5NElZbkFJQkZfcDByTVFpYnZzTWEzc25Sb2tyUE1HcGMtaWtRZEJ6d0lNZDQ5blJ6bEJTYnNnZFpKaWtPOW5JRDVTdTVVSVQtYWI4Y21fRG5vRnJqcUU0S0hR?oc=5",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "azcentral.com and The Arizona Republic",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVdlZGNITUR5UUxJWFBTYjdMYXV1UlVlOE9QLVhDUWNTaU9aek1YYVNyQWtmSW9PRUFkLUkzbWNzSTNMV2VSZXlla0hrVFFncEphNlE4RW82UVpqQjBwSmJXMTdCWkhsVFZjTWJxWWRHX0luUm1RZV9KeUwzSFJndDBXTmpadEk5bmVmTW1jeUw3WjQzUDJXeDZ6c2lqQ3IxN01BOHVfZ0VsR3ctQzZHSTZ0M3V2VjdteHhmUmVDUzE3bUg4?oc=5"
+        },
+        {
+          "name": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnRHdi1xT1dPeEVzT3lqbjdQSUE2dGpaX0FnQWRXUDVUbFY3cVYyV0l6N3JkZmxOa3hNX240ajFhVmZIbkNtYXEtZHk1d0w5LUUzMjdSbWRCRTFRbnNkdkRvRl9hdUFZQnE1aVJtTmdIc2h2bFZJdmR6a21xbDBjRFpnVU5BdUJkTG5Dbnhrc2VKZzNnbWpla2NmZHRmN0tUWXZNLTkzOTctWVJyek9ITnV1YzZtT3dCWFRLT2pNUm9Ud1E?oc=5"
+        },
+        {
+          "name": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmlmcnRHZWdUd0FQb0FNT1pyT08wUVdhVnRnczRWZVM3V0k5MlhvMW1RUktTeWdKeUJrejJIRDhncklLbE0yNnVCMEludWd6bHNBVHhpNFYwUDBYeTZvY3Z4QVMyWUJzLWV6VWZxLXZ2cC1jZUlpWk9yMWNpTXJqOGp2eWlnM1dKWll3a2tCWlM5YzFUQmtDYmxZZTJKTko3TkE?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZEZheV85N09rN0dfZWJHWkJ3SEdCTG1lMFlzUUhJRWh1TGVxWTBTcHVOYktUOG5UOTdZc3prREU4dmV0TGNNVEk1WDMwQ0hMRXFRUWc1bkE0MXZBWkhIeW5WLWtSNU9mVGZFTzE5NElZbkFJQkZfcDByTVFpYnZzTWEzc25Sb2tyUE1HcGMtaWtRZEJ6d0lNZDQ5blJ6bEJTYnNnZFpKaWtPOW5JRDVTdTVVSVQtYWI4Y21fRG5vRnJqcUU0S0hR?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVdlZGNITUR5UUxJWFBTYjdMYXV1UlVlOE9QLVhDUWNTaU9aek1YYVNyQWtmSW9PRUFkLUkzbWNzSTNMV2VSZXlla0hrVFFncEphNlE4RW82UVpqQjBwSmJXMTdCWkhsVFZjTWJxWWRHX0luUm1RZV9KeUwzSFJndDBXTmpadEk5bmVmTW1jeUw3WjQzUDJXeDZ6c2lqQ3IxN01BOHVfZ0VsR3ctQzZHSTZ0M3V2VjdteHhmUmVDUzE3bUg4?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnRHdi1xT1dPeEVzT3lqbjdQSUE2dGpaX0FnQWRXUDVUbFY3cVYyV0l6N3JkZmxOa3hNX240ajFhVmZIbkNtYXEtZHk1d0w5LUUzMjdSbWRCRTFRbnNkdkRvRl9hdUFZQnE1aVJtTmdIc2h2bFZJdmR6a21xbDBjRFpnVU5BdUJkTG5Dbnhrc2VKZzNnbWpla2NmZHRmN0tUWXZNLTkzOTctWVJyek9ITnV1YzZtT3dCWFRLT2pNUm9Ud1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmlmcnRHZWdUd0FQb0FNT1pyT08wUVdhVnRnczRWZVM3V0k5MlhvMW1RUktTeWdKeUJrejJIRDhncklLbE0yNnVCMEludWd6bHNBVHhpNFYwUDBYeTZvY3Z4QVMyWUJzLWV6VWZxLXZ2cC1jZUlpWk9yMWNpTXJqOGp2eWlnM1dKWll3a2tCWlM5YzFUQmtDYmxZZTJKTko3TkE?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE1aVDBFa3N2enZRZGo4X0o3akdoUkJOaU04c0JodXJ6Tk9NOFBLeFI5WUxuYV90eDdsSDJLVGJOU1BFMUJITFdjMDgzclVzVHNiUXU1ZVJZdjNaWnkxQXJ0c0JqcmV1X2c2OGFJa0ZNck9POS15WnktTE8xV2FGM2hGZkxWT0RBQkxYZEFNVDVBYnBrZGlHYllvalpBYk9uZlM1S1VfZzMzbFZ6d05vY1laZGZ0ajNE?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOY25IempOQ0pvNGMyRy02YlZwTDI5cFItajhaU202RHJWUW9LWGRpWGZZaVBLTkdaRkVMM0F4eXRMSW13bmthcGkwNW5uYUZUYkhFTzZJTTY2Tm1qZ0c1TjhsUTlrUTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE94R0xzSmNPYUxST3VzU0NQSXliRWxXczFWYVpJSkoxakhwbHZKUGVuYW51VGNQYkZ5U0hEX3BOUDhfUHRONzFCM1p2YVVaekZ1UXRhM0UwX0ZqMnhaRTgzbEM0dmNCdklWS3cza3JVUFdiT3RCalpnN2pIa1k?oc=5"
+      ],
+      "eventTitles": [
+        "Trump says he opposes 'globalist' AI regulation during APEC Summit - The Detroit News",
+        "Trump says he opposes 'globalist' AI regulation during APEC Summit - azcentral.com and The Arizona Republic",
+        "Trump says he opposes 'globalist' AI regulation during APEC Summit - USA Today",
+        "Trump Says He Opposes 'Globalist' AI Regulation During APEC Summit - NDTV",
+        "Trump says he opposes 'globalist' AI regulation during APEC Summit - marketscreener.com",
+        "Trump says he opposes 'globalist' AI regulation during APEC Summit - Reuters",
+        "Trump says he opposes 'globalist' AI regulation during APEC Summit - Yahoo News Singapore"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-combatting-adversarial-distillation",
+      "rank": 7,
+      "title": "Combatting adversarial distillation",
+      "originalTitle": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "points": [
+        "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/combatting-adversarial-distillation"
+      ],
+      "eventTitles": [
+        "Combatting adversarial distillation"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-seeking-alpha-3eaa0209843aa8804e6f",
+      "rank": 8,
+      "title": "AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more (SPX:) - Seeking Alpha",
+      "originalTitle": "AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more (SPX:) - Seeking Alpha",
+      "summary": "AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more (SPX:) Seeking Alpha",
+      "points": [
+        "AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more (SPX:) Seeking Alpha",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Seeking Alpha",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-20T10:40:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXFZZkFvWFFIbGluS3pPMjU1WFBIZzNFeEpQTGJYa1NmM2tPX09Ub2Ywek52MFQtZlFaRlZDY2p5QXFzUmNtbzNfZmFUZ200SjRaalZMa2U1TGNUS0gyZE9ndXpYSE0yaHMtV18zcWs5U3ZLZDI4RTAzczhFaUJ6Tm5hWXNBVG5ZUHRfLU5QR0tvMks2dFBIeEtvMXpJa2d0RW5hZEFJaGhleS1ycUlKcVlzckFyTVVo?oc=5",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkJKeGVQNnpNd2prMzYycF93dDlGSzhuVTlRMU52VjdqdGtNNFB1UmwxTHVmbWVXMjZoOWxwS09oNm11LWNkclBkNmJOR3dfSFJWMVp6eXBiSTR2bVBybzBmNGMwLUh2RW1NdVJSN3I4QlZrVjg3Smtta1BIQWpvVTdCc1lRd1BiTERwRkNIYWZsYngwVnR3RFNGMEQ5UXJxSGxKLVFlNzlMdmVjSFRTclI3M2xEUkMzeXNjNGstUjdGOFI3U19fSg?oc=5"
+        },
+        {
+          "name": "Israel Hayom",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMTBDZGFsR1hPeGRoZEpSdGsyZ09IRnctOWtWSWJhbkNsX3R2eGg1UVc3UXFYenM0TGNPR2NCN255dGNzbGNtNEUzTWFiWk1qaE9zdDd2SXhOSWkwc1V1dDB5cEtTNUNLSUx2TVZnRjNmaXZ1Q2t2akFWaEh2NXhsWk9WU1VjQQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXFZZkFvWFFIbGluS3pPMjU1WFBIZzNFeEpQTGJYa1NmM2tPX09Ub2Ywek52MFQtZlFaRlZDY2p5QXFzUmNtbzNfZmFUZ200SjRaalZMa2U1TGNUS0gyZE9ndXpYSE0yaHMtV18zcWs5U3ZLZDI4RTAzczhFaUJ6Tm5hWXNBVG5ZUHRfLU5QR0tvMks2dFBIeEtvMXpJa2d0RW5hZEFJaGhleS1ycUlKcVlzckFyTVVo?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkJKeGVQNnpNd2prMzYycF93dDlGSzhuVTlRMU52VjdqdGtNNFB1UmwxTHVmbWVXMjZoOWxwS09oNm11LWNkclBkNmJOR3dfSFJWMVp6eXBiSTR2bVBybzBmNGMwLUh2RW1NdVJSN3I4QlZrVjg3Smtta1BIQWpvVTdCc1lRd1BiTERwRkNIYWZsYngwVnR3RFNGMEQ5UXJxSGxKLVFlNzlMdmVjSFRTclI3M2xEUkMzeXNjNGstUjdGOFI3U19fSg?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMTBDZGFsR1hPeGRoZEpSdGsyZ09IRnctOWtWSWJhbkNsX3R2eGg1UVc3UXFYenM0TGNPR2NCN255dGNzbGNtNEUzTWFiWk1qaE9zdDd2SXhOSWkwc1V1dDB5cEtTNUNLSUx2TVZnRjNmaXZ1Q2t2akFWaEh2NXhsWk9WU1VjQQ?oc=5"
+      ],
+      "eventTitles": [
+        "AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more (SPX:) - Seeking Alpha",
+        "Alibaba shareholder lawsuit alleges it hid ties to Megaspeed, the company at the center of the Nvidia scandal - MLQ.ai",
+        "How Alibaba and Megaspeed accessed restricted Nvidia AI chips - Israel Hayom"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-19-2000003310",
+      "rank": 9,
+      "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+      "originalTitle": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+      "summary": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
+      "points": [
+        "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-19T03:00:00.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/19/2000003310",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlJpZXBpSHZDbHBPU0dzM2h1Y245NWVqbEZaQllvZVhzZEdwQXNFYU5Kb1ZpWDc2UThEeVZPMVlPRmxiRmw4WkI1YXNaTGZCemNfT1c5a2trZllpamJ4YVppQXFsTmlmc0Y1MmQydFlNR0tlbWpVejVwVFYtZFdZbHdLZVdZODliZllWTDBR?oc=5"
+        },
+        {
+          "name": "ｄメニューニュース",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTElGRVhLeW54QnhkQTNDX2d4NGIxanNVd2R4NGJYaEVicE1XQlIwTEdZdnFKUHoxM2NXME1qYWVKVHRzRkRoSW9VN29wTmYxOWVYSkxJWm80LWN1MGtlZzREWDkwbkFRdGFnRk80R0Y2cVgxS24wRFB5eHpWcE12alN1dzhtNXktWWM4bG91eE5PaVVwbXFNMVYxWdIBmwFBVV95cUxOTElGRVhLeW54QnhkQTNDX2d4NGIxanNVd2R4NGJYaEVicE1XQlIwTEdZdnFKUHoxM2NXME1qYWVKVHRzRkRoSW9VN29wTmYxOWVYSkxJWm80LWN1MGtlZzREWDkwbkFRdGFnRk80R0Y2cVgxS24wRFB5eHpWcE12alN1dzhtNXktWWM4bG91eE5PaVVwbXFNMVYxWQ?oc=5"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hWFpYWlFzRDhvYm0wU0tHMkswNGVyZVRaellUZThFdlZvblBLblpBVm5NLXBfcHNqaDI1QmhaTWdheDZvMnN5YUNMMElTT0llODF0dVRoMEZLcng0NDVkaWNmeXZpU1dYV1E?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlJpZXBpSHZDbHBPU0dzM2h1Y245NWVqbEZaQllvZVhzZEdwQXNFYU5Kb1ZpWDc2UThEeVZPMVlPRmxiRmw4WkI1YXNaTGZCemNfT1c5a2trZllpamJ4YVppQXFsTmlmc0Y1MmQydFlNR0tlbWpVejVwVFYtZFdZbHdLZVdZODliZllWTDBR?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTElGRVhLeW54QnhkQTNDX2d4NGIxanNVd2R4NGJYaEVicE1XQlIwTEdZdnFKUHoxM2NXME1qYWVKVHRzRkRoSW9VN29wTmYxOWVYSkxJWm80LWN1MGtlZzREWDkwbkFRdGFnRk80R0Y2cVgxS24wRFB5eHpWcE12alN1dzhtNXktWWM4bG91eE5PaVVwbXFNMVYxWdIBmwFBVV95cUxOTElGRVhLeW54QnhkQTNDX2d4NGIxanNVd2R4NGJYaEVicE1XQlIwTEdZdnFKUHoxM2NXME1qYWVKVHRzRkRoSW9VN29wTmYxOWVYSkxJWm80LWN1MGtlZzREWDkwbkFRdGFnRk80R0Y2cVgxS24wRFB5eHpWcE12alN1dzhtNXktWWM4bG91eE5PaVVwbXFNMVYxWQ?oc=5",
+        "https://itmedia.co.jp/news/article/2611/19/2000003310",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hWFpYWlFzRDhvYm0wU0tHMkswNGVyZVRaellUZThFdlZvblBLblpBVm5NLXBfcHNqaDI1QmhaTWdheDZvMnN5YUNMMElTT0llODF0dVRoMEZLcng0NDVkaWNmeXZpU1dYV1E?oc=5"
+      ],
+      "eventTitles": [
+        "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も - Yahoo!ニュース",
+        "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も - ｄメニューニュース",
+        "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+        "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も - ITmedia"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-11-meta-reconsiders-2030-net-zero-goal-amid-record-emi",
+      "rank": 10,
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "originalTitle": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030. That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any",
+      "points": [
+        "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030.",
+        "That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any other Big T",
+        "The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rache"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-20T21:47:10.000Z",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+      "impactScore": 65,
+      "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style"
+        "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers"
       ],
       "eventTitles": [
-        "These tech outages are giving Y2K, AI agent style"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-83c0c30f184dfdf0ae395f9aa3d7c3629ffc28b5",
-      "rank": 4,
-      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-      "originalTitle": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-      "summary": "When building an AI agent, selecting a model is only the first step. The agent still needs tools, instructions for finishing the job, a way to manage context growth in long sessions, and guardrails before it executes any consequential actions, like issuing a r",
-      "points": [
-        "When building an AI agent, selecting a model is only the first step.",
-        "The agent still needs tools, instructions for finishing the job, a way to manage context growth in long sessions, and guardrails before it executes any consequential acti",
-        "We are upgrading Amazon Bedrock AgentCore harness to use Strands harness, our open-source agent harness, released earlier this year, available under an Apache 2.0 license"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-19T20:01:06.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks",
-      "impactScore": 80,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks"
-      ],
-      "eventTitles": [
-        "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-announcing-the-world-api",
-      "rank": 5,
-      "title": "Announcing the World API",
-      "originalTitle": "Announcing the World API",
-      "summary": "A public API for generating explorable 3D worlds from text, images, and video — bringing Marble&#x27;s world modeling capabilities into your applications.",
-      "points": [
-        "A public API for generating explorable 3D worlds from text, images, and video — bringing Marble&#x27;s world modeling capabilities into your applications.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-20T00:04:23.444Z",
-      "url": "https://worldlabs.ai/blog/announcing-the-world-api",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/announcing-the-world-api"
-      ],
-      "eventTitles": [
-        "Announcing the World API"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-marble-world-model",
-      "rank": 6,
-      "title": "Marble: A Multimodal World Model",
-      "originalTitle": "Marble: A Multimodal World Model",
-      "summary": "Marble, our frontier multimodal world model, is available to everyone starting today",
-      "points": [
-        "Marble, our frontier multimodal world model, is available to everyone starting today",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-20T00:04:23.444Z",
-      "url": "https://worldlabs.ai/blog/marble-world-model",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/marble-world-model"
-      ],
-      "eventTitles": [
-        "Marble: A Multimodal World Model"
-      ]
-    },
-    {
-      "id": "aws-machine-learning-64eb7c5f6286bb53ae673651e85ab1d1e8321eda",
-      "rank": 7,
-      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-      "originalTitle": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-      "summary": "In this post, we show how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call, and out of the model context those tools feed. We add Skyflow Detect to Amazon Bedrock AgentCore Gateway as a request and response ",
-      "points": [
-        "In this post, we show how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call, and out of the model context those tools ",
-        "We add Skyflow Detect to Amazon Bedrock AgentCore Gateway as a request and response interceptor .",
-        "The Skyflow interceptor de-identifies data before it reaches a tool, restores it before the agent reads the result, and replaces documents with clean copies before the ag"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-19T18:14:36.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway"
-      ],
-      "eventTitles": [
-        "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway"
-      ]
-    },
-    {
-      "id": "azure-ai-ml-https-azure-microsoft-com-en-us-blog-p-55004",
-      "rank": 8,
-      "title": "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
-      "originalTitle": "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
-      "summary": "Azure at Microsoft Ignite 2026: The headlines Azure AI core : AI on infrastructure you control. Azure Cobalt 200 : Our highest-performing general-purpose virtual machines (VMs). Azure Catalyst : Agent-led modernization from plan to code. Agentic cloud operatio",
-      "points": [
-        "Azure at Microsoft Ignite 2026: The headlines Azure AI core : AI on infrastructure you control.",
-        "Azure Cobalt 200 : Our highest-performing general-purpose virtual machines (VMs).",
-        "Azure Catalyst : Agent-led modernization from plan to code."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Microsoft Azure AI",
-      "sourceType": "official",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-17T18:35:00.000Z",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai",
-      "impactScore": 77,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "innovaTopia",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ZnFxOEUyeFdpYkRkMnE1TnUyZHVkY1JHaFZNM3pDVWhSbVRYYy1TeGlBcTAydndPRmx2VlpLcC14WEM2YWtGMVNoQjU5TG1DZU0w?oc=5"
-        },
-        {
-          "name": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUR1aWh3MTMwZVVLQUhDM0pZc0owSVFEbUhaV1J4ZDhDZDhFaS1SNnJlX1J4TlE2UmF4ejdLY1hQRW4zcnhHQmxOcDVQWl9xNGZKSGRVN1dXUFRhUkJ6a3VXNjhWdGpJNmp6REE0UVFaQUtlNGl1aEtIeExNbURTU1JMcEVxdUNfRHpMYnA4R3dJTVZXc2ZNU3FDY2dfX1lGZktzZXlFUTU5UVlVbW9ubS1BaHVMcEpOMEtpd1NVSmw?oc=5"
-        },
-        {
-          "name": "BigGo ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjNldQWU1PRUpSSS0zdm5URFJoa0x2T1pMbW9DT2t4N0IzUWtxQVo4QnFJUTlBZm1JQ0tNeWptM0RDTjl4UFp3cXRxZUtTWGJFUHVKU2FCY1dGNm5BdnFBQll0WlN5MUFJdWFJZ0FrVWgxQXVG?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ZnFxOEUyeFdpYkRkMnE1TnUyZHVkY1JHaFZNM3pDVWhSbVRYYy1TeGlBcTAydndPRmx2VlpLcC14WEM2YWtGMVNoQjU5TG1DZU0w?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUR1aWh3MTMwZVVLQUhDM0pZc0owSVFEbUhaV1J4ZDhDZDhFaS1SNnJlX1J4TlE2UmF4ejdLY1hQRW4zcnhHQmxOcDVQWl9xNGZKSGRVN1dXUFRhUkJ6a3VXNjhWdGpJNmp6REE0UVFaQUtlNGl1aEtIeExNbURTU1JMcEVxdUNfRHpMYnA4R3dJTVZXc2ZNU3FDY2dfX1lGZktzZXlFUTU5UVlVbW9ubS1BaHVMcEpOMEtpd1NVSmw?oc=5",
-        "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjNldQWU1PRUpSSS0zdm5URFJoa0x2T1pMbW9DT2t4N0IzUWtxQVo4QnFJUTlBZm1JQ0tNeWptM0RDTjl4UFp3cXRxZUtTWGJFUHVKU2FCY1dGNm5BdnFBQll0WlN5MUFJdWFJZ0FrVWgxQXVG?oc=5",
-        "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations"
-      ],
-      "eventTitles": [
-        "Microsoft、社員PCのAIエージェントを検出しIDで管理 Ignite 2026でDefenderも保護を一般提供 - innovaTopia",
-        "Microsoft、Copilotを「業務OS」に Ignite 2026でAIエージェント戦略を拡充 - 디지털투데이",
-        "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
-        "Microsoft、自社CPU「Cobalt 200」Azure VMを全面提供開始…AIエージェント向けに最大1.9倍の性能 - BigGo ファイナンス",
-        "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3190451",
-      "rank": 9,
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "originalTitle": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "points": [
-        "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "TechCrunch",
-      "sourceType": "media",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-19T16:59:23.000Z",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "impactScore": 75,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "au Webポータル",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uT1dFMmVIaWJWZ3F2a3JCZHUxUTBMX3ZhWm9icWhPcm5hcGJfQjlRMkZ3VTJBYncyQXN2QVc5V29VbWE1d1gyYWVhclE0YlVCdEdBLVppOGlTRi1pVmFDeVlUdUpHdjZ0M2ZvSGhn?oc=5"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development"
-        },
-        {
-          "name": "BigGo ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHazgwZDZuQkp4aEF0ZklBMUtvU0o3RkFfMkRMX3E3bmtpWHBkY1lKbDAwZnpHYTFMVlhsTDg0czZrWGVyNnV1dXhpdGpaYnhCSDBkQ2lhV1o0YWs3eWl1czlGRG1UYmtwSHJsSHp6Y0pNUjNj?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uT1dFMmVIaWJWZ3F2a3JCZHUxUTBMX3ZhWm9icWhPcm5hcGJfQjlRMkZ3VTJBYncyQXN2QVc5V29VbWE1d1gyYWVhclE0YlVCdEdBLVppOGlTRi1pVmFDeVlUdUpHdjZ0M2ZvSGhn?oc=5",
-        "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-        "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHazgwZDZuQkp4aEF0ZklBMUtvU0o3RkFfMkRMX3E3bmtpWHBkY1lKbDAwZnpHYTFMVlhsTDg0czZrWGVyNnV1dXhpdGpaYnhCSDBkQ2lhV1o0YWs3eWl1czlGRG1UYmtwSHJsSHp6Y0pNUjNj?oc=5"
-      ],
-      "eventTitles": [
-        "AnthropicがNASDAQに上場。、時価総額は一時2兆ドル超え、史上最大規模のIPOに - au Webポータル",
-        "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-        "Anthropic、Nasdaq上場の公募価格を83ドルに確定…AIバブル論争の分水嶺に - BigGo ファイナンス"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-scenix",
-      "rank": 10,
-      "title": "World Labs Acquires SceniX",
-      "originalTitle": "World Labs Acquires SceniX",
-      "summary": "Advancing Spatial Intelligence for Robotics",
-      "points": [
-        "Advancing Spatial Intelligence for Robotics",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-20T00:04:23.444Z",
-      "url": "https://worldlabs.ai/blog/scenix",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/scenix"
-      ],
-      "eventTitles": [
-        "World Labs Acquires SceniX"
+        "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"
       ]
     }
   ]
