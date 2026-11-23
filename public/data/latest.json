@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-22T06:30:00+09:00",
-  "generatedAt": "2026-11-22T01:30:42.408Z",
-  "periodStart": "2026-11-19T13:30:42.408Z",
+  "edition": "2026-11-23T06:30:00+09:00",
+  "generatedAt": "2026-11-23T01:54:14.117Z",
+  "periodStart": "2026-11-20T13:54:14.117Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 39,
@@ -9,19 +9,19 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 9,
-  "candidateCount": 1192,
+  "candidateCount": 383,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-22-2000003388",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-23-2000003394",
       "rank": 1,
-      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
-      "originalTitle": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
-      "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "originalTitle": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "summary": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
       "points": [
-        "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+        "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -29,316 +29,276 @@
       "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "モデル",
-      "publishedAt": "2026-11-21T23:21:31.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/22/2000003388",
-      "impactScore": 75,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTllrV1ZKR29GNjNzQjdkZ2lUWVJ6RnV1R2o4XzBPUWl6Q3ZGYTUtTjJONzdNYWlXaFUwa1NraE9FS19KbUhPcndXSUdFaU1wMzROemx2Z0k2UE9ublpCRzJmbWxyRTRUSUE?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://itmedia.co.jp/news/article/2611/22/2000003388",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTllrV1ZKR29GNjNzQjdkZ2lUWVJ6RnV1R2o4XzBPUWl6Q3ZGYTUtTjJONzdNYWlXaFUwa1NraE9FS19KbUhPcndXSUdFaU1wMzROemx2Z0k2UE9ublpCRzJmbWxyRTRUSUE?oc=5"
-      ],
-      "eventTitles": [
-        "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
-        "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定 - ITmedia"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-taxonomy-of-world-models",
-      "rank": 2,
-      "title": "A Functional Taxonomy of World Models",
-      "originalTitle": "A Functional Taxonomy of World Models",
-      "summary": "Renderers, Simulators, Planners, and the Loop That Connects Them",
-      "points": [
-        "Renderers, Simulators, Planners, and the Loop That Connects Them",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-21T19:15:22.255Z",
-      "url": "https://worldlabs.ai/blog/taxonomy-of-world-models",
-      "impactScore": 71,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/taxonomy-of-world-models"
-      ],
-      "eventTitles": [
-        "A Functional Taxonomy of World Models"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-3d-as-code",
-      "rank": 3,
-      "title": "3D as code",
-      "originalTitle": "3D as code",
-      "summary": "Text became the universal interface for software; 3D is becoming the universal interface for space. It’s the medium that allows humans and AI systems to generate, edit, simulate, and share worlds together.",
-      "points": [
-        "Text became the universal interface for software; 3D is becoming the universal interface for space.",
-        "It’s the medium that allows humans and AI systems to generate, edit, simulate, and share worlds together.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "開発者向け",
-      "publishedAt": "2026-11-21T19:15:22.255Z",
-      "url": "https://worldlabs.ai/blog/3d-as-code",
-      "impactScore": 67,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/3d-as-code"
-      ],
-      "eventTitles": [
-        "3D as code"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-a-new-frontier",
-      "rank": 4,
-      "title": "- YouTube",
-      "originalTitle": "- YouTube",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "points": [
-        "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-21T19:15:22.255Z",
-      "url": "https://worldlabs.ai/blog/a-new-frontier",
-      "impactScore": 66,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [
-        {
-          "name": "World Labs",
-          "url": "https://worldlabs.ai/blog/news-july-2026"
-        }
-      ],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/a-new-frontier",
-        "https://worldlabs.ai/blog/news-july-2026"
-      ],
-      "eventTitles": [
-        "- YouTube"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-amd-announcement",
-      "rank": 5,
-      "title": "World Labs is Joining AMD",
-      "originalTitle": "World Labs is Joining AMD",
-      "summary": "Accelerating the future of AI research and compute",
-      "points": [
-        "Accelerating the future of AI research and compute",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-21T19:15:22.255Z",
-      "url": "https://worldlabs.ai/blog/amd-announcement",
-      "impactScore": 66,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/amd-announcement"
-      ],
-      "eventTitles": [
-        "World Labs is Joining AMD"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-bigger-better-worlds",
-      "rank": 6,
-      "title": "Generating Bigger and Better Worlds",
-      "originalTitle": "Generating Bigger and Better Worlds",
-      "summary": "Announcing our latest breakthrough in 3D world generation with larger, more detailed environments and improved fidelity.",
-      "points": [
-        "Announcing our latest breakthrough in 3D world generation with larger, more detailed environments and improved fidelity.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-21T19:15:22.255Z",
-      "url": "https://worldlabs.ai/blog/bigger-better-worlds",
-      "impactScore": 66,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [
-        {
-          "name": "World Labs",
-          "url": "https://worldlabs.ai/blog/generating-worlds"
-        }
-      ],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/bigger-better-worlds",
-        "https://worldlabs.ai/blog/generating-worlds",
-        "https://worldlabs.ai/blog/real-to-sim-to-real"
-      ],
-      "eventTitles": [
-        "Generating Bigger and Better Worlds",
-        "Generating Worlds",
-        "Building Worlds That Train Robots"
-      ]
-    },
-    {
-      "id": "world-labs-sitemap-https-worldlabs-ai-blog-spark-2-0",
-      "rank": 7,
-      "title": "Streaming 3DGS worlds on the web",
-      "originalTitle": "Streaming 3DGS worlds on the web",
-      "summary": "A technical deep dive into Spark 2.0&#x27;s streamable, Level-of-Detail system for 3D Gaussian Splatting.",
-      "points": [
-        "A technical deep dive into Spark 2.0&#x27;s streamable, Level-of-Detail system for 3D Gaussian Splatting.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "World Labs",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-21T19:15:22.255Z",
-      "url": "https://worldlabs.ai/blog/spark-2.0",
-      "impactScore": 66,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://worldlabs.ai/blog/spark-2.0"
-      ],
-      "eventTitles": [
-        "Streaming 3DGS worlds on the web"
-      ]
-    },
-    {
-      "id": "the-decoder-https-the-decoder-com-p-43145",
-      "rank": 8,
-      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "originalTitle": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather tha",
-      "points": [
-        "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training",
-        "The researchers attribute the gains to carefully curated training data rather than ever more training steps.",
-        "The model, data, and code are freely available."
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "The Decoder",
-      "sourceType": "media",
-      "category": "研究",
-      "publishedAt": "2026-11-21T09:17:24.000Z",
-      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model",
-      "impactScore": 65,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model"
-      ],
-      "eventTitles": [
-        "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model"
-      ]
-    },
-    {
-      "id": "google-news-global-policy-anadolu-ajans--2bdc38a33de678cf9e4d",
-      "rank": 9,
-      "title": "London protest calls for stricter AI regulation amid growing safety concerns - Anadolu Ajansı",
-      "originalTitle": "London protest calls for stricter AI regulation amid growing safety concerns - Anadolu Ajansı",
-      "summary": "London protest calls for stricter AI regulation amid growing safety concerns Anadolu Ajansı",
-      "points": [
-        "London protest calls for stricter AI regulation amid growing safety concerns Anadolu Ajansı",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Anadolu Ajansı",
-      "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-21T20:00:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXJGWmlxTm5pOVR0NnJ6QkRqWFdabTR5N2dWQWhMNUFSdEJrOWtPMWtDLWs1bS1LcWNFQVQ5ems5cm5lXzc3RHRua21HZHFQd095LUpvYlQ0U0IxTzNvZ29WMzVoemt0OVNGYUFHSDZwZ2ZOX21WNXoyQl9ReGJHakJZV2VUOWtKRjUtX0d2TERCTktVaElCemVKVVRlc0JkUkhET3U4WTItV1lJQVp6U1hB?oc=5",
-      "impactScore": 58,
-      "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeEZaS1l1aU9DcGZYNzFvRi1yQVNHMUZuUmdIemxsRERJblhrSmZrUkM3bU8zVFhkZ0JwVnRPSG14cUV4MXNrMER4bm5PYlpaQ29wRENlVFhHUmZNVENDNmg1S1llbE8zS2hmVjVzTFkzVDFPNGlBUy1LM2ZGLVRNc0p3V0lvRVc0bUxRdzhFdWdOMDFuUzZDbU1TWkVQdFh3VzNnN0xJdzFwMmd5c1lmNlVxd3l0VlE?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXJGWmlxTm5pOVR0NnJ6QkRqWFdabTR5N2dWQWhMNUFSdEJrOWtPMWtDLWs1bS1LcWNFQVQ5ems5cm5lXzc3RHRua21HZHFQd095LUpvYlQ0U0IxTzNvZ29WMzVoemt0OVNGYUFHSDZwZ2ZOX21WNXoyQl9ReGJHakJZV2VUOWtKRjUtX0d2TERCTktVaElCemVKVVRlc0JkUkhET3U4WTItV1lJQVp6U1hB?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeEZaS1l1aU9DcGZYNzFvRi1yQVNHMUZuUmdIemxsRERJblhrSmZrUkM3bU8zVFhkZ0JwVnRPSG14cUV4MXNrMER4bm5PYlpaQ29wRENlVFhHUmZNVENDNmg1S1llbE8zS2hmVjVzTFkzVDFPNGlBUy1LM2ZGLVRNc0p3V0lvRVc0bUxRdzhFdWdOMDFuUzZDbU1TWkVQdFh3VzNnN0xJdzFwMmd5c1lmNlVxd3l0VlE?oc=5"
-      ],
-      "eventTitles": [
-        "London protest calls for stricter AI regulation amid growing safety concerns - Anadolu Ajansı"
-      ]
-    },
-    {
-      "id": "google-news-global-genai-etv-bharat-009857e4760e6f09cf70",
-      "rank": 10,
-      "title": "Ubisoft Launches Motherbrain, A Subsidiary Dedicated To Generative AI In Games - ETV Bharat",
-      "originalTitle": "Ubisoft Launches Motherbrain, A Subsidiary Dedicated To Generative AI In Games - ETV Bharat",
-      "summary": "Ubisoft Launches Motherbrain, A Subsidiary Dedicated To Generative AI In Games ETV Bharat",
-      "points": [
-        "Ubisoft Launches Motherbrain, A Subsidiary Dedicated To Generative AI In Games ETV Bharat",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "ETV Bharat",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-21T12:36:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPU1VGWVEzYlk2N3NyengyZFJ0Nm5IRDN1ckZIellmS3hmazgwYWR0aWQxN3ZGVFl1TVV3SDVSdzhVQlQ1amktR2FOLUVCYWN5OE9paXBkVTV5Ynh0TVBXMWd2YTlKY1plOGdydTFZYktMNmN1V3VPYS1GNWpwdVh2SW1yQzNzUzlsVlJ0MGlZWGVBLVdSRURPTXo1eVhzTUtkYWFiM2dSNFlOS0hOcURFQ0MwRTZQd1djYnBEdU52ZlZvQUlQa0tjVUZBc2ZDejhkaE9oNmRDZWZ1VDNweW1wVnNvckVEbHdaZDJkSU84SGh2aDVqNC1rc1FvaEc4UlRWZWVfSS1zVlA1YWlMMy02S0l6bm5zZ0NRSWNUbNIBogJBVV95cUxNT2NJMlpwclRhUDQ2d0Jxc3YzV0xWZ0p2YmNCazZNXy1TWnI4TWkxZDVJMHB1Vm42TmxxRWo3V1RsOXh5M3JnNGsxV01nUFFHTndVOWFtdDE2Z2FFbXRnbFljeVdkYmFDbXp4blV2bzBaZTZiSTZmM1NKQUswajMzcDZtTnhwdXN5Z0FKRGlUem8yenM1eG9TVFdYX1ctZ1ZZdFFER0J1MS05djJZbFBvUXZrR2hZOVlJMGV0UGZ4VlRoMVhwYXYtRTFYR19PTVUyUEE0SEhNTFhXNmR0WWFzWlhsUUZsWUQzWHVXVEU2YXBEVjh0bS1CamIzUHNON3g5YzNTbF9LeFJhamViQmdIeHcxSGpyLWZRRm11QVl2QnZudw?oc=5",
-      "impactScore": 58,
+      "publishedAt": "2026-11-22T22:49:18.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/23/2000003394",
+      "impactScore": 69,
       "impactLabel": "中",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "TalkEsport",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlhnb1gyaGg3UC05VmlRaTdBenluSmR5QXcwcmFQYUhtY1NwdVZLYzV5VHdwZFR5bXhOSGUxZHlBRndVQXYzblpTb2NwTlpJcGZmTkp3OXF1VThpZGxDN25JWUxjcFFEWXNsTjlmU2JTWUljNW8xa1E3T2hPYi1VekdzVlNJMUx2N19Nb3A5M1VhT3JmUXlzbjBvQzcxSnQ0dzE4RWxxOEJlaVJBWVE?oc=5"
-        },
-        {
-          "name": "games.gg",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQmhHeUxFcktuM2tnTHhsQWVEamRIVWVJQ3Q0UmNuRFd0Rk0tVFpJbFo5YWtROHFlSkttOG9VMGo3ZUhwYTVaTFZ4TzJlR1c5ay1mY2lhQjUwTHA4RUVtV0cxSVJ6aTB2V0k0MkpwQTQ?oc=5"
-        },
-        {
-          "name": "GameGPU",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXhYOHExWlc3a2Y1VmswZks4enJMem10Q1ZzLTc4dGxlcDlXZ1Vzck1Ra1lLMmp6d3B6TGZfM3I2aEhqd0dXR0lXekJiNmR4ZVltZnlOR3FnQTZJNUJmOXptb2o2bXdINjF0ajd2djRsX3RvWmtsME01UDMxSmxSTkYyQmhLbkZOSTBaYmZSNFpYM3J2TkFqZmI2TlFicnd0T1B0N19BWmNYN0hJbk5LRA?oc=5"
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMZzQ3Sm5VU3BIdEFuTEMzdXlDNjdaYjNTWHA0TXJmZ1ZFUUY2cG5RQ3cxNTFfMm56X0RldGhmTFhOb0QtY3l6ZmFCUzk5WjNRaHI4bGxIQzQtaGZVb2NoMnkta29BV1VOQkg0MmdBZ1h3elVMYTNhM3pDTEduQ0U?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMinAJBVV95cUxPU1VGWVEzYlk2N3NyengyZFJ0Nm5IRDN1ckZIellmS3hmazgwYWR0aWQxN3ZGVFl1TVV3SDVSdzhVQlQ1amktR2FOLUVCYWN5OE9paXBkVTV5Ynh0TVBXMWd2YTlKY1plOGdydTFZYktMNmN1V3VPYS1GNWpwdVh2SW1yQzNzUzlsVlJ0MGlZWGVBLVdSRURPTXo1eVhzTUtkYWFiM2dSNFlOS0hOcURFQ0MwRTZQd1djYnBEdU52ZlZvQUlQa0tjVUZBc2ZDejhkaE9oNmRDZWZ1VDNweW1wVnNvckVEbHdaZDJkSU84SGh2aDVqNC1rc1FvaEc4UlRWZWVfSS1zVlA1YWlMMy02S0l6bm5zZ0NRSWNUbNIBogJBVV95cUxNT2NJMlpwclRhUDQ2d0Jxc3YzV0xWZ0p2YmNCazZNXy1TWnI4TWkxZDVJMHB1Vm42TmxxRWo3V1RsOXh5M3JnNGsxV01nUFFHTndVOWFtdDE2Z2FFbXRnbFljeVdkYmFDbXp4blV2bzBaZTZiSTZmM1NKQUswajMzcDZtTnhwdXN5Z0FKRGlUem8yenM1eG9TVFdYX1ctZ1ZZdFFER0J1MS05djJZbFBvUXZrR2hZOVlJMGV0UGZ4VlRoMVhwYXYtRTFYR19PTVUyUEE0SEhNTFhXNmR0WWFzWlhsUUZsWUQzWHVXVEU2YXBEVjh0bS1CamIzUHNON3g5YzNTbF9LeFJhamViQmdIeHcxSGpyLWZRRm11QVl2QnZudw?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlhnb1gyaGg3UC05VmlRaTdBenluSmR5QXcwcmFQYUhtY1NwdVZLYzV5VHdwZFR5bXhOSGUxZHlBRndVQXYzblpTb2NwTlpJcGZmTkp3OXF1VThpZGxDN25JWUxjcFFEWXNsTjlmU2JTWUljNW8xa1E3T2hPYi1VekdzVlNJMUx2N19Nb3A5M1VhT3JmUXlzbjBvQzcxSnQ0dzE4RWxxOEJlaVJBWVE?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQmhHeUxFcktuM2tnTHhsQWVEamRIVWVJQ3Q0UmNuRFd0Rk0tVFpJbFo5YWtROHFlSkttOG9VMGo3ZUhwYTVaTFZ4TzJlR1c5ay1mY2lhQjUwTHA4RUVtV0cxSVJ6aTB2V0k0MkpwQTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXhYOHExWlc3a2Y1VmswZks4enJMem10Q1ZzLTc4dGxlcDlXZ1Vzck1Ra1lLMmp6d3B6TGZfM3I2aEhqd0dXR0lXekJiNmR4ZVltZnlOR3FnQTZJNUJmOXptb2o2bXdINjF0ajd2djRsX3RvWmtsME01UDMxSmxSTkYyQmhLbkZOSTBaYmZSNFpYM3J2TkFqZmI2TlFicnd0T1B0N19BWmNYN0hJbk5LRA?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMZzQ3Sm5VU3BIdEFuTEMzdXlDNjdaYjNTWHA0TXJmZ1ZFUUY2cG5RQ3cxNTFfMm56X0RldGhmTFhOb0QtY3l6ZmFCUzk5WjNRaHI4bGxIQzQtaGZVb2NoMnkta29BV1VOQkg0MmdBZ1h3elVMYTNhM3pDTEduQ0U?oc=5",
+        "https://itmedia.co.jp/news/article/2611/23/2000003394"
       ],
       "eventTitles": [
-        "Ubisoft Launches Motherbrain, A Subsidiary Dedicated To Generative AI In Games - ETV Bharat",
-        "Ubisoft Establishes Motherbrain, a Studio Dedicated to Generative AI in Games - TalkEsport",
-        "Ubisoft creates Motherbrain studio for generative AI in games - games.gg",
-        "Ubisoft founded Motherbrain studio to develop generative AI in games - GameGPU"
+        "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」（ITmedia NEWS） - Yahoo!ニュース",
+        "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-43193",
+      "rank": 2,
+      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "originalTitle": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out",
+      "points": [
+        "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur.",
+        "Its own decision model filters out unimportant results.",
+        "For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable chatbot business through developer tools."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-22T14:20:28.000Z",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog"
+      ],
+      "eventTitles": [
+        "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3191173",
+      "rank": 3,
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "points": [
+        "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo"
+      ],
+      "eventTitles": [
+        "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-perplexity-and-intelligence",
+      "rank": 4,
+      "title": "Perplexity and Intelligence",
+      "originalTitle": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "points": [
+        "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "impactScore": 63,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/perplexity-and-intelligence"
+      ],
+      "eventTitles": [
+        "Perplexity and Intelligence"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-kn-itmedia-co-jp-kn-article-2611-23-2000003393",
+      "rank": 5,
+      "title": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+      "originalTitle": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+      "summary": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+      "points": [
+        "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-22T21:00:00.000Z",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393"
+      ],
+      "eventTitles": [
+        "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃"
+      ]
+    },
+    {
+      "id": "wired-ai-6b0079848a18277ad68d6fd0",
+      "rank": 6,
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "originalTitle": "Banks Have Had It Up to Here With Your AI Agent",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "points": [
+        "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "WIRED",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-22T11:00:00.000Z",
+      "url": "https://wired.com/story/banks-are-cracking-down-on-ai-agents",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://wired.com/story/banks-are-cracking-down-on-ai-agents"
+      ],
+      "eventTitles": [
+        "Banks Have Had It Up to Here With Your AI Agent"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-capital-brief-044186c1bd18a6648562",
+      "rank": 7,
+      "title": "Government faces narrow path on landing AI copyright laws - Capital Brief",
+      "originalTitle": "Government faces narrow path on landing AI copyright laws - Capital Brief",
+      "summary": "Government faces narrow path on landing AI copyright laws Capital Brief",
+      "points": [
+        "Government faces narrow path on landing AI copyright laws Capital Brief",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "Capital Brief",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-21T21:59:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV1NPVFV3aUc1elprOUhfSjNHYXVkMF9SbDI0UC1zcDhCYWlWTkZSaGQyOV9WaS15NUdFcXV3MF9nSUMybklNSC1CeEFzMGFUamNHSHlOWXVoREtDMU1lamZLcThZS0o5NFBGY2ZtakpSMTZJQjYzYV9FMEtFWnQ2ZnBKblc1ajNoaFROUFRpLW5TMV92TWg0dUtPMVVFNEJIVmNkSFZEdlAtRDFrTnM0OFFUajF6MVE4WFhHS1ZDNzlRR1pTSzVwTzZjX3k?oc=5",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV1NPVFV3aUc1elprOUhfSjNHYXVkMF9SbDI0UC1zcDhCYWlWTkZSaGQyOV9WaS15NUdFcXV3MF9nSUMybklNSC1CeEFzMGFUamNHSHlOWXVoREtDMU1lamZLcThZS0o5NFBGY2ZtakpSMTZJQjYzYV9FMEtFWnQ2ZnBKblc1ajNoaFROUFRpLW5TMV92TWg0dUtPMVVFNEJIVmNkSFZEdlAtRDFrTnM0OFFUajF6MVE4WFhHS1ZDNzlRR1pTSzVwTzZjX3k?oc=5"
+      ],
+      "eventTitles": [
+        "Government faces narrow path on landing AI copyright laws - Capital Brief"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-43203",
+      "rank": 8,
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "originalTitle": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5",
+      "points": [
+        "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing soft",
+        "Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely.",
+        "The models finish clear, standalone assignments quickly, but they lose track as autonomous developers."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-22T15:15:48.000Z",
+      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace",
+      "impactScore": 57,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace"
+      ],
+      "eventTitles": [
+        "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace"
+      ]
+    },
+    {
+      "id": "aws-machine-learning-2f499b0fad46f2d46fc1c337c454cd6adc7edd47",
+      "rank": 9,
+      "title": "Meta ads is now available in AWS Quick",
+      "originalTitle": "Meta ads is now available in AWS Quick",
+      "summary": "Marketers have never had more data to act on. Take an apparel brand that advertises on Meta technologies: campaign results live in Meta Ads Manager, briefs and creative assets in shared storage, and inventory, customer lifetime value, and in-store purchases in",
+      "points": [
+        "Marketers have never had more data to act on.",
+        "Take an apparel brand that advertises on Meta technologies: campaign results live in Meta Ads Manager, briefs and creative assets in shared storage, and inventory, custom",
+        "Analysts export reports, merge spreadsheets, and rebuild the same deck each week, and the data ages before anyone acts on it."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-22T01:59:13.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick",
+      "impactScore": 55,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick"
+      ],
+      "eventTitles": [
+        "Meta ads is now available in AWS Quick"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-43190",
+      "rank": 10,
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "originalTitle": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common ",
+      "points": [
+        "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure.",
+        "Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models can actu",
+        "The article AI is getting better faster than experts can reliably test whether new systems are safe, METR warns appeared first on The Decoder ."
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-22T13:00:43.000Z",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns",
+      "impactScore": 54,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns"
+      ],
+      "eventTitles": [
+        "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns"
       ]
     }
   ]
