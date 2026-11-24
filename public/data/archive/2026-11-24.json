@@ -1,0 +1,340 @@
+{
+  "edition": "2026-11-24T06:30:00+09:00",
+  "generatedAt": "2026-11-24T05:26:13.650Z",
+  "periodStart": "2026-11-21T17:26:13.650Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 40,
+  "freshSources": 34,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 9,
+  "candidateCount": 981,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "aws-machine-learning-76b2285b501c3518d9f413fc227aa9b97a5e6b72",
+      "rank": 1,
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "originalTitle": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "summary": "Today we are announcing the general availability of the trusted access program API on Amazon Bedrock . The API gives you one place to discover, request, and enroll in model provider trusted access programs. We are also announcing the public preview of the firs",
+      "points": [
+        "Today we are announcing the general availability of the trusted access program API on Amazon Bedrock .",
+        "The API gives you one place to discover, request, and enroll in model provider trusted access programs.",
+        "We are also announcing the public preview of the first two offerings, Anthropic’s Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC)."
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "AWS Machine Learning",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-11-24T05:01:14.000Z",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
+      "impactScore": 83,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls"
+      ],
+      "eventTitles": [
+        "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-24-2000003398",
+      "rank": 2,
+      "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "originalTitle": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "summary": "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。",
+      "points": [
+        "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-23T22:20:30.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/24/2000003398",
+      "impactScore": 83,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Od2xZcWpXV0JlRjlFcVVINnN6RkxTWGpuNHhkUHdrVmNSbTJqcm82NFpVSi1Fd19IZHNFdU5ZbDlVMElSQktRRlhNUzZJWGtXZmlfdC16TENkWkE2d2tFbGVMaXlNdmdMaGc?oc=5"
+        },
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSktzME1sMHZNV2hqX1haMWRHNmE2dGMyTU85YnlZUVdRYnlTVFpqV3AwZ1lVQTEtaVhMaDJEOHVxZkFxb2Qtai1fUV9NLS15VmFQc1BlU1V3eTNVdXo2aEI4YXdHSVFxOHE4bGNpazFBZkpQTmgtaERXVDJVdzFMeEowWmlnbjBHZzRUV2Z2cVJ5ek1oanVLQw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/24/2000003398",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Od2xZcWpXV0JlRjlFcVVINnN6RkxTWGpuNHhkUHdrVmNSbTJqcm82NFpVSi1Fd19IZHNFdU5ZbDlVMElSQktRRlhNUzZJWGtXZmlfdC16TENkWkE2d2tFbGVMaXlNdmdMaGc?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSktzME1sMHZNV2hqX1haMWRHNmE2dGMyTU85YnlZUVdRYnlTVFpqV3AwZ1lVQTEtaVhMaDJEOHVxZkFxb2Qtai1fUV9NLS15VmFQc1BlU1V3eTNVdXo2aEI4YXdHSVFxOHE4bGNpazFBZkpQTmgtaERXVDJVdzFMeEowWmlnbjBHZzRUV2Z2cVJ5ek1oanVLQw?oc=5"
+      ],
+      "eventTitles": [
+        "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+        "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保 - ITmedia",
+        "CrowdStrike、AIエージェントの接続保護に向けZscalerの買収で合意 - Unite.AI"
+      ]
+    },
+    {
+      "id": "google-ai-https-blog-google-products-and-platforms-products-search-google-search-personal-intelligen",
+      "rank": 3,
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "originalTitle": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "points": [
+        "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Google AI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "impactScore": 76,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdF85TGk0WjhvellWenR5ZEl3YWc0d0lpZURlN2FWSWtDcV9VVkZzTzhEUlpoZmZDUnk4YzdyTk5obC1JQUpTVGtIeHRDWDlwajFmZlNqelVkR1dlUzZrc2NwaFVFMDR1XzNHR0dEcXp5OWZmQlgycVhDa2haeXV3ek05a3BZSVVWOFVzdktLZ1VfVFhVZWoycXNyX2RScmJ0M0J5X0gzWXVhOWJzQXY3TVkteUZzSWlvaHMw?oc=5"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdF85TGk0WjhvellWenR5ZEl3YWc0d0lpZURlN2FWSWtDcV9VVkZzTzhEUlpoZmZDUnk4YzdyTk5obC1JQUpTVGtIeHRDWDlwajFmZlNqelVkR1dlUzZrc2NwaFVFMDR1XzNHR0dEcXp5OWZmQlgycVhDa2haeXV3ek05a3BZSVVWOFVzdktLZ1VfVFhVZWoycXNyX2RScmJ0M0J5X0gzWXVhOWJzQXY3TVkteUZzSWlvaHMw?oc=5",
+        "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+        "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps"
+      ],
+      "eventTitles": [
+        "Google、検索のAIモードにGoogle Drive・Google Wallet・Gemini連携を追加 パーソナライズ強化 - 디지털투데이",
+        "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "A more tailored Google Search that’s uniquely yours"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-24-2000003404",
+      "rank": 4,
+      "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+      "originalTitle": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+      "summary": "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供する。",
+      "points": [
+        "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-24T01:21:04.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2611/24/2000003404",
+      "impactScore": 75,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDR1N0FNcEROU0UtTkpvMUsyczBWMDZhVjhpOUJsY3JUTVBIMkp5ZWNMWjE1cU0yNzdPOWtzNTF2NDMybDZPX2xDdk9GUTNIWC1rZ0RQRGdEQ0xUc0l1ZE1SNmExV3VNeklEWTBDQ2NEQlZIQ2hUclJKZTBzX0hiNA?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDR1N0FNcEROU0UtTkpvMUsyczBWMDZhVjhpOUJsY3JUTVBIMkp5ZWNMWjE1cU0yNzdPOWtzNTF2NDMybDZPX2xDdk9GUTNIWC1rZ0RQRGdEQ0xUc0l1ZE1SNmExV3VNeklEWTBDQ2NEQlZIQ2hUclJKZTBzX0hiNA?oc=5",
+        "https://itmedia.co.jp/aiplus/article/2611/24/2000003404",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5teDh4Nmo4bWVPeU5fNmt4OExvTDFQTXYtTmQ5X0pLT3h5VDAzYVI4TnFabGQ5LXV3OEoweGV6SS10b0ZFeC1PUWZ3c3RSaWJJWFM1REJxRS0ybmVVdmlGYUVqMVB3V3Eza1NzZA?oc=5"
+      ],
+      "eventTitles": [
+        "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開（画像）（2/2枚目） - ITmedia",
+        "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+        "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開 - ITmedia"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-11-states-sue-spacex-to-stop-grok-from-genera",
+      "rank": 5,
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "originalTitle": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children. SpaceX acquired xAI in February and now must handle the ongoing reckoning over the controversi",
+      "points": [
+        "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children.",
+        "SpaceX acquired xAI in February and now must handle the ongoing reckoning over the controversial rollout of Grok’s “spicy mode”—a model feature Musk hyped but was soon fo",
+        "Initial safeguards were so lax that Grok sometimes generated nude images without being asked ."
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-23T21:30:44.000Z",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+      "impactScore": 73,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn"
+      ],
+      "eventTitles": [
+        "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-index-introducing-shirudo",
+      "rank": 6,
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "originalTitle": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "points": [
+        "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.",
+        "It helps teams protect running systems while they roll out patches.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-23T21:20:00.000Z",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://openai.com/index/introducing-shirudo"
+      ],
+      "eventTitles": [
+        "OpenAI and Cisco introduce Shirudo"
+      ]
+    },
+    {
+      "id": "openai-https-openai-com-business-customer-stories-richpanel-ai-customer-support",
+      "rank": 7,
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "originalTitle": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "points": [
+        "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "category": "モデル",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "impactScore": 71,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oVldTaVVzMTJja2N0TTRENHdkU00xWWZVMUYtdmxsWWtMMzZRRlZTOXlWWGhudG81ZFRGMFdxemxyMkdMQktvRTdUWTBnWkpKSWdlbVVuckFDUmt2dlVyUzJXczNvcWZORldtR0hZamNiRm5h?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oVldTaVVzMTJja2N0TTRENHdkU00xWWZVMUYtdmxsWWtMMzZRRlZTOXlWWGhudG81ZFRGMFdxemxyMkdMQktvRTdUWTBnWkpKSWdlbVVuckFDUmt2dlVyUzJXczNvcWZORldtR0hZamNiRm5h?oc=5",
+        "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+      ],
+      "eventTitles": [
+        "Richpanel、30日以内にサポート業務の50%自動化を約束、OpenAIのGPT-6シリーズを採用 - BigGo ファイナンス",
+        "Richpanel helps companies automate 50% of support in 30 days"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-reviews-2026-11-review-the-asus-proart-p16-offers-a-glimpse-of",
+      "rank": 8,
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "originalTitle": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "summary": "Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense . Most of the AI pitches for laptops are little more than marketing hype, but the launch of Nvidia RTX Spark could bring a meaningful improvement in AI capa",
+      "points": [
+        "Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense .",
+        "Most of the AI pitches for laptops are little more than marketing hype, but the launch of Nvidia RTX Spark could bring a meaningful improvement in AI capabilities to the ",
+        "Asus has adopted Nvidia's new chip in its latest ProArt lineup, offering a staggering amount of memory to run local AI models."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai"
+      ],
+      "eventTitles": [
+        "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-finding-faster-quantum-algorithms-with-agents-and-formal-",
+      "rank": 9,
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "originalTitle": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms May 2025 Science Learn more",
+      "points": [
+        "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms May 2025 Science Learn more",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-23T16:59:40.000Z",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
+      ],
+      "eventTitles": [
+        "Finding faster quantum algorithms with agents and formal verification"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3191583",
+      "rank": 10,
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "originalTitle": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "points": [
+        "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"
+      ],
+      "eventTitles": [
+        "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+      ]
+    }
+  ]
+}
