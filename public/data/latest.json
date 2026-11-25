@@ -1,7 +1,7 @@
 {
-  "edition": "2026-11-24T06:30:00+09:00",
-  "generatedAt": "2026-11-24T05:26:13.650Z",
-  "periodStart": "2026-11-21T17:26:13.650Z",
+  "edition": "2026-11-25T06:30:00+09:00",
+  "generatedAt": "2026-11-25T04:26:47.814Z",
+  "periodStart": "2026-11-22T16:26:47.814Z",
   "status": "live",
   "checkedSources": 43,
   "successfulSources": 40,
@@ -9,313 +9,236 @@
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 9,
-  "candidateCount": 981,
+  "candidateCount": 1198,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "aws-machine-learning-76b2285b501c3518d9f413fc227aa9b97a5e6b72",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-25-2000003430",
       "rank": 1,
-      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
-      "originalTitle": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
-      "summary": "Today we are announcing the general availability of the trusted access program API on Amazon Bedrock . The API gives you one place to discover, request, and enroll in model provider trusted access programs. We are also announcing the public preview of the firs",
+      "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+      "originalTitle": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+      "summary": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると、問題行動をほぼゼロに抑えられるという。",
       "points": [
-        "Today we are announcing the general availability of the trusted access program API on Amazon Bedrock .",
-        "The API gives you one place to discover, request, and enroll in model provider trusted access programs.",
-        "We are also announcing the public preview of the first two offerings, Anthropic’s Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC)."
-      ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "AWS Machine Learning",
-      "sourceType": "official",
-      "category": "安全性",
-      "publishedAt": "2026-11-24T05:01:14.000Z",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
-      "impactScore": 83,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls"
-      ],
-      "eventTitles": [
-        "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls"
-      ]
-    },
-    {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-24-2000003398",
-      "rank": 2,
-      "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
-      "originalTitle": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
-      "summary": "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。",
-      "points": [
-        "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。",
+        "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると、問題行動をほぼゼロ",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
       "source": "ITmedia AI+",
       "sourceType": "media",
-      "category": "ビジネス",
-      "publishedAt": "2026-11-23T22:20:30.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/24/2000003398",
-      "impactScore": 83,
+      "category": "安全性",
+      "publishedAt": "2026-11-24T22:41:42.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/25/2000003430",
+      "impactScore": 84,
       "impactLabel": "大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Od2xZcWpXV0JlRjlFcVVINnN6RkxTWGpuNHhkUHdrVmNSbTJqcm82NFpVSi1Fd19IZHNFdU5ZbDlVMElSQktRRlhNUzZJWGtXZmlfdC16TENkWkE2d2tFbGVMaXlNdmdMaGc?oc=5"
+          "name": "Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DaHdOejJmYmdpWGhaVmMteWllWTBzX2ZkMHhvLVR5Q0VnYTV1ek15RVk0M01GR2JOV3kxSXo2OFZ2b2M1VWlrWW10LXJCUDlVRzQzRUd3bEJOb3VaUEd2N001aFVpWjZlYXBMVG01R1hsQU1BNDF3aVhvajRzOXM?oc=5"
         },
         {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSktzME1sMHZNV2hqX1haMWRHNmE2dGMyTU85YnlZUVdRYnlTVFpqV3AwZ1lVQTEtaVhMaDJEOHVxZkFxb2Qtai1fUV9NLS15VmFQc1BlU1V3eTNVdXo2aEI4YXdHSVFxOHE4bGNpazFBZkpQTmgtaERXVDJVdzFMeEowWmlnbjBHZzRUV2Z2cVJ5ek1oanVLQw?oc=5"
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uTktTbXZ4TkJDME1KZkVTdmk1aE93VFJsbWVrX3E0cEFIQkdaRUlWem4xb2FTZnZMTkk3VVdEa1Y0dGJ2Z3lpNDd1aWE1V3V3cjNPRzlFdlgzQmo0MWo2QkNEWG51bWNPVFRwdUoteFZaMXpvU2ZaYmxuS0I2Zw?oc=5"
+        },
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rS296Nm9MOE40NXZkbXNTUFpRd1NldkhKb3VPNzFjd19EcUdKZW52bmR6Zy1iWTF0cnZ6OS1Oc18ycjkyU20xX2lUZWdvTlI5V0pNQWQtdWFrbFFHNVNCSm5ES1gwenVwb0E?oc=5"
         }
       ],
       "eventUrls": [
-        "https://itmedia.co.jp/news/article/2611/24/2000003398",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Od2xZcWpXV0JlRjlFcVVINnN6RkxTWGpuNHhkUHdrVmNSbTJqcm82NFpVSi1Fd19IZHNFdU5ZbDlVMElSQktRRlhNUzZJWGtXZmlfdC16TENkWkE2d2tFbGVMaXlNdmdMaGc?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSktzME1sMHZNV2hqX1haMWRHNmE2dGMyTU85YnlZUVdRYnlTVFpqV3AwZ1lVQTEtaVhMaDJEOHVxZkFxb2Qtai1fUV9NLS15VmFQc1BlU1V3eTNVdXo2aEI4YXdHSVFxOHE4bGNpazFBZkpQTmgtaERXVDJVdzFMeEowWmlnbjBHZzRUV2Z2cVJ5ek1oanVLQw?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DaHdOejJmYmdpWGhaVmMteWllWTBzX2ZkMHhvLVR5Q0VnYTV1ek15RVk0M01GR2JOV3kxSXo2OFZ2b2M1VWlrWW10LXJCUDlVRzQzRUd3bEJOb3VaUEd2N001aFVpWjZlYXBMVG01R1hsQU1BNDF3aVhvajRzOXM?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uTktTbXZ4TkJDME1KZkVTdmk1aE93VFJsbWVrX3E0cEFIQkdaRUlWem4xb2FTZnZMTkk3VVdEa1Y0dGJ2Z3lpNDd1aWE1V3V3cjNPRzlFdlgzQmo0MWo2QkNEWG51bWNPVFRwdUoteFZaMXpvU2ZaYmxuS0I2Zw?oc=5",
+        "https://itmedia.co.jp/news/article/2611/25/2000003430",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rS296Nm9MOE40NXZkbXNTUFpRd1NldkhKb3VPNzFjd19EcUdKZW52bmR6Zy1iWTF0cnZ6OS1Oc18ycjkyU20xX2lUZWdvTlI5V0pNQWQtdWFrbFFHNVNCSm5ES1gwenVwb0E?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjNVbEw5X3VvZWJhbGJRTzctWk95cGUyZWo0RjZPVElWRmNiVEMzSWk1blBoUXhKa3V4OTg0SlZPMlRhX05TYXlydXZnaXZBbnk5TGJKUFNWSnNWbjFGeFJUU3JJb0pxVVU3c3hHMDNrc1FVU0FYY0JBVURjMWkwZ1Z2eEUyRF9EZER1X1ZZME55cm1B?oc=5"
       ],
       "eventTitles": [
-        "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
-        "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保 - ITmedia",
-        "CrowdStrike、AIエージェントの接続保護に向けZscalerの買収で合意 - Unite.AI"
+        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表（ITmedia NEWS） - Yahoo!ニュース",
+        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表（画像）（1/2枚目） - ITmedia",
+        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表 - ITmedia",
+        "Anthropicの「Siren Test」、AIエージェントをサンドボックスのルール破りへ誘う - Mezha.net"
       ]
     },
     {
-      "id": "google-ai-https-blog-google-products-and-platforms-products-search-google-search-personal-intelligen",
-      "rank": 3,
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "originalTitle": "A more tailored Google Search that’s uniquely yours",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "id": "google-news-asia-models-vnexpress-international-ca11adc371b2c90aa540",
+      "rank": 2,
+      "title": "DeepSeek founder Liang Wenfeng’s fortune surges to $55B - VnExpress International",
+      "originalTitle": "DeepSeek founder Liang Wenfeng’s fortune surges to $55B - VnExpress International",
+      "summary": "DeepSeek founder Liang Wenfeng’s fortune surges to $55B VnExpress International",
       "points": [
-        "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+        "DeepSeek founder Liang Wenfeng’s fortune surges to $55B VnExpress International",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Google AI",
-      "sourceType": "official",
+      "source": "VnExpress International",
+      "sourceType": "media",
       "category": "モデル",
-      "publishedAt": "2026-11-23T17:00:00.000Z",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "publishedAt": "2026-11-25T03:51:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHBrZGtkQ050Zm83OTVvbGszOXYzMjZYRjB1bFJ0UTRnVGtaMVJZN0pMNjlWUVUtWEw0em1zZ3NHVVd1R1NuRjRzR09qY3g3bDJmRy1VSzlxY1g0NkdQd2UyTDNESV9Sa2NZQk1GRmdxaWMyQWktR1I3a3ZpNnkwLVVRVjJra3JCV2I4cTdYVS1GbldHVmlwRDRuQ05nTmtNa0Z3TGp1bXFlbUt6bnVKZUlWdUpuZw?oc=5",
       "impactScore": 76,
       "impactLabel": "大",
       "verification": "複数ソース",
       "relatedSources": [
         {
-          "name": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdF85TGk0WjhvellWenR5ZEl3YWc0d0lpZURlN2FWSWtDcV9VVkZzTzhEUlpoZmZDUnk4YzdyTk5obC1JQUpTVGtIeHRDWDlwajFmZlNqelVkR1dlUzZrc2NwaFVFMDR1XzNHR0dEcXp5OWZmQlgycVhDa2haeXV3ek05a3BZSVVWOFVzdktLZ1VfVFhVZWoycXNyX2RScmJ0M0J5X0gzWXVhOWJzQXY3TVkteUZzSWlvaHMw?oc=5"
+          "name": "Billionaires.Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzdud0NQYWFmRzdWTlZBcURzTFFjV2JCUG9YNmNRd3pvd1N6Ui1UOHI2WnBwZ0ttZGtfcWxFd09BR09PUzZPUV9kczEtb2R5TnhxemdiTVhCY2R4SmhRU2FPVDY5NnVabnRHdkxnUTY3NGl5eHVIZFVLbC02S1luMXZhMDNvT20ta3NNMDJoMURDZnFLV0JDbzQwLVRGdXlOSUROWVU0VU14TVJGRC1tclZhWTh3c1luc3dYUmdHSl9zNzZxUWRGb0EycVVoM3hn?oc=5"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
+          "name": "News Karnataka",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnBTTTM1dTdYcF8wbHJoSnh0X0NUY3JyN0NkSmVzaTFBeENmZi1SQ3ozSTFZckRYSnhiRXhCUUlwdjhkUGJNVmtrT3FncFdaNFJQeHMyWnVQSFh5akpSS3FKekRMQ01YZFkwdjZ5MmZSRVlWM3lrY3k3Q1k3RjdwckFuZkk0Smd3eDF6SkVJQTFJdDJ0T0MwZ2xESnM?oc=5"
+        },
+        {
+          "name": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW9XeFU3ZnhIWHdHSlZTUUxtTjBVc3docExDandZaGxVaUs4OElXVW1tQmxlaTFhOUx4d0RWcTNIX1gwaWt2ME9xcXZYVTA1TWNlaGQ3Sl9LQ0k5S2l6SUNlWWVqMW5PMXBMUWNNY1YzdW8yZkNLNHY5V3M0enBwYzY4cm1BZHdjcHdoeWtDeS1XbHFhZEZycVI3eDdjV3NtNm90UnFWQzA2MlRra2wwVUlkMFFDNUFYV0pNZnJTVUVqeURtdUt1U2dfQlVSZE5fRzZfTHZDZ2p2SFnSAdsBQVVfeXFMT3VvV3hVN2Z4SFh3R0pWU1FMbU4wVXN3aHBMQ2p3WWhsVWlLODhJV1VtbUJsZWkxYTlMeHdEVnEzSF9YMGlrdjBPcXF2WFUwNU1jZWhkN0pfS0NJOUtpeklDZVllajFuTzFwTFFjTWNWM3VvMmZDSzR2OVdzNHpwcGM2OHJtQWR3Y3B3aHlrQ3ktV2xxYWRGcnFSN3g3Y1dzbTZvdFJxVkMwNjJUa2tsMFVJZDBRQzVBWFdKTWZyU1VFanlEbXVLdVNnX0JVUmROX0c2X0x2Q2dqdkhZ?oc=5"
         }
       ],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdF85TGk0WjhvellWenR5ZEl3YWc0d0lpZURlN2FWSWtDcV9VVkZzTzhEUlpoZmZDUnk4YzdyTk5obC1JQUpTVGtIeHRDWDlwajFmZlNqelVkR1dlUzZrc2NwaFVFMDR1XzNHR0dEcXp5OWZmQlgycVhDa2haeXV3ek05a3BZSVVWOFVzdktLZ1VfVFhVZWoycXNyX2RScmJ0M0J5X0gzWXVhOWJzQXY3TVkteUZzSWlvaHMw?oc=5",
-        "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
-        "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps"
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHBrZGtkQ050Zm83OTVvbGszOXYzMjZYRjB1bFJ0UTRnVGtaMVJZN0pMNjlWUVUtWEw0em1zZ3NHVVd1R1NuRjRzR09qY3g3bDJmRy1VSzlxY1g0NkdQd2UyTDNESV9Sa2NZQk1GRmdxaWMyQWktR1I3a3ZpNnkwLVVRVjJra3JCV2I4cTdYVS1GbldHVmlwRDRuQ05nTmtNa0Z3TGp1bXFlbUt6bnVKZUlWdUpuZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzdud0NQYWFmRzdWTlZBcURzTFFjV2JCUG9YNmNRd3pvd1N6Ui1UOHI2WnBwZ0ttZGtfcWxFd09BR09PUzZPUV9kczEtb2R5TnhxemdiTVhCY2R4SmhRU2FPVDY5NnVabnRHdkxnUTY3NGl5eHVIZFVLbC02S1luMXZhMDNvT20ta3NNMDJoMURDZnFLV0JDbzQwLVRGdXlOSUROWVU0VU14TVJGRC1tclZhWTh3c1luc3dYUmdHSl9zNzZxUWRGb0EycVVoM3hn?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnBTTTM1dTdYcF8wbHJoSnh0X0NUY3JyN0NkSmVzaTFBeENmZi1SQ3ozSTFZckRYSnhiRXhCUUlwdjhkUGJNVmtrT3FncFdaNFJQeHMyWnVQSFh5akpSS3FKekRMQ01YZFkwdjZ5MmZSRVlWM3lrY3k3Q1k3RjdwckFuZkk0Smd3eDF6SkVJQTFJdDJ0T0MwZ2xESnM?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW9XeFU3ZnhIWHdHSlZTUUxtTjBVc3docExDandZaGxVaUs4OElXVW1tQmxlaTFhOUx4d0RWcTNIX1gwaWt2ME9xcXZYVTA1TWNlaGQ3Sl9LQ0k5S2l6SUNlWWVqMW5PMXBMUWNNY1YzdW8yZkNLNHY5V3M0enBwYzY4cm1BZHdjcHdoeWtDeS1XbHFhZEZycVI3eDdjV3NtNm90UnFWQzA2MlRra2wwVUlkMFFDNUFYV0pNZnJTVUVqeURtdUt1U2dfQlVSZE5fRzZfTHZDZ2p2SFnSAdsBQVVfeXFMT3VvV3hVN2Z4SFh3R0pWU1FMbU4wVXN3aHBMQ2p3WWhsVWlLODhJV1VtbUJsZWkxYTlMeHdEVnEzSF9YMGlrdjBPcXF2WFUwNU1jZWhkN0pfS0NJOUtpeklDZVllajFuTzFwTFFjTWNWM3VvMmZDSzR2OVdzNHpwcGM2OHJtQWR3Y3B3aHlrQ3ktV2xxYWRGcnFSN3g3Y1dzbTZvdFJxVkMwNjJUa2tsMFVJZDBRQzVBWFdKTWZyU1VFanlEbXVLdVNnX0JVUmROX0c2X0x2Q2dqdkhZ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEV3MWNLT01SNlo2dmRnd0tIX19fMEJvdGhCQmZHaE40eGZhU3Nta3hrTDN5YnZieHpSVWFiZGhoVzBzbVIyOURDcEhtT3NzVWFkN1c2U09oaFdobzNnOFJuNTBxdjVhMFB2WFctaXh1eEQxM29BZS1zUmNQeW1qc3hHeHctN2p4QUlPaTZHSGVSQ0Y1VVlWdWhzMDFFMDMtS21wRDdwMnNtZjllQmlMeXhDRF9NVUZ4N2FUUFllZk5ISXRyVWR0TmVjTEgtM3RoeGpjMjFn0gHbAUFVX3lxTE91b1d4VTdmeEhYd0dKVlNRTG1OMFVzd2hwTENqd1lobFVpSzg4SVdVbW1CbGVpMWE5THh3RFZxM0hfWDBpa3YwT3FxdlhVMDVNY2VoZDdKX0tDSTlLaXpJQ2VZZWoxbk8xcExRY01jVjN1bzJmQ0s0djlXczR6cHBjNjhybUFkd2Nwd2h5a0N5LVdscWFkRnJxUjd4N2NXc202b3RScVZDMDYyVGtrbDBVSWQwUUM1QVhXSk1mclNVRWp5RG11S3VTZ19CVVJkTl9HNl9MdkNnanZIWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjJFWUNKX3pralZSNG5jMW1EalpSaDFNRVowSmlrR1RsNWpEVjFjN040dHJpT3RCeVdReUFEYWQ2Ympmd2Z6aEx5d3QyQlZKcFoyRmdnbXBTdnBzRmE0a1ExSjRvSURrckxTOW8xX0RoenpqUksyRXlwaEs5dTNFVVdR?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMkk3eTlacHlYdnNqeHFxb2NYcEFzRFNtWHhDeHFidHZ2TzY2Z2tFZnhnd042UnE4MUc1OEVhTmFTQTFWSzFORW1tNGJjelltUm9qbE1hZHd3SU4zUDFYdnU2Z05nWnVKeXVMam1LNU9vMld6NlI5UVlHUzJ1Ti05U1p4b1daelhfQnkxMERtRExWSkRBVVF1d01sMURmaVAxWjRraE1yRW1nSU1tQVpSVGltZVh3d0p3cllfOHhrcTExZ2RuZDl4OHlHUkJsVjFIbThPMW9VRVZmM1FkbE5WQjln?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjljMWloSEl1aG1UU1JtX1d4NXZrcmdfbF80azY5WnlENHU3ZnFBRzYwRUFNZVFubnJjZTdNZlNuV2Q3VnZLWlNfWU5nQVIzSzRDa1pwZzBIeXpkMmJsQmFKY0pMdldHSHQ0RTlVQW5HRkgzZUVzVVhIeVBBUDJTOHB3dGhPUF9jdzhvODBRdTN5Qno4cWs0SFVxa3IyVDhJRkdfU0JEcXhhdmFySU40RVF5cUFZZHZQV200STJQY1cyVFhaNkRVRmdmS1ZWMUVVQlHSAdcBQVVfeXFMT1l4WVdpY01oWVl3SVRDUEVMVWR2LVRDMk9LWjVJTS1GcG95U3lETGxwRWlGX0haRU5KOWQzNFpra0JCZVdfbHJCc1ozLW55RG44eEpSMHk4UjZqdmJ3djhwMGY4X2tweHZxTE5GX3BvakRHWElhQjd4R3dkVVRyOTVYZTJ1RkRKYnJ1VkZuUzg2LTR0c1RCdWNyZVVrNGxHYnlVdGd2SmQ2UnJ5VnY0OVhlTEZvUkF0V1FuTkVIdzFJeldUajVqV0tVV1pzOXIzaklXYy11Z3c?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWXhZV2ljTWhZWXdJVENQRUxVZHYtVEMyT0taNUlNLUZwb3lTeURMbHBFaUZfSFpFTko5ZDM0WmtrQkJlV19sckJzWjMtbnlEbjh4SlIweThSNmp2Ynd2OHAwZjhfa3B4dnFMTkZfcG9qREdYSWFCN3hHd2RVVHI5NVhlMnVGREpicnVWRm5TODYtNHRzVEJ1Y3JlVWs0bEdieVV0Z3ZKZDZScnlWdjQ5WGVMRm9SQXRXUW5ORUh3MUl6V1RqNWpXS1VXWnM5cjNqSVdjLXVnd9IB1wFBVV95cUxPWXhZV2ljTWhZWXdJVENQRUxVZHYtVEMyT0taNUlNLUZwb3lTeURMbHBFaUZfSFpFTko5ZDM0WmtrQkJlV19sckJzWjMtbnlEbjh4SlIweThSNmp2Ynd2OHAwZjhfa3B4dnFMTkZfcG9qREdYSWFCN3hHd2RVVHI5NVhlMnVGREpicnVWRm5TODYtNHRzVEJ1Y3JlVWs0bEdieVV0Z3ZKZDZScnlWdjQ5WGVMRm9SQXRXUW5ORUh3MUl6V1RqNWpXS1VXWnM5cjNqSVdjLXVndw?oc=5"
       ],
       "eventTitles": [
-        "Google、検索のAIモードにGoogle Drive・Google Wallet・Gemini連携を追加 パーソナライズ強化 - 디지털투데이",
-        "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-        "A more tailored Google Search that’s uniquely yours"
+        "DeepSeek founder Liang Wenfeng’s fortune surges to $55B - VnExpress International",
+        "Chinese billionaire Liang Wenfeng's fortune hits $55 billion after DeepSeek raises $15 billion - Billionaires.Africa",
+        "DeepSeek founder Liang Wenfeng’s wealth hits $55 billion - News Karnataka",
+        "DeepSeek founder Liang Wenfeng becomes world's richest AI model creator with $55 billion fortune - Firstpost",
+        "DeepSeek founder Liang Wenfeng overtakes AI pioneers to become world's richest AI model creator with $55 bi... - Firstpost",
+        "DeepSeek fundraising lifts founder Liang’s fortune to $55 billion - PRESS Insider",
+        "DeepSeek's Liang Wenfeng cements place as world's richest AI model creator as fortune hits US$55b - The Standard (HK)",
+        "DeepSeek founder Liang Wenfeng’s wealth hits $55 billion after fresh funding | Business News - Hindustan Times"
       ]
     },
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-24-2000003404",
-      "rank": 4,
-      "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
-      "originalTitle": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
-      "summary": "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供する。",
+      "id": "ars-technica-ai-https-arstechnica-com-security-2026-11-amazon-says-hackers-ai-agents-found-and-explo",
+      "rank": 3,
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "originalTitle": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing frame",
       "points": [
-        "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian univer",
+        "The agents were running on Cairn, an open source AI penetration-testing framework.",
+        "The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a list of IP addresses and the goal: “"
       ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "ITmedia AI+",
+      "source": "Ars Technica",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-11-24T01:21:04.000Z",
-      "url": "https://itmedia.co.jp/aiplus/article/2611/24/2000003404",
+      "publishedAt": "2026-11-24T12:30:05.000Z",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
       "impactScore": 75,
       "impactLabel": "大",
       "verification": "信頼できる報道",
-      "relatedSources": [
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDR1N0FNcEROU0UtTkpvMUsyczBWMDZhVjhpOUJsY3JUTVBIMkp5ZWNMWjE1cU0yNzdPOWtzNTF2NDMybDZPX2xDdk9GUTNIWC1rZ0RQRGdEQ0xUc0l1ZE1SNmExV3VNeklEWTBDQ2NEQlZIQ2hUclJKZTBzX0hiNA?oc=5"
-        }
-      ],
+      "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDR1N0FNcEROU0UtTkpvMUsyczBWMDZhVjhpOUJsY3JUTVBIMkp5ZWNMWjE1cU0yNzdPOWtzNTF2NDMybDZPX2xDdk9GUTNIWC1rZ0RQRGdEQ0xUc0l1ZE1SNmExV3VNeklEWTBDQ2NEQlZIQ2hUclJKZTBzX0hiNA?oc=5",
-        "https://itmedia.co.jp/aiplus/article/2611/24/2000003404",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5teDh4Nmo4bWVPeU5fNmt4OExvTDFQTXYtTmQ5X0pLT3h5VDAzYVI4TnFabGQ5LXV3OEoweGV6SS10b0ZFeC1PUWZ3c3RSaWJJWFM1REJxRS0ybmVVdmlGYUVqMVB3V3Eza1NzZA?oc=5"
+        "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input"
       ],
       "eventTitles": [
-        "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開（画像）（2/2枚目） - ITmedia",
-        "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
-        "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開 - ITmedia"
+        "Amazon says hackers' AI agents found and exploited 0-day with little human input"
       ]
     },
     {
-      "id": "ars-technica-ai-https-arstechnica-com-tech-policy-2026-11-states-sue-spacex-to-stop-grok-from-genera",
-      "rank": 5,
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "originalTitle": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "summary": "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children. SpaceX acquired xAI in February and now must handle the ongoing reckoning over the controversi",
+      "id": "simon-willison-https-simonwillison-net-2026-Nov-24-llm-inflection-points-",
+      "rank": 4,
+      "title": "Three LLM inflection points in twelve months",
+      "originalTitle": "Three LLM inflection points in twelve months",
+      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In t",
       "points": [
-        "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children.",
-        "SpaceX acquired xAI in February and now must handle the ongoing reckoning over the controversial rollout of Grok’s “spicy mode”—a model feature Musk hyped but was soon fo",
-        "Initial safeguards were so lax that Grok sometimes generated nude images without being asked ."
+        "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abiliti",
+        "Here's the video of the talk.",
+        "In this post I'm going to pull out the major inflection point theme and interrogate it more deeply."
       ],
       "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Ars Technica",
+      "source": "Simon Willison",
       "sourceType": "media",
       "category": "モデル",
-      "publishedAt": "2026-11-23T21:30:44.000Z",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+      "publishedAt": "2026-11-24T23:02:07.000Z",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://simonwillison.net/2026/Nov/24/llm-inflection-points"
+      ],
+      "eventTitles": [
+        "Three LLM inflection points in twelve months"
+      ]
+    },
+    {
+      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-11-tidal-will-ban-fully-ai-generated-music-on-december",
+      "rank": 5,
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "originalTitle": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "summary": "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music becaus",
+      "points": [
+        "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them.",
+        "However, the company is about to take a harder stance.",
+        "Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Ars Technica",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-24T17:34:34.000Z",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
       "impactScore": 73,
       "impactLabel": "大",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn"
+        "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9"
       ],
       "eventTitles": [
-        "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
+        "Tidal announces ban on AI-generated music; 27 million tracks will be deleted"
       ]
     },
     {
-      "id": "openai-https-openai-com-index-introducing-shirudo",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3191956",
       "rank": 6,
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "originalTitle": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "originalTitle": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
       "points": [
-        "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.",
-        "It helps teams protect running systems while they roll out patches.",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-11-23T21:20:00.000Z",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "impactScore": 72,
-      "impactLabel": "大",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://openai.com/index/introducing-shirudo"
-      ],
-      "eventTitles": [
-        "OpenAI and Cisco introduce Shirudo"
-      ]
-    },
-    {
-      "id": "openai-https-openai-com-business-customer-stories-richpanel-ai-customer-support",
-      "rank": 7,
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "originalTitle": "Richpanel helps companies automate 50% of support in 30 days",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "points": [
-        "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "OpenAI",
-      "sourceType": "official",
-      "category": "モデル",
-      "publishedAt": "2026-11-23T08:00:00.000Z",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "impactScore": 71,
-      "impactLabel": "中",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "BigGo ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oVldTaVVzMTJja2N0TTRENHdkU00xWWZVMUYtdmxsWWtMMzZRRlZTOXlWWGhudG81ZFRGMFdxemxyMkdMQktvRTdUWTBnWkpKSWdlbVVuckFDUmt2dlVyUzJXczNvcWZORldtR0hZamNiRm5h?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oVldTaVVzMTJja2N0TTRENHdkU00xWWZVMUYtdmxsWWtMMzZRRlZTOXlWWGhudG81ZFRGMFdxemxyMkdMQktvRTdUWTBnWkpKSWdlbVVuckFDUmt2dlVyUzJXczNvcWZORldtR0hZamNiRm5h?oc=5",
-        "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
-      ],
-      "eventTitles": [
-        "Richpanel、30日以内にサポート業務の50%自動化を約束、OpenAIのGPT-6シリーズを採用 - BigGo ファイナンス",
-        "Richpanel helps companies automate 50% of support in 30 days"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-reviews-2026-11-review-the-asus-proart-p16-offers-a-glimpse-of",
-      "rank": 8,
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "originalTitle": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "summary": "Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense . Most of the AI pitches for laptops are little more than marketing hype, but the launch of Nvidia RTX Spark could bring a meaningful improvement in AI capa",
-      "points": [
-        "Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense .",
-        "Most of the AI pitches for laptops are little more than marketing hype, but the launch of Nvidia RTX Spark could bring a meaningful improvement in AI capabilities to the ",
-        "Asus has adopted Nvidia's new chip in its latest ProArt lineup, offering a staggering amount of memory to run local AI models."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Ars Technica",
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
       "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-23T12:00:00.000Z",
-      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai",
-      "impactScore": 70,
-      "impactLabel": "中",
+      "category": "安全性",
+      "publishedAt": "2026-11-24T18:02:59.000Z",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "impactScore": 72,
+      "impactLabel": "大",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai"
+        "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security"
       ],
       "eventTitles": [
-        "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI"
+        "UK warns AI-driven cyberattacks are exposing years of weak security"
       ]
     },
     {
-      "id": "google-deepmind-https-deepmind-google-blog-finding-faster-quantum-algorithms-with-agents-and-formal-",
-      "rank": 9,
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "originalTitle": "Finding faster quantum algorithms with agents and formal verification",
-      "summary": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms May 2025 Science Learn more",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3191770",
+      "rank": 7,
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "originalTitle": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
       "points": [
-        "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms May 2025 Science Learn more",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
-      "source": "Google DeepMind",
-      "sourceType": "official",
-      "category": "研究",
-      "publishedAt": "2026-11-23T16:59:40.000Z",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "impactScore": 68,
-      "impactLabel": "中",
-      "verification": "公式発表",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
-      ],
-      "eventTitles": [
-        "Finding faster quantum algorithms with agents and formal verification"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3191583",
-      "rank": 10,
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "originalTitle": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "points": [
-        "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -323,17 +246,120 @@
       "source": "TechCrunch",
       "sourceType": "media",
       "category": "プロダクト",
-      "publishedAt": "2026-11-23T22:05:50.000Z",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "impactScore": 66,
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEV1ek5iSmRIUkJhaEJsNEZRaGFNRVVsbHF3ajIyQ3BnRDFjR3FneEkzeldLOFBZSnhKZFdQTVBtUDBDc1E3TFkyUHVnQ2Z2Zi1IWTFJLUVaeGs4MDkydnhrejFNMk9BY3VWN2NDSFhLRGpHUGQ1X21kUElCMk1CZU1xYWo2MkhqVDNPZmVhalJfZmg2?oc=5"
+        },
+        {
+          "name": "innovaTopia",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaUNFTHpnTk50eW43UlFHbFAtSkJfNUxLM1Q0bzBqbFNINUVMRE91OHhyNGw4cjRsVnI4Q0d2WDFpSmUtTlpXU0xsY09NNnJuUTJ3?oc=5"
+        },
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW5DQVFzSnJiaExfLUVRbEZCMXN5UzNwc1YtTjFTZ211SU9ZUEpHUVBOU054U04xcXV5WHJrMmZWY0JyVFJTZmtjSlp3SndNeWpMVElnLW8teVRkTUZyQ3BFVDhnOUFfcnB2V1VtLW8wZTFGb0lOZEJYVUpCSTAtMlV3cEgyQkUtdWdITmtQNTdUWHI4VERZ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEV1ek5iSmRIUkJhaEJsNEZRaGFNRVVsbHF3ajIyQ3BnRDFjR3FneEkzeldLOFBZSnhKZFdQTVBtUDBDc1E3TFkyUHVnQ2Z2Zi1IWTFJLUVaeGs4MDkydnhrejFNMk9BY3VWN2NDSFhLRGpHUGQ1X21kUElCMk1CZU1xYWo2MkhqVDNPZmVhalJfZmg2?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaUNFTHpnTk50eW43UlFHbFAtSkJfNUxLM1Q0bzBqbFNINUVMRE91OHhyNGw4cjRsVnI4Q0d2WDFpSmUtTlpXU0xsY09NNnJuUTJ3?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW5DQVFzSnJiaExfLUVRbEZCMXN5UzNwc1YtTjFTZ211SU9ZUEpHUVBOU054U04xcXV5WHJrMmZWY0JyVFJTZmtjSlp3SndNeWpMVElnLW8teVRkTUZyQ3BFVDhnOUFfcnB2V1VtLW8wZTFGb0lOZEJYVUpCSTAtMlV3cEgyQkUtdWdITmtQNTdUWHI4VERZ?oc=5",
+        "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms"
+      ],
+      "eventTitles": [
+        "Meta、AIエージェント「Muse」活用でInstagramの広告事業をてこ入れ - 디지털투데이",
+        "Meta「Muse」がInstagramのDMに対応 直前にNebuSecが守りを破る研究を公表、修正済みと説明 - innovaTopia",
+        "Meta、保存コンテンツの計画立案に向けてInstagramのDMにMuse AIエージェントを追加 - Unite.AI",
+        "Meta brings its Muse AI assistant directly into Instagram DMs"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3192038",
+      "rank": 8,
+      "title": "Even the best AI agents struggle with everyday life",
+      "originalTitle": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "points": [
+        "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without ",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-24T21:33:29.000Z",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+      "impactScore": 71,
       "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"
+        "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life"
       ],
       "eventTitles": [
-        "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+        "Even the best AI agents struggle with everyday life"
+      ]
+    },
+    {
+      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1148091",
+      "rank": 9,
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "originalTitle": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network . Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an e",
+      "points": [
+        "Enterprise networks are under severe strain.",
+        "As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network .",
+        "Now, agentic AI is adding to the load."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "MIT Technology Review",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-24T15:15:16.000Z",
+      "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization"
+      ],
+      "eventTitles": [
+        "Raising the stakes for enterprise networks with AI modernization"
+      ]
+    },
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-team-alignment",
+      "rank": 10,
+      "title": "Alignment",
+      "originalTitle": "Alignment",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "points": [
+        "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "安全性",
+      "publishedAt": "2026-11-24T17:02:51.779Z",
+      "url": "https://anthropic.com/research/team/alignment",
+      "impactScore": 69,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://anthropic.com/research/team/alignment"
+      ],
+      "eventTitles": [
+        "Alignment"
       ]
     }
   ]
