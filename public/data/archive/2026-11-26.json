@@ -1,0 +1,380 @@
+{
+  "edition": "2026-11-26T06:30:00+09:00",
+  "generatedAt": "2026-11-26T03:43:01.257Z",
+  "periodStart": "2026-11-23T15:43:01.257Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 39,
+  "freshSources": 33,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 9,
+  "candidateCount": 896,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "anthropic-sitemap-https-anthropic-com-research-migrating-api-to-rust",
+      "rank": 1,
+      "title": "Migrating our Messages API to Rust",
+      "originalTitle": "Migrating our Messages API to Rust",
+      "summary": "How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions.",
+      "points": [
+        "How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "url": "https://anthropic.com/research/migrating-api-to-rust",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnBpcmk5ZTJtdm1hbjN6VVM4ZGt2ZjNiS25KcmJqNF8wV1QxVVhUd3dnSjl4V2dEd0kzTnRRSTlQLWJRYnRDUVFIdzlIVE0zT3V4a0NaZnRueG0wQTJUekFLcVpvZTJFM1Blam1KSEJlX0pleDBEaE9MRkt5OXNjRXdDRVdCQm50OGlQTW0yT2ZIVGs?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnBpcmk5ZTJtdm1hbjN6VVM4ZGt2ZjNiS25KcmJqNF8wV1QxVVhUd3dnSjl4V2dEd0kzTnRRSTlQLWJRYnRDUVFIdzlIVE0zT3V4a0NaZnRueG0wQTJUekFLcVpvZTJFM1Blam1KSEJlX0pleDBEaE9MRkt5OXNjRXdDRVdCQm50OGlQTW0yT2ZIVGs?oc=5",
+        "https://anthropic.com/research/migrating-api-to-rust"
+      ],
+      "eventTitles": [
+        "Anthropic、Claudeを活用したMessages APIのRust移行の詳細を公開 - Unite.AI",
+        "Migrating our Messages API to Rust"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-interpreting-mass-spectra-with-google-antigravity-",
+      "rank": 2,
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "originalTitle": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "points": [
+        "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-24T13:07:53.000Z",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ライブドアニュース",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaW5KNktsaFFwNkE0d0NKTlFVOWRDb2dIYnRYSTlrTEI0bEV0QzhCTF9hcEdWa1IyWlFEbGZIenlSV3RJblA4U29WVmRDUUozcFY5Qk5ZNWxVQmxyMUQw?oc=5"
+        },
+        {
+          "name": "OrcaRouter",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTV82bFJwcUx1bkN5QXNIR0VhQnZoZDRjQUFfeUduY1A3RDQyQjFJVV95MTlwRml4S1dyWDNST2dzeVM2MXltZFVfZkpYYTRWRzc2YTVWT1FmazVIM1c4Q0JQOGtTbnJkNVdKbXM2VFhtWW5LOGcw?oc=5"
+        },
+        {
+          "name": "HelenTech",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZSlE4SlNCaklScjFhbjM4bGhwZG9mVzZ2T3lGa0NIcDNxb0lib3NIcjR2c3NmNmtJX3BGcjBVQU9DQVFrNWtSSEdtaDAyUlFCOVNYa3k5bFBWY041Q3VSaTMxdTJ4d2RicnNZbTgzMnpTVWhkSVE?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaW5KNktsaFFwNkE0d0NKTlFVOWRDb2dIYnRYSTlrTEI0bEV0QzhCTF9hcEdWa1IyWlFEbGZIenlSV3RJblA4U29WVmRDUUozcFY5Qk5ZNWxVQmxyMUQw?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTV82bFJwcUx1bkN5QXNIR0VhQnZoZDRjQUFfeUduY1A3RDQyQjFJVV95MTlwRml4S1dyWDNST2dzeVM2MXltZFVfZkpYYTRWRzc2YTVWT1FmazVIM1c4Q0JQOGtTbnJkNVdKbXM2VFhtWW5LOGcw?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZSlE4SlNCaklScjFhbjM4bGhwZG9mVzZ2T3lGa0NIcDNxb0lib3NIcjR2c3NmNmtJX3BGcjBVQU9DQVFrNWtSSEdtaDAyUlFCOVNYa3k5bFBWY041Q3VSaTMxdTJ4d2RicnNZbTgzMnpTVWhkSVE?oc=5"
+      ],
+      "eventTitles": [
+        "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "GoogleのAIエージェント「Antigravity」が大型アップデートでClaude CodeやCodexに猛追！ ～使い方・注目の新機能・Gemini 4 Neonを使った活用事例 - ライブドアニュース",
+        "Google AI Pro の Gemini 4 Carbon：Antigravity 限定 - OrcaRouter",
+        "Google、Antigravity の Gemini 4 Carbon を Google AI Pro にも提供開始。クォータもリセット - HelenTech"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3192475",
+      "rank": 3,
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "originalTitle": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "points": [
+        "Most codes of conduct serve as a reflection of corporate culture.",
+        "In Nvidia's case, that could have consequences.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-25T19:54:57.000Z",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed"
+        },
+        {
+          "name": "联合早报",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjBrci11dkpvVjk4Z2YzTjBuaWZydDJRWE1mazl0aHNMUlhZYllwLTZuTE82MGZpZHlqZTF3MW1NOHgwQmhQenRWa0VRWGZVU3hNekZYV25FbHNna2NDaVBnTFV1Q2JYWWNzSmJhcG9Tem05dlJMWGhmREpkbXh1NHpnU1RiQlBYdUY5VDljaFlwUWRuOG9NeTVYby1RUTI0aXFZNWNCSVB3ekJwUE5z?oc=5"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://wired.com/story/jensen-huang-nvidia-us-national-security-risks"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+        "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjBrci11dkpvVjk4Z2YzTjBuaWZydDJRWE1mazl0aHNMUlhZYllwLTZuTE82MGZpZHlqZTF3MW1NOHgwQmhQenRWa0VRWGZVU3hNekZYV25FbHNna2NDaVBnTFV1Q2JYWWNzSmJhcG9Tem05dlJMWGhmREpkbXh1NHpnU1RiQlBYdUY5VDljaFlwUWRuOG9NeTVYby1RUTI0aXFZNWNCSVB3ekJwUE5z?oc=5",
+        "https://wired.com/story/jensen-huang-nvidia-us-national-security-risks",
+        "https://wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return",
+        "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back",
+        "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+        "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+        "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+        "https://wired.com/story/jensens-back-stocks-up-what-the-hell-sure",
+        "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
+        "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair"
+      ],
+      "eventTitles": [
+        "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "Jensen Huang’s return to Nvidia fuels US debate over open-weight AI policy - 联合早报",
+        "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+        "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+        "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+        "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+        "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+        "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+        "Jensen Huang reinstated as Nvidia CEO, board chair"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-the-economic-times-77f0551f4cd2d43b5f83",
+      "rank": 4,
+      "title": "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan - The Economic Times",
+      "originalTitle": "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan - The Economic Times",
+      "summary": "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan The Economic Times",
+      "points": [
+        "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan The Economic Times",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Economic Times",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-25T15:20:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeGl1aU50aE9NMVNOcDN2U2YtSmlVV3ZCX3lwOGc1X1U2ZGtvLW4zNklWM2kxc2tXM3RNVWx2d2dZZWI3QW9NWkRUNXdaZFpERHI4eEFiYkJyaVpfTVdkb01tNExkS2lZVWx2TnM4Vmtpcms4Q19ldUlxYTVNV3ZIbEtXaWFxZklaOFV3RzJHMTFCR2RPWTNNcFVfVjJTc3EycjJBZ1ZJNFotb2NBZVZITnFLNmhqeFlPUjVsaVhxbmVIcURFWXZjeGRES3liRVJYclFaWEIxajdxRjlVZFlxTHhiN0FzVVBMUm1JTnRQT3ozczRqR0xsb29Dem4wd9IBgwJBVV95cUxQc0RLa2pVOU9NZzVRZDNzeWs3VG5FczJULW11WU9HdE4xVkpMbC1rYXhFNXdpUlJBaGpleWcxWGVxWjM2RkpjZEt2X3FZaldkZ2ltcE9TV3RSUkd3LUh5X184Tk1VaEd1ODNVWEw5S2FoeGtJcW56SkUxbkE3SW4xeVlNZklONWp6Y1BDZ0M1eHFWS01ieHl5cUdFYTFsQ3d0QWM0TWhpV1RHS0lTeTNMTFV1eTBiUGctNHhGd2hlWW8xNkhaVFFiUHlyZnlWY3IyMkhzV2R2X2x5bTNWcGhFUFVLSUZydHZvcUwzSEs5RlNLQ3c0ZGdhUGNQdTJybDR2QWVv?oc=5",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QdIB2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeGl1aU50aE9NMVNOcDN2U2YtSmlVV3ZCX3lwOGc1X1U2ZGtvLW4zNklWM2kxc2tXM3RNVWx2d2dZZWI3QW9NWkRUNXdaZFpERHI4eEFiYkJyaVpfTVdkb01tNExkS2lZVWx2TnM4Vmtpcms4Q19ldUlxYTVNV3ZIbEtXaWFxZklaOFV3RzJHMTFCR2RPWTNNcFVfVjJTc3EycjJBZ1ZJNFotb2NBZVZITnFLNmhqeFlPUjVsaVhxbmVIcURFWXZjeGRES3liRVJYclFaWEIxajdxRjlVZFlxTHhiN0FzVVBMUm1JTnRQT3ozczRqR0xsb29Dem4wd9IBgwJBVV95cUxQc0RLa2pVOU9NZzVRZDNzeWs3VG5FczJULW11WU9HdE4xVkpMbC1rYXhFNXdpUlJBaGpleWcxWGVxWjM2RkpjZEt2X3FZaldkZ2ltcE9TV3RSUkd3LUh5X184Tk1VaEd1ODNVWEw5S2FoeGtJcW56SkUxbkE3SW4xeVlNZklONWp6Y1BDZ0M1eHFWS01ieHl5cUdFYTFsQ3d0QWM0TWhpV1RHS0lTeTNMTFV1eTBiUGctNHhGd2hlWW8xNkhaVFFiUHlyZnlWY3IyMkhzV2R2X2x5bTNWcGhFUFVLSUZydHZvcUwzSEs5RlNLQ3c0ZGdhUGNQdTJybDR2QWVv?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QdIB2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QQ?oc=5"
+      ],
+      "eventTitles": [
+        "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan - The Economic Times",
+        "AI regulation papers in final stages, to be released shortly: MeitY Secretary at Chariot-1 launch - The Tribune"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-26-2000003446",
+      "rank": 5,
+      "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "originalTitle": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "summary": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。",
+      "points": [
+        "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-26T01:00:00.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/26/2000003446",
+      "impactScore": 70,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/26/2000003446"
+      ],
+      "eventTitles": [
+        "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-26-2000003460",
+      "rank": 6,
+      "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+      "originalTitle": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+      "summary": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。",
+      "points": [
+        "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents?",
+        "An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/26/2000003460",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://itmedia.co.jp/news/article/2611/26/2000003460"
+      ],
+      "eventTitles": [
+        "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査"
+      ]
+    },
+    {
+      "id": "cloudflare-ai-01M87EHEACB4SNPV680X1CZPQ1",
+      "rank": 7,
+      "title": "Introducing Search for Agents",
+      "originalTitle": "Introducing Search for Agents",
+      "summary": "AI Search , our service that indexes your content and lets you add search to any application or agent without having to build an entire retrieval infrastructure, has supported adding your website as a data source for a while now, automatically crawling, conver",
+      "points": [
+        "AI Search , our service that indexes your content and lets you add search to any application or agent without having to build an entire retrieval infrastructure, has supp",
+        "Still, setting up an AI Search instance for your website requires manually creating and configuring it initially, and then doing all the integration work to get the searc",
+        "Today we&#x27;re introducing Search for Agents , which puts that setup behind a toggle in your Cloudflare dashboard."
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "Cloudflare AI",
+      "sourceType": "official",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "url": "https://blog.cloudflare.com/search-for-agents",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://blog.cloudflare.com/search-for-agents"
+      ],
+      "eventTitles": [
+        "Introducing Search for Agents"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3192506",
+      "rank": 8,
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "originalTitle": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "points": [
+        "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate thei",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "研究",
+      "publishedAt": "2026-11-25T19:44:24.000Z",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "impactScore": 65,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea",
+        "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd"
+      ],
+      "eventTitles": [
+        "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+        "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’"
+      ]
+    },
+    {
+      "id": "the-decoder-https-the-decoder-com-p-43312",
+      "rank": 9,
+      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "originalTitle": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 ",
+      "points": [
+        "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September.",
+        "The two sides are stuck on ad revenue and who gets to control search results.",
+        "That matters because Amazon's ad business generates $68.6 billion a year, and Muse already commands 51 percent of all agentic shopping orders."
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "The Decoder",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-25T16:44:37.000Z",
+      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store",
+      "impactScore": 64,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        }
+      ],
+      "eventUrls": [
+        "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store",
+        "https://theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+      ],
+      "eventTitles": [
+        "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+        "Amazon is reportedly in talks to end Muse AI shopping block"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3192412",
+      "rank": 10,
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "originalTitle": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "points": [
+        "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content ",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "安全性",
+      "publishedAt": "2026-11-25T18:11:46.000Z",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "impactScore": 63,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york"
+      ],
+      "eventTitles": [
+        "Want to buy your kid an AI toy this Christmas? Not in New York"
+      ]
+    }
+  ]
+}

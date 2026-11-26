@@ -1,27 +1,207 @@
 {
-  "edition": "2026-11-25T06:30:00+09:00",
-  "generatedAt": "2026-11-25T04:26:47.814Z",
-  "periodStart": "2026-11-22T16:26:47.814Z",
+  "edition": "2026-11-26T06:30:00+09:00",
+  "generatedAt": "2026-11-26T03:43:01.257Z",
+  "periodStart": "2026-11-23T15:43:01.257Z",
   "status": "live",
   "checkedSources": 43,
-  "successfulSources": 40,
-  "freshSources": 34,
+  "successfulSources": 39,
+  "freshSources": 33,
   "coreSources": 11,
   "coreSuccessfulSources": 11,
   "coreFreshSources": 9,
-  "candidateCount": 1198,
+  "candidateCount": 896,
   "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
   "repositoryUrl": "https://github.com/Takuya-ops/signal10",
   "enrichmentProvider": "feed-fallback",
   "stories": [
     {
-      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-25-2000003430",
+      "id": "anthropic-sitemap-https-anthropic-com-research-migrating-api-to-rust",
       "rank": 1,
-      "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
-      "originalTitle": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
-      "summary": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると、問題行動をほぼゼロに抑えられるという。",
+      "title": "Migrating our Messages API to Rust",
+      "originalTitle": "Migrating our Messages API to Rust",
+      "summary": "How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions.",
       "points": [
-        "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にとどまった。システムプロンプトでのルール明示や報告ツールなどの対策を組み合わせると、問題行動をほぼゼロ",
+        "How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "url": "https://anthropic.com/research/migrating-api-to-rust",
+      "impactScore": 80,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnBpcmk5ZTJtdm1hbjN6VVM4ZGt2ZjNiS25KcmJqNF8wV1QxVVhUd3dnSjl4V2dEd0kzTnRRSTlQLWJRYnRDUVFIdzlIVE0zT3V4a0NaZnRueG0wQTJUekFLcVpvZTJFM1Blam1KSEJlX0pleDBEaE9MRkt5OXNjRXdDRVdCQm50OGlQTW0yT2ZIVGs?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnBpcmk5ZTJtdm1hbjN6VVM4ZGt2ZjNiS25KcmJqNF8wV1QxVVhUd3dnSjl4V2dEd0kzTnRRSTlQLWJRYnRDUVFIdzlIVE0zT3V4a0NaZnRueG0wQTJUekFLcVpvZTJFM1Blam1KSEJlX0pleDBEaE9MRkt5OXNjRXdDRVdCQm50OGlQTW0yT2ZIVGs?oc=5",
+        "https://anthropic.com/research/migrating-api-to-rust"
+      ],
+      "eventTitles": [
+        "Anthropic、Claudeを活用したMessages APIのRust移行の詳細を公開 - Unite.AI",
+        "Migrating our Messages API to Rust"
+      ]
+    },
+    {
+      "id": "google-deepmind-https-deepmind-google-blog-interpreting-mass-spectra-with-google-antigravity-",
+      "rank": 2,
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "originalTitle": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "points": [
+        "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-24T13:07:53.000Z",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "impactScore": 74,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "ライブドアニュース",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaW5KNktsaFFwNkE0d0NKTlFVOWRDb2dIYnRYSTlrTEI0bEV0QzhCTF9hcEdWa1IyWlFEbGZIenlSV3RJblA4U29WVmRDUUozcFY5Qk5ZNWxVQmxyMUQw?oc=5"
+        },
+        {
+          "name": "OrcaRouter",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTV82bFJwcUx1bkN5QXNIR0VhQnZoZDRjQUFfeUduY1A3RDQyQjFJVV95MTlwRml4S1dyWDNST2dzeVM2MXltZFVfZkpYYTRWRzc2YTVWT1FmazVIM1c4Q0JQOGtTbnJkNVdKbXM2VFhtWW5LOGcw?oc=5"
+        },
+        {
+          "name": "HelenTech",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZSlE4SlNCaklScjFhbjM4bGhwZG9mVzZ2T3lGa0NIcDNxb0lib3NIcjR2c3NmNmtJX3BGcjBVQU9DQVFrNWtSSEdtaDAyUlFCOVNYa3k5bFBWY041Q3VSaTMxdTJ4d2RicnNZbTgzMnpTVWhkSVE?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaW5KNktsaFFwNkE0d0NKTlFVOWRDb2dIYnRYSTlrTEI0bEV0QzhCTF9hcEdWa1IyWlFEbGZIenlSV3RJblA4U29WVmRDUUozcFY5Qk5ZNWxVQmxyMUQw?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTV82bFJwcUx1bkN5QXNIR0VhQnZoZDRjQUFfeUduY1A3RDQyQjFJVV95MTlwRml4S1dyWDNST2dzeVM2MXltZFVfZkpYYTRWRzc2YTVWT1FmazVIM1c4Q0JQOGtTbnJkNVdKbXM2VFhtWW5LOGcw?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZSlE4SlNCaklScjFhbjM4bGhwZG9mVzZ2T3lGa0NIcDNxb0lib3NIcjR2c3NmNmtJX3BGcjBVQU9DQVFrNWtSSEdtaDAyUlFCOVNYa3k5bFBWY041Q3VSaTMxdTJ4d2RicnNZbTgzMnpTVWhkSVE?oc=5"
+      ],
+      "eventTitles": [
+        "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+        "GoogleのAIエージェント「Antigravity」が大型アップデートでClaude CodeやCodexに猛追！ ～使い方・注目の新機能・Gemini 4 Neonを使った活用事例 - ライブドアニュース",
+        "Google AI Pro の Gemini 4 Carbon：Antigravity 限定 - OrcaRouter",
+        "Google、Antigravity の Gemini 4 Carbon を Google AI Pro にも提供開始。クォータもリセット - HelenTech"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3192475",
+      "rank": 3,
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "originalTitle": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "points": [
+        "Most codes of conduct serve as a reflection of corporate culture.",
+        "In Nvidia's case, that could have consequences.",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-25T19:54:57.000Z",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed"
+        },
+        {
+          "name": "联合早报",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjBrci11dkpvVjk4Z2YzTjBuaWZydDJRWE1mazl0aHNMUlhZYllwLTZuTE82MGZpZHlqZTF3MW1NOHgwQmhQenRWa0VRWGZVU3hNekZYV25FbHNna2NDaVBnTFV1Q2JYWWNzSmJhcG9Tem05dlJMWGhmREpkbXh1NHpnU1RiQlBYdUY5VDljaFlwUWRuOG9NeTVYby1RUTI0aXFZNWNCSVB3ekJwUE5z?oc=5"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://wired.com/story/jensen-huang-nvidia-us-national-security-risks"
+        }
+      ],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+        "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjBrci11dkpvVjk4Z2YzTjBuaWZydDJRWE1mazl0aHNMUlhZYllwLTZuTE82MGZpZHlqZTF3MW1NOHgwQmhQenRWa0VRWGZVU3hNekZYV25FbHNna2NDaVBnTFV1Q2JYWWNzSmJhcG9Tem05dlJMWGhmREpkbXh1NHpnU1RiQlBYdUY5VDljaFlwUWRuOG9NeTVYby1RUTI0aXFZNWNCSVB3ekJwUE5z?oc=5",
+        "https://wired.com/story/jensen-huang-nvidia-us-national-security-risks",
+        "https://wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return",
+        "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back",
+        "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+        "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+        "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+        "https://wired.com/story/jensens-back-stocks-up-what-the-hell-sure",
+        "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
+        "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair"
+      ],
+      "eventTitles": [
+        "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "Jensen Huang’s return to Nvidia fuels US debate over open-weight AI policy - 联合早报",
+        "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+        "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+        "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+        "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+        "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+        "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+        "Jensen Huang reinstated as Nvidia CEO, board chair"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-the-economic-times-77f0551f4cd2d43b5f83",
+      "rank": 4,
+      "title": "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan - The Economic Times",
+      "originalTitle": "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan - The Economic Times",
+      "summary": "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan The Economic Times",
+      "points": [
+        "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan The Economic Times",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "The Economic Times",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-25T15:20:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeGl1aU50aE9NMVNOcDN2U2YtSmlVV3ZCX3lwOGc1X1U2ZGtvLW4zNklWM2kxc2tXM3RNVWx2d2dZZWI3QW9NWkRUNXdaZFpERHI4eEFiYkJyaVpfTVdkb01tNExkS2lZVWx2TnM4Vmtpcms4Q19ldUlxYTVNV3ZIbEtXaWFxZklaOFV3RzJHMTFCR2RPWTNNcFVfVjJTc3EycjJBZ1ZJNFotb2NBZVZITnFLNmhqeFlPUjVsaVhxbmVIcURFWXZjeGRES3liRVJYclFaWEIxajdxRjlVZFlxTHhiN0FzVVBMUm1JTnRQT3ozczRqR0xsb29Dem4wd9IBgwJBVV95cUxQc0RLa2pVOU9NZzVRZDNzeWs3VG5FczJULW11WU9HdE4xVkpMbC1rYXhFNXdpUlJBaGpleWcxWGVxWjM2RkpjZEt2X3FZaldkZ2ltcE9TV3RSUkd3LUh5X184Tk1VaEd1ODNVWEw5S2FoeGtJcW56SkUxbkE3SW4xeVlNZklONWp6Y1BDZ0M1eHFWS01ieHl5cUdFYTFsQ3d0QWM0TWhpV1RHS0lTeTNMTFV1eTBiUGctNHhGd2hlWW8xNkhaVFFiUHlyZnlWY3IyMkhzV2R2X2x5bTNWcGhFUFVLSUZydHZvcUwzSEs5RlNLQ3c0ZGdhUGNQdTJybDR2QWVv?oc=5",
+      "impactScore": 72,
+      "impactLabel": "大",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QdIB2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QQ?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeGl1aU50aE9NMVNOcDN2U2YtSmlVV3ZCX3lwOGc1X1U2ZGtvLW4zNklWM2kxc2tXM3RNVWx2d2dZZWI3QW9NWkRUNXdaZFpERHI4eEFiYkJyaVpfTVdkb01tNExkS2lZVWx2TnM4Vmtpcms4Q19ldUlxYTVNV3ZIbEtXaWFxZklaOFV3RzJHMTFCR2RPWTNNcFVfVjJTc3EycjJBZ1ZJNFotb2NBZVZITnFLNmhqeFlPUjVsaVhxbmVIcURFWXZjeGRES3liRVJYclFaWEIxajdxRjlVZFlxTHhiN0FzVVBMUm1JTnRQT3ozczRqR0xsb29Dem4wd9IBgwJBVV95cUxQc0RLa2pVOU9NZzVRZDNzeWs3VG5FczJULW11WU9HdE4xVkpMbC1rYXhFNXdpUlJBaGpleWcxWGVxWjM2RkpjZEt2X3FZaldkZ2ltcE9TV3RSUkd3LUh5X184Tk1VaEd1ODNVWEw5S2FoeGtJcW56SkUxbkE3SW4xeVlNZklONWp6Y1BDZ0M1eHFWS01ieHl5cUdFYTFsQ3d0QWM0TWhpV1RHS0lTeTNMTFV1eTBiUGctNHhGd2hlWW8xNkhaVFFiUHlyZnlWY3IyMkhzV2R2X2x5bTNWcGhFUFVLSUZydHZvcUwzSEs5RlNLQ3c0ZGdhUGNQdTJybDR2QWVv?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QdIB2gFBVV95cUxOcS1HVndxZHJWdTVnamFBc2ZXMVBnSlU2V2tLclZyS3AxbEp1aHFCUkxKbC02QkpnU0hxaHZ5VzZwOXViUjVHcEUwSFdyWk9NUlRudUE0XzVBMDQ3TmVhWW1NeGZsRUdqWGZaZ3RWTEIzeWNmY0ZfY1p3LTI5LWtNZ1ByaTlXTzlualZjMi1zb0hHbEwwUUVFcGJmd0JyMVdGazlwUmhMbnRXSmdpa0xCck9FSmhsUkl2NDhmTG5UbTYyQW4xUFFPOVQ2Nm9Zd0VHeDNmdkxlMFZ6QQ?oc=5"
+      ],
+      "eventTitles": [
+        "AI regulation papers in final stages, to be released shortly: MeitY secretary S Krishnan - The Economic Times",
+        "AI regulation papers in final stages, to be released shortly: MeitY Secretary at Chariot-1 launch - The Tribune"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-26-2000003446",
+      "rank": 5,
+      "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "originalTitle": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "summary": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。",
+      "points": [
+        "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -29,263 +209,83 @@
       "source": "ITmedia AI+",
       "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-11-24T22:41:42.000Z",
-      "url": "https://itmedia.co.jp/news/article/2611/25/2000003430",
-      "impactScore": 84,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DaHdOejJmYmdpWGhaVmMteWllWTBzX2ZkMHhvLVR5Q0VnYTV1ek15RVk0M01GR2JOV3kxSXo2OFZ2b2M1VWlrWW10LXJCUDlVRzQzRUd3bEJOb3VaUEd2N001aFVpWjZlYXBMVG01R1hsQU1BNDF3aVhvajRzOXM?oc=5"
-        },
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uTktTbXZ4TkJDME1KZkVTdmk1aE93VFJsbWVrX3E0cEFIQkdaRUlWem4xb2FTZnZMTkk3VVdEa1Y0dGJ2Z3lpNDd1aWE1V3V3cjNPRzlFdlgzQmo0MWo2QkNEWG51bWNPVFRwdUoteFZaMXpvU2ZaYmxuS0I2Zw?oc=5"
-        },
-        {
-          "name": "ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rS296Nm9MOE40NXZkbXNTUFpRd1NldkhKb3VPNzFjd19EcUdKZW52bmR6Zy1iWTF0cnZ6OS1Oc18ycjkyU20xX2lUZWdvTlI5V0pNQWQtdWFrbFFHNVNCSm5ES1gwenVwb0E?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DaHdOejJmYmdpWGhaVmMteWllWTBzX2ZkMHhvLVR5Q0VnYTV1ek15RVk0M01GR2JOV3kxSXo2OFZ2b2M1VWlrWW10LXJCUDlVRzQzRUd3bEJOb3VaUEd2N001aFVpWjZlYXBMVG01R1hsQU1BNDF3aVhvajRzOXM?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uTktTbXZ4TkJDME1KZkVTdmk1aE93VFJsbWVrX3E0cEFIQkdaRUlWem4xb2FTZnZMTkk3VVdEa1Y0dGJ2Z3lpNDd1aWE1V3V3cjNPRzlFdlgzQmo0MWo2QkNEWG51bWNPVFRwdUoteFZaMXpvU2ZaYmxuS0I2Zw?oc=5",
-        "https://itmedia.co.jp/news/article/2611/25/2000003430",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rS296Nm9MOE40NXZkbXNTUFpRd1NldkhKb3VPNzFjd19EcUdKZW52bmR6Zy1iWTF0cnZ6OS1Oc18ycjkyU20xX2lUZWdvTlI5V0pNQWQtdWFrbFFHNVNCSm5ES1gwenVwb0E?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjNVbEw5X3VvZWJhbGJRTzctWk95cGUyZWo0RjZPVElWRmNiVEMzSWk1blBoUXhKa3V4OTg0SlZPMlRhX05TYXlydXZnaXZBbnk5TGJKUFNWSnNWbjFGeFJUU3JJb0pxVVU3c3hHMDNrc1FVU0FYY0JBVURjMWkwZ1Z2eEUyRF9EZER1X1ZZME55cm1B?oc=5"
-      ],
-      "eventTitles": [
-        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表（ITmedia NEWS） - Yahoo!ニュース",
-        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表（画像）（1/2枚目） - ITmedia",
-        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
-        "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表 - ITmedia",
-        "Anthropicの「Siren Test」、AIエージェントをサンドボックスのルール破りへ誘う - Mezha.net"
-      ]
-    },
-    {
-      "id": "google-news-asia-models-vnexpress-international-ca11adc371b2c90aa540",
-      "rank": 2,
-      "title": "DeepSeek founder Liang Wenfeng’s fortune surges to $55B - VnExpress International",
-      "originalTitle": "DeepSeek founder Liang Wenfeng’s fortune surges to $55B - VnExpress International",
-      "summary": "DeepSeek founder Liang Wenfeng’s fortune surges to $55B VnExpress International",
-      "points": [
-        "DeepSeek founder Liang Wenfeng’s fortune surges to $55B VnExpress International",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "VnExpress International",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-11-25T03:51:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHBrZGtkQ050Zm83OTVvbGszOXYzMjZYRjB1bFJ0UTRnVGtaMVJZN0pMNjlWUVUtWEw0em1zZ3NHVVd1R1NuRjRzR09qY3g3bDJmRy1VSzlxY1g0NkdQd2UyTDNESV9Sa2NZQk1GRmdxaWMyQWktR1I3a3ZpNnkwLVVRVjJra3JCV2I4cTdYVS1GbldHVmlwRDRuQ05nTmtNa0Z3TGp1bXFlbUt6bnVKZUlWdUpuZw?oc=5",
-      "impactScore": 76,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "Billionaires.Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzdud0NQYWFmRzdWTlZBcURzTFFjV2JCUG9YNmNRd3pvd1N6Ui1UOHI2WnBwZ0ttZGtfcWxFd09BR09PUzZPUV9kczEtb2R5TnhxemdiTVhCY2R4SmhRU2FPVDY5NnVabnRHdkxnUTY3NGl5eHVIZFVLbC02S1luMXZhMDNvT20ta3NNMDJoMURDZnFLV0JDbzQwLVRGdXlOSUROWVU0VU14TVJGRC1tclZhWTh3c1luc3dYUmdHSl9zNzZxUWRGb0EycVVoM3hn?oc=5"
-        },
-        {
-          "name": "News Karnataka",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnBTTTM1dTdYcF8wbHJoSnh0X0NUY3JyN0NkSmVzaTFBeENmZi1SQ3ozSTFZckRYSnhiRXhCUUlwdjhkUGJNVmtrT3FncFdaNFJQeHMyWnVQSFh5akpSS3FKekRMQ01YZFkwdjZ5MmZSRVlWM3lrY3k3Q1k3RjdwckFuZkk0Smd3eDF6SkVJQTFJdDJ0T0MwZ2xESnM?oc=5"
-        },
-        {
-          "name": "Firstpost",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW9XeFU3ZnhIWHdHSlZTUUxtTjBVc3docExDandZaGxVaUs4OElXVW1tQmxlaTFhOUx4d0RWcTNIX1gwaWt2ME9xcXZYVTA1TWNlaGQ3Sl9LQ0k5S2l6SUNlWWVqMW5PMXBMUWNNY1YzdW8yZkNLNHY5V3M0enBwYzY4cm1BZHdjcHdoeWtDeS1XbHFhZEZycVI3eDdjV3NtNm90UnFWQzA2MlRra2wwVUlkMFFDNUFYV0pNZnJTVUVqeURtdUt1U2dfQlVSZE5fRzZfTHZDZ2p2SFnSAdsBQVVfeXFMT3VvV3hVN2Z4SFh3R0pWU1FMbU4wVXN3aHBMQ2p3WWhsVWlLODhJV1VtbUJsZWkxYTlMeHdEVnEzSF9YMGlrdjBPcXF2WFUwNU1jZWhkN0pfS0NJOUtpeklDZVllajFuTzFwTFFjTWNWM3VvMmZDSzR2OVdzNHpwcGM2OHJtQWR3Y3B3aHlrQ3ktV2xxYWRGcnFSN3g3Y1dzbTZvdFJxVkMwNjJUa2tsMFVJZDBRQzVBWFdKTWZyU1VFanlEbXVLdVNnX0JVUmROX0c2X0x2Q2dqdkhZ?oc=5"
-        }
-      ],
-      "eventUrls": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHBrZGtkQ050Zm83OTVvbGszOXYzMjZYRjB1bFJ0UTRnVGtaMVJZN0pMNjlWUVUtWEw0em1zZ3NHVVd1R1NuRjRzR09qY3g3bDJmRy1VSzlxY1g0NkdQd2UyTDNESV9Sa2NZQk1GRmdxaWMyQWktR1I3a3ZpNnkwLVVRVjJra3JCV2I4cTdYVS1GbldHVmlwRDRuQ05nTmtNa0Z3TGp1bXFlbUt6bnVKZUlWdUpuZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzdud0NQYWFmRzdWTlZBcURzTFFjV2JCUG9YNmNRd3pvd1N6Ui1UOHI2WnBwZ0ttZGtfcWxFd09BR09PUzZPUV9kczEtb2R5TnhxemdiTVhCY2R4SmhRU2FPVDY5NnVabnRHdkxnUTY3NGl5eHVIZFVLbC02S1luMXZhMDNvT20ta3NNMDJoMURDZnFLV0JDbzQwLVRGdXlOSUROWVU0VU14TVJGRC1tclZhWTh3c1luc3dYUmdHSl9zNzZxUWRGb0EycVVoM3hn?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnBTTTM1dTdYcF8wbHJoSnh0X0NUY3JyN0NkSmVzaTFBeENmZi1SQ3ozSTFZckRYSnhiRXhCUUlwdjhkUGJNVmtrT3FncFdaNFJQeHMyWnVQSFh5akpSS3FKekRMQ01YZFkwdjZ5MmZSRVlWM3lrY3k3Q1k3RjdwckFuZkk0Smd3eDF6SkVJQTFJdDJ0T0MwZ2xESnM?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW9XeFU3ZnhIWHdHSlZTUUxtTjBVc3docExDandZaGxVaUs4OElXVW1tQmxlaTFhOUx4d0RWcTNIX1gwaWt2ME9xcXZYVTA1TWNlaGQ3Sl9LQ0k5S2l6SUNlWWVqMW5PMXBMUWNNY1YzdW8yZkNLNHY5V3M0enBwYzY4cm1BZHdjcHdoeWtDeS1XbHFhZEZycVI3eDdjV3NtNm90UnFWQzA2MlRra2wwVUlkMFFDNUFYV0pNZnJTVUVqeURtdUt1U2dfQlVSZE5fRzZfTHZDZ2p2SFnSAdsBQVVfeXFMT3VvV3hVN2Z4SFh3R0pWU1FMbU4wVXN3aHBMQ2p3WWhsVWlLODhJV1VtbUJsZWkxYTlMeHdEVnEzSF9YMGlrdjBPcXF2WFUwNU1jZWhkN0pfS0NJOUtpeklDZVllajFuTzFwTFFjTWNWM3VvMmZDSzR2OVdzNHpwcGM2OHJtQWR3Y3B3aHlrQ3ktV2xxYWRGcnFSN3g3Y1dzbTZvdFJxVkMwNjJUa2tsMFVJZDBRQzVBWFdKTWZyU1VFanlEbXVLdVNnX0JVUmROX0c2X0x2Q2dqdkhZ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEV3MWNLT01SNlo2dmRnd0tIX19fMEJvdGhCQmZHaE40eGZhU3Nta3hrTDN5YnZieHpSVWFiZGhoVzBzbVIyOURDcEhtT3NzVWFkN1c2U09oaFdobzNnOFJuNTBxdjVhMFB2WFctaXh1eEQxM29BZS1zUmNQeW1qc3hHeHctN2p4QUlPaTZHSGVSQ0Y1VVlWdWhzMDFFMDMtS21wRDdwMnNtZjllQmlMeXhDRF9NVUZ4N2FUUFllZk5ISXRyVWR0TmVjTEgtM3RoeGpjMjFn0gHbAUFVX3lxTE91b1d4VTdmeEhYd0dKVlNRTG1OMFVzd2hwTENqd1lobFVpSzg4SVdVbW1CbGVpMWE5THh3RFZxM0hfWDBpa3YwT3FxdlhVMDVNY2VoZDdKX0tDSTlLaXpJQ2VZZWoxbk8xcExRY01jVjN1bzJmQ0s0djlXczR6cHBjNjhybUFkd2Nwd2h5a0N5LVdscWFkRnJxUjd4N2NXc202b3RScVZDMDYyVGtrbDBVSWQwUUM1QVhXSk1mclNVRWp5RG11S3VTZ19CVVJkTl9HNl9MdkNnanZIWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjJFWUNKX3pralZSNG5jMW1EalpSaDFNRVowSmlrR1RsNWpEVjFjN040dHJpT3RCeVdReUFEYWQ2Ympmd2Z6aEx5d3QyQlZKcFoyRmdnbXBTdnBzRmE0a1ExSjRvSURrckxTOW8xX0RoenpqUksyRXlwaEs5dTNFVVdR?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMkk3eTlacHlYdnNqeHFxb2NYcEFzRFNtWHhDeHFidHZ2TzY2Z2tFZnhnd042UnE4MUc1OEVhTmFTQTFWSzFORW1tNGJjelltUm9qbE1hZHd3SU4zUDFYdnU2Z05nWnVKeXVMam1LNU9vMld6NlI5UVlHUzJ1Ti05U1p4b1daelhfQnkxMERtRExWSkRBVVF1d01sMURmaVAxWjRraE1yRW1nSU1tQVpSVGltZVh3d0p3cllfOHhrcTExZ2RuZDl4OHlHUkJsVjFIbThPMW9VRVZmM1FkbE5WQjln?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjljMWloSEl1aG1UU1JtX1d4NXZrcmdfbF80azY5WnlENHU3ZnFBRzYwRUFNZVFubnJjZTdNZlNuV2Q3VnZLWlNfWU5nQVIzSzRDa1pwZzBIeXpkMmJsQmFKY0pMdldHSHQ0RTlVQW5HRkgzZUVzVVhIeVBBUDJTOHB3dGhPUF9jdzhvODBRdTN5Qno4cWs0SFVxa3IyVDhJRkdfU0JEcXhhdmFySU40RVF5cUFZZHZQV200STJQY1cyVFhaNkRVRmdmS1ZWMUVVQlHSAdcBQVVfeXFMT1l4WVdpY01oWVl3SVRDUEVMVWR2LVRDMk9LWjVJTS1GcG95U3lETGxwRWlGX0haRU5KOWQzNFpra0JCZVdfbHJCc1ozLW55RG44eEpSMHk4UjZqdmJ3djhwMGY4X2tweHZxTE5GX3BvakRHWElhQjd4R3dkVVRyOTVYZTJ1RkRKYnJ1VkZuUzg2LTR0c1RCdWNyZVVrNGxHYnlVdGd2SmQ2UnJ5VnY0OVhlTEZvUkF0V1FuTkVIdzFJeldUajVqV0tVV1pzOXIzaklXYy11Z3c?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWXhZV2ljTWhZWXdJVENQRUxVZHYtVEMyT0taNUlNLUZwb3lTeURMbHBFaUZfSFpFTko5ZDM0WmtrQkJlV19sckJzWjMtbnlEbjh4SlIweThSNmp2Ynd2OHAwZjhfa3B4dnFMTkZfcG9qREdYSWFCN3hHd2RVVHI5NVhlMnVGREpicnVWRm5TODYtNHRzVEJ1Y3JlVWs0bEdieVV0Z3ZKZDZScnlWdjQ5WGVMRm9SQXRXUW5ORUh3MUl6V1RqNWpXS1VXWnM5cjNqSVdjLXVnd9IB1wFBVV95cUxPWXhZV2ljTWhZWXdJVENQRUxVZHYtVEMyT0taNUlNLUZwb3lTeURMbHBFaUZfSFpFTko5ZDM0WmtrQkJlV19sckJzWjMtbnlEbjh4SlIweThSNmp2Ynd2OHAwZjhfa3B4dnFMTkZfcG9qREdYSWFCN3hHd2RVVHI5NVhlMnVGREpicnVWRm5TODYtNHRzVEJ1Y3JlVWs0bEdieVV0Z3ZKZDZScnlWdjQ5WGVMRm9SQXRXUW5ORUh3MUl6V1RqNWpXS1VXWnM5cjNqSVdjLXVndw?oc=5"
-      ],
-      "eventTitles": [
-        "DeepSeek founder Liang Wenfeng’s fortune surges to $55B - VnExpress International",
-        "Chinese billionaire Liang Wenfeng's fortune hits $55 billion after DeepSeek raises $15 billion - Billionaires.Africa",
-        "DeepSeek founder Liang Wenfeng’s wealth hits $55 billion - News Karnataka",
-        "DeepSeek founder Liang Wenfeng becomes world's richest AI model creator with $55 billion fortune - Firstpost",
-        "DeepSeek founder Liang Wenfeng overtakes AI pioneers to become world's richest AI model creator with $55 bi... - Firstpost",
-        "DeepSeek fundraising lifts founder Liang’s fortune to $55 billion - PRESS Insider",
-        "DeepSeek's Liang Wenfeng cements place as world's richest AI model creator as fortune hits US$55b - The Standard (HK)",
-        "DeepSeek founder Liang Wenfeng’s wealth hits $55 billion after fresh funding | Business News - Hindustan Times"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-security-2026-11-amazon-says-hackers-ai-agents-found-and-explo",
-      "rank": 3,
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "originalTitle": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "summary": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing frame",
-      "points": [
-        "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian univer",
-        "The agents were running on Cairn, an open source AI penetration-testing framework.",
-        "The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a list of IP addresses and the goal: “"
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-24T12:30:05.000Z",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-      "impactScore": 75,
-      "impactLabel": "大",
+      "publishedAt": "2026-11-26T01:00:00.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/26/2000003446",
+      "impactScore": 70,
+      "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input"
+        "https://itmedia.co.jp/news/article/2611/26/2000003446"
       ],
       "eventTitles": [
-        "Amazon says hackers' AI agents found and exploited 0-day with little human input"
+        "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変"
       ]
     },
     {
-      "id": "simon-willison-https-simonwillison-net-2026-Nov-24-llm-inflection-points-",
-      "rank": 4,
-      "title": "Three LLM inflection points in twelve months",
-      "originalTitle": "Three LLM inflection points in twelve months",
-      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In t",
-      "points": [
-        "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abiliti",
-        "Here's the video of the talk.",
-        "In this post I'm going to pull out the major inflection point theme and interrogate it more deeply."
-      ],
-      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
-      "source": "Simon Willison",
-      "sourceType": "media",
-      "category": "モデル",
-      "publishedAt": "2026-11-24T23:02:07.000Z",
-      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
-      "impactScore": 74,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://simonwillison.net/2026/Nov/24/llm-inflection-points"
-      ],
-      "eventTitles": [
-        "Three LLM inflection points in twelve months"
-      ]
-    },
-    {
-      "id": "ars-technica-ai-https-arstechnica-com-ai-2026-11-tidal-will-ban-fully-ai-generated-music-on-december",
-      "rank": 5,
-      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "originalTitle": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "summary": "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music becaus",
-      "points": [
-        "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them.",
-        "However, the company is about to take a harder stance.",
-        "Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists."
-      ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "Ars Technica",
-      "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-24T17:34:34.000Z",
-      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
-      "impactScore": 73,
-      "impactLabel": "大",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
-      "eventUrls": [
-        "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9"
-      ],
-      "eventTitles": [
-        "Tidal announces ban on AI-generated music; 27 million tracks will be deleted"
-      ]
-    },
-    {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3191956",
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-news-article-2611-26-2000003460",
       "rank": 6,
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "originalTitle": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+      "originalTitle": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+      "summary": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。",
       "points": [
-        "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents?",
+        "An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
-      "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "TechCrunch",
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "ITmedia AI+",
       "sourceType": "media",
-      "category": "安全性",
-      "publishedAt": "2026-11-24T18:02:59.000Z",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
-      "impactScore": 72,
-      "impactLabel": "大",
+      "category": "研究",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "url": "https://itmedia.co.jp/news/article/2611/26/2000003460",
+      "impactScore": 67,
+      "impactLabel": "中",
       "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security"
+        "https://itmedia.co.jp/news/article/2611/26/2000003460"
       ],
       "eventTitles": [
-        "UK warns AI-driven cyberattacks are exposing years of weak security"
+        "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3191770",
+      "id": "cloudflare-ai-01M87EHEACB4SNPV680X1CZPQ1",
       "rank": 7,
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "originalTitle": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "title": "Introducing Search for Agents",
+      "originalTitle": "Introducing Search for Agents",
+      "summary": "AI Search , our service that indexes your content and lets you add search to any application or agent without having to build an entire retrieval infrastructure, has supported adding your website as a data source for a while now, automatically crawling, conver",
       "points": [
-        "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
-        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+        "AI Search , our service that indexes your content and lets you add search to any application or agent without having to build an entire retrieval infrastructure, has supp",
+        "Still, setting up an AI Search instance for your website requires manually creating and configuring it initially, and then doing all the integration work to get the searc",
+        "Today we&#x27;re introducing Search for Agents , which puts that setup behind a toggle in your Cloudflare dashboard."
       ],
       "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "TechCrunch",
-      "sourceType": "media",
+      "source": "Cloudflare AI",
+      "sourceType": "official",
       "category": "プロダクト",
-      "publishedAt": "2026-11-24T17:00:00.000Z",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
-      "impactScore": 72,
-      "impactLabel": "大",
-      "verification": "複数ソース",
-      "relatedSources": [
-        {
-          "name": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEV1ek5iSmRIUkJhaEJsNEZRaGFNRVVsbHF3ajIyQ3BnRDFjR3FneEkzeldLOFBZSnhKZFdQTVBtUDBDc1E3TFkyUHVnQ2Z2Zi1IWTFJLUVaeGs4MDkydnhrejFNMk9BY3VWN2NDSFhLRGpHUGQ1X21kUElCMk1CZU1xYWo2MkhqVDNPZmVhalJfZmg2?oc=5"
-        },
-        {
-          "name": "innovaTopia",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaUNFTHpnTk50eW43UlFHbFAtSkJfNUxLM1Q0bzBqbFNINUVMRE91OHhyNGw4cjRsVnI4Q0d2WDFpSmUtTlpXU0xsY09NNnJuUTJ3?oc=5"
-        },
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW5DQVFzSnJiaExfLUVRbEZCMXN5UzNwc1YtTjFTZ211SU9ZUEpHUVBOU054U04xcXV5WHJrMmZWY0JyVFJTZmtjSlp3SndNeWpMVElnLW8teVRkTUZyQ3BFVDhnOUFfcnB2V1VtLW8wZTFGb0lOZEJYVUpCSTAtMlV3cEgyQkUtdWdITmtQNTdUWHI4VERZ?oc=5"
-        }
-      ],
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "url": "https://blog.cloudflare.com/search-for-agents",
+      "impactScore": 67,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
       "eventUrls": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEV1ek5iSmRIUkJhaEJsNEZRaGFNRVVsbHF3ajIyQ3BnRDFjR3FneEkzeldLOFBZSnhKZFdQTVBtUDBDc1E3TFkyUHVnQ2Z2Zi1IWTFJLUVaeGs4MDkydnhrejFNMk9BY3VWN2NDSFhLRGpHUGQ1X21kUElCMk1CZU1xYWo2MkhqVDNPZmVhalJfZmg2?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xaUNFTHpnTk50eW43UlFHbFAtSkJfNUxLM1Q0bzBqbFNINUVMRE91OHhyNGw4cjRsVnI4Q0d2WDFpSmUtTlpXU0xsY09NNnJuUTJ3?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW5DQVFzSnJiaExfLUVRbEZCMXN5UzNwc1YtTjFTZ211SU9ZUEpHUVBOU054U04xcXV5WHJrMmZWY0JyVFJTZmtjSlp3SndNeWpMVElnLW8teVRkTUZyQ3BFVDhnOUFfcnB2V1VtLW8wZTFGb0lOZEJYVUpCSTAtMlV3cEgyQkUtdWdITmtQNTdUWHI4VERZ?oc=5",
-        "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms"
+        "https://blog.cloudflare.com/search-for-agents"
       ],
       "eventTitles": [
-        "Meta、AIエージェント「Muse」活用でInstagramの広告事業をてこ入れ - 디지털투데이",
-        "Meta「Muse」がInstagramのDMに対応 直前にNebuSecが守りを破る研究を公表、修正済みと説明 - innovaTopia",
-        "Meta、保存コンテンツの計画立案に向けてInstagramのDMにMuse AIエージェントを追加 - Unite.AI",
-        "Meta brings its Muse AI assistant directly into Instagram DMs"
+        "Introducing Search for Agents"
       ]
     },
     {
-      "id": "techcrunch-ai-https-techcrunch-com-p-3192038",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3192506",
       "rank": 8,
-      "title": "Even the best AI agents struggle with everyday life",
-      "originalTitle": "Even the best AI agents struggle with everyday life",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "originalTitle": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "points": [
-        "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without ",
+        "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate thei",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
@@ -293,73 +293,87 @@
       "source": "TechCrunch",
       "sourceType": "media",
       "category": "研究",
-      "publishedAt": "2026-11-24T21:33:29.000Z",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
-      "impactScore": 71,
+      "publishedAt": "2026-11-25T19:44:24.000Z",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "impactScore": 65,
       "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea"
+        }
+      ],
       "eventUrls": [
-        "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life"
+        "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea",
+        "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd"
       ],
       "eventTitles": [
-        "Even the best AI agents struggle with everyday life"
+        "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+        "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’"
       ]
     },
     {
-      "id": "mit-tech-review-ai-https-www-technologyreview-com-p-1148091",
+      "id": "the-decoder-https-the-decoder-com-p-43312",
       "rank": 9,
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "originalTitle": "Raising the stakes for enterprise networks with AI modernization",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network . Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an e",
+      "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "originalTitle": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 ",
       "points": [
-        "Enterprise networks are under severe strain.",
-        "As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network .",
-        "Now, agentic AI is adding to the load."
+        "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September.",
+        "The two sides are stuck on ad revenue and who gets to control search results.",
+        "That matters because Amazon's ad business generates $68.6 billion a year, and Muse already commands 51 percent of all agentic shopping orders."
       ],
-      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
-      "source": "MIT Technology Review",
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "The Decoder",
       "sourceType": "media",
-      "category": "プロダクト",
-      "publishedAt": "2026-11-24T15:15:16.000Z",
-      "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
-      "impactScore": 70,
+      "category": "ビジネス",
+      "publishedAt": "2026-11-25T16:44:37.000Z",
+      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store",
+      "impactScore": 64,
       "impactLabel": "中",
-      "verification": "信頼できる報道",
-      "relatedSources": [],
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "The Verge",
+          "url": "https://theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        }
+      ],
       "eventUrls": [
-        "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization"
+        "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store",
+        "https://theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
       ],
       "eventTitles": [
-        "Raising the stakes for enterprise networks with AI modernization"
+        "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+        "Amazon is reportedly in talks to end Muse AI shopping block"
       ]
     },
     {
-      "id": "anthropic-sitemap-https-anthropic-com-research-team-alignment",
+      "id": "techcrunch-ai-https-techcrunch-com-p-3192412",
       "rank": 10,
-      "title": "Alignment",
-      "originalTitle": "Alignment",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "originalTitle": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "points": [
-        "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content ",
         "性能値や効果は発表元による評価で、独立した検証とは限りません。",
         "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
       ],
       "whyItMatters": "生成AIの能力が高まるほど、悪用対策と制御手段は導入可否を左右する重要条件になります。",
-      "source": "Anthropic",
-      "sourceType": "official",
+      "source": "TechCrunch",
+      "sourceType": "media",
       "category": "安全性",
-      "publishedAt": "2026-11-24T17:02:51.779Z",
-      "url": "https://anthropic.com/research/team/alignment",
-      "impactScore": 69,
+      "publishedAt": "2026-11-25T18:11:46.000Z",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "impactScore": 63,
       "impactLabel": "中",
-      "verification": "公式発表",
+      "verification": "信頼できる報道",
       "relatedSources": [],
       "eventUrls": [
-        "https://anthropic.com/research/team/alignment"
+        "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york"
       ],
       "eventTitles": [
-        "Alignment"
+        "Want to buy your kid an AI toy this Christmas? Not in New York"
       ]
     }
   ]
