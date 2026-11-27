@@ -1,0 +1,365 @@
+{
+  "edition": "2026-11-27T06:30:00+09:00",
+  "generatedAt": "2026-11-27T03:44:10.909Z",
+  "periodStart": "2026-11-24T15:44:10.909Z",
+  "status": "live",
+  "checkedSources": 43,
+  "successfulSources": 42,
+  "freshSources": 35,
+  "coreSources": 11,
+  "coreSuccessfulSources": 11,
+  "coreFreshSources": 8,
+  "candidateCount": 1487,
+  "editorialNote": "公式発表を軸に、影響範囲・複数ソースの広がり・新しさから上位10件を選びました。",
+  "repositoryUrl": "https://github.com/Takuya-ops/signal10",
+  "enrichmentProvider": "feed-fallback",
+  "stories": [
+    {
+      "id": "itmedia-ai-plus-https-atmarkit-itmedia-co-jp-ait-articles-2611-27-news035-html",
+      "rank": 1,
+      "title": "AIエージェントの行動が「適切か暴走か」をどう見極める？ Googleが明かすテストの盲点",
+      "originalTitle": "AIエージェントの行動が「適切か暴走か」をどう見極める？ Googleが明かすテストの盲点",
+      "summary": "AI�G�[�W�F���g�����Ғʂ�ɓ��삷�邩�ǂ������A�ǂ̂悤�Ɍ��؂���΂悢�̂��BGoogle��AI�R�[�f�B���O�G�[�W�F���g�����̃v���O�C���J����ʂ��āA�ŏI�񓚂Ɋ�Â��]����A���ۂɑ��삳����e�X�g�����ł͌������Ȃ���肪���邱�Ƃ𖾂炩�ɂ����B",
+      "points": [
+        "AI�G�[�W�F���g�����Ғʂ�ɓ��삷�邩�ǂ������A�ǂ̂悤�Ɍ��؂���΂悢�̂��BGoogle��AI�R�[�f�B���O�G�[�W�F���g�����̃v���O�C���J����ʂ��āA�ŏI�񓚂Ɋ�Â��]����A���ۂɑ��삳����e�X�g�����ł͌������Ȃ���肪��",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "APIや開発基盤の変更は、実装方法、運用コスト、提供できる体験に直結します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "開発者向け",
+      "publishedAt": "2026-11-26T23:00:00.000Z",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html",
+      "impactScore": 68,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsOGttME81OWcwMER2WWlDdDN0cFBJb0FvdURZOVQ2NmxlOVdDMmlZbmptN0lMMEMxT0oydGszMjg5dVhHdzEyc0haTng5c2VERTVQNHJ1ZlBzeWhqVE9rNjl2cnVYVi1qUUpjcmRNNzQ1dw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFBsOGttME81OWcwMER2WWlDdDN0cFBJb0FvdURZOVQ2NmxlOVdDMmlZbmptN0lMMEMxT0oydGszMjg5dVhHdzEyc0haTng5c2VERTVQNHJ1ZlBzeWhqVE9rNjl2cnVYVi1qUUpjcmRNNzQ1dw?oc=5"
+      ],
+      "eventTitles": [
+        "AIエージェントの行動が「適切か暴走か」をどう見極める？ Googleが明かすテストの盲点",
+        "AIエージェントの行動が「適切か暴走か」をどう見極める？ Googleが明かすテストの盲点：実践で得られた4つの教訓を公開 - ITmedia"
+      ]
+    },
+    {
+      "id": "google-news-asia-models---CBMiU0FVX3lxTFA1T1RKWWg3eTVVeG1jN1ZiLVhPbV93cFFvQTl0SzdsSU94OGRpMnhZZjZmSn",
+      "rank": 2,
+      "title": "What is open-weight AI? Why Chinese model releases worry US firms and government - شبكة تواصل الإخبارية",
+      "originalTitle": "What is open-weight AI? Why Chinese model releases worry US firms and government - شبكة تواصل الإخبارية",
+      "summary": "What is open-weight AI? Why Chinese model releases worry US firms and government شبكة تواصل الإخبارية",
+      "points": [
+        "What is open-weight AI?",
+        "Why Chinese model releases worry US firms and government شبكة تواصل الإخبارية",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "شبكة تواصل الإخبارية",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-26T12:23:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1T1RKWWg3eTVVeG1jN1ZiLVhPbV93cFFvQTl0SzdsSU94OGRpMnhZZjZmSnpodFFhcEdFc21ibUgwVFgwVnp2SmF3Z25hUDROd2ow?oc=5",
+      "impactScore": 66,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "WION",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOEtBSHA3YmlhN2hDMkhCUFgzVUNLYTlkeUxPNnpoeUR6R2pjeXh5eUZiUy1UQVdpbzVDQm5rWVNuMWxDdHhxZ2U4N2djSUZCYkpTSUtMXzNFbG9PSmJGVE01cVFsSW9GdWxPcmJwZjJPbXJQSXFJRUpXMkJUeFF2YTNJV2w2dHRGQVJLWm8wSktlRVJsX25LeEpNRkc4TVdDTEFlU2FiUjZ3ZEFzMkRBbGdXMVhrT2RTbFJUelBacnUySjloU19nVU5jWjFLeGJPYXIzdmViYzRYR1NFaVp5SFZSWGFwcWpmYkhvRDh1d0hMTXdpY2xZb0RIONIBgAJBVV95cUxPNjNOYlVZdnZrWWlOc0FVby1NX0VycV9lREdrcnAzN1duaHdZWEVhZ1FlMHUyYXJseENtdzNNaFFzNmN6TW1kaXI1eDNSbXIxSjUtQWdsc1h0LTBhdjFIcG8wb2JKbUw3MnZyYkRqRDhxSWdYMkY0T2tyUGY5ZGdZTVBqbnRoSi1Sd3I3WGRjV1J1dEQwamw0MjM2Rzd3WFB6RW9MX0NEX3k2UHM5MGpWazduc0ppLWhHMXQyaUpkVjRITGNJMzFHQ2JKQXN2cXhhV1M3WE9tb1BTYno2b1psdXVZTFQtOVFsY2NDZWdvNEpMRlNEMTdlcEVsSjZZLUJo?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1T1RKWWg3eTVVeG1jN1ZiLVhPbV93cFFvQTl0SzdsSU94OGRpMnhZZjZmSnpodFFhcEdFc21ibUgwVFgwVnp2SmF3Z25hUDROd2ow?oc=5",
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOEtBSHA3YmlhN2hDMkhCUFgzVUNLYTlkeUxPNnpoeUR6R2pjeXh5eUZiUy1UQVdpbzVDQm5rWVNuMWxDdHhxZ2U4N2djSUZCYkpTSUtMXzNFbG9PSmJGVE01cVFsSW9GdWxPcmJwZjJPbXJQSXFJRUpXMkJUeFF2YTNJV2w2dHRGQVJLWm8wSktlRVJsX25LeEpNRkc4TVdDTEFlU2FiUjZ3ZEFzMkRBbGdXMVhrT2RTbFJUelBacnUySjloU19nVU5jWjFLeGJPYXIzdmViYzRYR1NFaVp5SFZSWGFwcWpmYkhvRDh1d0hMTXdpY2xZb0RIONIBgAJBVV95cUxPNjNOYlVZdnZrWWlOc0FVby1NX0VycV9lREdrcnAzN1duaHdZWEVhZ1FlMHUyYXJseENtdzNNaFFzNmN6TW1kaXI1eDNSbXIxSjUtQWdsc1h0LTBhdjFIcG8wb2JKbUw3MnZyYkRqRDhxSWdYMkY0T2tyUGY5ZGdZTVBqbnRoSi1Sd3I3WGRjV1J1dEQwamw0MjM2Rzd3WFB6RW9MX0NEX3k2UHM5MGpWazduc0ppLWhHMXQyaUpkVjRITGNJMzFHQ2JKQXN2cXhhV1M3WE9tb1BTYno2b1psdXVZTFQtOVFsY2NDZWdvNEpMRlNEMTdlcEVsSjZZLUJo?oc=5"
+      ],
+      "eventTitles": [
+        "What is open-weight AI? Why Chinese model releases worry US firms and government - شبكة تواصل الإخبارية",
+        "What is open-weight AI? Why Chinese model releases worry US firms and government - WION"
+      ]
+    },
+    {
+      "id": "google-news-asia-models-mlq-ai-d447cbad73e4cd750242",
+      "rank": 3,
+      "title": "Jack Ma makes rare visit to Alibaba's T-Head chip unit before its IPO - MLQ.ai",
+      "originalTitle": "Jack Ma makes rare visit to Alibaba's T-Head chip unit before its IPO - MLQ.ai",
+      "summary": "Jack Ma makes rare visit to Alibaba's T-Head chip unit before its IPO MLQ.ai",
+      "points": [
+        "Jack Ma makes rare visit to Alibaba's T-Head chip unit before its IPO MLQ.ai",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "基盤モデルの性能・価格・利用条件は、既存プロダクトの設計とモデル選定に直接影響します。",
+      "source": "MLQ.ai",
+      "sourceType": "media",
+      "category": "モデル",
+      "publishedAt": "2026-11-26T14:19:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzNWZEV6R2VsYWk0NTBtMVd0ekloV0tRX2Nucl93cklQQVlkR01mMzd5T09HRTdZWGNNQ0xNeTZRMVZmVjZnbzlXTDAyeVBjR0lUSllFODJaNEROTkJyakxQV2FjMHJLMHRWMGNESHJCU2NlUlNQbkpLblhPd0tTOTNkaEtCdjlnV2VVRXhWcVdhNmc?oc=5",
+      "impactScore": 63,
+      "impactLabel": "中",
+      "verification": "複数ソース",
+      "relatedSources": [
+        {
+          "name": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHE4S3ZLREF4YjREc0xMVmFhOGM1WDBMYkFiajU1TExsZlV0U3Q1YkdFMGx1WHkyeW1HT3pzRm51OTRVaVZ5Z0Vic1JabDNDNEZDc0tpUk5KNVQ5Q2VfYl9HTmkyMWE5cWZjNGs0c045d245YmgzMXU3eWpWYjM0bnN5eHFjZU5TRFVuc1JDX01OMFBuVS14V3R0Q1ozcnl3dExPbVhWb3FlSHJtT0J4TjN5cldGYUU2bXltZjVxWmdFSTBr0gHEAUFVX3lxTE5HUnF3YjRKUzBFeURZbXhTakVyYlJvRVQzX3haVkRBaWVXOE9ZY1hWM010d1ZHUnJEUFJQSnBJVU9uNWpwSDJtaWJ4WHJyMjMwTGxlR1c5VzhsWmdiYU5pZGwzU3ZCS0JyTU4wd1JLQ2dwVjhrRElfRUxYdEV5UG5aSDlwdVNsc016R2tvLTl2TTdHenVrR3NxTXNQX2JyWHBFanBqLWxnaXJSYVpkN0ViTVlNcW5GTTJSVXRvTUxLYUZTTUk?oc=5"
+        },
+        {
+          "name": "Bamboo Works",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnNpNEhlWDI0aHg3V3AwUzdUTGd3LWVfZzVGN0czc0ttdmRJOWR2YjZ0RXRhLTFIOWtYMFRQRVl6QWV5dW81SVBxZEN6c3lsR3YtbmtNZ3A4WVQ2M1c0WkxPOXRiQV9SaUhZR01VeG4weldKeXZWQk5rSW4yRlI5U3g1anNGeVBxSXFER0J6UnE?oc=5"
+        },
+        {
+          "name": "The Daily CPEC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlBKMDFzb2VDWFlPeGpVaEpuY2NReV8zZHI1eFVVMHhwU2EtRW5vaURBY2k5Zm5qMnZncG5wRDVxNklHTlRUR2Ntb2JJNGxFenJJakpDalRSTWpXMUhrQTZZNm4zVHVFSWp3dzB6bnJNZ0VjZUw5OXhvRXRxVURfOERkSlA4M255M3VRYg?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzNWZEV6R2VsYWk0NTBtMVd0ekloV0tRX2Nucl93cklQQVlkR01mMzd5T09HRTdZWGNNQ0xNeTZRMVZmVjZnbzlXTDAyeVBjR0lUSllFODJaNEROTkJyakxQV2FjMHJLMHRWMGNESHJCU2NlUlNQbkpLblhPd0tTOTNkaEtCdjlnV2VVRXhWcVdhNmc?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHE4S3ZLREF4YjREc0xMVmFhOGM1WDBMYkFiajU1TExsZlV0U3Q1YkdFMGx1WHkyeW1HT3pzRm51OTRVaVZ5Z0Vic1JabDNDNEZDc0tpUk5KNVQ5Q2VfYl9HTmkyMWE5cWZjNGs0c045d245YmgzMXU3eWpWYjM0bnN5eHFjZU5TRFVuc1JDX01OMFBuVS14V3R0Q1ozcnl3dExPbVhWb3FlSHJtT0J4TjN5cldGYUU2bXltZjVxWmdFSTBr0gHEAUFVX3lxTE5HUnF3YjRKUzBFeURZbXhTakVyYlJvRVQzX3haVkRBaWVXOE9ZY1hWM010d1ZHUnJEUFJQSnBJVU9uNWpwSDJtaWJ4WHJyMjMwTGxlR1c5VzhsWmdiYU5pZGwzU3ZCS0JyTU4wd1JLQ2dwVjhrRElfRUxYdEV5UG5aSDlwdVNsc016R2tvLTl2TTdHenVrR3NxTXNQX2JyWHBFanBqLWxnaXJSYVpkN0ViTVlNcW5GTTJSVXRvTUxLYUZTTUk?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnNpNEhlWDI0aHg3V3AwUzdUTGd3LWVfZzVGN0czc0ttdmRJOWR2YjZ0RXRhLTFIOWtYMFRQRVl6QWV5dW81SVBxZEN6c3lsR3YtbmtNZ3A4WVQ2M1c0WkxPOXRiQV9SaUhZR01VeG4weldKeXZWQk5rSW4yRlI5U3g1anNGeVBxSXFER0J6UnE?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlBKMDFzb2VDWFlPeGpVaEpuY2NReV8zZHI1eFVVMHhwU2EtRW5vaURBY2k5Zm5qMnZncG5wRDVxNklHTlRUR2Ntb2JJNGxFenJJakpDalRSTWpXMUhrQTZZNm4zVHVFSWp3dzB6bnJNZ0VjZUw5OXhvRXRxVURfOERkSlA4M255M3VRYg?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGlRMjdnWFlQVm5mX0syNVpPR1lCQlZqa0lqTTNhTGt4alNKci1ZUGYxNVN6WFRMbGxQNFV2UEZ6RTFsbzZFanJlZEZ5d1VPUFh5dWdfUHJtaVVDUTJRQ3pfRXoxd0lFaFBrZ21jMTRSM2E3MURVS3NqQ1lwazV4QTdRaE9EcTVsV3lEd0R0MjFrcHhtaXdv?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSk1Cdi1ETllOWDJmSGtfV1c3RndIVGFjLVBkZ3g0dTNUeDI3MnJ3ZGtKR044MUFaYklWRERPdG5Kb0E5VTR2VS1VNU44cHFNbHN2N2VJclJWQWJfNHZ4bzVDQ05NdmpwZU9uYmhkZG94UFlLR1E1MHVGMm92Vnk2eUJUZC1DandKd3l3Xy1QcWdoSkJicmFKTldBZUsxN29EOGROczhHRk1OU25uQ2tWYmVxV191N2NLVlpLOHp2N0V0NFdIWGNROA?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeG5ISWhjUHJjN3ROUm41NHBqNXNNYVpiQkNxakh3RC0wTHRURFFVb2YybEctTjhMb0hDM0Y4WXFEcUZuVTVCTHM4enNiU3dUUll5TDg2M3RxRzR5Wmp4c0ZfeW1DR3RJSU56Z01VR01lNGIta055Q2pjYURiUzg0X2pGNlNGNUdVbThESEN5Z3VJd196V09DN0s1cm1acHFyX2c?oc=5"
+      ],
+      "eventTitles": [
+        "Jack Ma makes rare visit to Alibaba's T-Head chip unit before its IPO - MLQ.ai",
+        "Alibaba founder Jack Ma visits T-Head chip unit as self-reliance gains urgency - South China Morning Post",
+        "Fast food and fast chips: Yum China eyes 30,000 stores while Alibaba preps for T-Head IPO - Bamboo Works",
+        "Alibaba Trains 2,000 Pakistani SMEs in AI and Digital Trade - The Daily CPEC",
+        "Alibaba provides AI training for Pakistani SMEs Breaking - Independent News Pakistan",
+        "Alibaba (BABA) Now Has A Unit On The US Trade Blacklist - Simply Wall St",
+        "Alibaba trains its Qwen model with T-Head's own chips - Foro3D"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-enterprise-articles-2611-26-news037-html",
+      "rank": 4,
+      "title": "AIリスク監査の実施、わずか5.7％ 内部監査が追い付かない「もう一つのリスク」とは？",
+      "originalTitle": "AIリスク監査の実施、わずか5.7％ 内部監査が追い付かない「もう一つのリスク」とは？",
+      "summary": "ある調査によると、今後重要性が高まるリスクとして「AI・生成AI」を挙げた回答は半数を超えた。一方、AIのリスクに関する内部監査を「すでに実施」を選んだ回答者は5.7％にとどまる。同調査からは、内部監査が追い切れていない、AI以外の領域も浮かび上がった。",
+      "points": [
+        "ある調査によると、今後重要性が高まるリスクとして「AI・生成AI」を挙げた回答は半数を超えた。一方、AIのリスクに関する内部監査を「すでに実施」を選んだ回答者は5.7％にとどまる。同調査からは、内部監査が追い切れていない、AI以外の領域も浮かび上がった。",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-27T01:50:00.000Z",
+      "url": "https://itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94RFVPNDd2RnBaZV9pTDNDZFhUdFBzNzlVdnVjSGRKOER0LXdRUkVWRXA1Y001U2QzT2ZCckswTFVqTnEwS05WNDJtWjY2Rkt0dFJzUnJ5QnVRUkxubzFwWG9weDJBQl9LYlQzQWJva2JXbUxy?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE94RFVPNDd2RnBaZV9pTDNDZFhUdFBzNzlVdnVjSGRKOER0LXdRUkVWRXA1Y001U2QzT2ZCckswTFVqTnEwS05WNDJtWjY2Rkt0dFJzUnJ5QnVRUkxubzFwWG9weDJBQl9LYlQzQWJva2JXbUxy?oc=5"
+      ],
+      "eventTitles": [
+        "AIリスク監査の実施、わずか5.7％ 内部監査が追い付かない「もう一つのリスク」とは？",
+        "AIリスク監査の実施、わずか5.7％ 内部監査が追い付かない「もう一つのリスク」とは？ - ITmedia"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-atmarkit-itmedia-co-jp-ait-articles-2611-27-news038-html",
+      "rank": 5,
+      "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？",
+      "originalTitle": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？",
+      "summary": "����AI�𓱓����Ă��A����̋Ɩ��ɐ������Ȃ��Ɛ��ʂɂ͂Ȃ���Ȃ��B�d�ʂ͖�3000�l��ΏۂɁA�uGemini Enterprise�v���g�����Ȃ��A����ł̐���AI���p�𐄐i�ł���l�ނ̈琬���n�߂��B�l�ނ��ǂ���Ă�̂��B",
+      "points": [
+        "����AI�𓱓����Ă��A����̋Ɩ��ɐ������Ȃ��Ɛ��ʂɂ͂Ȃ���Ȃ��B�d�ʂ͖�3000�l��ΏۂɁA�uGemini Enterprise�v���g�����Ȃ��A����ł̐���AI���p�𐄐i�ł���l�ނ̈琬���n�߂��B�l�ނ��ǂ���Ă�̂��B",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-27T00:45:00.000Z",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+      "impactScore": 61,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dGFxRFR2SkRoLWg2Tm9odWN2Zml3NHNFbGxwdFZXOGJ0V0IwY3RHSDlrYmJBZkxNempxa2lWS28tSzVyUXZmOWczaVM3NWs5UmwtV012UHpQdHZWTERJMUR0MkNhYjU4d21xU0szaHRndw?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE51dGFxRFR2SkRoLWg2Tm9odWN2Zml3NHNFbGxwdFZXOGJ0V0IwY3RHSDlrYmJBZkxNempxa2lWS28tSzVyUXZmOWczaVM3NWs5UmwtV012UHpQdHZWTERJMUR0MkNhYjU4d21xU0szaHRndw?oc=5"
+      ],
+      "eventTitles": [
+        "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？",
+        "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？ - ITmedia"
+      ]
+    },
+    {
+      "id": "hugging-face-https-huggingface-co-blog-ggml-org-llamacpp-amd-bench",
+      "rank": 6,
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "originalTitle": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "A Blog post by ggml-org on Hugging Face",
+      "points": [
+        "A Blog post by ggml-org on Hugging Face",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "Hugging Face",
+      "sourceType": "official",
+      "category": "研究",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "impactScore": 60,
+      "impactLabel": "中",
+      "verification": "公式発表",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+      ],
+      "eventTitles": [
+        "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+      ]
+    },
+    {
+      "id": "itmedia-ai-plus-https-itmedia-co-jp-aiplus-article-2611-27-2000003505",
+      "rank": 7,
+      "title": "生成AI登場で人員増えた部門、減った部門は？ デロイト調査",
+      "originalTitle": "生成AI登場で人員増えた部門、減った部門は？ デロイト調査",
+      "summary": "�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB",
+      "points": [
+        "�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "提携・投資・市場投入の動きは、生成AI市場の競争環境と導入判断に影響します。",
+      "source": "ITmedia AI+",
+      "sourceType": "media",
+      "category": "ビジネス",
+      "publishedAt": "2026-11-26T23:00:00.000Z",
+      "url": "https://itmedia.co.jp/aiplus/article/2611/27/2000003505",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pRFMzRkFadkx6QzZMQzBYcjZhLWRxaFJmWTU2cDBUaUpLSElQdWwwRmNoMFEtMmJxMy1lbWdaUElzLXhSREY2VGVKRnFRTF9yckpjWXJ3SU1KTEpvMGNUdkhuWXhndjRsem5aWA?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://itmedia.co.jp/aiplus/article/2611/27/2000003505",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pRFMzRkFadkx6QzZMQzBYcjZhLWRxaFJmWTU2cDBUaUpLSElQdWwwRmNoMFEtMmJxMy1lbWdaUElzLXhSREY2VGVKRnFRTF9yckpjWXJ3SU1KTEpvMGNUdkhuWXhndjRsem5aWA?oc=5"
+      ],
+      "eventTitles": [
+        "生成AI登場で人員増えた部門、減った部門は？ デロイト調査",
+        "生成AI登場で人員増えた部門、減った部門は？ デロイト調査 - ITmedia"
+      ]
+    },
+    {
+      "id": "techcrunch-ai-https-techcrunch-com-p-3190829",
+      "rank": 8,
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "originalTitle": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "points": [
+        "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "利用できる機能とワークフローが変わり、個人やチームの日常業務に影響する可能性があります。",
+      "source": "TechCrunch",
+      "sourceType": "media",
+      "category": "プロダクト",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue"
+      ],
+      "eventTitles": [
+        "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+      ]
+    },
+    {
+      "id": "google-news-global-policy-urdupoint-ed6aea0ab467eb197826",
+      "rank": 9,
+      "title": "APIGA Pakistan 2026 concludes after training 22 fellows in internet governance and AI policy - UrduPoint",
+      "originalTitle": "APIGA Pakistan 2026 concludes after training 22 fellows in internet governance and AI policy - UrduPoint",
+      "summary": "APIGA Pakistan 2026 concludes after training 22 fellows in internet governance and AI policy UrduPoint",
+      "points": [
+        "APIGA Pakistan 2026 concludes after training 22 fellows in internet governance and AI policy UrduPoint",
+        "性能値や効果は発表元による評価で、独立した検証とは限りません。",
+        "同じ出来事の関連報道がある場合は、詳細画面にまとめて表示します。"
+      ],
+      "whyItMatters": "規制や社会実装の判断は、生成AIを使える範囲と責任の所在を左右します。",
+      "source": "UrduPoint",
+      "sourceType": "media",
+      "category": "政策・社会",
+      "publishedAt": "2026-11-26T13:35:26.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnNBeGRNYzNhaUV2UWdxdG1kM182WHN1ajcwcDFvWVBfd3J5bzdvSWZWY2E3a21Dcm1FRzV1azlMRno3WHNhcjFVdmxzQ1dqYlNQQ1A2LU1qQ1JkTGFHcy1VR0xTTEFDRXdmVFNNang1bW5UWWR5NVJRV0g1dG5kcFNtbkJaTHBYa3o5dGtLRDhwSDUyeWJZbDhfdjk?oc=5",
+      "impactScore": 59,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [
+        {
+          "name": "UrduPoint",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXFqQzBtb2lsSFlmR21EY3RkZXhrQlhSUXJNZ3Q5dTF2Q2thbkFGR0xlWXp6eFZvTk1pNmpjS292QlJob0xSNUdwS29adVlUV3RMbkg5R1NVR3hqYXI4eVRhbUE2ZWVDQUlVMEt3c2NhV1RJR1JkWG1fWG5vQUh3T2tCbno3dklmRTh6LVUyVGlrN3BEYlFsWE1Gczc?oc=5"
+        }
+      ],
+      "eventUrls": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnNBeGRNYzNhaUV2UWdxdG1kM182WHN1ajcwcDFvWVBfd3J5bzdvSWZWY2E3a21Dcm1FRzV1azlMRno3WHNhcjFVdmxzQ1dqYlNQQ1A2LU1qQ1JkTGFHcy1VR0xTTEFDRXdmVFNNang1bW5UWWR5NVJRV0g1dG5kcFNtbkJaTHBYa3o5dGtLRDhwSDUyeWJZbDhfdjk?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXFqQzBtb2lsSFlmR21EY3RkZXhrQlhSUXJNZ3Q5dTF2Q2thbkFGR0xlWXp6eFZvTk1pNmpjS292QlJob0xSNUdwS29adVlUV3RMbkg5R1NVR3hqYXI4eVRhbUE2ZWVDQUlVMEt3c2NhV1RJR1JkWG1fWG5vQUh3T2tCbno3dklmRTh6LVUyVGlrN3BEYlFsWE1Gczc?oc=5"
+      ],
+      "eventTitles": [
+        "APIGA Pakistan 2026 concludes after training 22 fellows in internet governance and AI policy - UrduPoint",
+        "APIGA Pakistan trains 22 fellows in internet governance, AI policy and cybersecurity - UrduPoint"
+      ]
+    },
+    {
+      "id": "arxiv-cs-cl-oai-arXiv-org-2611-33510v1",
+      "rank": 10,
+      "title": "LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering",
+      "originalTitle": "LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering",
+      "summary": "arXiv:2611.33510v1 Announce Type: new Abstract: Detailed knowledge of a user's persona is valuable for personalizing generative AI models and agents, yet such details are difficult to obtain and change over time. We address the task of inferring persona attrib",
+      "points": [
+        "arXiv:2611.33510v1 Announce Type: new Abstract: Detailed knowledge of a user's persona is valuable for personalizing generative AI models and agents, yet such details are",
+        "We address the task of inferring persona attributes from a single day of mobile activity logs.",
+        "No suitable publicly available benchmark exists for this task, so we introduce a synthetic benchmark of 1,600 persona-log pairs."
+      ],
+      "whyItMatters": "研究上の進展は、次世代モデルや新しい応用領域の実用化につながる可能性があります。",
+      "source": "arXiv cs.CL",
+      "sourceType": "research",
+      "category": "研究",
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "url": "https://arxiv.org/abs/2611.33510",
+      "impactScore": 58,
+      "impactLabel": "中",
+      "verification": "信頼できる報道",
+      "relatedSources": [],
+      "eventUrls": [
+        "https://arxiv.org/abs/2611.33510"
+      ],
+      "eventTitles": [
+        "LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering"
+      ]
+    }
+  ]
+}
