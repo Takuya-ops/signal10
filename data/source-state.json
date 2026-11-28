@@ -1,123 +1,123 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T10:27:59.722Z",
+  "updatedAt": "2026-11-28T20:02:29.869Z",
   "sources": {
     "openai": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:27:59.827Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.003Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-24T13:00:00.000Z"
     },
     "nvidia-generative-ai": {
       "etag": "\"92ef700b8be402db01cd5fff9f416316-gzip\"",
       "lastModified": "Mon, 23 Nov 2026 18:13:00 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:27:59.997Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.206Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-23T17:00:08.000Z"
     },
     "google-ai": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.009Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.327Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-24T16:00:00.000Z"
     },
     "hugging-face": {
       "etag": "W/\"42676-LtG2tM8PP55r2AsJTaaxFMoyXOI\"",
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.079Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.233Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-27T00:00:00.000Z"
     },
     "mistral": {
-      "etag": "W/\"d3672ecb85f6321bc7bfcbc5397d2db3-ssl\"",
+      "etag": "W/\"d6288eb608075c93032b7e2812496305-ssl\"",
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:27:59.996Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.172Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-05T12:00:14.000Z"
     },
     "techcrunch-ai": {
-      "etag": "W/\"295f33c386134188603235972bd1fc1e\"",
-      "lastModified": "Fri, 27 Nov 2026 17:09:46 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.306Z",
+      "etag": "W/\"89344dacb245bf0c6e4ec50e7a805eeb\"",
+      "lastModified": "Sat, 28 Nov 2026 17:46:53 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.372Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-26T20:03:54.000Z"
+      "newestPublishedAt": "2026-11-28T17:46:47.000Z"
     },
     "mit-tech-review-ai": {
       "etag": "W/\"777316aa5bd542835cdf44da4160da74\"",
       "lastModified": "Fri, 27 Nov 2026 13:00:08 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.382Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.419Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-25T10:00:00.000Z"
     },
     "wired-ai": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.380Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.477Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-27T07:00:00.000Z"
     },
     "itmedia-ai-plus": {
-      "etag": "\"31fc-661532c25f7d1-gzip\"",
-      "lastModified": "Sat, 28 Nov 2026 09:55:11 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.821Z",
+      "etag": "\"31fc-6615b22b28be6-gzip\"",
+      "lastModified": "Sat, 28 Nov 2026 19:25:12 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.065Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-27T01:50:00.000Z"
     },
     "azure-ai-ml": {
-      "etag": "\"2b7cfaf60320dd8a4c9daa330a0517ba-gzip\"",
-      "lastModified": "Sat, 21 Nov 2026 00:30:59 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.852Z",
+      "etag": "\"78e3564aa6f698fc706e10e28c53ea8f-gzip\"",
+      "lastModified": "Mon, 23 Nov 2026 23:22:54 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.630Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-17T18:35:00.000Z"
     },
     "github-ai-ml": {
       "etag": "W/\"4be869134215f375cc5cdb38b1431f09\"",
       "lastModified": "Wed, 25 Nov 2026 22:19:24 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.571Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.546Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-25T15:00:00.000Z"
     },
     "google-deepmind": {
-      "etag": "\"LLlZaA\"",
+      "etag": "\"HNVdCQ\"",
       "lastModified": "Mon, 23 Nov 2026 16:59:40 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.260Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.300Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-24T13:07:53.000Z"
     },
     "apple-ml-research": {
       "etag": "W/\"6b00aa86-260d\"",
       "lastModified": "Fri, 20 Nov 2026 20:16:06 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.514Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.677Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-20T00:00:00.000Z"
     },
     "meta-engineering-ai": {
       "etag": "W/\"c6b3c4e8b8707d2549b0f19ccbf79ee2\"",
       "lastModified": "Fri, 20 Nov 2026 20:54:01 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.663Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.666Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-10-29T16:00:12.000Z"
     },
     "aws-machine-learning": {
       "etag": null,
       "lastModified": "Fri, 27 Nov 2026 22:27:21 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.496Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.538Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-24T05:01:14.000Z"
     },
     "cloudflare-ai": {
       "etag": null,
       "lastModified": "Tue, 27 Oct 2026 19:27:28 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.637Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.746Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-25T14:00:00.000Z"
     },
     "stability-ai": {
       "etag": "W/\"503275a8dcd474bf0978f5dd4ef0f0bf\"",
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.247Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.388Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-08-25T14:59:22.000Z"
     },
@@ -125,43 +125,43 @@
       "etag": null,
       "lastModified": null,
       "lastSuccessfulFetch": "2026-09-03T16:26:18.078Z",
-      "consecutiveFailures": 426,
+      "consecutiveFailures": 427,
       "newestPublishedAt": "2026-08-27T14:01:00.000Z",
-      "lastFailure": "2026-11-28T10:28:02.511Z",
+      "lastFailure": "2026-11-28T20:02:32.415Z",
       "error": "HTTP 429"
     },
     "ieee-spectrum-ai": {
-      "etag": "\"601aeb923eb2e2b6f9f4b73ce89a9d43\"",
-      "lastModified": "Fri, 27 Nov 2026 14:00:01 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.762Z",
+      "etag": "\"f9c1f64e0c44543e3a108348cf794930\"",
+      "lastModified": "Sat, 28 Nov 2026 14:00:01 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.841Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-27T14:00:01.000Z"
+      "newestPublishedAt": "2026-11-28T14:00:01.000Z"
     },
     "simon-willison": {
       "etag": null,
-      "lastModified": "Fri, 27 Nov 2026 23:57:17 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.881Z",
+      "lastModified": "Sat, 28 Nov 2026 17:45:40 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.010Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-27T23:57:17.000Z"
+      "newestPublishedAt": "2026-11-28T17:45:40.000Z"
     },
     "import-ai": {
       "etag": "W/\"4cd30090254d9aed45a6cfa741c530c6\"",
       "lastModified": "Mon, 23 Nov 2026 14:11:17 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.989Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.007Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-23T14:11:17.000Z"
     },
     "ml-safety-newsletter": {
-      "etag": "W/\"ce0dd-bGTRJaJEUYHiTJOfH8hOJS2x7Bg\"",
+      "etag": "W/\"ce0dd-WD/gMxF1Kiyin2J2uWClPivcDLQ\"",
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.314Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.210Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-08-26T18:57:43.000Z"
     },
     "google-research": {
       "etag": null,
       "lastModified": "Wed, 25 Nov 2026 17:10:27 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.295Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.090Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-25T17:10:27.000Z"
     },
@@ -169,15 +169,15 @@
       "etag": "d40c81d3b184c7d6d0dc1224000b6c4ca8b0ebd1e7e62669d436d5497f1f1271",
       "lastModified": null,
       "lastSuccessfulFetch": "2026-11-28T03:24:47.167Z",
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "newestPublishedAt": "2026-11-27T05:00:00.000Z",
-      "lastFailure": "2026-11-28T10:28:01.242Z",
+      "lastFailure": "2026-11-28T20:02:31.199Z",
       "error": "Feed contains no valid entries"
     },
     "ars-technica-ai": {
-      "etag": "\"685d12e9a8df14415dd5e055bd3bcade\"",
-      "lastModified": "Fri, 27 Nov 2026 21:53:41 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.550Z",
+      "etag": "\"7c6540a3ae5c8a1ac91d162d03fe1929\"",
+      "lastModified": "Sat, 28 Nov 2026 17:04:39 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.459Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-25T16:47:14.000Z"
     },
@@ -185,131 +185,131 @@
       "etag": "9674f5e268acfa414403b987aeefb84619d3b965a7ffc5cd017c0f9674371e45",
       "lastModified": null,
       "lastSuccessfulFetch": "2026-11-27T04:16:20.719Z",
-      "consecutiveFailures": 4,
+      "consecutiveFailures": 5,
       "newestPublishedAt": "2026-11-26T05:00:00.000Z",
-      "lastFailure": "2026-11-28T10:28:01.308Z",
+      "lastFailure": "2026-11-28T20:02:31.233Z",
       "error": "Feed contains no valid entries"
     },
     "arxiv-cs-cl": {
       "etag": "2ea66a414348358a3eab0225046687bc88cc46a5158938ef5dedab794d121d1d",
       "lastModified": null,
       "lastSuccessfulFetch": "2026-11-28T03:24:47.180Z",
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "newestPublishedAt": "2026-11-27T05:00:00.000Z",
-      "lastFailure": "2026-11-28T10:28:01.274Z",
+      "lastFailure": "2026-11-28T20:02:31.225Z",
       "error": "Feed contains no valid entries"
     },
     "the-verge": {
-      "etag": "W/\"70a907ee9fdde16c662fb283e7064e93\"",
+      "etag": "W/\"05358ff9bff6e9dff6404d7906216f61\"",
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.436Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.266Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-28T03:30:00.000Z"
+      "newestPublishedAt": "2026-11-28T19:15:00.000Z"
     },
     "publickey": {
-      "etag": "\"6bef-6612e4d57717f\"",
-      "lastModified": "Thu, 26 Nov 2026 13:55:54 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.609Z",
+      "etag": "W/\"6bef-66155f3ebc4f5\"",
+      "lastModified": "Sat, 28 Nov 2026 13:14:12 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.591Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-26T15:50:16.000Z"
     },
     "ainow": {
-      "etag": "\"fd732f82ef6b3bb4f67d2278539ad2a9\"",
+      "etag": "\"160265c09efd63703c5ec234b2043f2b\"",
       "lastModified": "Sat, 12 Sep 2026 15:28:52 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:02.196Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:32.320Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-26T18:15:18.000Z"
+      "newestPublishedAt": "2026-11-28T18:05:42.000Z"
     },
     "cohere-sitemap": {
       "etag": "\"0118bf6a30e5e02a6e99c3e47c36ef70\"",
       "lastModified": "Fri, 27 Nov 2026 21:05:55 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.168Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.365Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-16T15:32:57.801Z"
     },
     "google-security": {
       "etag": null,
       "lastModified": "Mon, 16 Nov 2026 00:59:28 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.448Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.356Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-04-23T21:38:00.001Z"
     },
     "the-decoder": {
-      "etag": "\"c62dbbcb462156a55399e3cf9d158010\"",
-      "lastModified": "Fri, 27 Nov 2026 19:39:16 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.482Z",
+      "etag": "\"480ac8c5139ebb9c8d568278039e9d8f\"",
+      "lastModified": "Sat, 28 Nov 2026 18:48:37 GMT",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.331Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-27T19:38:37.000Z"
+      "newestPublishedAt": "2026-11-28T18:46:09.000Z"
     },
     "uk-ai-security-institute": {
       "etag": "W/\"6c47d89ac08b56e4da774207df160eaa\"",
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.157Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.596Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-10-12T10:14:00.000Z"
     },
     "anthropic-sitemap": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.149Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.421Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-25T00:00:00.000Z"
     },
     "google-news-labs": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.977Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.917Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-28T10:09:24.000Z"
+      "newestPublishedAt": "2026-11-28T18:15:40.000Z"
     },
     "alignment-forum": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.635Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:31.528Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-27T12:44:01.000Z"
     },
     "google-news-genai": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.924Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:32.023Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-28T09:12:00.000Z"
+      "newestPublishedAt": "2026-11-28T19:10:00.000Z"
     },
     "meta-ai-research-sitemap": {
       "etag": "\"651647d2c132d65de65a757a6e613ad5\"",
       "lastModified": "Fri, 20 Nov 2026 00:39:55 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.294Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.370Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-09T00:00:00.000Z"
     },
     "world-labs-sitemap": {
       "etag": "\"a45acecb9928825a6a9fd47f14125eda\"",
       "lastModified": "Sat, 21 Nov 2026 19:19:04 GMT",
-      "lastSuccessfulFetch": "2026-11-28T10:28:00.275Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:30.638Z",
       "consecutiveFailures": 0,
       "newestPublishedAt": "2026-11-21T19:15:22.255Z"
     },
     "google-news-global-genai": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:02.006Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:32.115Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-28T08:56:04.000Z"
+      "newestPublishedAt": "2026-11-28T19:13:34.000Z"
     },
     "google-news-global-policy": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:01.952Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:32.166Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-28T09:31:01.000Z"
+      "newestPublishedAt": "2026-11-28T09:44:11.000Z"
     },
     "google-news-asia-models": {
       "etag": null,
       "lastModified": null,
-      "lastSuccessfulFetch": "2026-11-28T10:28:02.177Z",
+      "lastSuccessfulFetch": "2026-11-28T20:02:32.380Z",
       "consecutiveFailures": 0,
-      "newestPublishedAt": "2026-11-28T06:13:09.000Z"
+      "newestPublishedAt": "2026-11-28T16:30:08.000Z"
     }
   }
 }
